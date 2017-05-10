@@ -1,4 +1,4 @@
-FROM andrewosh/binder-base
+FROM jupyter/r-notebook:599db13f9123
 
 MAINTAINER Reem Almugbel <reem2@uw.edu>
 
@@ -42,3 +42,5 @@ RUN echo "source('http://bioconductor.org/biocLite.R'); biocLite('samr')" | R --
 RUN echo "source('http://bioconductor.org/biocLite.R'); biocLite('hugene20stprobeset.db')" | R --vanilla
 RUN echo "source('http://bioconductor.org/biocLite.R'); biocLite('hgu133plus2.db')" | R --vanilla
 
+WORKDIR /home/jovyan
+ADD . /home/jovyan
