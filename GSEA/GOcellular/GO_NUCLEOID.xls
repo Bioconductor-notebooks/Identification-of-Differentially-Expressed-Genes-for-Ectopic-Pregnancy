@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TFB1M	TFB1M	transcription factor B1, mitochondrial	2541	0.26402148604393005	-0.17433043	No	
+row_1	DDX28	DDX28	DEAD (Asp-Glu-Ala-Asp) box polypeptide 28	3103	0.2003173530101776	-0.18081346	No	
+row_2	TOP1MT	TOP1MT	topoisomerase (DNA) I, mitochondrial	3763	0.13944107294082642	-0.21003298	No	
+row_3	LRRC59	LRRC59	leucine rich repeat containing 59	4049	0.11577651649713516	-0.21016915	No	
+row_4	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	5243	0.018273575231432915	-0.31583315	No	
+row_5	VDAC2	VDAC2	voltage-dependent anion channel 2	5794	-0.024561291560530663	-0.36091024	No	
+row_6	TFB2M	TFB2M	transcription factor B2, mitochondrial	6056	-0.047420255839824677	-0.37424183	No	
+row_7	TERT	TERT	telomerase reverse transcriptase	6491	-0.08228009194135666	-0.3956376	No	
+row_8	DHX30	DHX30	DEAH (Asp-Glu-Ala-His) box polypeptide 30	6705	-0.1004565879702568	-0.3926005	No	
+row_9	ATP5B	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	8859	-0.31066930294036865	-0.5207145	Yes	
+row_10	TUFM	TUFM	Tu translation elongation factor, mitochondrial	9052	-0.33402687311172485	-0.46311036	Yes	
+row_11	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	9553	-0.3993682563304901	-0.4191243	Yes	
+row_12	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	9756	-0.4295186996459961	-0.34092146	Yes	
+row_13	ATAD3A	ATAD3A	ATPase family, AAA domain containing 3A	9802	-0.4388853907585144	-0.24616043	Yes	
+row_14	SSBP1	SSBP1	single-stranded DNA binding protein 1	9983	-0.4691582918167114	-0.1570004	Yes	
+row_15	RG9MTD1	RG9MTD1	RNA (guanine-9-) methyltransferase domain containing 1	10083	-0.4897966682910919	-0.055735767	Yes	
+row_16	TFAM	TFAM	transcription factor A, mitochondrial	10410	-0.5736064910888672	0.043526307	Yes	

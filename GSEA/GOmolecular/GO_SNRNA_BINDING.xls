@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SNRPC	SNRPC	small nuclear ribonucleoprotein polypeptide C	3792	0.13729222118854523	-0.32061833	No	
+row_1	LSM11	LSM11	LSM11, U7 small nuclear RNA associated	3813	0.13528895378112793	-0.2945126	No	
+row_2	LSM4	LSM4	LSM4 homolog, U6 small nuclear RNA associated (S. cerevisiae)	4569	0.07103394716978073	-0.34932208	No	
+row_3	HEXIM2	HEXIM2	hexamthylene bis-acetamide inducible 2	5633	-0.010404904372990131	-0.44500086	No	
+row_4	TROVE2	TROVE2	TROVE domain family, member 2	5738	-0.019290873780846596	-0.45058712	No	
+row_5	PRPF4	PRPF4	PRP4 pre-mRNA processing factor 4 homolog (yeast)	6141	-0.05535599961876869	-0.4761485	No	
+row_6	DDX21	DDX21	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21	6231	-0.06205291673541069	-0.47152105	No	
+row_7	RBM22	RBM22	RNA binding motif protein 22	6402	-0.0753946602344513	-0.4715921	No	
+row_8	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	7609	-0.17886771261692047	-0.54563224	Yes	
+row_9	RBPMS	RBPMS	RNA binding protein with multiple splicing	7742	-0.192231684923172	-0.51807135	Yes	
+row_10	HEXIM1	HEXIM1	hexamethylene bis-acetamide inducible 1	8231	-0.2386755496263504	-0.51367944	Yes	
+row_11	CDK9	CDK9	cyclin-dependent kinase 9 (CDC2-related kinase)	8415	-0.26036643981933594	-0.47673768	Yes	
+row_12	CCNT1	CCNT1	cyclin T1	8984	-0.32620754837989807	-0.46162692	Yes	
+row_13	SNRPB2	SNRPB2	small nuclear ribonucleoprotein polypeptide B''	9736	-0.42636385560035706	-0.44266862	Yes	
+row_14	LSM2	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10420	-0.5757595300674438	-0.38659194	Yes	
+row_15	SNRPA1	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	10504	-0.6001255512237549	-0.27026394	Yes	
+row_16	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.14414485	Yes	
+row_17	LSM7	LSM7	LSM7 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10784	-0.7699839472770691	0.009111005	Yes	

@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLEC4M	CLEC4M	C-type lectin domain family 4, member M	16	1.0808128118515015	0.14072303	Yes	
+row_1	HFE	HFE	hemochromatosis	234	0.7415509223937988	0.21831177	Yes	
+row_2	SLC7A8	SLC7A8	solute carrier family 7 (cationic amino acid transporter, y+ system), member 8	330	0.6908388137817383	0.30045736	Yes	
+row_3	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.3474632	Yes	
+row_4	HLA-DRB4	HLA-DRB4	major histocompatibility complex, class II, DR beta 4	716	0.5524282455444336	0.41360793	Yes	
+row_5	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.47203732	Yes	
+row_6	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.5277918	Yes	
+row_7	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.5645433	Yes	
+row_8	FCGRT	FCGRT	Fc fragment of IgG, receptor, transporter, alpha	1335	0.42258569598197937	0.6068866	Yes	
+row_9	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.6576781	Yes	
+row_10	CD209	CD209	CD209 molecule	2066	0.3165605664253235	0.6361875	Yes	
+row_11	MR1	MR1	major histocompatibility complex, class I-related	2174	0.3058599531650543	0.6665794	Yes	
+row_12	HLA-DQB1	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	2737	0.24034389853477478	0.6464742	No	
+row_13	HLA-DPB1	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	3405	0.17204107344150543	0.60771877	No	
+row_14	AZGP1	AZGP1	alpha-2-glycoprotein 1, zinc	4462	0.07896877825260162	0.5209153	No	
+row_15	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.34368822	No	
+row_16	TAPBP	TAPBP	TAP binding protein (tapasin)	6739	-0.10429192334413528	0.33624038	No	
+row_17	HLA-DQA1	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	7098	-0.13357144594192505	0.32086366	No	
+row_18	SLC7A5	SLC7A5	solute carrier family 7 (cationic amino acid transporter, y+ system), member 5	7920	-0.20834477245807648	0.27271053	No	

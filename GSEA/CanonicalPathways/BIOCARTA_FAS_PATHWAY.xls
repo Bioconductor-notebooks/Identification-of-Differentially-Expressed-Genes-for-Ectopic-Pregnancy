@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SPTAN1	SPTAN1	spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	344	0.6816807985305786	0.047318876	No	
+row_1	FAS	FAS	Fas (TNF receptor superfamily, member 6)	1213	0.4470568597316742	0.019187625	No	
+row_2	ARHGDIB	ARHGDIB	Rho GDP dissociation inhibitor (GDI) beta	1385	0.41537198424339294	0.05157669	No	
+row_3	FASLG	FASLG	Fas ligand (TNF superfamily, member 6)	1657	0.3718077540397644	0.06970726	No	
+row_4	FADD	FADD	Fas (TNFRSF6)-associated via death domain	2618	0.25387781858444214	0.010715307	No	
+row_5	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	-0.009098636	No	
+row_6	DAXX	DAXX	death-associated protein 6	3152	0.19639824330806732	0.007952052	No	
+row_7	CASP10	CASP10	caspase 10, apoptosis-related cysteine peptidase	5056	0.033137913793325424	-0.16347004	No	
+row_8	CFLAR	CFLAR	CASP8 and FADD-like apoptosis regulator	5060	0.03267040476202965	-0.15996014	No	
+row_9	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	-0.23204897	No	
+row_10	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	5952	-0.038165971636772156	-0.23379645	No	
+row_11	RIPK2	RIPK2	receptor-interacting serine-threonine kinase 2	7009	-0.12681223452091217	-0.31635556	No	
+row_12	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	-0.31465667	No	
+row_13	CASP7	CASP7	caspase 7, apoptosis-related cysteine peptidase	8503	-0.26879531145095825	-0.40654868	Yes	
+row_14	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	8526	-0.2708396017551422	-0.377187	Yes	
+row_15	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	8737	-0.29685360193252563	-0.36212495	Yes	
+row_16	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	8912	-0.3167245090007782	-0.34144452	Yes	
+row_17	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	-0.32812738	Yes	
+row_18	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	9353	-0.36760300397872925	-0.29832718	Yes	
+row_19	FAF1	FAF1	Fas (TNFRSF6) associated factor 1	9603	-0.40677255392074585	-0.27411833	Yes	
+row_20	PRKDC	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	9989	-0.4702838063240051	-0.25507447	Yes	
+row_21	DFFB	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	10126	-0.49965423345565796	-0.20969443	Yes	
+row_22	CASP6	CASP6	caspase 6, apoptosis-related cysteine peptidase	10142	-0.5048424601554871	-0.15256928	Yes	
+row_23	LMNB1	LMNB1	lamin B1	10348	-0.5551579594612122	-0.10711162	Yes	
+row_24	LMNB2	LMNB2	lamin B2	10432	-0.5790160298347473	-0.04765308	Yes	
+row_25	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.009394058	Yes	

@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HDAC4	HDAC4	histone deacetylase 4	631	0.5815766453742981	0.032793656	No	
+row_1	HDAC9	HDAC9	histone deacetylase 9	1978	0.32573994994163513	-0.040219467	No	
+row_2	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	-0.050396793	No	
+row_3	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	2588	0.2581649124622345	-0.014563123	No	
+row_4	GTF2A1	GTF2A1	general transcription factor IIA, 1, 19/37kDa	2643	0.2508855164051056	0.019672634	No	
+row_5	HDAC11	HDAC11	histone deacetylase 11	2946	0.21718917787075043	0.025810594	No	
+row_6	POLR2A	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	4773	0.054010964930057526	-0.13385783	No	
+row_7	NR0B1	NR0B1	nuclear receptor subfamily 0, group B, member 1	4909	0.04261729121208191	-0.13962644	No	
+row_8	SPEN	SPEN	spen homolog, transcriptional regulator (Drosophila)	5418	0.005063297227025032	-0.18560372	No	
+row_9	HDAC3	HDAC3	histone deacetylase 3	5975	-0.04009360074996948	-0.2305257	No	
+row_10	NCOR2	NCOR2	nuclear receptor co-repressor 2	6345	-0.07070150971412659	-0.25344846	No	
+row_11	BRCA1	BRCA1	breast cancer 1, early onset	6554	-0.08838730305433273	-0.258785	No	
+row_12	HDAC10	HDAC10	histone deacetylase 10	7731	-0.1911248117685318	-0.33718428	No	
+row_13	HDAC6	HDAC6	histone deacetylase 6	7846	-0.20142142474651337	-0.31620237	No	
+row_14	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	8199	-0.23534591495990753	-0.31183016	No	
+row_15	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.34066218	Yes	
+row_16	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.2929333	Yes	
+row_17	NRIP1	NRIP1	nuclear receptor interacting protein 1	10086	-0.4913164973258972	-0.3013119	Yes	
+row_18	ESR1	ESR1	estrogen receptor 1	10205	-0.5193678140640259	-0.2310111	Yes	
+row_19	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.16559239	Yes	
+row_20	SRA1	SRA1	steroid receptor RNA activator 1	10582	-0.6341564655303955	-0.07182909	Yes	
+row_21	TBP	TBP	TATA box binding protein	10588	-0.6363654136657715	0.02715881	Yes	

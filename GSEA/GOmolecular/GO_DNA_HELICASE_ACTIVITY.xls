@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NBN	NBN	nibrin	1276	0.4336807131767273	-0.07118737	No	
+row_1	RECQL	RECQL	RecQ protein-like (DNA helicase Q1-like)	2686	0.24681781232357025	-0.17458615	No	
+row_2	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	3827	0.13370884954929352	-0.26529387	No	
+row_3	IGHMBP2	IGHMBP2	immunoglobulin mu binding protein 2	4952	0.03957049921154976	-0.36458474	No	
+row_4	ERCC6	ERCC6	excision repair cross-complementing rodent repair deficiency, complementation group 6	4956	0.03944680094718933	-0.360647	No	
+row_5	RTEL1	RTEL1	regulator of telomere elongation helicase 1	5438	0.0034883737098425627	-0.40457344	No	
+row_6	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	6219	-0.06098038703203201	-0.46989542	No	
+row_7	CHD2	CHD2	chromodomain helicase DNA binding protein 2	7710	-0.18942928314208984	-0.5868849	Yes	
+row_8	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	7765	-0.19411583244800568	-0.571121	Yes	
+row_9	DDX3X	DDX3X	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	7974	-0.21226392686367035	-0.56760144	Yes	
+row_10	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	8199	-0.23534591495990753	-0.5630896	Yes	
+row_11	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	8463	-0.26516327261924744	-0.5589843	Yes	
+row_12	CHD3	CHD3	chromodomain helicase DNA binding protein 3	8728	-0.29590532183647156	-0.5516869	Yes	
+row_13	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.5366423	Yes	
+row_14	HELB	HELB	helicase (DNA) B	9006	-0.3291548192501068	-0.5077417	Yes	
+row_15	SETX	SETX	senataxin	9034	-0.3325188457965851	-0.4747057	Yes	
+row_16	GINS1	GINS1	GINS complex subunit 1 (Psf1 homolog)	9287	-0.35962337255477905	-0.45949617	Yes	
+row_17	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.46916094	Yes	
+row_18	RECQL5	RECQL5	RecQ protein-like 5	10047	-0.4818982183933258	-0.428732	Yes	
+row_19	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10079	-0.4891257584095001	-0.37933424	Yes	
+row_20	GINS4	GINS4	GINS complex subunit 4 (Sld5 homolog)	10368	-0.5607828497886658	-0.3459506	Yes	
+row_21	RAD54B	RAD54B	RAD54 homolog B (S. cerevisiae)	10620	-0.6505220532417297	-0.2995726	Yes	
+row_22	CHD1L	CHD1L	chromodomain helicase DNA binding protein 1-like	10635	-0.6569351553916931	-0.23068222	Yes	
+row_23	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	-0.16206072	Yes	
+row_24	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	-0.08055829	Yes	
+row_25	FBXO18	FBXO18	F-box protein, helicase, 18	10825	-0.8299521207809448	0.0053417142	Yes	

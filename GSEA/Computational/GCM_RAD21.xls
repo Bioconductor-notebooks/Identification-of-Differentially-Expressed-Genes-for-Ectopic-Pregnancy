@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PCBP1	PCBP1	poly(rC) binding protein 1	1394	0.413624107837677	-0.047590468	No	
+row_1	HTATSF1	HTATSF1	HIV-1 Tat specific factor 1	4622	0.0664747878909111	-0.33155155	No	
+row_2	SUMO1	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	5504	-0.0014547808095812798	-0.41233146	No	
+row_3	MAZ	MAZ	MYC-associated zinc finger protein (purine-binding transcription factor)	5614	-0.009298627264797688	-0.42054725	No	
+row_4	TCEA1	TCEA1	transcription elongation factor A (SII), 1	6788	-0.10891035199165344	-0.5072362	No	
+row_5	TCP1	TCP1	t-complex 1	7649	-0.1830902397632599	-0.55065644	Yes	
+row_6	PSMD11	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	8083	-0.22414404153823853	-0.54677963	Yes	
+row_7	WAPAL	WAPAL	wings apart-like homolog (Drosophila)	8262	-0.2417334020137787	-0.5160087	Yes	
+row_8	NAP1L1	NAP1L1	nucleosome assembly protein 1-like 1	9271	-0.35899606347084045	-0.53873706	Yes	
+row_9	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	9313	-0.36291271448135376	-0.4717247	Yes	
+row_10	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	9553	-0.3993682563304901	-0.41582042	Yes	
+row_11	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.36502206	Yes	
+row_12	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.27821982	Yes	
+row_13	SUMO2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10347	-0.5550322532653809	-0.19112566	Yes	
+row_14	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	-0.08780739	Yes	
+row_15	SET	SET	SET translocation (myeloid leukemia-associated)	10597	-0.6403020024299622	0.026315836	Yes	

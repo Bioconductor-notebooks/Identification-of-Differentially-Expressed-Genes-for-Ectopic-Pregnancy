@@ -1,0 +1,77 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRIC285	PRIC285	-	196	0.7681480050086975	0.009569881	No	
+row_1	MCM8	MCM8	MCM8 minichromosome maintenance deficient 8 (S. cerevisiae)	823	0.5267191529273987	-0.029353134	No	
+row_2	DDX59	DDX59	DEAD (Asp-Glu-Ala-Asp) box polypeptide 59	840	0.5223706364631653	-0.011993311	No	
+row_3	DHX36	DHX36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	1254	0.4376438856124878	-0.03442136	No	
+row_4	NBN	NBN	nibrin	1276	0.4336807131767273	-0.020722913	No	
+row_5	MOV10	MOV10	Mov10, Moloney leukemia virus 10, homolog (mouse)	2061	0.3170791268348694	-0.08182576	No	
+row_6	ANXA1	ANXA1	annexin A1	2270	0.29581737518310547	-0.0904016	No	
+row_7	SRCAP	SRCAP	-	2407	0.2796281576156616	-0.09289959	No	
+row_8	DHX35	DHX35	DEAH (Asp-Glu-Ala-His) box polypeptide 35	2437	0.27608242630958557	-0.085625395	No	
+row_9	TDRD9	TDRD9	tudor domain containing 9	2452	0.2748580276966095	-0.077007495	No	
+row_10	DDX58	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	2471	0.271854966878891	-0.068868004	No	
+row_11	DDX19A	DDX19A	DEAD (Asp-Glu-Ala-As) box polypeptide 19A	2676	0.24831217527389526	-0.0787871	No	
+row_12	DHX32	DHX32	DEAH (Asp-Glu-Ala-His) box polypeptide 32	2683	0.24741263687610626	-0.07041888	No	
+row_13	RECQL	RECQL	RecQ protein-like (DNA helicase Q1-like)	2686	0.24681781232357025	-0.061702013	No	
+row_14	DDX23	DDX23	DEAD (Asp-Glu-Ala-Asp) box polypeptide 23	2917	0.2205674946308136	-0.0750274	No	
+row_15	DDX28	DDX28	DEAD (Asp-Glu-Ala-Asp) box polypeptide 28	3103	0.2003173530101776	-0.08491955	No	
+row_16	DHX38	DHX38	DEAH (Asp-Glu-Ala-His) box polypeptide 38	3733	0.14202316105365753	-0.13799487	No	
+row_17	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	3827	0.13370884954929352	-0.14177716	No	
+row_18	DDX10	DDX10	DEAD (Asp-Glu-Ala-Asp) box polypeptide 10	4191	0.10296936333179474	-0.17164962	No	
+row_19	DHX8	DHX8	DEAH (Asp-Glu-Ala-His) box polypeptide 8	4357	0.08920923620462418	-0.18369861	No	
+row_20	SMARCAL1	SMARCAL1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a-like 1	4497	0.07628480345010757	-0.19380811	No	
+row_21	IFIH1	IFIH1	interferon induced with helicase C domain 1	4876	0.04537920653820038	-0.22714552	No	
+row_22	IGHMBP2	IGHMBP2	immunoglobulin mu binding protein 2	4952	0.03957049921154976	-0.23265764	No	
+row_23	ERCC6	ERCC6	excision repair cross-complementing rodent repair deficiency, complementation group 6	4956	0.03944680094718933	-0.2315125	No	
+row_24	DDX25	DDX25	DEAD (Asp-Glu-Ala-Asp) box polypeptide 25	5086	0.030474822968244553	-0.24234897	No	
+row_25	RTEL1	RTEL1	regulator of telomere elongation helicase 1	5438	0.0034883737098425627	-0.2746991	No	
+row_26	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	6219	-0.06098038703203201	-0.3446685	No	
+row_27	DDX21	DDX21	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21	6231	-0.06205291673541069	-0.34344822	No	
+row_28	DHX30	DHX30	DEAH (Asp-Glu-Ala-His) box polypeptide 30	6705	-0.1004565879702568	-0.38358894	No	
+row_29	DDX1	DDX1	DEAD (Asp-Glu-Ala-Asp) box polypeptide 1	6986	-0.12523433566093445	-0.4049789	No	
+row_30	DHX40	DHX40	DEAH (Asp-Glu-Ala-His) box polypeptide 40	7414	-0.16126365959644318	-0.4386704	No	
+row_31	RAD54L	RAD54L	RAD54-like (S. cerevisiae)	7587	-0.1768946796655655	-0.44820452	No	
+row_32	DDX46	DDX46	DEAD (Asp-Glu-Ala-Asp) box polypeptide 46	7593	-0.1774376779794693	-0.44226754	No	
+row_33	YTHDC2	YTHDC2	YTH domain containing 2	7605	-0.17840488255023956	-0.43685085	No	
+row_34	GTF2F2	GTF2F2	general transcription factor IIF, polypeptide 2, 30kDa	7675	-0.18552036583423615	-0.43654388	No	
+row_35	CHD2	CHD2	chromodomain helicase DNA binding protein 2	7710	-0.18942928314208984	-0.4328576	No	
+row_36	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	7765	-0.19411583244800568	-0.43085277	No	
+row_37	DDX3X	DDX3X	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	7974	-0.21226392686367035	-0.44244212	No	
+row_38	DDX49	DDX49	DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	8045	-0.21983741223812103	-0.44098997	No	
+row_39	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	8199	-0.23534591495990753	-0.446658	No	
+row_40	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	8463	-0.26516327261924744	-0.46142825	No	
+row_41	DDX43	DDX43	DEAD (Asp-Glu-Ala-Asp) box polypeptide 43	8493	-0.2680215537548065	-0.45444477	No	
+row_42	CHD3	CHD3	chromodomain helicase DNA binding protein 3	8728	-0.29590532183647156	-0.46542308	Yes	
+row_43	FANCM	FANCM	Fanconi anemia, complementation group M	8787	-0.302693635225296	-0.45987228	Yes	
+row_44	CHD6	CHD6	chromodomain helicase DNA binding protein 6	8800	-0.30409666895866394	-0.4500148	Yes	
+row_45	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.4510514	Yes	
+row_46	HELB	HELB	helicase (DNA) B	9006	-0.3291548192501068	-0.44547153	Yes	
+row_47	SETX	SETX	senataxin	9034	-0.3325188457965851	-0.4359768	Yes	
+row_48	SMARCA2	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	9208	-0.3525012135505676	-0.4392699	Yes	
+row_49	DHX33	DHX33	DEAH (Asp-Glu-Ala-His) box polypeptide 33	9217	-0.3538510203361511	-0.42724782	Yes	
+row_50	DDX3Y	DDX3Y	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked	9272	-0.3590067923069	-0.41929594	Yes	
+row_51	GINS1	GINS1	GINS complex subunit 1 (Psf1 homolog)	9287	-0.35962337255477905	-0.40762082	Yes	
+row_52	DDX50	DDX50	DEAD (Asp-Glu-Ala-Asp) box polypeptide 50	9842	-0.44688835740089417	-0.44276133	Yes	
+row_53	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.4338662	Yes	
+row_54	RECQL5	RECQL5	RecQ protein-like 5	10047	-0.4818982183933258	-0.42758858	Yes	
+row_55	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10079	-0.4891257584095001	-0.41281566	Yes	
+row_56	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	10129	-0.5016360878944397	-0.39925694	Yes	
+row_57	SKIV2L2	SKIV2L2	superkiller viralicidic activity 2-like 2 (S. cerevisiae)	10294	-0.542285144329071	-0.39487246	Yes	
+row_58	HFM1	HFM1	HFM1, ATP-dependent DNA helicase homolog (S. cerevisiae)	10326	-0.5501887202262878	-0.37789717	Yes	
+row_59	DICER1	DICER1	Dicer1, Dcr-1 homolog (Drosophila)	10349	-0.5557109713554382	-0.35989	Yes	
+row_60	GINS4	GINS4	GINS complex subunit 4 (Sld5 homolog)	10368	-0.5607828497886658	-0.34132984	Yes	
+row_61	BTAF1	BTAF1	BTAF1 RNA polymerase II, B-TFIID transcription factor-associated, 170kDa (Mot1 homolog, S. cerevisiae)	10521	-0.6047114133834839	-0.33358353	Yes	
+row_62	CHD7	CHD7	chromodomain helicase DNA binding protein 7	10602	-0.6435055136680603	-0.31777632	Yes	
+row_63	DDX17	DDX17	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	10612	-0.6470096707344055	-0.29527348	Yes	
+row_64	DDX18	DDX18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	10613	-0.6471725106239319	-0.2719321	Yes	
+row_65	RAD54B	RAD54B	RAD54 homolog B (S. cerevisiae)	10620	-0.6505220532417297	-0.24902503	Yes	
+row_66	CHD1L	CHD1L	chromodomain helicase DNA binding protein 1-like	10635	-0.6569351553916931	-0.22662686	Yes	
+row_67	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	10699	-0.6934834122657776	-0.20744418	Yes	
+row_68	DDX52	DDX52	DEAD (Asp-Glu-Ala-Asp) box polypeptide 52	10726	-0.7141984701156616	-0.184091	Yes	
+row_69	NAV2	NAV2	neuron navigator 2	10747	-0.7367877960205078	-0.15936795	Yes	
+row_70	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	-0.1340081	Yes	
+row_71	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	10773	-0.7623668313026428	-0.106789574	Yes	
+row_72	DHX15	DHX15	DEAH (Asp-Glu-Ala-His) box polypeptide 15	10779	-0.7672808170318604	-0.07957888	Yes	
+row_73	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	-0.05261178	Yes	
+row_74	FBXO18	FBXO18	F-box protein, helicase, 18	10825	-0.8299521207809448	-0.025453832	Yes	
+row_75	HELLS	HELLS	helicase, lymphoid-specific	10829	-0.8519662618637085	0.0049962415	Yes	

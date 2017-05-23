@@ -1,0 +1,66 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CST3	CST3	cystatin C (amyloid angiopathy and cerebral hemorrhage)	19	1.033705472946167	0.044890415	Yes	
+row_1	TIMP4	TIMP4	TIMP metallopeptidase inhibitor 4	28	0.9939851760864258	0.08900516	Yes	
+row_2	STIM1	STIM1	stromal interaction molecule 1	29	0.9937036633491516	0.13384664	Yes	
+row_3	FLOT1	FLOT1	flotillin 1	43	0.9407327771186829	0.17509618	Yes	
+row_4	TIMP2	TIMP2	TIMP metallopeptidase inhibitor 2	47	0.9335247874259949	0.21694477	Yes	
+row_5	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	50	0.9310548901557922	0.2587743	Yes	
+row_6	IL1R1	IL1R1	interleukin 1 receptor, type I	284	0.7123434543609619	0.26938307	Yes	
+row_7	BFAR	BFAR	bifunctional apoptosis regulator	518	0.6203703284263611	0.27584147	Yes	
+row_8	TIMP3	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	542	0.6111975908279419	0.30129623	Yes	
+row_9	DERL1	DERL1	Der1-like domain family, member 1	576	0.5979816913604736	0.32523033	Yes	
+row_10	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	0.33115572	Yes	
+row_11	PARK2	PARK2	Parkinson disease (autosomal recessive, juvenile) 2, parkin	977	0.49561065435409546	0.334942	Yes	
+row_12	SERPINB6	SERPINB6	serpin peptidase inhibitor, clade B (ovalbumin), member 6	1025	0.48516660928726196	0.35249126	Yes	
+row_13	THAP5	THAP5	THAP domain containing 5	1057	0.4778364598751068	0.37118858	Yes	
+row_14	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1077	0.47552821040153503	0.3908909	Yes	
+row_15	FAS	FAS	Fas (TNF receptor superfamily, member 6)	1213	0.4470568597316742	0.39858657	Yes	
+row_16	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	1313	0.42639338970184326	0.40867725	Yes	
+row_17	ANXA2	ANXA2	annexin A2	1376	0.41656655073165894	0.4217444	Yes	
+row_18	CD28	CD28	CD28 molecule	1420	0.4092986583709717	0.43623978	Yes	
+row_19	ADRM1	ADRM1	adhesion regulating molecule 1	1516	0.39340221881866455	0.44521144	Yes	
+row_20	CRADD	CRADD	CASP2 and RIPK1 domain containing adaptor with death domain	1546	0.388018935918808	0.46004057	Yes	
+row_21	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	0.45425972	No	
+row_22	SELS	SELS	-	2134	0.3096542954444885	0.4356977	No	
+row_23	VWF	VWF	von Willebrand factor	2250	0.2976096272468567	0.43849808	No	
+row_24	CSTB	CSTB	cystatin B (stefin B)	2251	0.2975517809391022	0.45192528	No	
+row_25	SERPINB4	SERPINB4	serpin peptidase inhibitor, clade B (ovalbumin), member 4	2330	0.28802451491355896	0.45771304	No	
+row_26	NOL3	NOL3	nucleolar protein 3 (apoptosis repressor with CARD domain)	2484	0.270106703042984	0.45575997	No	
+row_27	FADD	FADD	Fas (TNFRSF6)-associated via death domain	2618	0.25387781858444214	0.45492318	No	
+row_28	SLC6A3	SLC6A3	solute carrier family 6 (neurotransmitter transporter, dopamine), member 3	2909	0.22142727673053741	0.4381105	No	
+row_29	SERPINC1	SERPINC1	serpin peptidase inhibitor, clade C (antithrombin), member 1	3171	0.19433222711086273	0.42275566	No	
+row_30	LRP1	LRP1	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)	3469	0.1665736883878708	0.40282068	No	
+row_31	SELL	SELL	selectin L (lymphocyte adhesion molecule 1)	3527	0.1606404036283493	0.40480116	No	
+row_32	ACR	ACR	acrosin	4014	0.11856327205896378	0.36523044	No	
+row_33	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	4177	0.10438903421163559	0.3549674	No	
+row_34	SERPINB3	SERPINB3	serpin peptidase inhibitor, clade B (ovalbumin), member 3	4930	0.041229914873838425	0.28732058	No	
+row_35	CFLAR	CFLAR	CASP8 and FADD-like apoptosis regulator	5060	0.03267040476202965	0.27687138	No	
+row_36	SEMG2	SEMG2	semenogelin II	5129	0.027621546760201454	0.2718326	No	
+row_37	FN1	FN1	fibronectin 1	5175	0.023436052724719048	0.2687308	No	
+row_38	ECM1	ECM1	extracellular matrix protein 1	5178	0.023351911455392838	0.2695997	No	
+row_39	ALPI	ALPI	alkaline phosphatase, intestinal	5186	0.022925952449440956	0.26998726	No	
+row_40	CAST	CAST	calpastatin	5259	0.017609551548957825	0.26412693	No	
+row_41	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	5547	-0.004416901618242264	0.23779884	No	
+row_42	RNF139	RNF139	ring finger protein 139	5659	-0.012999885715544224	0.22812574	No	
+row_43	MAGEA3	MAGEA3	melanoma antigen family A, 3	5759	-0.02120891772210598	0.21993223	No	
+row_44	FLOT2	FLOT2	flotillin 2	5802	-0.02550160326063633	0.21720095	No	
+row_45	TTN	TTN	titin	5851	-0.02969995327293873	0.21410453	No	
+row_46	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	0.21259053	No	
+row_47	TNFAIP3	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	6078	-0.049101073294878006	0.19696726	No	
+row_48	MBP	MBP	myelin basic protein	6118	-0.05305278301239014	0.19575652	No	
+row_49	RFFL	RFFL	ring finger and FYVE-like domain containing 1	6205	-0.06032227352261543	0.19052963	No	
+row_50	INS	INS	insulin	7109	-0.13417471945285797	0.11312007	No	
+row_51	BCL2	BCL2	B-cell CLL/lymphoma 2	7141	-0.13663285970687866	0.11642038	No	
+row_52	MALT1	MALT1	mucosa associated lymphoid tissue lymphoma translocation gene 1	7515	-0.1707853227853775	0.08965079	No	
+row_53	FURIN	FURIN	furin (paired basic amino acid cleaving enzyme)	7656	-0.1835121214389801	0.084991686	No	
+row_54	NFRKB	NFRKB	nuclear factor related to kappaB binding protein	7762	-0.19402243196964264	0.084041916	No	
+row_55	BRCA2	BRCA2	breast cancer 2, early onset	7926	-0.20919138193130493	0.07841572	No	
+row_56	SERPINB9	SERPINB9	serpin peptidase inhibitor, clade B (ovalbumin), member 9	8622	-0.2821281850337982	0.026908085	No	
+row_57	SERPINA1	SERPINA1	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	9270	-0.3589801788330078	-0.016694916	No	
+row_58	CHL1	CHL1	cell adhesion molecule with homology to L1CAM (close homolog of L1)	9528	-0.3959747850894928	-0.022580821	No	
+row_59	TYSND1	TYSND1	trypsin domain containing 1	9858	-0.4503810703754425	-0.032666568	No	
+row_60	NDUFS7	NDUFS7	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)	10036	-0.47996091842651367	-0.027368147	No	
+row_61	VCP	VCP	valosin-containing protein	10178	-0.5139451026916504	-0.01720869	No	
+row_62	DVL3	DVL3	dishevelled, dsh homolog 3 (Drosophila)	10225	-0.5246871113777161	0.0022163542	No	
+row_63	SERPINB13	SERPINB13	serpin peptidase inhibitor, clade B (ovalbumin), member 13	10232	-0.5255247950553894	0.025376398	No	
+row_64	SERPINA5	SERPINA5	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	10782	-0.7690367102622986	0.009335586	No	

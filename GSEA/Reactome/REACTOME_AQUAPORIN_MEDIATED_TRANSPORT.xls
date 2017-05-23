@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP1	AQP1	aquaporin 1 (Colton blood group)	118	0.8312647938728333	0.114708275	Yes	
+row_1	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.21585245	Yes	
+row_2	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	508	0.6233882308006287	0.2850651	Yes	
+row_3	ADCY9	ADCY9	adenylate cyclase 9	560	0.6048184633255005	0.3717359	Yes	
+row_4	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1269	0.4350684881210327	0.3722491	Yes	
+row_5	AQP2	AQP2	aquaporin 2 (collecting duct)	1380	0.41613543033599854	0.42498177	Yes	
+row_6	ADCY3	ADCY3	adenylate cyclase 3	2576	0.2600231170654297	0.3541955	Yes	
+row_7	PRKACG	PRKACG	protein kinase, cAMP-dependent, catalytic, gamma	2654	0.25039905309677124	0.38493037	Yes	
+row_8	AVPR2	AVPR2	arginine vasopressin receptor 2 (nephrogenic diabetes insipidus)	2783	0.23510612547397614	0.40865758	Yes	
+row_9	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	2831	0.22965100407600403	0.4390213	Yes	
+row_10	AQP6	AQP6	aquaporin 6, kidney specific	3372	0.17576190829277039	0.41583565	Yes	
+row_11	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	3501	0.1632448434829712	0.42870697	Yes	
+row_12	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	3660	0.1493718922138214	0.43671933	Yes	
+row_13	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	3722	0.14318659901618958	0.45273164	Yes	
+row_14	MYO5B	MYO5B	myosin VB	3791	0.1374005228281021	0.4672251	Yes	
+row_15	ADCY5	ADCY5	adenylate cyclase 5	3980	0.1206485852599144	0.46813515	Yes	
+row_16	AVP	AVP	arginine vasopressin (neurophysin II, antidiuretic hormone, diabetes insipidus, neurohypophyseal)	4593	0.06902964413166046	0.4221941	No	
+row_17	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	0.40188652	No	
+row_18	AQP7	AQP7	aquaporin 7	4988	0.03729190304875374	0.39830947	No	
+row_19	AQP3	AQP3	aquaporin 3 (Gill blood group)	5206	0.021398717537522316	0.381555	No	
+row_20	AQP4	AQP4	aquaporin 4	5790	-0.02423577755689621	0.33151814	No	
+row_21	ADCY8	ADCY8	adenylate cyclase 8 (brain)	6295	-0.0668850764632225	0.29520062	No	
+row_22	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6675	-0.09823323041200638	0.2751321	No	
+row_23	GNB5	GNB5	guanine nucleotide binding protein (G protein), beta 5	6818	-0.11158939450979233	0.27891046	No	
+row_24	ADCY6	ADCY6	adenylate cyclase 6	7329	-0.15498970448970795	0.25535002	No	
+row_25	AQP8	AQP8	aquaporin 8	7577	-0.1754358857870102	0.2591023	No	
+row_26	GNAS	GNAS	GNAS complex locus	8768	-0.2999297082424164	0.19480516	No	

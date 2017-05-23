@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GZMM	GZMM	granzyme M (lymphocyte met-ase 1)	222	0.750514566898346	0.07646727	Yes	
+row_1	XCL2	XCL2	chemokine (C motif) ligand 2	337	0.6874046325683594	0.15472955	Yes	
+row_2	MATK	MATK	megakaryocyte-associated tyrosine kinase	667	0.5675321221351624	0.19771814	Yes	
+row_3	KLRC3	KLRC3	killer cell lectin-like receptor subfamily C, member 3	683	0.5632922649383545	0.26907006	Yes	
+row_4	CD247	CD247	CD247 molecule	792	0.5319358706474304	0.32781044	Yes	
+row_5	NCR3	NCR3	natural cytotoxicity triggering receptor 3	990	0.4931564927101135	0.37334913	Yes	
+row_6	RORA	RORA	RAR-related orphan receptor A	1150	0.46121135354042053	0.4182618	Yes	
+row_7	GZMH	GZMH	granzyme H (cathepsin G-like 2, protein h-CCPX)	1188	0.4515632688999176	0.47316152	Yes	
+row_8	ARHGEF3	ARHGEF3	Rho guanine nucleotide exchange factor (GEF) 3	1321	0.42566433548927307	0.51597023	Yes	
+row_9	FYN	FYN	FYN oncogene related to SRC, FGR, YES	1346	0.4208412170410156	0.56810004	Yes	
+row_10	KLRD1	KLRD1	killer cell lectin-like receptor subfamily D, member 1	1554	0.38663357496261597	0.5989637	Yes	
+row_11	PRKCH	PRKCH	protein kinase C, eta	1889	0.3359090983867645	0.6115844	Yes	
+row_12	CST7	CST7	cystatin F (leukocystatin)	2321	0.2891494333744049	0.6092365	Yes	
+row_13	KIR2DS2	KIR2DS2	killer cell immunoglobulin-like receptor, two domains, short cytoplasmic tail, 2	2439	0.27589181065559387	0.6340875	Yes	
+row_14	GNLY	GNLY	granulysin	2982	0.2133336067199707	0.6117301	No	
+row_15	PTGER2	PTGER2	prostaglandin E receptor 2 (subtype EP2), 53kDa	4222	0.10071856528520584	0.5106571	No	
+row_16	IL18RAP	IL18RAP	interleukin 18 receptor accessory protein	4994	0.03698050603270531	0.44444412	No	
+row_17	GPR56	GPR56	G protein-coupled receptor 56	5967	-0.039529718458652496	0.36005375	No	
+row_18	CD160	CD160	CD160 molecule	6561	-0.08913332968950272	0.31696373	No	
+row_19	SPON2	SPON2	spondin 2, extracellular matrix protein	6812	-0.1110154390335083	0.30828005	No	
+row_20	PTGDR	PTGDR	prostaglandin D2 receptor (DP)	7029	-0.1282183825969696	0.3049481	No	
+row_21	BTN3A3	BTN3A3	butyrophilin, subfamily 3, member A3	7339	-0.15573769807815552	0.29660672	No	
+row_22	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	0.25227883	No	

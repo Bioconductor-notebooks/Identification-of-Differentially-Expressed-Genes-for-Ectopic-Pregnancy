@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NBN	NBN	nibrin	1276	0.4336807131767273	-0.049446423	No	
+row_1	RECQL	RECQL	RecQ protein-like (DNA helicase Q1-like)	2686	0.24681781232357025	-0.14042562	No	
+row_2	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	3827	0.13370884954929352	-0.22437973	No	
+row_3	IGHMBP2	IGHMBP2	immunoglobulin mu binding protein 2	4952	0.03957049921154976	-0.32161856	No	
+row_4	RTEL1	RTEL1	regulator of telomere elongation helicase 1	5438	0.0034883737098425627	-0.36570635	No	
+row_5	CHD2	CHD2	chromodomain helicase DNA binding protein 2	7710	-0.18942928314208984	-0.5450118	Yes	
+row_6	DDX3X	DDX3X	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	7974	-0.21226392686367035	-0.5359411	Yes	
+row_7	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	8199	-0.23534591495990753	-0.5196629	Yes	
+row_8	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	8463	-0.26516327261924744	-0.50229967	Yes	
+row_9	CHD3	CHD3	chromodomain helicase DNA binding protein 3	8728	-0.29590532183647156	-0.48020932	Yes	
+row_10	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.4491652	Yes	
+row_11	HELB	HELB	helicase (DNA) B	9006	-0.3291548192501068	-0.40382472	Yes	
+row_12	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.41636035	Yes	
+row_13	RECQL5	RECQL5	RecQ protein-like 5	10047	-0.4818982183933258	-0.35186127	Yes	
+row_14	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10079	-0.4891257584095001	-0.27803853	Yes	
+row_15	CHD1L	CHD1L	chromodomain helicase DNA binding protein 1-like	10635	-0.6569351553916931	-0.22613367	Yes	
+row_16	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	-0.11970437	Yes	
+row_17	FBXO18	FBXO18	F-box protein, helicase, 18	10825	-0.8299521207809448	0.005337835	Yes	

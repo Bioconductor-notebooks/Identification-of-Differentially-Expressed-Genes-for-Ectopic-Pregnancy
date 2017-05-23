@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFSF4	TNFSF4	tumor necrosis factor (ligand) superfamily, member 4 (tax-transcriptionally activated glycoprotein 1, 34kDa)	61	0.9117786288261414	0.084954165	Yes	
+row_1	GATA3	GATA3	GATA binding protein 3	174	0.7816216945648193	0.15228464	Yes	
+row_2	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.20973435	Yes	
+row_3	PVRL2	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	333	0.6898292303085327	0.2760477	Yes	
+row_4	XCL1	XCL1	chemokine (C motif) ligand 1	390	0.662642776966095	0.33671477	Yes	
+row_5	PVR	PVR	poliovirus receptor	479	0.6325870156288147	0.39145055	Yes	
+row_6	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	642	0.5770642161369324	0.43385896	Yes	
+row_7	NCR3	NCR3	natural cytotoxicity triggering receptor 3	990	0.4931564927101135	0.4509023	Yes	
+row_8	IL1B	IL1B	interleukin 1, beta	1178	0.4545525014400482	0.4788399	Yes	
+row_9	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.52267003	Yes	
+row_10	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.563831	Yes	
+row_11	FADD	FADD	Fas (TNFRSF6)-associated via death domain	2618	0.25387781858444214	0.46081594	No	
+row_12	FZD5	FZD5	frizzled homolog 5 (Drosophila)	5251	0.01794244349002838	0.22030786	No	
+row_13	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.112985134	No	
+row_14	MALT1	MALT1	mucosa associated lymphoid tissue lymphoma translocation gene 1	7515	-0.1707853227853775	0.037341785	No	
+row_15	IL23A	IL23A	interleukin 23, alpha subunit p19	8025	-0.2167479395866394	0.012015669	No	
+row_16	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.016702244	No	
+row_17	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	-0.074080676	No	
+row_18	PRKCZ	PRKCZ	protein kinase C, zeta	9962	-0.4648299813270569	-0.05460392	No	
+row_19	ZBTB1	ZBTB1	zinc finger and BTB domain containing 1	10578	-0.632575273513794	-0.048382618	No	
+row_20	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.009389521	No	

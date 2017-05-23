@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.07251036	No	
+row_1	MLX	MLX	MAX-like protein X	701	0.5571226477622986	0.1006532	No	
+row_2	YWHAB	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	1479	0.4000081717967987	0.07998903	No	
+row_3	PPP2R2A	PPP2R2A	protein phosphatase 2 (formerly 2A), regulatory subunit B (PR 52), alpha isoform	2077	0.3160279095172882	0.06521679	No	
+row_4	PRKAA1	PRKAA1	protein kinase, AMP-activated, alpha 1 catalytic subunit	2221	0.30085229873657227	0.09031893	No	
+row_5	PPP2R5B	PPP2R5B	protein phosphatase 2, regulatory subunit B (B56), beta isoform	2411	0.2785976529121399	0.108354464	No	
+row_6	PPP2R5A	PPP2R5A	protein phosphatase 2, regulatory subunit B (B56), alpha isoform	2536	0.2642098069190979	0.13054506	No	
+row_7	PPP2R1B	PPP2R1B	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), beta isoform	2598	0.25718411803245544	0.15764306	No	
+row_8	PRKACG	PRKACG	protein kinase, cAMP-dependent, catalytic, gamma	2654	0.25039905309677124	0.18443047	No	
+row_9	PRKAG2	PRKAG2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	2747	0.23919405043125153	0.20638554	No	
+row_10	PKLR	PKLR	pyruvate kinase, liver and RBC	2945	0.217259019613266	0.21588188	No	
+row_11	YWHAE	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide	3263	0.18632839620113373	0.21039398	No	
+row_12	PPP2R5C	PPP2R5C	protein phosphatase 2, regulatory subunit B (B56), gamma isoform	3364	0.17652370035648346	0.22364046	No	
+row_13	PPP2CA	PPP2CA	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	3461	0.16720418632030487	0.23606978	No	
+row_14	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	3722	0.14318659901618958	0.23034269	No	
+row_15	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	0.12878488	No	
+row_16	PPP2CB	PPP2CB	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	4918	0.041936349123716354	0.13135692	No	
+row_17	PPP2R5D	PPP2R5D	protein phosphatase 2, regulatory subunit B (B56), delta isoform	6029	-0.04577754810452461	0.034970086	No	
+row_18	PPP2R2C	PPP2R2C	protein phosphatase 2 (formerly 2A), regulatory subunit B (PR 52), gamma isoform	9706	-0.42238306999206543	-0.24979082	Yes	
+row_19	PPP2R3A	PPP2R3A	protein phosphatase 2 (formerly 2A), regulatory subunit B'', alpha	9742	-0.4270133972167969	-0.19869567	Yes	
+row_20	YWHAG	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide	9876	-0.4533332586288452	-0.15327647	Yes	
+row_21	PRKAA2	PRKAA2	protein kinase, AMP-activated, alpha 2 catalytic subunit	10480	-0.5921550393104553	-0.13347663	Yes	
+row_22	PPP2R4	PPP2R4	protein phosphatase 2A, regulatory subunit B' (PR 53)	10584	-0.6350936889648438	-0.062174276	Yes	
+row_23	PPP2R5E	PPP2R5E	protein phosphatase 2, regulatory subunit B (B56), epsilon isoform	10714	-0.7044916152954102	0.015561692	Yes	

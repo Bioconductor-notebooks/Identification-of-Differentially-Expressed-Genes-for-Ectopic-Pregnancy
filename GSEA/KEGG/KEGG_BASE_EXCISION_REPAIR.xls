@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PARP3	PARP3	poly (ADP-ribose) polymerase family, member 3	386	0.664559543132782	0.075198695	No	
+row_1	POLD4	POLD4	polymerase (DNA-directed), delta 4	611	0.5896422266960144	0.1528243	No	
+row_2	MUTYH	MUTYH	mutY homolog (E. coli)	4277	0.09636534005403519	-0.16841087	No	
+row_3	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4525	0.07441273331642151	-0.1787444	No	
+row_4	SMUG1	SMUG1	single-strand-selective monofunctional uracil-DNA glycosylase 1	6523	-0.08495640754699707	-0.3483741	No	
+row_5	POLE	POLE	polymerase (DNA directed), epsilon	7558	-0.17363658547401428	-0.41460368	Yes	
+row_6	LIG3	LIG3	ligase III, DNA, ATP-dependent	7722	-0.19027148187160492	-0.39790344	Yes	
+row_7	PARP2	PARP2	poly (ADP-ribose) polymerase family, member 2	7874	-0.20373262465000153	-0.37785608	Yes	
+row_8	NTHL1	NTHL1	nth endonuclease III-like 1 (E. coli)	8401	-0.2586374878883362	-0.38317233	Yes	
+row_9	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	-0.36057246	Yes	
+row_10	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	8912	-0.3167245090007782	-0.32860178	Yes	
+row_11	LIG1	LIG1	ligase I, DNA, ATP-dependent	9115	-0.34198853373527527	-0.2902131	Yes	
+row_12	NEIL1	NEIL1	nei endonuclease VIII-like 1 (E. coli)	9154	-0.34625884890556335	-0.23602003	Yes	
+row_13	POLE4	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	9643	-0.41303151845932007	-0.21211553	Yes	
+row_14	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.14679664	Yes	
+row_15	MBD4	MBD4	methyl-CpG binding domain protein 4	9773	-0.43437761068344116	-0.0813272	Yes	
+row_16	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.030008681	Yes	
+row_17	NEIL3	NEIL3	nei endonuclease VIII-like 3 (E. coli)	10517	-0.6032275557518005	0.03368306	Yes	

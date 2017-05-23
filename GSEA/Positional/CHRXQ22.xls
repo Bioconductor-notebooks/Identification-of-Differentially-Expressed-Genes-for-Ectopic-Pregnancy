@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TSC22D3	TSC22D3	TSC22 domain family, member 3	0	1.2732816934585571	0.16337064	Yes	
+row_1	DRP2	DRP2	dystrophin related protein 2	552	0.6081902980804443	0.19064087	Yes	
+row_2	VSIG1	VSIG1	V-set and immunoglobulin domain containing 1	926	0.504608690738678	0.22102036	Yes	
+row_3	MCTS1	MCTS1	malignant T cell amplified sequence 1	1327	0.4243246912956238	0.23861131	Yes	
+row_4	PSMD10	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	1457	0.4029701352119446	0.27843007	Yes	
+row_5	COL4A6	COL4A6	collagen, type IV, alpha 6	1592	0.3820554316043854	0.3151047	Yes	
+row_6	IRS4	IRS4	insulin receptor substrate 4	2123	0.3108500838279724	0.30615893	Yes	
+row_7	NXT2	NXT2	nuclear transport factor 2-like export factor 2	2186	0.30468809604644775	0.3395403	Yes	
+row_8	COL4A5	COL4A5	collagen, type IV, alpha 5 (Alport syndrome)	2333	0.28782400488853455	0.36301878	Yes	
+row_9	MID2	MID2	midline 2	2459	0.27368056774139404	0.38661736	Yes	
+row_10	NOX1	NOX1	NADPH oxidase 1	2535	0.2643117904663086	0.41362047	Yes	
+row_11	CSTF2	CSTF2	cleavage stimulation factor, 3' pre-RNA, subunit 2, 64kDa	2821	0.23065228760242462	0.4169571	Yes	
+row_12	AGTR2	AGTR2	angiotensin II receptor, type 2	3017	0.21009461581707	0.42594793	Yes	
+row_13	GUCY2F	GUCY2F	guanylate cyclase 2F, retinal	3051	0.20639413595199585	0.44938934	Yes	
+row_14	AMMECR1	AMMECR1	Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region, gene 1	3374	0.17544405162334442	0.4422335	No	
+row_15	KCNE1L	KCNE1L	KCNE1-like	3880	0.1287652552127838	0.41222835	No	
+row_16	PRPS1	PRPS1	phosphoribosyl pyrophosphate synthetase 1	4642	0.06484420597553253	0.35043588	No	
+row_17	TCEAL8	TCEAL8	transcription elongation factor A (SII)-like 8	4791	0.05243595317006111	0.34352824	No	
+row_18	NXF3	NXF3	nuclear RNA export factor 3	4795	0.052226629108190536	0.34995288	No	
+row_19	MCART6	MCART6	mitochondrial carrier triple repeat 6	4810	0.05126088485121727	0.35524017	No	
+row_20	MUM1L1	MUM1L1	melanoma associated antigen (mutated) 1-like 1	5134	0.027156496420502663	0.3289659	No	
+row_21	MORF4L2	MORF4L2	mortality factor 4 like 2	5712	-0.01693124882876873	0.27797818	No	
+row_22	TMEM35	TMEM35	transmembrane protein 35	5939	-0.037154991179704666	0.26192358	No	
+row_23	CENPI	CENPI	centromere protein I	6834	-0.11270870268344879	0.19401895	No	
+row_24	NRK	NRK	Nik related kinase	6836	-0.11304192990064621	0.20843084	No	
+row_25	RAB9B	RAB9B	RAB9B, member RAS oncogene family	7202	-0.1418408304452896	0.19300184	No	
+row_26	LOC442461	LOC442461	-	7544	-0.1727084368467331	0.1837445	No	
+row_27	TCEAL7	TCEAL7	transcription elongation factor A (SII)-like 7	8336	-0.24997326731681824	0.1429414	No	
+row_28	GPRASP2	GPRASP2	G protein-coupled receptor associated sorting protein 2	8418	-0.2606710195541382	0.16892457	No	
+row_29	NXF5	NXF5	nuclear RNA export factor 5	9872	-0.45273199677467346	0.093145445	No	

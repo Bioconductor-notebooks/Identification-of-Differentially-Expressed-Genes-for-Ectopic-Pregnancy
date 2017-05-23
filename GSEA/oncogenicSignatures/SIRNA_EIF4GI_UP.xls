@@ -1,0 +1,46 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	-0.06851606	No	
+row_1	HTRA2	HTRA2	HtrA serine peptidase 2	1286	0.43189185857772827	-0.03779518	No	
+row_2	ASS1	ASS1	argininosuccinate synthetase 1	1293	0.4297357499599457	9.3967194E-4	No	
+row_3	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	1577	0.38362520933151245	0.009903022	No	
+row_4	MRPS30	MRPS30	mitochondrial ribosomal protein S30	1698	0.36407867074012756	0.032117628	No	
+row_5	PYGL	PYGL	phosphorylase, glycogen; liver (Hers disease, glycogen storage disease type VI)	1711	0.36262717843055725	0.06416355	No	
+row_6	XPC	XPC	xeroderma pigmentosum, complementation group C	1931	0.3304293155670166	0.07416809	No	
+row_7	SPG20	SPG20	spastic paraplegia 20, spartin (Troyer syndrome)	2349	0.2860642671585083	0.06184921	No	
+row_8	ATP5A1	ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	2811	0.2319898009300232	0.04052718	No	
+row_9	GPR15	GPR15	G protein-coupled receptor 15	2933	0.21869473159313202	0.04935786	No	
+row_10	ST13	ST13	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein)	3604	0.15381447970867157	0.0016064615	No	
+row_11	BTG2	BTG2	BTG family, member 2	3932	0.12462121993303299	-0.017168932	No	
+row_12	GSS	GSS	glutathione synthetase	4013	0.11858917027711868	-0.013707723	No	
+row_13	ZBED1	ZBED1	zinc finger, BED-type containing 1	4020	0.1180584579706192	-0.0034678353	No	
+row_14	ASAH1	ASAH1	N-acylsphingosine amidohydrolase (acid ceramidase) 1	4031	0.1173127070069313	0.006334834	No	
+row_15	NQO1	NQO1	NAD(P)H dehydrogenase, quinone 1	4784	0.05330262333154678	-0.05817109	No	
+row_16	MTO1	MTO1	mitochondrial translation optimization 1 homolog (S. cerevisiae)	4838	0.04858965799212456	-0.058618553	No	
+row_17	TRAF3IP2	TRAF3IP2	TRAF3 interacting protein 2	5087	0.03021862544119358	-0.07873616	No	
+row_18	SLCO1A2	SLCO1A2	solute carrier organic anion transporter family, member 1A2	5092	0.03003850020468235	-0.076358944	No	
+row_19	TCF25	TCF25	transcription factor 25 (basic helix-loop-helix)	5328	0.011789663694798946	-0.09696205	No	
+row_20	INPP5D	INPP5D	inositol polyphosphate-5-phosphatase, 145kDa	5434	0.004028508439660072	-0.10628098	No	
+row_21	D4S234E	D4S234E	-	5473	7.294068927876651E-4	-0.109720156	No	
+row_22	LETMD1	LETMD1	LETM1 domain containing 1	5821	-0.027534296736121178	-0.13921687	No	
+row_23	CA2	CA2	carbonic anhydrase II	5984	-0.041115280240774155	-0.15040395	No	
+row_24	MAGEF1	MAGEF1	melanoma antigen family F, 1	6300	-0.06738114356994629	-0.17330538	No	
+row_25	IGF2R	IGF2R	insulin-like growth factor 2 receptor	6318	-0.06913866102695465	-0.16855282	No	
+row_26	ZFP36L2	ZFP36L2	zinc finger protein 36, C3H type-like 2	6586	-0.09121311455965042	-0.18484697	No	
+row_27	THADA	THADA	thyroid adenoma associated	6837	-0.11307906359434128	-0.19757362	No	
+row_28	MIA3	MIA3	melanoma inhibitory activity family, member 3	7061	-0.1309768259525299	-0.20617297	No	
+row_29	MATR3	MATR3	matrin 3	7171	-0.13913318514823914	-0.20350906	No	
+row_30	FRAT2	FRAT2	frequently rearranged in advanced T-cell lymphomas 2	7450	-0.16445980966091156	-0.21412152	No	
+row_31	FCAR	FCAR	Fc fragment of IgA, receptor for	7678	-0.18580178916454315	-0.21807756	No	
+row_32	CSE1L	CSE1L	CSE1 chromosome segregation 1-like (yeast)	8326	-0.24850380420684814	-0.25505006	No	
+row_33	ADSL	ADSL	adenylosuccinate lyase	8691	-0.2922297418117523	-0.2619155	No	
+row_34	CSDE1	CSDE1	cold shock domain containing E1, RNA-binding	9028	-0.3314405083656311	-0.26261288	No	
+row_35	KIF2A	KIF2A	kinesin heavy chain member 2A	9450	-0.3817175030708313	-0.26655573	Yes	
+row_36	PMPCB	PMPCB	peptidase (mitochondrial processing) beta	9541	-0.3984838128089905	-0.23842788	Yes	
+row_37	SETDB1	SETDB1	SET domain, bifurcated 1	9786	-0.43663543462753296	-0.22101997	Yes	
+row_38	DDX50	DDX50	DEAD (Asp-Glu-Ala-Asp) box polypeptide 50	9842	-0.44688835740089417	-0.18523766	Yes	
+row_39	AFG3L2	AFG3L2	AFG3 ATPase family gene 3-like 2 (yeast)	9999	-0.4725126028060913	-0.15643089	Yes	
+row_40	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.11362995	Yes	
+row_41	CPNE1	CPNE1	copine I	10077	-0.4887596368789673	-0.07549573	Yes	
+row_42	DRG1	DRG1	developmentally regulated GTP binding protein 1	10202	-0.5186378955841064	-0.039519653	Yes	
+row_43	NDUFS8	NDUFS8	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)	10269	-0.5345879793167114	0.003265701	Yes	
+row_44	ATF3	ATF3	activating transcription factor 3	10444	-0.5828785300254822	0.04050198	Yes	

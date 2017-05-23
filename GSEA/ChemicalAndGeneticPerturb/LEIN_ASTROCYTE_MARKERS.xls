@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CST3	CST3	cystatin C (amyloid angiopathy and cerebral hemorrhage)	19	1.033705472946167	0.093434356	Yes	
+row_1	PPAP2B	PPAP2B	phosphatidic acid phosphatase type 2B	70	0.8979034423828125	0.1715095	Yes	
+row_2	ALDOC	ALDOC	aldolase C, fructose-bisphosphate	82	0.8711698055267334	0.25071418	Yes	
+row_3	CLU	CLU	clusterin	144	0.8093606233596802	0.31962338	Yes	
+row_4	CLDN5	CLDN5	claudin 5 (transmembrane protein deleted in velocardiofacial syndrome)	151	0.8024207353591919	0.39295802	Yes	
+row_5	C1QA	C1QA	complement component 1, q subcomponent, A chain	217	0.7531930804252625	0.456327	Yes	
+row_6	PLA2G7	PLA2G7	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)	269	0.7201087474822998	0.5179387	Yes	
+row_7	MFGE8	MFGE8	milk fat globule-EGF factor 8 protein	306	0.7017759084701538	0.5792435	Yes	
+row_8	SELPLG	SELPLG	selectin P ligand	758	0.5432658195495605	0.587739	Yes	
+row_9	MLPH	MLPH	melanophilin	1039	0.48150843381881714	0.60629374	Yes	
+row_10	STAB1	STAB1	stabilin 1	1189	0.4514477550983429	0.6341431	Yes	
+row_11	ATP1A4	ATP1A4	ATPase, Na+/K+ transporting, alpha 4 polypeptide	1736	0.3578356206417084	0.61681646	No	
+row_12	SEPT4	SEPT4	septin 4	2268	0.2961766719818115	0.59519345	No	
+row_13	DBI	DBI	diazepam binding inhibitor (GABA receptor modulator, acyl-Coenzyme A binding protein)	2462	0.27346867322921753	0.6026029	No	
+row_14	DIP2A	DIP2A	DIP2 disco-interacting protein 2 homolog A (Drosophila)	3592	0.15459594130516052	0.51287866	No	
+row_15	ATP13A5	ATP13A5	ATPase type 13A5	4815	0.050831377506256104	0.40503618	No	
+row_16	GFAP	GFAP	glial fibrillary acidic protein	5587	-0.007394535467028618	0.3347226	No	
+row_17	AQP4	AQP4	aquaporin 4	5790	-0.02423577755689621	0.3183539	No	
+row_18	GPR37L1	GPR37L1	G protein-coupled receptor 37 like 1	6070	-0.04865517094731331	0.29714346	No	
+row_19	SLC6A20	SLC6A20	solute carrier family 6 (proline IMINO transporter), member 20	6350	-0.07119107246398926	0.27800813	No	
+row_20	MATN4	MATN4	matrilin 4	7639	-0.1819036900997162	0.1761575	No	
+row_21	ID3	ID3	inhibitor of DNA binding 3, dominant negative helix-loop-helix protein	9126	-0.34333208203315735	0.070939206	No	
+row_22	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	10085	-0.49116864800453186	0.027952518	No	
+row_23	MAGI1	MAGI1	membrane associated guanylate kinase, WW and PDZ domain containing 1	10100	-0.4934389293193817	0.07209938	No	

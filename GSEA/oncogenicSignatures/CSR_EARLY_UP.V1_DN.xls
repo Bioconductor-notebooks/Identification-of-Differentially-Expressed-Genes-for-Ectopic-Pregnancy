@@ -1,0 +1,60 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADM	ADM	adrenomedullin	140	0.8118693828582764	0.032721635	No	
+row_1	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	303	0.702338695526123	0.05725159	No	
+row_2	SNPH	SNPH	syntaphilin	431	0.6465066075325012	0.08187514	No	
+row_3	SDPR	SDPR	serum deprivation response (phosphatidylserine binding protein)	494	0.6286381483078003	0.1114985	No	
+row_4	ERMAP	ERMAP	erythroblast membrane-associated protein (Scianna blood group)	771	0.538235068321228	0.11626907	No	
+row_5	FBN1	FBN1	fibrillin 1	2035	0.3194338381290436	0.017557746	No	
+row_6	ZNF226	ZNF226	zinc finger protein 226	2050	0.3179025650024414	0.034141377	No	
+row_7	SAG	SAG	S-antigen; retina and pineal gland (arrestin)	2105	0.3134210705757141	0.046777844	No	
+row_8	TRIM69	TRIM69	tripartite motif-containing 69	2106	0.31336188316345215	0.064399436	No	
+row_9	HBP1	HBP1	HMG-box transcription factor 1	2173	0.30587610602378845	0.07550307	No	
+row_10	AP4S1	AP4S1	adaptor-related protein complex 4, sigma 1 subunit	2269	0.29612505435943604	0.08337939	No	
+row_11	MPPE1	MPPE1	metallophosphoesterase 1	2319	0.28949475288391113	0.09513228	No	
+row_12	PAPLN	PAPLN	papilin, proteoglycan-like sulfated glycoprotein	2534	0.26434388756752014	0.090228334	No	
+row_13	ZFP64	ZFP64	zinc finger protein 64 homolog (mouse)	2723	0.24255891144275665	0.08650119	No	
+row_14	ARRDC3	ARRDC3	arrestin domain containing 3	3093	0.20175711810588837	0.06375904	No	
+row_15	FBXO38	FBXO38	F-box protein 38	3631	0.15173551440238953	0.022684343	No	
+row_16	CIRBP	CIRBP	cold inducible RNA binding protein	3833	0.13332970440387726	0.011613877	No	
+row_17	ATP11A	ATP11A	ATPase, Class VI, type 11A	3856	0.1309472620487213	0.016945232	No	
+row_18	BRD8	BRD8	bromodomain containing 8	3946	0.12362964451313019	0.015675712	No	
+row_19	ZNF33A	ZNF33A	zinc finger protein 33A	4118	0.1096118614077568	0.006042858	No	
+row_20	ELMOD2	ELMOD2	ELMO/CED-12 domain containing 2	4530	0.07422924041748047	-0.027750602	No	
+row_21	CDRT4	CDRT4	CMT1A duplicated region transcript 4	4958	0.039330244064331055	-0.064984635	No	
+row_22	LDB1	LDB1	LIM domain binding 1	5004	0.03650785610079765	-0.06708869	No	
+row_23	MAB21L1	MAB21L1	mab-21-like 1 (C. elegans)	5413	0.005571261048316956	-0.10446593	No	
+row_24	SLC7A14	SLC7A14	solute carrier family 7 (cationic amino acid transporter, y+ system), member 14	5704	-0.015766318887472153	-0.13036917	No	
+row_25	ACBD4	ACBD4	acyl-Coenzyme A binding domain containing 4	5809	-0.026154644787311554	-0.13850577	No	
+row_26	YPEL2	YPEL2	yippee-like 2 (Drosophila)	5867	-0.030858414247632027	-0.14203607	No	
+row_27	SLC16A7	SLC16A7	solute carrier family 16, member 7 (monocarboxylic acid transporter 2)	6145	-0.05547842010855675	-0.16450521	No	
+row_28	RNF20	RNF20	ring finger protein 20	6188	-0.05903568118810654	-0.1650653	No	
+row_29	SIX5	SIX5	sine oculis homeobox homolog 5 (Drosophila)	6653	-0.09654829651117325	-0.20249975	No	
+row_30	NMT2	NMT2	N-myristoyltransferase 2	6726	-0.10295674949884415	-0.20336135	No	
+row_31	TDRD6	TDRD6	tudor domain containing 6	6985	-0.12514960765838623	-0.22015741	No	
+row_32	GRHL1	GRHL1	grainyhead-like 1 (Drosophila)	7459	-0.16539528965950012	-0.2545517	No	
+row_33	DOM3Z	DOM3Z	dom-3 homolog Z (C. elegans)	7462	-0.16562241315841675	-0.24542287	No	
+row_34	ZNF337	ZNF337	zinc finger protein 337	7466	-0.16618949174880981	-0.2363545	No	
+row_35	CYP2R1	CYP2R1	cytochrome P450, family 2, subfamily R, polypeptide 1	7602	-0.17821720242500305	-0.23880377	No	
+row_36	FLJ39051	FLJ39051	-	7833	-0.20005659759044647	-0.2488009	No	
+row_37	GDF5	GDF5	growth differentiation factor 5 (cartilage-derived morphogenetic protein-1)	8541	-0.27291324734687805	-0.2987657	Yes	
+row_38	ING4	ING4	inhibitor of growth family, member 4	8574	-0.27693459391593933	-0.28614867	Yes	
+row_39	BBC3	BBC3	BCL2 binding component 3	8755	-0.29909074306488037	-0.28595775	Yes	
+row_40	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	8794	-0.3033764660358429	-0.2724081	Yes	
+row_41	ANKZF1	ANKZF1	ankyrin repeat and zinc finger domain containing 1	8885	-0.3138781487941742	-0.26307154	Yes	
+row_42	PEX6	PEX6	peroxisomal biogenesis factor 6	8938	-0.32023900747299194	-0.24986693	Yes	
+row_43	SIX1	SIX1	sine oculis homeobox homolog 1 (Drosophila)	8966	-0.3242523670196533	-0.23412715	Yes	
+row_44	GLG1	GLG1	golgi apparatus protein 1	8999	-0.32837551832199097	-0.2186174	Yes	
+row_45	FZD2	FZD2	frizzled homolog 2 (Drosophila)	9059	-0.3349096179008484	-0.20523444	Yes	
+row_46	ZNF500	ZNF500	zinc finger protein 500	9230	-0.35543525218963623	-0.20095128	Yes	
+row_47	PDE5A	PDE5A	phosphodiesterase 5A, cGMP-specific	9273	-0.35901039838790894	-0.1846426	Yes	
+row_48	ZNF302	ZNF302	zinc finger protein 302	9439	-0.37996524572372437	-0.17851813	Yes	
+row_49	ABCC10	ABCC10	ATP-binding cassette, sub-family C (CFTR/MRP), member 10	9590	-0.4053697884082794	-0.16957937	Yes	
+row_50	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	9753	-0.4288616478443146	-0.16042814	Yes	
+row_51	ATF7IP	ATF7IP	activating transcription factor 7 interacting protein	9951	-0.4625280201435089	-0.15261695	Yes	
+row_52	IGLL1	IGLL1	immunoglobulin lambda-like polypeptide 1	9993	-0.4713625907897949	-0.12989786	Yes	
+row_53	CC2D1A	CC2D1A	coiled-coil and C2 domain containing 1A	10149	-0.5060329437255859	-0.11576032	Yes	
+row_54	RABGAP1	RABGAP1	RAB GTPase activating protein 1	10201	-0.5184356570243835	-0.09131793	Yes	
+row_55	FUS	FUS	fusion (involved in t(12;16) in malignant liposarcoma)	10281	-0.5379582643508911	-0.06836431	Yes	
+row_56	DDX17	DDX17	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	10612	-0.6470096707344055	-0.06246535	Yes	
+row_57	KIAA1147	KIAA1147	KIAA1147	10671	-0.6729592084884644	-0.029980134	Yes	
+row_58	TAF15	TAF15	TAF15 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 68kDa	10844	-0.8797523975372314	0.003602714	Yes	

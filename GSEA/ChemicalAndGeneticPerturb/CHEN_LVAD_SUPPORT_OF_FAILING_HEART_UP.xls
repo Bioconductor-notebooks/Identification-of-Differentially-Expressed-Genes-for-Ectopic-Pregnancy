@@ -1,0 +1,52 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TSC22D3	TSC22D3	TSC22 domain family, member 3	0	1.2732816934585571	0.06360304	Yes	
+row_1	TIMP4	TIMP4	TIMP metallopeptidase inhibitor 4	28	0.9939851760864258	0.11076226	Yes	
+row_2	DDIT4	DDIT4	DNA-damage-inducible transcript 4	44	0.9396737217903137	0.15631624	Yes	
+row_3	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	50	0.9310548901557922	0.20236279	Yes	
+row_4	GADD45B	GADD45B	growth arrest and DNA-damage-inducible, beta	121	0.8277143239974976	0.2372471	Yes	
+row_5	CLU	CLU	clusterin	144	0.8093606233596802	0.2756455	Yes	
+row_6	IRS2	IRS2	insulin receptor substrate 2	154	0.7992238402366638	0.31473756	Yes	
+row_7	SLC38A2	SLC38A2	solute carrier family 38, member 2	184	0.7741949558258057	0.3507332	Yes	
+row_8	PPAP2A	PPAP2A	phosphatidic acid phosphatase type 2A	382	0.6673917174339294	0.36588562	Yes	
+row_9	FOSL2	FOSL2	FOS-like antigen 2	496	0.6281762719154358	0.38683322	Yes	
+row_10	TIMP3	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	542	0.6111975908279419	0.41320983	Yes	
+row_11	FHL1	FHL1	four and a half LIM domains 1	619	0.5861766338348389	0.43547493	Yes	
+row_12	AGTR1	AGTR1	angiotensin II receptor, type 1	675	0.5647091269493103	0.45860624	Yes	
+row_13	CYP4B1	CYP4B1	cytochrome P450, family 4, subfamily B, polypeptide 1	882	0.5140520930290222	0.46526822	Yes	
+row_14	PLA2G5	PLA2G5	phospholipase A2, group V	1022	0.48605969548225403	0.47671676	Yes	
+row_15	CHST3	CHST3	carbohydrate (chondroitin 6) sulfotransferase 3	1061	0.47727274894714355	0.49704972	Yes	
+row_16	FKBP5	FKBP5	FK506 binding protein 5	1105	0.47009286284446716	0.51656246	Yes	
+row_17	KLF9	KLF9	Kruppel-like factor 9	1212	0.4474485516548157	0.52912855	Yes	
+row_18	RRAS2	RRAS2	related RAS viral (r-ras) oncogene homolog 2	1258	0.4371556043624878	0.54681134	Yes	
+row_19	ZNF189	ZNF189	zinc finger protein 189	1589	0.3823935389518738	0.5354502	Yes	
+row_20	CD163	CD163	CD163 molecule	1631	0.3750576674938202	0.55040044	Yes	
+row_21	PER1	PER1	period homolog 1 (Drosophila)	1773	0.35150575637817383	0.5549431	Yes	
+row_22	POSTN	POSTN	periostin, osteoblast specific factor	2430	0.27725860476493835	0.508237	No	
+row_23	INSR	INSR	insulin receptor	2661	0.2497958540916443	0.49948338	No	
+row_24	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	2766	0.23700666427612305	0.50172204	No	
+row_25	MYOT	MYOT	myotilin	2978	0.21339038014411926	0.49290383	No	
+row_26	CSDC2	CSDC2	cold shock domain containing C2, RNA binding	3738	0.1418335735797882	0.429925	No	
+row_27	BTG2	BTG2	BTG family, member 2	3932	0.12462121993303299	0.41833416	No	
+row_28	ZFAND5	ZFAND5	zinc finger, AN1-type domain 5	4382	0.08694957196712494	0.38123003	No	
+row_29	DNAJB5	DNAJB5	DnaJ (Hsp40) homolog, subfamily B, member 5	4387	0.08604452759027481	0.3851589	No	
+row_30	MT1X	MT1X	metallothionein 1X	4745	0.056366290897130966	0.35501966	No	
+row_31	MT1H	MT1H	metallothionein 1H	4797	0.05213416367769241	0.35291603	No	
+row_32	SYNPO2L	SYNPO2L	synaptopodin 2-like	5135	0.027138521894812584	0.323163	No	
+row_33	MT1M	MT1M	metallothionein 1M	5253	0.017902078106999397	0.31325692	No	
+row_34	SLCO4A1	SLCO4A1	solute carrier organic anion transporter family, member 4A1	5676	-0.013898882083594799	0.27499613	No	
+row_35	METTL7A	METTL7A	methyltransferase like 7A	5742	-0.019680080935359	0.26997903	No	
+row_36	HYAL2	HYAL2	hyaluronoglucosaminidase 2	5962	-0.03923065587878227	0.25172266	No	
+row_37	PDK4	PDK4	pyruvate dehydrogenase kinase, isozyme 4	6313	-0.06883484870195389	0.22285242	No	
+row_38	MAPRE2	MAPRE2	microtubule-associated protein, RP/EB family, member 2	6580	-0.09072406589984894	0.20282967	No	
+row_39	NID1	NID1	nidogen 1	6730	-0.10359760373830795	0.19425032	No	
+row_40	LAMB1	LAMB1	laminin, beta 1	7181	-0.1397501677274704	0.1596914	No	
+row_41	CYR61	CYR61	cysteine-rich, angiogenic inducer, 61	7399	-0.16017873585224152	0.14766125	No	
+row_42	FNDC3B	FNDC3B	fibronectin type III domain containing 3B	7546	-0.1730414777994156	0.1428277	No	
+row_43	DOCK9	DOCK9	dedicator of cytokinesis 9	7704	-0.1884472519159317	0.13774827	No	
+row_44	FLNC	FLNC	filamin C, gamma (actin binding protein 280)	8011	-0.21544970571994781	0.120263405	No	
+row_45	NCKIPSD	NCKIPSD	NCK interacting protein with SH3 domain	8317	-0.24763917922973633	0.104478784	No	
+row_46	CDC42EP4	CDC42EP4	CDC42 effector protein (Rho GTPase binding) 4	9912	-0.4578301012516022	-0.019794654	No	
+row_47	AMD1	AMD1	adenosylmethionine decarboxylase 1	9952	-0.46283459663391113	-2.752231E-4	No	
+row_48	CDC37L1	CDC37L1	CDC37 cell division cycle 37 homolog (S. cerevisiae)-like 1	10076	-0.48870933055877686	0.0127826175	No	
+row_49	ATF3	ATF3	activating transcription factor 3	10444	-0.5828785300254822	0.008020634	No	
+row_50	XK	XK	X-linked Kx blood group (McLeod syndrome)	10617	-0.6488521099090576	0.02455472	No	

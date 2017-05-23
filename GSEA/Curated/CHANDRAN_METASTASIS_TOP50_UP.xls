@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CBX4	CBX4	chromobox homolog 4 (Pc class homolog, Drosophila)	1489	0.39806249737739563	-0.085661784	No	
+row_1	LARP1	LARP1	La ribonucleoprotein domain family, member 1	1710	0.3626345694065094	-0.05909009	No	
+row_2	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	-0.048442256	No	
+row_3	IBTK	IBTK	inhibitor of Bruton agammaglobulinemia tyrosine kinase	2886	0.22375231981277466	-0.0971479	No	
+row_4	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	2956	0.2159496247768402	-0.075616516	No	
+row_5	NUFIP2	NUFIP2	nuclear fragile X mental retardation protein interacting protein 2	3209	0.19148515164852142	-0.07408852	No	
+row_6	RALA	RALA	v-ral simian leukemia viral oncogene homolog A (ras related)	3290	0.18360310792922974	-0.057746124	No	
+row_7	NOL8	NOL8	nucleolar protein 8	5831	-0.027876898646354675	-0.28794646	No	
+row_8	UGT2B15	UGT2B15	UDP glucuronosyltransferase 2 family, polypeptide B15	6066	-0.04841933771967888	-0.30323377	No	
+row_9	GNL3L	GNL3L	guanine nucleotide binding protein-like 3 (nucleolar)-like	8817	-0.30576610565185547	-0.51688397	Yes	
+row_10	SDCCAG3	SDCCAG3	serologically defined colon cancer antigen 3	9053	-0.33419182896614075	-0.49536538	Yes	
+row_11	BIRC6	BIRC6	baculoviral IAP repeat-containing 6 (apollon)	9893	-0.4556622803211212	-0.5137595	Yes	
+row_12	AR	AR	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)	9899	-0.45631444454193115	-0.45530203	Yes	
+row_13	MLL5	MLL5	myeloid/lymphoid or mixed-lineage leukemia 5 (trithorax homolog, Drosophila)	10004	-0.4731179177761078	-0.40378767	Yes	
+row_14	IRF2BP2	IRF2BP2	interferon regulatory factor 2 binding protein 2	10012	-0.4745712876319885	-0.34315705	Yes	
+row_15	PCBP2	PCBP2	poly(rC) binding protein 2	10360	-0.5586636662483215	-0.30296478	Yes	
+row_16	DDX17	DDX17	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	10612	-0.6470096707344055	-0.24252906	Yes	
+row_17	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	10645	-0.6610552668571472	-0.16012152	Yes	
+row_18	KIAA1147	KIAA1147	KIAA1147	10671	-0.6729592084884644	-0.07553264	Yes	
+row_19	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	0.012610416	Yes	

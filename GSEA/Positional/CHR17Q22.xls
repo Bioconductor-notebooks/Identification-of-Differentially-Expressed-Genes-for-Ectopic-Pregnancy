@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CSHL1	CSHL1	chorionic somatomammotropin hormone-like 1	117	0.8322576880455017	0.096035644	Yes	
+row_1	CSH2	CSH2	chorionic somatomammotropin hormone 2	130	0.8200026154518127	0.2001609	Yes	
+row_2	CSH1	CSH1	chorionic somatomammotropin hormone 1 (placental lactogen)	136	0.8141359090805054	0.30417746	Yes	
+row_3	GH2	GH2	growth hormone 2	162	0.7897409796714783	0.403223	Yes	
+row_4	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.46060932	Yes	
+row_5	GH1	GH1	growth hormone 1	487	0.6311387419700623	0.5371852	Yes	
+row_6	SCPEP1	SCPEP1	serine carboxypeptidase 1	746	0.5470680594444275	0.5836479	Yes	
+row_7	DGKE	DGKE	diacylglycerol kinase, epsilon 64kDa	1033	0.4834403097629547	0.61936873	Yes	
+row_8	TNFAIP1	TNFAIP1	tumor necrosis factor, alpha-induced protein 1 (endothelial)	2238	0.2988523840904236	0.54692584	No	
+row_9	SEPT4	SEPT4	septin 4	2268	0.2961766719818115	0.582265	No	
+row_10	MRPS23	MRPS23	mitochondrial ribosomal protein S23	6928	-0.12094099819660187	0.16905601	No	
+row_11	CA4	CA4	carbonic anhydrase IV	7278	-0.1499512940645218	0.15618344	No	
+row_12	DHX40	DHX40	DEAH (Asp-Glu-Ala-His) box polypeptide 40	7414	-0.16126365959644318	0.16445519	No	
+row_13	COX11	COX11	COX11 homolog, cytochrome c oxidase assembly protein (yeast)	8100	-0.2258274108171463	0.13040036	No	
+row_14	STXBP4	STXBP4	syntaxin binding protein 4	8544	-0.27399003505706787	0.12479541	No	
+row_15	CACNA1G	CACNA1G	calcium channel, voltage-dependent, alpha 1G subunit	8884	-0.31386739015579224	0.1338781	No	
+row_16	SMURF2	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	9487	-0.38947978615760803	0.1284623	No	

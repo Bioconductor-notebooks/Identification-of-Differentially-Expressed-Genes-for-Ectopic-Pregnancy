@@ -1,0 +1,46 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TAZ	TAZ	tafazzin (cardiomyopathy, dilated 3A (X-linked); endocardial fibroelastosis 2; Barth syndrome)	166	0.7890142202377319	0.048826788	Yes	
+row_1	CD99L2	CD99L2	CD99 molecule-like 2	172	0.7837664484977722	0.11208073	Yes	
+row_2	CLIC2	CLIC2	chloride intracellular channel 2	316	0.6978951096534729	0.15562208	Yes	
+row_3	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	402	0.6561956405639648	0.20112458	Yes	
+row_4	RENBP	RENBP	renin binding protein	530	0.6159930229187012	0.23948395	Yes	
+row_5	ATP6AP1	ATP6AP1	ATPase, H+ transporting, lysosomal accessory protein 1	748	0.5469182729721069	0.26392463	Yes	
+row_6	MPP1	MPP1	membrane protein, palmitoylated 1, 55kDa	856	0.5194026231765747	0.29627702	Yes	
+row_7	FUNDC2	FUNDC2	FUN14 domain containing 2	861	0.5180869102478027	0.33802515	Yes	
+row_8	F8A1	F8A1	coagulation factor VIII-associated (intronic transcript) 1	1160	0.45996329188346863	0.34792393	Yes	
+row_9	SLC6A8	SLC6A8	solute carrier family 6 (neurotransmitter transporter, creatine), member 8	1307	0.4282490313053131	0.369268	Yes	
+row_10	PLXNA3	PLXNA3	plexin A3	1564	0.38465264439582825	0.37691942	Yes	
+row_11	GAB3	GAB3	GRB2-associated binding protein 3	2013	0.3222430944442749	0.3617835	Yes	
+row_12	FAM3A	FAM3A	family with sequence similarity 3, member A	2137	0.3095221221446991	0.37559777	Yes	
+row_13	MAGEA1	MAGEA1	melanoma antigen family A, 1 (directs expression of antigen MZ2-E)	2265	0.2963709533214569	0.3879739	Yes	
+row_14	IL9R	IL9R	interleukin 9 receptor	2326	0.2884211540222168	0.40588516	Yes	
+row_15	TKTL1	TKTL1	transketolase-like 1	2377	0.28219807147979736	0.42421308	Yes	
+row_16	TREX2	TREX2	three prime repair exonuclease 2	2532	0.2644258439540863	0.43150127	Yes	
+row_17	AVPR2	AVPR2	arginine vasopressin receptor 2 (nephrogenic diabetes insipidus)	2783	0.23510612547397614	0.42754906	No	
+row_18	L1CAM	L1CAM	L1 cell adhesion molecule	3084	0.20276765525341034	0.41635495	No	
+row_19	ATP2B3	ATP2B3	ATPase, Ca++ transporting, plasma membrane 3	3117	0.19961656630039215	0.42963022	No	
+row_20	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	3380	0.17508181929588318	0.4196913	No	
+row_21	GPR50	GPR50	G protein-coupled receptor 50	3796	0.13680756092071533	0.3925252	No	
+row_22	MTCP1	MTCP1	mature T-cell proliferation 1	4420	0.08266526460647583	0.34176773	No	
+row_23	TMLHE	TMLHE	trimethyllysine hydroxylase, epsilon	4496	0.07630082219839096	0.34105104	No	
+row_24	MTMR1	MTMR1	myotubularin related protein 1	4716	0.05863351374864578	0.32561278	No	
+row_25	MAGEA12	MAGEA12	melanoma antigen family A, 12	4848	0.04778832197189331	0.31741166	No	
+row_26	FAM50A	FAM50A	family with sequence similarity 50, member A	5272	0.01624247059226036	0.27970633	No	
+row_27	SRPK3	SRPK3	SFRS protein kinase 3	5537	-0.0038904978428035975	0.25566614	No	
+row_28	MAGEA3	MAGEA3	melanoma antigen family A, 3	5759	-0.02120891772210598	0.23700094	No	
+row_29	TEX13A	TEX13A	testis expressed sequence 13A	5783	-0.023583022877573967	0.23679613	No	
+row_30	RAB39B	RAB39B	RAB39B, member RAS oncogene family	5834	-0.028140375390648842	0.23447078	No	
+row_31	MAGEA10	MAGEA10	melanoma antigen family A, 10	6127	-0.05380641296505928	0.21190515	No	
+row_32	MAGEA8	MAGEA8	melanoma antigen family A, 8	6276	-0.06578029692173004	0.20359828	No	
+row_33	AFF2	AFF2	AF4/FMR2 family, member 2	6378	-0.07344859838485718	0.20025098	No	
+row_34	GABRE	GABRE	gamma-aminobutyric acid (GABA) A receptor, epsilon	6792	-0.10925991833209991	0.17102997	No	
+row_35	DKC1	DKC1	dyskeratosis congenita 1, dyskerin	7431	-0.1626778393983841	0.12539312	No	
+row_36	MAGEA11	MAGEA11	melanoma antigen family A, 11	7453	-0.1647966355085373	0.1368526	No	
+row_37	SPRY3	SPRY3	sprouty homolog 3 (Drosophila)	7575	-0.17540456354618073	0.13994849	No	
+row_38	SRPX2	SRPX2	sushi-repeat-containing protein, X-linked 2	8021	-0.21649916470050812	0.11649305	No	
+row_39	CTAG2	CTAG2	cancer/testis antigen 2	8099	-0.22522865235805511	0.12769873	No	
+row_40	BRCC3	BRCC3	BRCA1/BRCA2-containing complex, subunit 3	8226	-0.23811784386634827	0.13543151	No	
+row_41	NSDHL	NSDHL	NAD(P) dependent steroid dehydrogenase-like	8451	-0.2641080319881439	0.13623571	No	
+row_42	GABRA3	GABRA3	gamma-aminobutyric acid (GABA) A receptor, alpha 3	8799	-0.3039637506008148	0.12893201	No	
+row_43	BGN	BGN	biglycan	9046	-0.33342134952545166	0.13334124	No	
+row_44	CETN2	CETN2	centrin, EF-hand protein, 2	9828	-0.4434190094470978	0.09733377	No	

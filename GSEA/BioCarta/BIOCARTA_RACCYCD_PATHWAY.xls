@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	402	0.6561956405639648	0.087497234	No	
+row_1	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	0.016216567	No	
+row_2	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	1902	0.33409827947616577	0.07711383	No	
+row_3	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	2026	0.3202206492424011	0.1265451	No	
+row_4	IKBKB	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	2715	0.24346618354320526	0.10942784	No	
+row_5	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	0.11352997	No	
+row_6	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	0.06318843	No	
+row_7	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.07262572	No	
+row_8	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	-0.17838122	No	
+row_9	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	-0.19343902	No	
+row_10	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	-0.17381291	No	
+row_11	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	8526	-0.2708396017551422	-0.1949385	Yes	
+row_12	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.18229517	Yes	
+row_13	CCNE1	CCNE1	cyclin E1	9288	-0.3596876561641693	-0.13227762	Yes	
+row_14	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.13097543	Yes	
+row_15	CDK6	CDK6	cyclin-dependent kinase 6	10832	-0.8587019443511963	0.0046925833	Yes	

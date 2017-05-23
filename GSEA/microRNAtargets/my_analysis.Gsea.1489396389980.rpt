@@ -1,0 +1,32 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1489396389980
+param	collapse	true
+param	cls	/Users/reem/gsea_home/output/mar02/IUP_vs_EP.cls#IUP_versus_EP
+param	plot_top_x	20
+param	norm	meandiv
+param	save_rnd_lists	false
+param	median	false
+param	num	100
+param	scoring_scheme	weighted
+param	make_sets	true
+param	mode	Max_probe
+param	gmx	gseaftp.broadinstitute.org://pub/gsea/gene_sets/c3.mir.v5.2.symbols.gmt
+param	gui	false
+param	chip	gseaftp.broadinstitute.org://pub/gsea/annotations/HG_U133_Plus_2.chip
+param	metric	Signal2Noise
+param	rpt_label	my_analysis
+param	help	false
+param	order	descending
+param	out	/Users/reem/gsea_home/output/mar12
+param	permute	phenotype
+param	rnd_type	no_balance
+param	set_min	15
+param	include_only_symbols	true
+param	sort	real
+param	rnd_seed	timestamp
+param	nperm	100
+param	zip_report	false
+param	set_max	500
+param	res	/Users/reem/Desktop/B_GSEA/dnkn_expr.txt
+
+file	/Users/reem/gsea_home/output/mar12/my_analysis.Gsea.1489396389980/index.html

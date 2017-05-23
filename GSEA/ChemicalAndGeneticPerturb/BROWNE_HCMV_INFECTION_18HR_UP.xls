@@ -1,0 +1,100 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CREM	CREM	cAMP responsive element modulator	99	0.8519414067268372	0.015674595	No	
+row_1	HSD17B6	HSD17B6	hydroxysteroid (17-beta) dehydrogenase 6	110	0.842162013053894	0.03931609	No	
+row_2	IL1RL1	IL1RL1	interleukin 1 receptor-like 1	122	0.8270478248596191	0.06242394	No	
+row_3	MRAS	MRAS	muscle RAS oncogene homolog	181	0.7767457962036133	0.0797064	No	
+row_4	KCTD2	KCTD2	potassium channel tetramerisation domain containing 2	384	0.665440022945404	0.08038982	No	
+row_5	PPFIA1	PPFIA1	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 1	573	0.5986835360527039	0.080423824	No	
+row_6	GOSR2	GOSR2	golgi SNAP receptor complex member 2	786	0.5335584878921509	0.0763326	No	
+row_7	PPP1R2	PPP1R2	protein phosphatase 1, regulatory (inhibitor) subunit 2	1045	0.48001497983932495	0.06641414	No	
+row_8	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	1313	0.42639338970184326	0.054096874	No	
+row_9	TOR1B	TOR1B	torsin family 1, member B (torsin B)	1511	0.3936811089515686	0.047315773	No	
+row_10	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	1720	0.3604777157306671	0.03854608	No	
+row_11	CYP19A1	CYP19A1	cytochrome P450, family 19, subfamily A, polypeptide 1	1809	0.346314013004303	0.04048975	No	
+row_12	FXR1	FXR1	fragile X mental retardation, autosomal homolog 1	1956	0.3279474675655365	0.036519766	No	
+row_13	PCGF3	PCGF3	polycomb group ring finger 3	2795	0.23379933834075928	-0.034360025	No	
+row_14	SEC23B	SEC23B	Sec23 homolog B (S. cerevisiae)	2950	0.2165423482656479	-0.042321842	No	
+row_15	HSPA6	HSPA6	heat shock 70kDa protein 6 (HSP70B')	2963	0.21487750113010406	-0.037165795	No	
+row_16	SLC1A4	SLC1A4	solute carrier family 1 (glutamate/neutral amino acid transporter), member 4	3035	0.20781880617141724	-0.037686236	No	
+row_17	TM4SF1	TM4SF1	transmembrane 4 L six family member 1	3057	0.2057267725467682	-0.033631638	No	
+row_18	NCF2	NCF2	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)	3066	0.20484659075737	-0.028397342	No	
+row_19	ERBB3	ERBB3	v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)	3248	0.18777377903461456	-0.039701916	No	
+row_20	SAR1A	SAR1A	SAR1 gene homolog A (S. cerevisiae)	3434	0.1695132851600647	-0.05191009	No	
+row_21	CBLB	CBLB	Cas-Br-M (murine) ecotropic retroviral transforming sequence b	3688	0.14698998630046844	-0.0710804	No	
+row_22	DCP2	DCP2	DCP2 decapping enzyme homolog (S. cerevisiae)	3828	0.13364310562610626	-0.080069855	No	
+row_23	STARD8	STARD8	START domain containing 8	4109	0.11006709188222885	-0.102820806	No	
+row_24	ABAT	ABAT	4-aminobutyrate aminotransferase	4247	0.0984756201505661	-0.11265077	No	
+row_25	GAP43	GAP43	growth associated protein 43	5079	0.031057560816407204	-0.18879618	No	
+row_26	CXCL11	CXCL11	chemokine (C-X-C motif) ligand 11	5136	0.027039935812354088	-0.19319972	No	
+row_27	EYA4	EYA4	eyes absent homolog 4 (Drosophila)	5176	0.023434869945049286	-0.19613218	No	
+row_28	ST7	ST7	suppression of tumorigenicity 7	5268	0.01651533506810665	-0.20408802	No	
+row_29	ABCC5	ABCC5	ATP-binding cassette, sub-family C (CFTR/MRP), member 5	5591	-0.007733445148915052	-0.2337187	No	
+row_30	FANCL	FANCL	Fanconi anemia, complementation group L	5727	-0.01777046173810959	-0.24571764	No	
+row_31	TROVE2	TROVE2	TROVE domain family, member 2	5738	-0.019290873780846596	-0.24608208	No	
+row_32	TLE3	TLE3	transducin-like enhancer of split 3 (E(sp1) homolog, Drosophila)	5774	-0.022872697561979294	-0.24866006	No	
+row_33	SPAST	SPAST	spastin	5950	-0.03811728581786156	-0.26377428	No	
+row_34	TGDS	TGDS	TDP-glucose 4,6-dehydratase	6182	-0.058774251490831375	-0.2834783	No	
+row_35	IL8	IL8	interleukin 8	6332	-0.06969403475522995	-0.29526055	No	
+row_36	RAB27A	RAB27A	RAB27A, member RAS oncogene family	6500	-0.08275271952152252	-0.30833083	No	
+row_37	MYOZ3	MYOZ3	myozenin 3	6514	-0.08398393541574478	-0.30708614	No	
+row_38	SLC25A4	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	6644	-0.09614712744951248	-0.31624225	No	
+row_39	DHX30	DHX30	DEAH (Asp-Glu-Ala-His) box polypeptide 30	6705	-0.1004565879702568	-0.31887487	No	
+row_40	SEC24A	SEC24A	SEC24 related gene family, member A (S. cerevisiae)	6759	-0.10612581670284271	-0.32069305	No	
+row_41	LPHN1	LPHN1	latrophilin 1	6849	-0.11387485265731812	-0.32562315	No	
+row_42	IL1RN	IL1RN	interleukin 1 receptor antagonist	6887	-0.11691686511039734	-0.32564297	No	
+row_43	DLG4	DLG4	discs, large homolog 4 (Drosophila)	7287	-0.15052390098571777	-0.35824752	No	
+row_44	CYP2E1	CYP2E1	cytochrome P450, family 2, subfamily E, polypeptide 1	7492	-0.16873280704021454	-0.37224016	No	
+row_45	KIF3A	KIF3A	kinesin family member 3A	7852	-0.20220491290092468	-0.39962813	No	
+row_46	PARP2	PARP2	poly (ADP-ribose) polymerase family, member 2	7874	-0.20373262465000153	-0.3956317	No	
+row_47	ZNF230	ZNF230	zinc finger protein 230	7940	-0.2100110948085785	-0.39553186	No	
+row_48	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	7943	-0.21029451489448547	-0.3895823	No	
+row_49	MAN2A2	MAN2A2	mannosidase, alpha, class 2A, member 2	7956	-0.21111316978931427	-0.3845361	No	
+row_50	PPM1A	PPM1A	protein phosphatase 1A (formerly 2C), magnesium-dependent, alpha isoform	7976	-0.21236196160316467	-0.3801025	No	
+row_51	ATP8A1	ATP8A1	ATPase, aminophospholipid transporter (APLT), Class I, type 8A, member 1	8012	-0.21546946465969086	-0.37706175	No	
+row_52	PTHLH	PTHLH	parathyroid hormone-like hormone	8154	-0.23032426834106445	-0.38341612	No	
+row_53	TNFRSF17	TNFRSF17	tumor necrosis factor receptor superfamily, member 17	8196	-0.23512054979801178	-0.38035843	No	
+row_54	HSF2	HSF2	heat shock transcription factor 2	8265	-0.24223600327968597	-0.37959665	No	
+row_55	MAGOH	MAGOH	mago-nashi homolog, proliferation-associated (Drosophila)	8407	-0.2594480514526367	-0.38510138	No	
+row_56	NUP98	NUP98	nucleoporin 98kDa	8408	-0.2595588266849518	-0.37752917	No	
+row_57	PPP3R1	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, 19kDa, alpha isoform (calcineurin B, type I)	8488	-0.26755788922309875	-0.37704858	No	
+row_58	MET	MET	met proto-oncogene (hepatocyte growth factor receptor)	8739	-0.2971569895744324	-0.39155987	No	
+row_59	SH3GL3	SH3GL3	SH3-domain GRB2-like 3	8834	-0.30750706791877747	-0.39130464	No	
+row_60	WNT11	WNT11	wingless-type MMTV integration site family, member 11	8865	-0.31117579340934753	-0.38500825	No	
+row_61	LAMA5	LAMA5	laminin, alpha 5	9141	-0.34463492035865784	-0.40045246	Yes	
+row_62	EIF2C2	EIF2C2	eukaryotic translation initiation factor 2C, 2	9171	-0.34775954484939575	-0.39299604	Yes	
+row_63	MPHOSPH9	MPHOSPH9	M-phase phosphoprotein 9	9192	-0.3511714041233063	-0.38460562	Yes	
+row_64	SEC23IP	SEC23IP	SEC23 interacting protein	9202	-0.35221028327941895	-0.37516496	Yes	
+row_65	ZNF536	ZNF536	zinc finger protein 536	9286	-0.35961949825286865	-0.3723695	Yes	
+row_66	TRAF3IP1	TRAF3IP1	TNF receptor-associated factor 3 interacting protein 1	9315	-0.36316025257110596	-0.3643711	Yes	
+row_67	RSBN1	RSBN1	round spermatid basic protein 1	9352	-0.36747539043426514	-0.35698858	Yes	
+row_68	RIF1	RIF1	RAP1 interacting factor homolog (yeast)	9417	-0.37667807936668396	-0.35193375	Yes	
+row_69	ETV5	ETV5	ets variant gene 5 (ets-related molecule)	9456	-0.38256385922431946	-0.3442965	Yes	
+row_70	FOXA2	FOXA2	forkhead box A2	9637	-0.4126647710800171	-0.34894753	Yes	
+row_71	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	-0.33981875	Yes	
+row_72	TMPO	TMPO	thymopoietin	9718	-0.42455562949180603	-0.3316982	Yes	
+row_73	TOPBP1	TOPBP1	topoisomerase (DNA) II binding protein 1	9824	-0.4431001842021942	-0.32850724	Yes	
+row_74	ZFP37	ZFP37	zinc finger protein 37 homolog (mouse)	9855	-0.4499755799770355	-0.31816158	Yes	
+row_75	PTPN3	PTPN3	protein tyrosine phosphatase, non-receptor type 3	9870	-0.4518466889858246	-0.30627778	Yes	
+row_76	MITF	MITF	microphthalmia-associated transcription factor	9889	-0.455241858959198	-0.2946658	Yes	
+row_77	AMD1	AMD1	adenosylmethionine decarboxylase 1	9952	-0.46283459663391113	-0.28691208	Yes	
+row_78	SLC39A7	SLC39A7	solute carrier family 39 (zinc transporter), member 7	9961	-0.46480149030685425	-0.27409402	Yes	
+row_79	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	10011	-0.4743756353855133	-0.26479822	Yes	
+row_80	GPRC5B	GPRC5B	G protein-coupled receptor, family C, group 5, member B	10057	-0.4834980070590973	-0.2548654	Yes	
+row_81	ZFX	ZFX	zinc finger protein, X-linked	10099	-0.4934338927268982	-0.24427186	Yes	
+row_82	CASP6	CASP6	caspase 6, apoptosis-related cysteine peptidase	10142	-0.5048424601554871	-0.2334382	Yes	
+row_83	WHSC2	WHSC2	Wolf-Hirschhorn syndrome candidate 2	10145	-0.5053682327270508	-0.21888034	Yes	
+row_84	PEG3	PEG3	paternally expressed 3	10176	-0.5135236978530884	-0.20668076	Yes	
+row_85	POLR2H	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	10287	-0.5390080809593201	-0.20115542	Yes	
+row_86	CFDP1	CFDP1	craniofacial development protein 1	10460	-0.5856122970581055	-0.20001921	Yes	
+row_87	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	10473	-0.5902814269065857	-0.18391137	Yes	
+row_88	PRKAA2	PRKAA2	protein kinase, AMP-activated, alpha 2 catalytic subunit	10480	-0.5921550393104553	-0.16719253	Yes	
+row_89	FGFR1OP	FGFR1OP	FGFR1 oncogene partner	10510	-0.6015211343765259	-0.15233305	Yes	
+row_90	TP53BP2	TP53BP2	tumor protein p53 binding protein, 2	10531	-0.6090003848075867	-0.13642088	Yes	
+row_91	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.118868224	Yes	
+row_92	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.10228376	Yes	
+row_93	SLC25A13	SLC25A13	solute carrier family 25, member 13 (citrin)	10609	-0.6455289721488953	-0.08864389	Yes	
+row_94	DDX18	DDX18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	10613	-0.6471725106239319	-0.07004185	Yes	
+row_95	FGF9	FGF9	fibroblast growth factor 9 (glia-activating factor)	10644	-0.6608180403709412	-0.053545196	Yes	
+row_96	CASP2	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	10742	-0.7313997745513916	-0.041201767	Yes	
+row_97	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	10817	-0.8144341111183167	-0.02430335	Yes	
+row_98	PDIA4	PDIA4	protein disulfide isomerase family A, member 4	10873	-1.0396541357040405	9.2719897E-4	Yes	

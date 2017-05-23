@@ -1,0 +1,70 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CFL2	CFL2	cofilin 2 (muscle)	18	1.0420563220977783	0.04066713	No	
+row_1	GMCL1	GMCL1	germ cell-less homolog 1 (Drosophila)	191	0.7701286673545837	0.056048255	No	
+row_2	TINF2	TINF2	TERF1 (TRF1)-interacting nuclear factor 2	266	0.7217167019844055	0.07852423	No	
+row_3	SORBS1	SORBS1	sorbin and SH3 domain containing 1	507	0.623578667640686	0.08166448	No	
+row_4	PSPC1	PSPC1	paraspeckle component 1	1410	0.41104984283447266	0.01495989	No	
+row_5	RNASEL	RNASEL	ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent)	1611	0.3788950741291046	0.011858923	No	
+row_6	TEP1	TEP1	telomerase-associated protein 1	1732	0.3585837781429291	0.015329983	No	
+row_7	GFI1B	GFI1B	growth factor independent 1B (potential regulator of CDKN1A, translocated in CML)	1957	0.32788270711898804	0.007937599	No	
+row_8	MBD1	MBD1	methyl-CpG binding domain protein 1	2002	0.3233422338962555	0.017004317	No	
+row_9	HAT1	HAT1	histone acetyltransferase 1	2267	0.2961837649345398	0.0046256585	No	
+row_10	GFI1	GFI1	growth factor independent 1	2514	0.26684731245040894	-0.007280381	No	
+row_11	PML	PML	promyelocytic leukemia	2604	0.2567673325538635	-0.005079025	No	
+row_12	PRKCD	PRKCD	protein kinase C, delta	2684	0.24734103679656982	-0.0023359512	No	
+row_13	PHACTR3	PHACTR3	phosphatase and actin regulator 3	2805	0.2324378341436386	-0.0039893226	No	
+row_14	TGFB1I1	TGFB1I1	transforming growth factor beta 1 induced transcript 1	3238	0.18852904438972473	-0.036275223	No	
+row_15	SP100	SP100	SP100 nuclear antigen	3838	0.13253740966320038	-0.086277194	No	
+row_16	TELO2	TELO2	TEL2, telomere maintenance 2, homolog (S. cerevisiae)	3846	0.1318526566028595	-0.08156819	No	
+row_17	AHCTF1	AHCTF1	AT hook containing transcription factor 1	3937	0.12428884953260422	-0.08484097	No	
+row_18	AKAP8L	AKAP8L	A kinase (PRKA) anchor protein 8-like	4253	0.0980658084154129	-0.10998345	No	
+row_19	EBNA1BP2	EBNA1BP2	EBNA1 binding protein 2	4314	0.0925341472029686	-0.11177229	No	
+row_20	YEATS4	YEATS4	YEATS domain containing 4	4374	0.08779522031545639	-0.11366116	No	
+row_21	HLCS	HLCS	holocarboxylase synthetase (biotin-(proprionyl-Coenzyme A-carboxylase (ATP-hydrolysing)) ligase)	4662	0.06342464685440063	-0.13762188	No	
+row_22	YY2	YY2	YY2 transcription factor	4684	0.06199831888079643	-0.13704507	No	
+row_23	FIGN	FIGN	fidgetin	5068	0.031928956508636475	-0.1711618	No	
+row_24	SPTBN4	SPTBN4	spectrin, beta, non-erythrocytic 4	5396	0.006702336482703686	-0.20112531	No	
+row_25	CASK	CASK	calcium/calmodulin-dependent serine protein kinase (MAGUK family)	6009	-0.043600596487522125	-0.2559422	No	
+row_26	ATF7	ATF7	activating transcription factor 7	6263	-0.06490299105644226	-0.27669907	No	
+row_27	NCOR2	NCOR2	nuclear receptor co-repressor 2	6345	-0.07070150971412659	-0.28131658	No	
+row_28	GHRHR	GHRHR	growth hormone releasing hormone receptor	6632	-0.09476342052221298	-0.30391175	No	
+row_29	SMC3	SMC3	structural maintenance of chromosomes 3	6654	-0.09657962620258331	-0.30193013	No	
+row_30	TNPO2	TNPO2	transportin 2 (importin 3, karyopherin beta 2b)	6744	-0.10472019016742706	-0.3059054	No	
+row_31	ZNF326	ZNF326	zinc finger protein 326	7058	-0.13093359768390656	-0.32952777	No	
+row_32	PSMA6	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	7060	-0.13095445930957794	-0.32430044	No	
+row_33	MATR3	MATR3	matrin 3	7171	-0.13913318514823914	-0.3288195	No	
+row_34	MEN1	MEN1	multiple endocrine neoplasia I	7502	-0.16987982392311096	-0.35243165	No	
+row_35	MAEA	MAEA	macrophage erythroblast attacher	7631	-0.18119171261787415	-0.3569065	No	
+row_36	ATXN3	ATXN3	ataxin 3	8394	-0.2571452856063843	-0.4169182	No	
+row_37	NUP98	NUP98	nucleoporin 98kDa	8408	-0.2595588266849518	-0.40757614	No	
+row_38	NUP153	NUP153	nucleoporin 153kDa	8660	-0.28766804933547974	-0.4190987	Yes	
+row_39	CAD	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	8684	-0.2917642891407013	-0.40937302	Yes	
+row_40	ZNF350	ZNF350	zinc finger protein 350	8700	-0.29337701201438904	-0.39884213	Yes	
+row_41	CXXC1	CXXC1	CXXC finger 1 (PHD domain)	8940	-0.32051023840904236	-0.40792096	Yes	
+row_42	MAPT	MAPT	microtubule-associated protein tau	8981	-0.3258212208747864	-0.39838368	Yes	
+row_43	RUNX1T1	RUNX1T1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related)	9033	-0.3319931924343109	-0.3896128	Yes	
+row_44	PSIP1	PSIP1	PC4 and SFRS1 interacting protein 1	9056	-0.33462661504745483	-0.37805346	Yes	
+row_45	KIN	KIN	KIN, antigenic determinant of recA protein homolog (mouse)	9057	-0.33481159806251526	-0.3644524	Yes	
+row_46	ATN1	ATN1	atrophin 1	9072	-0.33684486150741577	-0.35206324	Yes	
+row_47	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	-0.38410154	Yes	
+row_48	KIF4A	KIF4A	kinesin family member 4A	9846	-0.44815680384635925	-0.3887347	Yes	
+row_49	NARF	NARF	nuclear prelamin A recognition factor	9909	-0.45727139711380005	-0.37589175	Yes	
+row_50	PRKCZ	PRKCZ	protein kinase C, zeta	9962	-0.4648299813270569	-0.36181706	Yes	
+row_51	ARFGEF1	ARFGEF1	ADP-ribosylation factor guanine nucleotide-exchange factor 1(brefeldin A-inhibited)	9986	-0.46970823407173157	-0.3448628	Yes	
+row_52	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.32730427	Yes	
+row_53	ENC1	ENC1	ectodermal-neural cortex (with BTB-like domain)	10125	-0.4996429681777954	-0.31801048	Yes	
+row_54	DNMT3A	DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	10161	-0.5086221694946289	-0.30058497	Yes	
+row_55	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.2899973	Yes	
+row_56	LMNB1	LMNB1	lamin B1	10348	-0.5551579594612122	-0.27327037	Yes	
+row_57	ATXN7	ATXN7	ataxin 7	10369	-0.5608484745025635	-0.2523363	Yes	
+row_58	LMNB2	LMNB2	lamin B2	10432	-0.5790160298347473	-0.23454767	Yes	
+row_59	ZNF703	ZNF703	zinc finger protein 703	10445	-0.5835409760475159	-0.21195205	Yes	
+row_60	PRPF40A	PRPF40A	PRP40 pre-mRNA processing factor 40 homolog A (yeast)	10446	-0.583737313747406	-0.18823886	Yes	
+row_61	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	10518	-0.6038016676902771	-0.17027557	Yes	
+row_62	TNPO1	TNPO1	transportin 1	10566	-0.624232292175293	-0.14926317	Yes	
+row_63	IPO4	IPO4	importin 4	10607	-0.6447045207023621	-0.12677188	Yes	
+row_64	ATXN1	ATXN1	ataxin 1	10738	-0.7279627323150635	-0.10922018	Yes	
+row_65	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	-0.0799925	Yes	
+row_66	NUP93	NUP93	nucleoporin 93kDa	10753	-0.7454150319099426	-0.050266273	Yes	
+row_67	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	10773	-0.7623668313026428	-0.021053439	Yes	
+row_68	RGS12	RGS12	regulator of G-protein signalling 12	10777	-0.7663582563400269	0.009800964	Yes	

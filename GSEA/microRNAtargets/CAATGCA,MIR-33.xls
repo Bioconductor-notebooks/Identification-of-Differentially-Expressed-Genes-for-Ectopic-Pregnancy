@@ -1,0 +1,59 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TMEM86A	TMEM86A	transmembrane protein 86A	105	0.8470972180366516	0.03712362	No	
+row_1	IRS2	IRS2	insulin receptor substrate 2	154	0.7992238402366638	0.07686619	No	
+row_2	USP32	USP32	ubiquitin specific peptidase 32	636	0.5797380208969116	0.06448058	No	
+row_3	CHN2	CHN2	chimerin (chimaerin) 2	919	0.5059546232223511	0.06639834	No	
+row_4	KPNA4	KPNA4	karyopherin alpha 4 (importin alpha 3)	1271	0.43453335762023926	0.05799481	No	
+row_5	PAPPA	PAPPA	pregnancy-associated plasma protein A, pappalysin 1	1652	0.3722878098487854	0.04347198	No	
+row_6	CSNK1D	CSNK1D	casein kinase 1, delta	1755	0.3547552227973938	0.053658973	No	
+row_7	FBXO33	FBXO33	F-box protein 33	1840	0.34257933497428894	0.06483562	No	
+row_8	PRKAA1	PRKAA1	protein kinase, AMP-activated, alpha 1 catalytic subunit	2221	0.30085229873657227	0.046364266	No	
+row_9	PDGFRA	PDGFRA	platelet-derived growth factor receptor, alpha polypeptide	2574	0.2603074610233307	0.028238196	No	
+row_10	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	2588	0.2581649124622345	0.041307203	No	
+row_11	SLC12A5	SLC12A5	solute carrier family 12, (potassium-chloride transporter) member 5	2741	0.24007052183151245	0.040536597	No	
+row_12	NUFIP2	NUFIP2	nuclear fragile X mental retardation protein interacting protein 2	3209	0.19148515164852142	0.007983867	No	
+row_13	SALL3	SALL3	sal-like 3 (Drosophila)	3464	0.16708484292030334	-0.006242712	No	
+row_14	OLFM1	OLFM1	olfactomedin 1	3629	0.15197694301605225	-0.012991047	No	
+row_15	SLITRK3	SLITRK3	SLIT and NTRK-like family, member 3	3761	0.1397135704755783	-0.017369011	No	
+row_16	B3GALT2	B3GALT2	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 2	3957	0.12302388995885849	-0.028581174	No	
+row_17	ST18	ST18	suppression of tumorigenicity 18 (breast carcinoma) (zinc finger protein)	4009	0.1188349574804306	-0.026723567	No	
+row_18	SCN8A	SCN8A	sodium channel, voltage gated, type VIII, alpha	4100	0.110887810587883	-0.028907668	No	
+row_19	DPYSL5	DPYSL5	dihydropyrimidinase-like 5	4123	0.10914742946624756	-0.024906794	No	
+row_20	MRPS25	MRPS25	mitochondrial ribosomal protein S25	4363	0.08871180564165115	-0.042079814	No	
+row_21	KCNMA1	KCNMA1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	4734	0.057430244982242584	-0.073082395	No	
+row_22	CACNA1C	CACNA1C	calcium channel, voltage-dependent, L type, alpha 1C subunit	4973	0.038419079035520554	-0.09294292	No	
+row_23	SGCD	SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	5117	0.02819104492664337	-0.104593635	No	
+row_24	NFIX	NFIX	nuclear factor I/X (CCAAT-binding transcription factor)	5199	0.02234671637415886	-0.110840425	No	
+row_25	USP6	USP6	ubiquitin specific peptidase 6 (Tre-2 oncogene)	5281	0.01564972847700119	-0.11745739	No	
+row_26	MORF4L2	MORF4L2	mortality factor 4 like 2	5712	-0.01693124882876873	-0.15624073	No	
+row_27	MLLT3	MLLT3	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 3	5737	-0.01925795152783394	-0.15739314	No	
+row_28	EEF1A1	EEF1A1	eukaryotic translation elongation factor 1 alpha 1	5898	-0.03342108428478241	-0.17032506	No	
+row_29	MEIS2	MEIS2	Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse)	6038	-0.04631497710943222	-0.1806045	No	
+row_30	LGI1	LGI1	leucine-rich, glioma inactivated 1	6069	-0.048642683774232864	-0.18068694	No	
+row_31	CNTN4	CNTN4	contactin 4	6448	-0.07840839773416519	-0.21126893	No	
+row_32	ZNF281	ZNF281	zinc finger protein 281	6809	-0.11074050515890121	-0.23840113	No	
+row_33	PURB	PURB	purine-rich element binding protein B	6968	-0.12399683892726898	-0.24614182	No	
+row_34	GRIA3	GRIA3	glutamate receptor, ionotrophic, AMPA 3	6995	-0.1258743405342102	-0.24158587	No	
+row_35	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	7147	-0.1369704306125641	-0.24796285	No	
+row_36	MAP4K4	MAP4K4	mitogen-activated protein kinase kinase kinase kinase 4	7242	-0.1460483819246292	-0.24857296	No	
+row_37	BTBD2	BTBD2	BTB (POZ) domain containing 2	7689	-0.18698836863040924	-0.27943447	No	
+row_38	CALML4	CALML4	calmodulin-like 4	7851	-0.20206524431705475	-0.2831371	No	
+row_39	ANKRD29	ANKRD29	ankyrin repeat domain 29	8516	-0.27030497789382935	-0.3295301	No	
+row_40	FBXW7	FBXW7	F-box and WD-40 domain protein 7 (archipelago homolog, Drosophila)	8548	-0.2744363844394684	-0.31722435	No	
+row_41	SMG1	SMG1	-	8604	-0.2802102565765381	-0.30681637	No	
+row_42	MORF4L1	MORF4L1	mortality factor 4 like 1	8862	-0.31103456020355225	-0.31336337	No	
+row_43	PARP6	PARP6	poly (ADP-ribose) polymerase family, member 6	9284	-0.35940757393836975	-0.33238533	Yes	
+row_44	SHANK2	SHANK2	SH3 and multiple ankyrin repeat domains 2	9325	-0.36468493938446045	-0.31592253	Yes	
+row_45	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	9423	-0.3777465522289276	-0.30400285	Yes	
+row_46	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	10011	-0.4743756353855133	-0.3320035	Yes	
+row_47	SNRK	SNRK	SNF related kinase	10197	-0.5179421305656433	-0.32046324	Yes	
+row_48	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.29715252	Yes	
+row_49	ICA1	ICA1	islet cell autoantigen 1, 69kDa	10270	-0.5348643064498901	-0.2679579	Yes	
+row_50	MMP16	MMP16	matrix metallopeptidase 16 (membrane-inserted)	10440	-0.5813344717025757	-0.25143576	Yes	
+row_51	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10557	-0.6210469007492065	-0.22782291	Yes	
+row_52	PTGFRN	PTGFRN	prostaglandin F2 receptor negative regulator	10660	-0.6680967807769775	-0.20031627	Yes	
+row_53	CASC3	CASC3	cancer susceptibility candidate 3	10715	-0.7045271992683411	-0.16636218	Yes	
+row_54	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	-0.1298714	Yes	
+row_55	EN2	EN2	engrailed homolog 2	10795	-0.7846202254295349	-0.08770307	Yes	
+row_56	CDK6	CDK6	cyclin-dependent kinase 6	10832	-0.8587019443511963	-0.043564472	Yes	
+row_57	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	10839	-0.8717123866081238	0.0040643797	Yes	

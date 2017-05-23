@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	REXO2	REXO2	REX2, RNA exonuclease 2 homolog (S. cerevisiae)	1351	0.42071422934532166	-0.038757473	No	
+row_1	KIAA0020	KIAA0020	KIAA0020	3015	0.2103125900030136	-0.14901671	No	
+row_2	ART3	ART3	ADP-ribosyltransferase 3	3348	0.1781541407108307	-0.14333536	No	
+row_3	MYBL1	MYBL1	v-myb myeloblastosis viral oncogene homolog (avian)-like 1	3647	0.15063022077083588	-0.14012301	No	
+row_4	VPREB3	VPREB3	pre-B lymphocyte gene 3	3719	0.14357635378837585	-0.117456324	No	
+row_5	UCHL5	UCHL5	ubiquitin carboxyl-terminal hydrolase L5	3799	0.13648098707199097	-0.09696887	No	
+row_6	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	-0.22665615	No	
+row_7	EEF1D	EEF1D	eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein)	5748	-0.02036411501467228	-0.26834136	No	
+row_8	CD19	CD19	CD19 molecule	6251	-0.06368869543075562	-0.3015834	No	
+row_9	DNTTIP2	DNTTIP2	deoxynucleotidyltransferase, terminal, interacting protein 2	6291	-0.06677138060331345	-0.29159245	No	
+row_10	IGHM	IGHM	immunoglobulin heavy constant mu	7625	-0.1806088089942932	-0.3775256	No	
+row_11	GLMN	GLMN	glomulin, FKBP associated protein	9628	-0.410696417093277	-0.4782266	Yes	
+row_12	SLC11A2	SLC11A2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	9655	-0.4143681526184082	-0.39634597	Yes	
+row_13	ATAD3A	ATAD3A	ATPase family, AAA domain containing 3A	9802	-0.4388853907585144	-0.32052165	Yes	
+row_14	POU2AF1	POU2AF1	POU domain, class 2, associating factor 1	9868	-0.4517838656902313	-0.23462035	Yes	
+row_15	SERBP1	SERBP1	SERPINE1 mRNA binding protein 1	10615	-0.6476704478263855	-0.17154686	Yes	
+row_16	EML4	EML4	echinoderm microtubule associated protein like 4	10866	-0.9642980098724365	0.001564345	Yes	

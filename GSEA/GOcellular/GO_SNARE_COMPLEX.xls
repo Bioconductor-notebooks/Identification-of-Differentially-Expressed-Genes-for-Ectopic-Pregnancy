@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NAPA	NAPA	N-ethylmaleimide-sensitive factor attachment protein, alpha	1	1.2397955656051636	0.10904592	Yes	
+row_1	SNAP29	SNAP29	synaptosomal-associated protein, 29kDa	31	0.9846784472465515	0.19305442	Yes	
+row_2	BET1L	BET1L	blocked early in transport 1 homolog (S. cerevisiae)-like	199	0.7658703923225403	0.24508725	Yes	
+row_3	VAMP4	VAMP4	vesicle-associated membrane protein 4	293	0.7088949680328369	0.29892236	Yes	
+row_4	STX11	STX11	syntaxin 11	394	0.6607995629310608	0.34787872	Yes	
+row_5	VAMP3	VAMP3	vesicle-associated membrane protein 3 (cellubrevin)	441	0.6436527371406555	0.40030083	Yes	
+row_6	PLDN	PLDN	pallidin homolog (mouse)	499	0.6273996829986572	0.4502787	Yes	
+row_7	GOSR2	GOSR2	golgi SNAP receptor complex member 2	786	0.5335584878921509	0.47089764	Yes	
+row_8	TSNARE1	TSNARE1	t-SNARE domain containing 1	1130	0.4662337601184845	0.4803385	Yes	
+row_9	NAPG	NAPG	N-ethylmaleimide-sensitive factor attachment protein, gamma	1572	0.3840009272098541	0.47351158	No	
+row_10	VTI1A	VTI1A	vesicle transport through interaction with t-SNAREs homolog 1A (yeast)	2517	0.266541063785553	0.4100024	No	
+row_11	STXBP2	STXBP2	syntaxin binding protein 2	2887	0.22368963062763214	0.3956969	No	
+row_12	STX3	STX3	syntaxin 3	3268	0.18576829135417938	0.3770398	No	
+row_13	STX2	STX2	syntaxin 2	3898	0.12702713906764984	0.3302709	No	
+row_14	BNIP1	BNIP1	BCL2/adenovirus E1B 19kDa interacting protein 1	4124	0.10907001793384552	0.31914252	No	
+row_15	BET1	BET1	BET1 homolog (S. cerevisiae)	5020	0.03544394671916962	0.23980455	No	
+row_16	DOC2B	DOC2B	double C2-like domains, beta	5207	0.021240005269646645	0.22453775	No	
+row_17	SEC22B	SEC22B	SEC22 vesicle trafficking protein homolog B (S. cerevisiae)	6728	-0.1033063530921936	0.09359118	No	
+row_18	VAMP8	VAMP8	vesicle-associated membrane protein 8 (endobrevin)	6800	-0.11007102578878403	0.09673926	No	
+row_19	SEC22A	SEC22A	SEC22 vesicle trafficking protein homolog A (S. cerevisiae)	7037	-0.1289832890033722	0.08635041	No	
+row_20	VTI1B	VTI1B	vesicle transport through interaction with t-SNAREs homolog 1B (yeast)	7120	-0.1351262927055359	0.09069063	No	
+row_21	SCAMP5	SCAMP5	secretory carrier membrane protein 5	7214	-0.14291206002235413	0.09470278	No	
+row_22	STXBP5L	STXBP5L	syntaxin binding protein 5-like	7385	-0.15903620421886444	0.09304016	No	
+row_23	STX5	STX5	syntaxin 5	7403	-0.16038130223751068	0.10559213	No	
+row_24	CPLX2	CPLX2	complexin 2	8141	-0.2291918694972992	0.05786645	No	
+row_25	NAPB	NAPB	N-ethylmaleimide-sensitive factor attachment protein, beta	8658	-0.28698286414146423	0.03558921	No	
+row_26	STX8	STX8	syntaxin 8	8678	-0.2905791997909546	0.059418123	No	
+row_27	VAMP1	VAMP1	vesicle-associated membrane protein 1 (synaptobrevin 1)	8892	-0.3144291341304779	0.06747293	No	
+row_28	SCFD1	SCFD1	sec1 family domain containing 1	10532	-0.6090782880783081	-0.029914709	No	
+row_29	STX17	STX17	syntaxin 17	10719	-0.7061404585838318	0.015109643	No	

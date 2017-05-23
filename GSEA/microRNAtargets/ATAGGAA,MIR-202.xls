@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	USP15	USP15	ubiquitin specific peptidase 15	1245	0.4403511583805084	-0.08212747	No	
+row_1	CD28	CD28	CD28 molecule	1420	0.4092986583709717	-0.0677284	No	
+row_2	SORCS1	SORCS1	sortilin-related VPS10 domain containing receptor 1	1428	0.4081432521343231	-0.038003713	No	
+row_3	STOX2	STOX2	storkhead box 2	1549	0.387634813785553	-0.020233298	No	
+row_4	ANKRD13A	ANKRD13A	ankyrin repeat domain 13A	2092	0.31498265266418457	-0.046813324	No	
+row_5	BAG4	BAG4	BCL2-associated athanogene 4	2125	0.3105446994304657	-0.02665825	No	
+row_6	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	2218	0.3014027774333954	-0.012720538	No	
+row_7	PRMT8	PRMT8	protein arginine methyltransferase 8	2553	0.2625194489955902	-0.024009172	No	
+row_8	BICD2	BICD2	bicaudal D homolog 2 (Drosophila)	3063	0.20537912845611572	-0.05569959	No	
+row_9	ARSB	ARSB	arylsulfatase B	3128	0.19876037538051605	-0.046815712	No	
+row_10	SNX16	SNX16	sorting nexin 16	3136	0.19802403450012207	-0.032726377	No	
+row_11	ACTN1	ACTN1	actinin, alpha 1	3452	0.1678929477930069	-0.049302924	No	
+row_12	PPP5C	PPP5C	protein phosphatase 5, catalytic subunit	3497	0.1635086089372635	-0.04119649	No	
+row_13	RAB22A	RAB22A	RAB22A, member RAS oncogene family	3605	0.15373875200748444	-0.039631005	No	
+row_14	ANP32E	ANP32E	acidic (leucine-rich) nuclear phosphoprotein 32 family, member E	3996	0.11982753127813339	-0.06670556	No	
+row_15	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	4385	0.08635181933641434	-0.09608654	No	
+row_16	LHFPL3	LHFPL3	lipoma HMGIC fusion partner-like 3	4486	0.07676207274198532	-0.09960303	No	
+row_17	IQGAP1	IQGAP1	IQ motif containing GTPase activating protein 1	4726	0.057692281901836395	-0.11736615	No	
+row_18	TTC13	TTC13	tetratricopeptide repeat domain 13	5125	0.027746083214879036	-0.15203094	No	
+row_19	APPBP2	APPBP2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2	5608	-0.008924146182835102	-0.19584824	No	
+row_20	YAF2	YAF2	YY1 associated factor 2	5658	-0.012959811836481094	-0.19940583	No	
+row_21	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	6008	-0.043398335576057434	-0.22838394	No	
+row_22	EIF4E3	EIF4E3	eukaryotic translation initiation factor 4E member 3	6048	-0.046850573271512985	-0.22849682	No	
+row_23	SCN2B	SCN2B	sodium channel, voltage-gated, type II, beta	6223	-0.06119968742132187	-0.24000043	No	
+row_24	MLL	MLL	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila)	6455	-0.07908690720796585	-0.25543326	No	
+row_25	TRIM33	TRIM33	tripartite motif-containing 33	6729	-0.1034499928355217	-0.27292916	No	
+row_26	NR2F2	NR2F2	nuclear receptor subfamily 2, group F, member 2	6944	-0.12247516959905624	-0.28356454	No	
+row_27	RAD52	RAD52	RAD52 homolog (S. cerevisiae)	6956	-0.12319201976060867	-0.27541274	No	
+row_28	GRIA3	GRIA3	glutamate receptor, ionotrophic, AMPA 3	6995	-0.1258743405342102	-0.26955304	No	
+row_29	BCL2	BCL2	B-cell CLL/lymphoma 2	7141	-0.13663285970687866	-0.27276725	No	
+row_30	GPBP1L1	GPBP1L1	GC-rich promoter binding protein 1-like 1	7311	-0.1526898741722107	-0.27700147	No	
+row_31	MAPK6	MAPK6	mitogen-activated protein kinase 6	7345	-0.15612618625164032	-0.26842925	No	
+row_32	ERBB2IP	ERBB2IP	erbb2 interacting protein	7875	-0.20373761653900146	-0.30208752	No	
+row_33	DDX3X	DDX3X	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	7974	-0.21226392686367035	-0.2953365	No	
+row_34	SSBP2	SSBP2	single-stranded DNA binding protein 2	8788	-0.3028610646724701	-0.34782773	Yes	
+row_35	CTBP2	CTBP2	C-terminal binding protein 2	8826	-0.30660831928253174	-0.32842702	Yes	
+row_36	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.3333628	Yes	
+row_37	EI24	EI24	etoposide induced 2.4 mRNA	9402	-0.37432950735092163	-0.32774892	Yes	
+row_38	ENAH	ENAH	enabled homolog (Drosophila)	9699	-0.42143362760543823	-0.32370564	Yes	
+row_39	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	10011	-0.4743756353855133	-0.3171071	Yes	
+row_40	ESR1	ESR1	estrogen receptor 1	10205	-0.5193678140640259	-0.29627103	Yes	
+row_41	PGAP1	PGAP1	-	10423	-0.5770513415336609	-0.27335742	Yes	
+row_42	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	10592	-0.6375507116317749	-0.24141999	Yes	
+row_43	FAM60A	FAM60A	family with sequence similarity 60, member A	10669	-0.6701781153678894	-0.19856448	Yes	
+row_44	MIB1	MIB1	mindbomb homolog 1 (Drosophila)	10696	-0.6924533843994141	-0.14943717	Yes	
+row_45	KLF12	KLF12	Kruppel-like factor 12	10725	-0.7112607955932617	-0.09909494	Yes	
+row_46	ATXN1	ATXN1	ataxin 1	10738	-0.7279627323150635	-0.046033334	Yes	
+row_47	USP8	USP8	ubiquitin specific peptidase 8	10803	-0.7972171306610107	0.0073828017	Yes	

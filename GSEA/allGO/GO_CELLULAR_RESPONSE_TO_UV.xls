@@ -1,0 +1,41 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP1	AQP1	aquaporin 1 (Colton blood group)	118	0.8312647938728333	0.048850752	No	
+row_1	IMPACT	IMPACT	Impact homolog (mouse)	1009	0.4898971617221832	0.0019803476	No	
+row_2	PPP1R15A	PPP1R15A	protein phosphatase 1, regulatory (inhibitor) subunit 15A	1765	0.3529026508331299	-0.042284817	No	
+row_3	HYAL1	HYAL1	hyaluronoglucosaminidase 1	1917	0.33226802945137024	-0.032333724	No	
+row_4	XPC	XPC	xeroderma pigmentosum, complementation group C	1931	0.3304293155670166	-0.009788823	No	
+row_5	CUL4B	CUL4B	cullin 4B	2206	0.3030863404273987	-0.013277321	No	
+row_6	N4BP1	N4BP1	-	2302	0.29124268889427185	-0.001110048	No	
+row_7	STK11	STK11	serine/threonine kinase 11	4101	0.11084139347076416	-0.15895127	No	
+row_8	DDB1	DDB1	damage-specific DNA binding protein 1, 127kDa	5539	-0.003948981873691082	-0.29118317	No	
+row_9	HYAL2	HYAL2	hyaluronoglucosaminidase 2	5962	-0.03923065587878227	-0.3272797	No	
+row_10	POLH	POLH	polymerase (DNA directed), eta	6050	-0.04692612588405609	-0.33193058	No	
+row_11	MAPK9	MAPK9	mitogen-activated protein kinase 9	6119	-0.05323229730129242	-0.33437622	No	
+row_12	HYAL3	HYAL3	hyaluronoglucosaminidase 3	6264	-0.06491050124168396	-0.34299117	No	
+row_13	TP73	TP73	tumor protein p73	6434	-0.07772886008024216	-0.35299045	No	
+row_14	TMEM161A	TMEM161A	transmembrane protein 161A	6832	-0.11237829178571701	-0.38152537	No	
+row_15	SIRT1	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	7530	-0.17174309492111206	-0.43345955	No	
+row_16	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	7739	-0.19199593365192413	-0.43884438	No	
+row_17	PPID	PPID	peptidylprolyl isomerase D (cyclophilin D)	7882	-0.2042248547077179	-0.43726417	No	
+row_18	FBXW7	FBXW7	F-box and WD-40 domain protein 7 (archipelago homolog, Drosophila)	8548	-0.2744363844394684	-0.47886816	Yes	
+row_19	XPA	XPA	xeroderma pigmentosum, complementation group A	8581	-0.2781285047531128	-0.46183357	Yes	
+row_20	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	8690	-0.2921338379383087	-0.4508011	Yes	
+row_21	EIF2AK4	EIF2AK4	eukaryotic translation initiation factor 2 alpha kinase 4	8741	-0.29736271500587463	-0.4340443	Yes	
+row_22	ACTR5	ACTR5	ARP5 actin-related protein 5 homolog (yeast)	8785	-0.3025990426540375	-0.4162657	Yes	
+row_23	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	8828	-0.30668458342552185	-0.39810133	Yes	
+row_24	BAX	BAX	BCL2-associated X protein	8851	-0.3098953068256378	-0.3778619	Yes	
+row_25	USP47	USP47	ubiquitin specific peptidase 47	8947	-0.32168081402778625	-0.36350742	Yes	
+row_26	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	9130	-0.3436282277107239	-0.35559875	Yes	
+row_27	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.33336347	Yes	
+row_28	ATR	ATR	ataxia telangiectasia and Rad3 related	9291	-0.35997045040130615	-0.31948522	Yes	
+row_29	TRIAP1	TRIAP1	TP53 regulated inhibitor of apoptosis 1	9396	-0.37407881021499634	-0.30219552	Yes	
+row_30	EIF2S1	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	9662	-0.4157504141330719	-0.29675835	Yes	
+row_31	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.26961872	Yes	
+row_32	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	9967	-0.4657366871833801	-0.26095855	Yes	
+row_33	AURKB	AURKB	aurora kinase B	10033	-0.4792826473712921	-0.23251274	Yes	
+row_34	RHBDD1	RHBDD1	rhomboid domain containing 1	10443	-0.5828467607498169	-0.22834772	Yes	
+row_35	NOC2L	NOC2L	nucleolar complex associated 2 homolog (S. cerevisiae)	10457	-0.5850772261619568	-0.18750454	Yes	
+row_36	PTN	PTN	pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	10553	-0.6196275353431702	-0.15174046	Yes	
+row_37	ZBTB1	ZBTB1	zinc finger and BTB domain containing 1	10578	-0.632575273513794	-0.10849859	Yes	
+row_38	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	-0.07105373	Yes	
+row_39	PTPRK	PTPRK	protein tyrosine phosphatase, receptor type, K	10878	-1.1633549928665161	4.6127086E-4	Yes	

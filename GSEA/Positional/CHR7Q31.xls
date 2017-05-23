@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCND2	KCND2	potassium voltage-gated channel, Shal-related subfamily, member 2	170	0.7858412265777588	0.05141158	Yes	
+row_1	MDFIC	MDFIC	MyoD family inhibitor domain containing	171	0.7840122580528259	0.11834966	Yes	
+row_2	LOC401397	LOC401397	-	335	0.6877713799476624	0.1620339	Yes	
+row_3	DNAJB9	DNAJB9	DnaJ (Hsp40) homolog, subfamily B, member 9	480	0.6324938535690308	0.20275138	Yes	
+row_4	CAV2	CAV2	caveolin 2	704	0.5550933480262756	0.22957267	Yes	
+row_5	GPR85	GPR85	G protein-coupled receptor 85	829	0.5245487689971924	0.26291895	Yes	
+row_6	TFEC	TFEC	transcription factor EC	913	0.5070270299911499	0.2985515	Yes	
+row_7	IFRD1	IFRD1	interferon-related developmental regulator 1	1426	0.40863287448883057	0.28620765	Yes	
+row_8	SLC26A4	SLC26A4	solute carrier family 26, member 4	1570	0.3842390775680542	0.30582166	Yes	
+row_9	LOC154872	LOC154872	-	1890	0.335766464471817	0.30506098	Yes	
+row_10	WASL	WASL	Wiskott-Aldrich syndrome-like	2033	0.31958624720573425	0.31924728	Yes	
+row_11	GPR37	GPR37	G protein-coupled receptor 37 (endothelin receptor type B-like)	2110	0.3129073977470398	0.3389519	Yes	
+row_12	ASB15	ASB15	ankyrin repeat and SOCS box-containing 15	2264	0.29639917612075806	0.3501437	Yes	
+row_13	BPGM	BPGM	2,3-bisphosphoglycerate mutase	2290	0.29339489340782166	0.37288716	Yes	
+row_14	PTPRZ1	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1	2756	0.23814047873020172	0.35032266	No	
+row_15	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	3014	0.21034978330135345	0.3445736	No	
+row_16	ANKRD7	ANKRD7	ankyrin repeat domain 7	4093	0.11118414252996445	0.25461987	No	
+row_17	LRRN3	LRRN3	leucine rich repeat neuronal 3	4722	0.058049462735652924	0.2016425	No	
+row_18	EXOC4	EXOC4	exocyst complex component 4	4781	0.05352751165628433	0.20086206	No	
+row_19	CTTNBP2	CTTNBP2	cortactin binding protein 2	4849	0.04778552055358887	0.19876112	No	
+row_20	AASS	AASS	aminoadipate-semialdehyde synthase	5130	0.027595581486821175	0.17528695	No	
+row_21	ST7	ST7	suppression of tumorigenicity 7	5268	0.01651533506810665	0.16405863	No	
+row_22	TRPV5	TRPV5	transient receptor potential cation channel, subfamily V, member 5	5322	0.012468249537050724	0.16023386	No	
+row_23	CADPS2	CADPS2	Ca2+-dependent activator protein for secretion 2	5491	-4.638286482077092E-4	0.1447753	No	
+row_24	LANCL2	LANCL2	LanC lantibiotic synthetase component C-like 2 (bacterial)	5536	-0.0038882961962372065	0.14104824	No	
+row_25	SPAM1	SPAM1	sperm adhesion molecule 1 (PH-20 hyaluronidase, zona pellucida binding)	5572	-0.005692509934306145	0.13830549	No	
+row_26	LEP	LEP	leptin (obesity homolog, mouse)	6097	-0.0506816990673542	0.09429314	No	
+row_27	TMEM168	TMEM168	transmembrane protein 168	6202	-0.06016203388571739	0.089835614	No	
+row_28	FOXP2	FOXP2	forkhead box P2	6539	-0.08627521246671677	0.06620538	No	
+row_29	SLC26A3	SLC26A3	solute carrier family 26, member 3	7084	-0.13246391713619232	0.027330503	No	
+row_30	OPN1SW	OPN1SW	opsin 1 (cone pigments), short-wave-sensitive (color blindness, tritan)	7174	-0.13938094675540924	0.03102036	No	
+row_31	HYALP1	HYALP1	hyaluronoglucosaminidase pseudogene 1	7226	-0.14468397200107574	0.038668517	No	
+row_32	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	7505	-0.17001192271709442	0.027538188	No	
+row_33	NDUFA5	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa	7519	-0.17091886699199677	0.040931784	No	
+row_34	NRCAM	NRCAM	neuronal cell adhesion molecule	7536	-0.17221462726593018	0.05415926	No	
+row_35	LAMB4	LAMB4	laminin, beta 4	8027	-0.21705903112888336	0.027488565	No	
+row_36	PAPOLB	PAPOLB	poly(A) polymerase beta (testis specific)	8642	-0.28454282879829407	-0.0048595537	No	
+row_37	MET	MET	met proto-oncogene (hepatocyte growth factor receptor)	8739	-0.2971569895744324	0.011655285	No	
+row_38	GRM8	GRM8	glutamate receptor, metabotropic 8	8777	-0.3010270595550537	0.03394335	No	
+row_39	PPP1R3A	PPP1R3A	protein phosphatase 1, regulatory (inhibitor) subunit 3A (glycogen and sarcoplasmic reticulum binding subunit, skeletal muscle)	8853	-0.31021881103515625	0.053510666	No	
+row_40	CAPZA2	CAPZA2	capping protein (actin filament) muscle Z-line, alpha 2	9136	-0.3440586030483246	0.056871243	No	
+row_41	TES	TES	testis derived transcript (3 LIM domains)	9177	-0.3486197292804718	0.082945965	No	
+row_42	LRRC61	LRRC61	leucine rich repeat containing 61	9205	-0.3523601293563843	0.1105393	No	
+row_43	ZNF277	ZNF277	zinc finger protein 277	10195	-0.5172896981239319	0.06346875	No	

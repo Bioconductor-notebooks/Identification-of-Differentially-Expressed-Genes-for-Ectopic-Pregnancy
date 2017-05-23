@@ -1,0 +1,41 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC43A3	SLC43A3	solute carrier family 43, member 3	178	0.778405487537384	0.047034085	No	
+row_1	CTSB	CTSB	cathepsin B	931	0.5039360523223877	0.018763365	No	
+row_2	ECEL1	ECEL1	endothelin converting enzyme-like 1	1360	0.41899213194847107	0.013447048	No	
+row_3	FAM53B	FAM53B	family with sequence similarity 53, member B	2312	0.29005733132362366	-0.050608322	No	
+row_4	ACTR6	ACTR6	ARP6 actin-related protein 6 homolog (yeast)	2442	0.2756713628768921	-0.040034022	No	
+row_5	NUP88	NUP88	nucleoporin 88kDa	2976	0.21345721185207367	-0.07178649	No	
+row_6	CPNE7	CPNE7	copine VII	3337	0.17903608083724976	-0.090391144	No	
+row_7	UCHL5	UCHL5	ubiquitin carboxyl-terminal hydrolase L5	3799	0.13648098707199097	-0.12177841	No	
+row_8	HNRPLL	HNRPLL	heterogeneous nuclear ribonucleoprotein L-like	4579	0.07035165280103683	-0.18788093	No	
+row_9	AMH	AMH	anti-Mullerian hormone	5008	0.036385081708431244	-0.22438397	No	
+row_10	RAD51C	RAD51C	RAD51 homolog C (S. cerevisiae)	5070	0.0317765511572361	-0.22741906	No	
+row_11	APPBP2	APPBP2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2	5608	-0.008924146182835102	-0.27621213	No	
+row_12	PPA2	PPA2	pyrophosphatase (inorganic) 2	6102	-0.0514712892472744	-0.31747955	No	
+row_13	WNK2	WNK2	WNK lysine deficient protein kinase 2	6359	-0.072397880256176	-0.33518586	No	
+row_14	ZNF777	ZNF777	zinc finger protein 777	6436	-0.0777914822101593	-0.33585346	No	
+row_15	SRPRB	SRPRB	signal recognition particle receptor, B subunit	6517	-0.08410678058862686	-0.33637518	No	
+row_16	ARHGAP26	ARHGAP26	Rho GTPase activating protein 26	6831	-0.11230309307575226	-0.35608512	No	
+row_17	ZNF770	ZNF770	zinc finger protein 770	7349	-0.157009556889534	-0.39096323	No	
+row_18	MRC2	MRC2	mannose receptor, C type 2	7507	-0.1701401174068451	-0.39157298	No	
+row_19	MYH14	MYH14	myosin, heavy chain 14	7657	-0.18381857872009277	-0.39033002	No	
+row_20	PLEKHF2	PLEKHF2	pleckstrin homology domain containing, family F (with FYVE domain) member 2	7694	-0.1874830722808838	-0.3783679	No	
+row_21	PSMD6	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	7888	-0.20490752160549164	-0.3794635	No	
+row_22	BRCA2	BRCA2	breast cancer 2, early onset	7926	-0.20919138193130493	-0.3658241	No	
+row_23	HCN3	HCN3	hyperpolarization activated cyclic nucleotide-gated potassium channel 3	8482	-0.2669791281223297	-0.39524272	Yes	
+row_24	GOLPH3L	GOLPH3L	golgi phosphoprotein 3-like	8579	-0.27796047925949097	-0.38143867	Yes	
+row_25	PRMT6	PRMT6	protein arginine methyltransferase 6	8735	-0.29671770334243774	-0.3715465	Yes	
+row_26	FANCA	FANCA	Fanconi anemia, complementation group A	8972	-0.3252541720867157	-0.36679786	Yes	
+row_27	CSDE1	CSDE1	cold shock domain containing E1, RNA-binding	9028	-0.3314405083656311	-0.3448537	Yes	
+row_28	RSBN1	RSBN1	round spermatid basic protein 1	9352	-0.36747539043426514	-0.34468645	Yes	
+row_29	L3MBTL2	L3MBTL2	l(3)mbt-like 2 (Drosophila)	9530	-0.39610710740089417	-0.3287217	Yes	
+row_30	ZNF146	ZNF146	zinc finger protein 146	9732	-0.42620620131492615	-0.31251675	Yes	
+row_31	TRIM23	TRIM23	tripartite motif-containing 23	9754	-0.42897525429725647	-0.27948707	Yes	
+row_32	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.2446997	Yes	
+row_33	VTCN1	VTCN1	V-set domain containing T cell activation inhibitor 1	9928	-0.45979925990104675	-0.2228056	Yes	
+row_34	HIRA	HIRA	HIR histone cell cycle regulation defective homolog A (S. cerevisiae)	10257	-0.53136146068573	-0.20974089	Yes	
+row_35	THUMPD1	THUMPD1	THUMP domain containing 1	10365	-0.5594815611839294	-0.17400414	Yes	
+row_36	HMBS	HMBS	hydroxymethylbilane synthase	10379	-0.5642672777175903	-0.12920891	Yes	
+row_37	CFDP1	CFDP1	craniofacial development protein 1	10460	-0.5856122970581055	-0.088852346	Yes	
+row_38	SP1	SP1	Sp1 transcription factor	10783	-0.7691423296928406	-0.055852547	Yes	
+row_39	USP8	USP8	ubiquitin specific peptidase 8	10803	-0.7972171306610107	0.007377382	Yes	

@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PHF1	PHF1	PHD finger protein 1	1107	0.4692838788032532	-0.018455485	No	
+row_1	CBX4	CBX4	chromobox homolog 4 (Pc class homolog, Drosophila)	1489	0.39806249737739563	0.017261231	No	
+row_2	ING1	ING1	inhibitor of growth family, member 1	2224	0.3006328046321869	0.003152022	No	
+row_3	ING5	ING5	inhibitor of growth family, member 5	4766	0.05479072779417038	-0.22103858	No	
+row_4	CBX8	CBX8	chromobox homolog 8 (Pc class homolog, Drosophila)	4774	0.0539071299135685	-0.21209595	No	
+row_5	SPIN1	SPIN1	-	4794	0.0522538460791111	-0.20455211	No	
+row_6	NCAPG2	NCAPG2	non-SMC condensin II complex, subunit G2	4919	0.041786134243011475	-0.20853664	No	
+row_7	CBX2	CBX2	chromobox homolog 2 (Pc class homolog, Drosophila)	5080	0.030981311574578285	-0.21775705	No	
+row_8	PHF2	PHF2	PHD finger protein 2	5174	0.023453999310731888	-0.22214784	No	
+row_9	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	6219	-0.06098038703203201	-0.30741772	No	
+row_10	CBX5	CBX5	chromobox homolog 5 (HP1 alpha homolog, Drosophila)	7967	-0.21176637709140778	-0.43059224	Yes	
+row_11	MSH6	MSH6	mutS homolog 6 (E. coli)	8295	-0.244646817445755	-0.41718814	Yes	
+row_12	CDYL	CDYL	chromodomain protein, Y-like	8324	-0.24824374914169312	-0.3756172	Yes	
+row_13	PHF13	PHF13	PHD finger protein 13	8398	-0.25784745812416077	-0.33648118	Yes	
+row_14	ING4	ING4	inhibitor of growth family, member 4	8574	-0.27693459391593933	-0.30334118	Yes	
+row_15	TP53BP1	TP53BP1	tumor protein p53 binding protein, 1	8634	-0.28407642245292664	-0.2582516	Yes	
+row_16	SUZ12	SUZ12	suppressor of zeste 12 homolog (Drosophila)	9231	-0.3554827868938446	-0.2499012	Yes	
+row_17	L3MBTL2	L3MBTL2	l(3)mbt-like 2 (Drosophila)	9530	-0.39610710740089417	-0.20689093	Yes	
+row_18	TDRD3	TDRD3	tudor domain containing 3	9570	-0.40204864740371704	-0.13897939	Yes	
+row_19	LOXL2	LOXL2	lysyl oxidase-like 2	9851	-0.4487422704696655	-0.08495109	Yes	
+row_20	CCDC101	CCDC101	coiled-coil domain containing 101	10046	-0.48166924715042114	-0.017149406	Yes	
+row_21	ZMYND11	ZMYND11	zinc finger, MYND domain containing 11	10248	-0.529198944568634	0.058460712	Yes	

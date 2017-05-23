@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP1	AQP1	aquaporin 1 (Colton blood group)	118	0.8312647938728333	0.122540615	Yes	
+row_1	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.2306657	Yes	
+row_2	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	508	0.6233882308006287	0.3057567	Yes	
+row_3	ADCY9	ADCY9	adenylate cyclase 9	560	0.6048184633255005	0.39812532	Yes	
+row_4	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1269	0.4350684881210327	0.40275425	Yes	
+row_5	AQP2	AQP2	aquaporin 2 (collecting duct)	1380	0.41613543033599854	0.45940918	Yes	
+row_6	ADCY3	ADCY3	adenylate cyclase 3	2576	0.2600231170654297	0.39110234	Yes	
+row_7	PRKACG	PRKACG	protein kinase, cAMP-dependent, catalytic, gamma	2654	0.25039905309677124	0.42419758	Yes	
+row_8	AVPR2	AVPR2	arginine vasopressin receptor 2 (nephrogenic diabetes insipidus)	2783	0.23510612547397614	0.4501424	Yes	
+row_9	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	2831	0.22965100407600403	0.4826703	Yes	
+row_10	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	3501	0.1632448434829712	0.44726658	Yes	
+row_11	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	3660	0.1493718922138214	0.45668983	Yes	
+row_12	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	3722	0.14318659901618958	0.4740523	Yes	
+row_13	MYO5B	MYO5B	myosin VB	3791	0.1374005228281021	0.48984164	Yes	
+row_14	ADCY5	ADCY5	adenylate cyclase 5	3980	0.1206485852599144	0.49189278	Yes	
+row_15	AVP	AVP	arginine vasopressin (neurophysin II, antidiuretic hormone, diabetes insipidus, neurohypophyseal)	4593	0.06902964413166046	0.44661748	No	
+row_16	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	0.42673382	No	
+row_17	AQP3	AQP3	aquaporin 3 (Gill blood group)	5206	0.021398717537522316	0.40088624	No	
+row_18	AQP4	AQP4	aquaporin 4	5790	-0.02423577755689621	0.3510925	No	
+row_19	ADCY8	ADCY8	adenylate cyclase 8 (brain)	6295	-0.0668850764632225	0.31541777	No	
+row_20	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6675	-0.09823323041200638	0.29628408	No	
+row_21	GNB5	GNB5	guanine nucleotide binding protein (G protein), beta 5	6818	-0.11158939450979233	0.3011171	No	
+row_22	ADCY6	ADCY6	adenylate cyclase 6	7329	-0.15498970448970795	0.2790294	No	
+row_23	GNAS	GNAS	GNAS complex locus	8768	-0.2999297082424164	0.19475134	No	

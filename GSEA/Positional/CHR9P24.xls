@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MPDZ	MPDZ	multiple PDZ domain protein	462	0.6375422477722168	0.050348286	No	
+row_1	CNTNAP3	CNTNAP3	contactin associated protein-like 3	1601	0.38023680448532104	9.89703E-4	No	
+row_2	SLC1A1	SLC1A1	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1	2143	0.3087078332901001	-0.0038367372	No	
+row_3	AK3	AK3	adenylate kinase 3	2791	0.23419569432735443	-0.029274737	No	
+row_4	RLN1	RLN1	relaxin 1	2808	0.2321539670228958	0.0030715691	No	
+row_5	KIAA0020	KIAA0020	KIAA0020	3015	0.2103125900030136	0.014747177	No	
+row_6	PDCD1LG2	PDCD1LG2	programmed cell death 1 ligand 2	3318	0.18132072687149048	0.013362868	No	
+row_7	MLANA	MLANA	melan-A	3941	0.12400605529546738	-0.025825847	No	
+row_8	DMRT3	DMRT3	doublesex and mab-3 related transcription factor 3	4291	0.09534942358732224	-0.044060253	No	
+row_9	INSL4	INSL4	insulin-like 4 (placenta)	4680	0.062104854732751846	-0.07072741	No	
+row_10	DOCK8	DOCK8	dedicator of cytokinesis 8	5716	-0.017101826146245003	-0.16350487	No	
+row_11	RCL1	RCL1	RNA terminal phosphate cyclase-like 1	6416	-0.07664832472801208	-0.21668006	No	
+row_12	NANS	NANS	N-acetylneuraminic acid synthase (sialic acid synthase)	6678	-0.09837751090526581	-0.2263732	No	
+row_13	SMARCA2	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	9208	-0.3525012135505676	-0.40780973	Yes	
+row_14	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	-0.3844274	Yes	
+row_15	NFIB	NFIB	nuclear factor I/B	9713	-0.423800528049469	-0.3331836	Yes	
+row_16	CDC37L1	CDC37L1	CDC37 cell division cycle 37 homolog (S. cerevisiae)-like 1	10076	-0.48870933055877686	-0.29531184	Yes	
+row_17	RFX3	RFX3	regulatory factor X, 3 (influences HLA class II expression)	10174	-0.513336181640625	-0.22946009	Yes	
+row_18	VLDLR	VLDLR	very low density lipoprotein receptor	10664	-0.6690220832824707	-0.17701125	Yes	
+row_19	KIAA2026	KIAA2026	KIAA2026	10883	-1.352856159210205	-9.895302E-9	Yes	

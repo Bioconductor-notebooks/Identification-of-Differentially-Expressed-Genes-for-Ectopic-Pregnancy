@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TSC22D3	TSC22D3	TSC22 domain family, member 3	0	1.2732816934585571	0.09736598	Yes	
+row_1	GIMAP6	GIMAP6	GTPase, IMAP family member 6	77	0.8816898465156555	0.1577842	Yes	
+row_2	CLEC2B	CLEC2B	C-type lectin domain family 2, member B	505	0.6240211725234985	0.1661546	Yes	
+row_3	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.19750327	Yes	
+row_4	FYB	FYB	FYN binding protein (FYB-120/130)	728	0.5495132207870483	0.23187537	Yes	
+row_5	STK10	STK10	serine/threonine kinase 10	760	0.5427902936935425	0.27052513	Yes	
+row_6	VAV1	VAV1	vav 1 oncogene	859	0.5181168913841248	0.3011142	Yes	
+row_7	WAS	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	860	0.5181088447570801	0.3407332	Yes	
+row_8	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	863	0.5175926685333252	0.38012847	Yes	
+row_9	HCLS1	HCLS1	hematopoietic cell-specific Lyn substrate 1	928	0.5045213103294373	0.41281095	Yes	
+row_10	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.44986495	Yes	
+row_11	CD97	CD97	CD97 molecule	1064	0.4769692122936249	0.4752802	Yes	
+row_12	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1165	0.4581811726093292	0.50110173	Yes	
+row_13	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.5334111	Yes	
+row_14	FLI1	FLI1	Friend leukemia virus integration 1	1334	0.42296451330184937	0.55257726	Yes	
+row_15	MBNL1	MBNL1	muscleblind-like (Drosophila)	1373	0.41678547859191895	0.5809466	Yes	
+row_16	LRCH4	LRCH4	leucine-rich repeats and calponin homology (CH) domain containing 4	1644	0.37337157130241394	0.58461756	Yes	
+row_17	FMNL1	FMNL1	formin-like 1	2144	0.3086303174495697	0.5622358	No	
+row_18	CD53	CD53	CD53 molecule	2561	0.2615976631641388	0.5439058	No	
+row_19	OSTF1	OSTF1	osteoclast stimulating factor 1	2772	0.23642760515213013	0.54263383	No	
+row_20	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	3071	0.20460627973079681	0.53081936	No	
+row_21	RIN3	RIN3	Ras and Rab interactor 3	4128	0.10865841805934906	0.44181907	No	
+row_22	STK38	STK38	serine/threonine kinase 38	4321	0.09199352562427521	0.4311611	No	
+row_23	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.23611242	No	
+row_24	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	0.18617155	No	
+row_25	BTN3A3	BTN3A3	butyrophilin, subfamily 3, member A3	7339	-0.15573769807815552	0.18223096	No	
+row_26	ZCCHC6	ZCCHC6	zinc finger, CCHC domain containing 6	7592	-0.1774139702320099	0.17257603	No	
+row_27	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	0.13942769	No	
+row_28	CD48	CD48	CD48 molecule	8760	-0.29929229617118835	0.10555041	No	
+row_29	GRK6	GRK6	G protein-coupled receptor kinase 6	8931	-0.319840669631958	0.11434284	No	
+row_30	RNF44	RNF44	ring finger protein 44	9069	-0.3366246521472931	0.12745963	No	
+row_31	SNRK	SNRK	SNF related kinase	10197	-0.5179421305656433	0.063214086	No	

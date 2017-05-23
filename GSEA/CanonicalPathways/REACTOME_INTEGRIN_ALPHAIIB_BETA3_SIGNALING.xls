@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGG	FGG	fibrinogen gamma chain	120	0.8277233839035034	0.1294865	Yes	
+row_1	RASGRP2	RASGRP2	RAS guanyl releasing protein 2 (calcium and DAG-regulated)	182	0.7762497663497925	0.25566363	Yes	
+row_2	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	303	0.702338695526123	0.36386245	Yes	
+row_3	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.3951988	Yes	
+row_4	PTK2	PTK2	PTK2 protein tyrosine kinase 2	938	0.5018228888511658	0.4773608	Yes	
+row_5	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1077	0.47552821040153503	0.54539543	Yes	
+row_6	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.51074225	Yes	
+row_7	VWF	VWF	von Willebrand factor	2250	0.2976096272468567	0.5422199	Yes	
+row_8	TLN1	TLN1	talin 1	2635	0.2521447241306305	0.54968923	Yes	
+row_9	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2725	0.2422666698694229	0.58263034	Yes	
+row_10	SYK	SYK	spleen tyrosine kinase	2814	0.23133614659309387	0.61380774	Yes	
+row_11	APBB1IP	APBB1IP	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein	2905	0.22168824076652527	0.643163	Yes	
+row_12	FGB	FGB	fibrinogen beta chain	3702	0.14570169150829315	0.5946441	No	
+row_13	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	4625	0.0662061870098114	0.52103275	No	
+row_14	FN1	FN1	fibronectin 1	5175	0.023436052724719048	0.4744871	No	
+row_15	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	6160	-0.05696864798665047	0.39360148	No	
+row_16	ITGA2B	ITGA2B	integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	6827	-0.11218418180942535	0.3513559	No	
+row_17	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	0.35440826	No	

@@ -1,0 +1,52 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RBM11	RBM11	RNA binding motif protein 11	467	0.6368608474731445	-7.181954E-4	No	
+row_1	TOB1	TOB1	transducer of ERBB2, 1	2129	0.3100707232952118	-0.13340701	No	
+row_2	ZC3H12A	ZC3H12A	zinc finger CCCH-type containing 12A	2621	0.2536022365093231	-0.16185118	No	
+row_3	CTR9	CTR9	Ctr9, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)	2750	0.23887115716934204	-0.15776715	No	
+row_4	RNF40	RNF40	ring finger protein 40	2872	0.22478236258029938	-0.15397473	No	
+row_5	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	2956	0.2159496247768402	-0.14726244	No	
+row_6	NOVA1	NOVA1	neuro-oncological ventral antigen 1	3007	0.2107146829366684	-0.13785234	No	
+row_7	NANOS1	NANOS1	nanos homolog 1 (Drosophila)	3009	0.2105555236339569	-0.12392963	No	
+row_8	WTAP	WTAP	Wilms tumor 1 associated protein	3320	0.18123096227645874	-0.14048277	No	
+row_9	RDBP	RDBP	RD RNA binding protein	3874	0.12935909628868103	-0.18292007	No	
+row_10	BTG2	BTG2	BTG family, member 2	3932	0.12462121993303299	-0.17988671	No	
+row_11	CNOT8	CNOT8	CCR4-NOT transcription complex, subunit 8	3956	0.12302727997303009	-0.1738209	No	
+row_12	PAPOLA	PAPOLA	poly(A) polymerase alpha	4083	0.11244435608386993	-0.17796749	No	
+row_13	NANOS2	NANOS2	nanos homolog 2 (Drosophila)	4219	0.10089867562055588	-0.18371338	No	
+row_14	SUPT6H	SUPT6H	suppressor of Ty 6 homolog (S. cerevisiae)	4344	0.09022810310125351	-0.18915412	No	
+row_15	SAP18	SAP18	Sin3A-associated protein, 18kDa	4351	0.08936657756567001	-0.18375954	No	
+row_16	U2AF2	U2AF2	U2 small nuclear RNA auxiliary factor 2	4580	0.07034709304571152	-0.20012389	No	
+row_17	DAZAP1	DAZAP1	DAZ associated protein 1	4823	0.049659259617328644	-0.21915762	No	
+row_18	APOBEC1	APOBEC1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	5258	0.017748037353157997	-0.25803903	No	
+row_19	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	-0.30304703	No	
+row_20	MYOD1	MYOD1	myogenic differentiation 1	6150	-0.055831488221883774	-0.33505496	No	
+row_21	RNF20	RNF20	ring finger protein 20	6188	-0.05903568118810654	-0.3345409	No	
+row_22	YTHDC1	YTHDC1	YTH domain containing 1	6279	-0.06607812643051147	-0.33845055	No	
+row_23	SECISBP2	SECISBP2	SECIS binding protein 2	6282	-0.06618394702672958	-0.33422983	No	
+row_24	ZFP36L2	ZFP36L2	zinc finger protein 36, C3H type-like 2	6586	-0.09121311455965042	-0.35612857	No	
+row_25	RNPS1	RNPS1	RNA binding protein S1, serine-rich domain	6599	-0.09238248318433762	-0.35108712	No	
+row_26	CPSF4	CPSF4	cleavage and polyadenylation specific factor 4, 30kDa	6719	-0.10228612273931503	-0.35526368	No	
+row_27	C1QBP	C1QBP	complement component 1, q subcomponent binding protein	7425	-0.16192923486232758	-0.40956426	No	
+row_28	TNRC6C	TNRC6C	trinucleotide repeat containing 6C	8297	-0.24467015266418457	-0.47368097	Yes	
+row_29	MAGOH	MAGOH	mago-nashi homolog, proliferation-associated (Drosophila)	8407	-0.2594480514526367	-0.4664734	Yes	
+row_30	CDK9	CDK9	cyclin-dependent kinase 9 (CDC2-related kinase)	8415	-0.26036643981933594	-0.44978902	Yes	
+row_31	AHCYL1	AHCYL1	S-adenosylhomocysteine hydrolase-like 1	8585	-0.2786593437194824	-0.44684133	Yes	
+row_32	MBNL2	MBNL2	muscleblind-like 2 (Drosophila)	8624	-0.28238093852996826	-0.43155324	Yes	
+row_33	IWS1	IWS1	IWS1 homolog (S. cerevisiae)	8749	-0.29874148964881897	-0.4231149	Yes	
+row_34	RBM5	RBM5	RNA binding motif protein 5	8967	-0.3242822289466858	-0.42156136	Yes	
+row_35	CCNT1	CCNT1	cyclin T1	8984	-0.32620754837989807	-0.40132526	Yes	
+row_36	PTBP1	PTBP1	polypyrimidine tract binding protein 1	9087	-0.3388787508010864	-0.38818443	Yes	
+row_37	EIF2C2	EIF2C2	eukaryotic translation initiation factor 2C, 2	9171	-0.34775954484939575	-0.37269858	Yes	
+row_38	UHMK1	UHMK1	U2AF homology motif (UHM) kinase 1	9259	-0.3578358292579651	-0.35691127	Yes	
+row_39	TNRC6B	TNRC6B	trinucleotide repeat containing 6B	9261	-0.35786107182502747	-0.3331836	Yes	
+row_40	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	9313	-0.36291271448135376	-0.3137352	Yes	
+row_41	PRPF19	PRPF19	PRP19/PSO4 pre-mRNA processing factor 19 homolog (S. cerevisiae)	9318	-0.36349210143089294	-0.2899096	Yes	
+row_42	RC3H1	RC3H1	ring finger and CCCH-type zinc finger domains 1	9505	-0.39226603507995605	-0.2809693	Yes	
+row_43	CCNB1	CCNB1	cyclin B1	9777	-0.4353015720844269	-0.27701086	Yes	
+row_44	HSPA8	HSPA8	heat shock 70kDa protein 8	10216	-0.5218904614448547	-0.2827047	Yes	
+row_45	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	10384	-0.5649369359016418	-0.26051718	Yes	
+row_46	RBM15B	RBM15B	RNA binding motif protein 15B	10656	-0.6670030951499939	-0.24113616	Yes	
+row_47	SRPK2	SRPK2	SFRS protein kinase 2	10847	-0.8830863237380981	-0.19989504	Yes	
+row_48	NCBP1	NCBP1	nuclear cap binding protein subunit 1, 80kDa	10865	-0.9608893394470215	-0.13750547	Yes	
+row_49	PTCD2	PTCD2	pentatricopeptide repeat domain 2	10870	-1.016764760017395	-0.07019667	Yes	
+row_50	PAF1	PAF1	Paf1, RNA polymerase II associated factor, homolog (S. cerevisiae)	10876	-1.0712440013885498	6.4607494E-4	Yes	

@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBA2	UBA2	-	1668	0.3698031008243561	-0.07837225	No	
+row_1	XPC	XPC	xeroderma pigmentosum, complementation group C	1931	0.3304293155670166	-0.035370562	No	
+row_2	DUSP6	DUSP6	dual specificity phosphatase 6	2828	0.23005008697509766	-0.07109198	No	
+row_3	GMFB	GMFB	glia maturation factor, beta	3252	0.18749406933784485	-0.07193413	No	
+row_4	PPP2CB	PPP2CB	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	4918	0.041936349123716354	-0.21661904	No	
+row_5	RPA3	RPA3	replication protein A3, 14kDa	5331	0.011692625470459461	-0.25215378	No	
+row_6	PPM1D	PPM1D	protein phosphatase 1D magnesium-dependent, delta isoform	5903	-0.03373078256845474	-0.2978427	No	
+row_7	CXCL1	CXCL1	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	6648	-0.09637056291103363	-0.34672803	No	
+row_8	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	-0.4747697	Yes	
+row_9	DUSP5	DUSP5	dual specificity phosphatase 5	8815	-0.3057057857513428	-0.42455152	Yes	
+row_10	YBX1	YBX1	Y box binding protein 1	9293	-0.3600674867630005	-0.39531326	Yes	
+row_11	PRPSAP1	PRPSAP1	phosphoribosyl pyrophosphate synthetase-associated protein 1	9389	-0.37263891100883484	-0.32837272	Yes	
+row_12	TRIM23	TRIM23	tripartite motif-containing 23	9754	-0.42897525429725647	-0.274742	Yes	
+row_13	SSBP1	SSBP1	single-stranded DNA binding protein 1	9983	-0.4691582918167114	-0.20043644	Yes	
+row_14	PPP6C	PPP6C	protein phosphatase 6, catalytic subunit	10449	-0.5842502117156982	-0.1245632	Yes	
+row_15	FUBP1	FUBP1	far upstream element (FUSE) binding protein 1	10813	-0.8094899654388428	0.006440872	Yes	

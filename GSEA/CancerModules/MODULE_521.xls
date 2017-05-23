@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STIM1	STIM1	stromal interaction molecule 1	29	0.9937036633491516	0.11384	Yes	
+row_1	TNFSF4	TNFSF4	tumor necrosis factor (ligand) superfamily, member 4 (tax-transcriptionally activated glycoprotein 1, 34kDa)	61	0.9117786288261414	0.21789016	Yes	
+row_2	FGG	FGG	fibrinogen gamma chain	120	0.8277233839035034	0.3095983	Yes	
+row_3	CSF1	CSF1	colony stimulating factor 1 (macrophage)	273	0.718683123588562	0.37986434	Yes	
+row_4	VEGFC	VEGFC	vascular endothelial growth factor C	459	0.6385296583175659	0.4376932	Yes	
+row_5	CD86	CD86	CD86 molecule	1191	0.45085471868515015	0.42323187	No	
+row_6	GRN	GRN	granulin	2389	0.2810904085636139	0.34594816	No	
+row_7	SLAMF1	SLAMF1	signaling lymphocytic activation molecule family member 1	2817	0.2310214638710022	0.3337094	No	
+row_8	FGB	FGB	fibrinogen beta chain	3702	0.14570169150829315	0.26937816	No	
+row_9	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	3827	0.13370884954929352	0.27363524	No	
+row_10	CSF3	CSF3	colony stimulating factor 3 (granulocyte)	3913	0.12588322162628174	0.2805666	No	
+row_11	DHPS	DHPS	deoxyhypusine synthase	4449	0.08040906488895416	0.24072206	No	
+row_12	EDN1	EDN1	endothelin 1	4484	0.07693403214216232	0.24661118	No	
+row_13	CXCL5	CXCL5	chemokine (C-X-C motif) ligand 5	5332	0.011599186807870865	0.16996416	No	
+row_14	ADRA1D	ADRA1D	adrenergic, alpha-1D-, receptor	5645	-0.01181776449084282	0.14261521	No	
+row_15	IL3	IL3	interleukin 3 (colony-stimulating factor, multiple)	5682	-0.014118344523012638	0.14095505	No	
+row_16	CCKBR	CCKBR	cholecystokinin B receptor	5963	-0.039238493889570236	0.119768284	No	
+row_17	EGF	EGF	epidermal growth factor (beta-urogastrone)	6844	-0.11356203258037567	0.052037094	No	
+row_18	HBEGF	HBEGF	heparin-binding EGF-like growth factor	6960	-0.1235799714922905	0.05593546	No	
+row_19	SSR1	SSR1	signal sequence receptor, alpha (translocon-associated protein alpha)	7642	-0.18211621046066284	0.014569686	No	
+row_20	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	7984	-0.21340517699718475	0.00818583	No	
+row_21	CTF1	CTF1	cardiotrophin 1	8203	-0.23564083874225616	0.015737139	No	
+row_22	FLT1	FLT1	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)	8491	-0.26765182614326477	0.020686945	No	
+row_23	NRP1	NRP1	neuropilin 1	9984	-0.46927016973495483	-0.061701767	No	
+row_24	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.040692873	No	
+row_25	PTN	PTN	pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	10553	-0.6196275353431702	0.03039222	No	

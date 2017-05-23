@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	22	1.0169299840927124	0.14994058	Yes	
+row_1	MOCS2	MOCS2	molybdenum cofactor synthesis 2	287	0.7115734219551086	0.2319809	Yes	
+row_2	PELO	PELO	pelota homolog (Drosophila)	309	0.7014052271842957	0.334863	Yes	
+row_3	PPAP2A	PPAP2A	phosphatidic acid phosphatase type 2A	382	0.6673917174339294	0.42796922	Yes	
+row_4	NDUFS4	NDUFS4	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)	1372	0.41714686155319214	0.39929613	Yes	
+row_5	FST	FST	follistatin	1403	0.41227030754089355	0.45814314	Yes	
+row_6	MRPS30	MRPS30	mitochondrial ribosomal protein S30	1698	0.36407867074012756	0.4854949	Yes	
+row_7	TAF9	TAF9	TAF9 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 32kDa	2818	0.2307073175907135	0.4169984	No	
+row_8	MSH3	MSH3	mutS homolog 3 (E. coli)	3156	0.1961677074432373	0.4153014	No	
+row_9	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	3810	0.13557729125022888	0.37547123	No	
+row_10	HSPB3	HSPB3	heat shock 27kDa protein 3	4698	0.06086617335677147	0.30294353	No	
+row_11	CDC20B	CDC20B	CDC20 cell division cycle 20 homolog B (S. cerevisiae)	5285	0.015154670923948288	0.25128344	No	
+row_12	GZMK	GZMK	granzyme K (granzyme 3; tryptase II)	5829	-0.027849659323692322	0.20547736	No	
+row_13	GPBP1	GPBP1	GC-rich promoter binding protein 1	8841	-0.30847445130348206	-0.025503099	No	
+row_14	ESM1	ESM1	endothelial cell-specific molecule 1	9726	-0.4251060485839844	-0.04332452	No	
+row_15	MIER3	MIER3	mesoderm induction early response 1, family member 3	9923	-0.45888203382492065	0.00721232	No	
+row_16	SKIV2L2	SKIV2L2	superkiller viralicidic activity 2-like 2 (S. cerevisiae)	10294	-0.542285144329071	0.054200735	No	

@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CSNK1D	CSNK1D	casein kinase 1, delta	1755	0.3547552227973938	-0.111747615	No	
+row_1	WNT1	WNT1	wingless-type MMTV integration site family, member 1	2856	0.2271018773317337	-0.18112238	No	
+row_2	DVL1	DVL1	dishevelled, dsh homolog 1 (Drosophila)	3025	0.20884709060192108	-0.16727154	No	
+row_3	PPP2CA	PPP2CA	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	3461	0.16720418632030487	-0.18384248	No	
+row_4	PPARD	PPARD	peroxisome proliferative activated receptor, delta	5644	-0.011759327724575996	-0.38303873	No	
+row_5	BTRC	BTRC	beta-transducin repeat containing	5961	-0.03904975950717926	-0.4066444	No	
+row_6	NLK	NLK	nemo-like kinase	7033	-0.12856772541999817	-0.4871805	No	
+row_7	LEF1	LEF1	lymphoid enhancer-binding factor 1	7383	-0.1589733213186264	-0.49699074	No	
+row_8	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	-0.5700441	Yes	
+row_9	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.56688726	Yes	
+row_10	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.5246727	Yes	
+row_11	TLE1	TLE1	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	9338	-0.366392582654953	-0.48953643	Yes	
+row_12	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.46772286	Yes	
+row_13	FRAT1	FRAT1	frequently rearranged in advanced T-cell lymphomas	9797	-0.4383038580417633	-0.40969828	Yes	
+row_14	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	10155	-0.5075100064277649	-0.37132263	Yes	
+row_15	SMAD4	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	10237	-0.5262101888656616	-0.30491713	Yes	
+row_16	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.24315679	Yes	
+row_17	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.1637083	Yes	
+row_18	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.07983844	Yes	
+row_19	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.00938876	Yes	

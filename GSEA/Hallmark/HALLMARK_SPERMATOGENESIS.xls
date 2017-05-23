@@ -1,0 +1,74 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSPA1L	HSPA1L	heat shock 70kDa protein 1-like	46	0.9356867074966431	0.047805905	No	
+row_1	GMCL1	GMCL1	germ cell-less homolog 1 (Drosophila)	191	0.7701286673545837	0.077335455	No	
+row_2	RAD17	RAD17	RAD17 homolog (S. pombe)	761	0.5427535772323608	0.054902233	No	
+row_3	NPY5R	NPY5R	neuropeptide Y receptor Y5	1278	0.433331161737442	0.031283252	No	
+row_4	ACE	ACE	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1	1339	0.42234063148498535	0.049232032	No	
+row_5	DCC	DCC	deleted in colorectal carcinoma	1433	0.4075341820716858	0.06330454	No	
+row_6	CCT6B	CCT6B	chaperonin containing TCP1, subunit 6B (zeta 2)	1681	0.3678849935531616	0.06092626	No	
+row_7	IL13RA2	IL13RA2	interleukin 13 receptor, alpha 2	1900	0.3343183100223541	0.059362806	No	
+row_8	HBZ	HBZ	hemoglobin, zeta	2139	0.30942001938819885	0.054564063	No	
+row_9	SYCP1	SYCP1	synaptonemal complex protein 1	2235	0.2990909516811371	0.062417887	No	
+row_10	SEPT4	SEPT4	septin 4	2268	0.2961766719818115	0.075936966	No	
+row_11	TKTL1	TKTL1	transketolase-like 1	2377	0.28219807147979736	0.0816484	No	
+row_12	GFI1	GFI1	growth factor independent 1	2514	0.26684731245040894	0.083915785	No	
+row_13	ELOVL3	ELOVL3	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 3	2556	0.26225945353507996	0.09471525	No	
+row_14	GSTM3	GSTM3	glutathione S-transferase M3 (brain)	2860	0.2266966998577118	0.079301454	No	
+row_15	PEBP1	PEBP1	phosphatidylethanolamine binding protein 1	2882	0.2241782397031784	0.08983208	No	
+row_16	STAM2	STAM2	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2	3085	0.20274627208709717	0.082428046	No	
+row_17	GAPDHS	GAPDHS	glyceraldehyde-3-phosphate dehydrogenase, spermatogenic	3109	0.19991594552993774	0.091423735	No	
+row_18	ART3	ART3	ADP-ribosyltransferase 3	3348	0.1781541407108307	0.079321474	No	
+row_19	TULP2	TULP2	tubby like protein 2	3476	0.16588768362998962	0.07680403	No	
+row_20	TNP2	TNP2	transition protein 2 (during histone to protamine replacement)	3562	0.15742459893226624	0.07770064	No	
+row_21	TNP1	TNP1	transition protein 1 (during histone to protamine replacement)	3588	0.15482275187969208	0.08400239	No	
+row_22	SPATA6	SPATA6	spermatogenesis associated 6	3602	0.15393686294555664	0.09136483	No	
+row_23	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	3722	0.14318659901618958	0.08832431	No	
+row_24	CHFR	CHFR	checkpoint with forkhead and ring finger domains	3762	0.1394830346107483	0.09247759	No	
+row_25	HSPA2	HSPA2	heat shock 70kDa protein 2	3902	0.12668485939502716	0.08666895	No	
+row_26	NF2	NF2	neurofibromin 2 (bilateral acoustic neuroma)	3952	0.12319538742303848	0.08899102	No	
+row_27	PCSK1N	PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor	3963	0.12241221964359283	0.09487695	No	
+row_28	ADAM2	ADAM2	ADAM metallopeptidase domain 2 (fertilin beta)	4084	0.1123618483543396	0.09002887	No	
+row_29	ALOX15	ALOX15	arachidonate 15-lipoxygenase	4138	0.10765205323696136	0.09111612	No	
+row_30	IL12RB2	IL12RB2	interleukin 12 receptor, beta 2	4161	0.1060311496257782	0.09498064	No	
+row_31	HOXB1	HOXB1	homeobox B1	4393	0.08513195067644119	0.07835019	No	
+row_32	VDAC3	VDAC3	voltage-dependent anion channel 3	4451	0.08029729872941971	0.07754546	No	
+row_33	ACRV1	ACRV1	acrosomal vesicle protein 1	4929	0.04131803661584854	0.03572263	No	
+row_34	DDX25	DDX25	DEAD (Asp-Glu-Ala-Asp) box polypeptide 25	5086	0.030474822968244553	0.022988474	No	
+row_35	PRM2	PRM2	protamine 2	5409	0.005982313305139542	-0.006463154	No	
+row_36	PGS1	PGS1	phosphatidylglycerophosphate synthase 1	5455	0.00215020845644176	-0.010505945	No	
+row_37	AKAP4	AKAP4	A kinase (PRKA) anchor protein 4	5611	-0.00913173146545887	-0.024335112	No	
+row_38	NPHP1	NPHP1	nephronophthisis 1 (juvenile)	5687	-0.014254441484808922	-0.030479386	No	
+row_39	STRBP	STRBP	spermatid perinuclear RNA binding protein	6220	-0.061146121472120285	-0.076286405	No	
+row_40	NOS1	NOS1	nitric oxide synthase 1 (neuronal)	6367	-0.0728147029876709	-0.08573982	No	
+row_41	LDHC	LDHC	lactate dehydrogenase C	6453	-0.07891957461833954	-0.089211166	No	
+row_42	YBX2	YBX2	Y box binding protein 2	6534	-0.08568108081817627	-0.09184381	No	
+row_43	TEKT2	TEKT2	tektin 2 (testicular)	6806	-0.11049582809209824	-0.110762976	No	
+row_44	NEFH	NEFH	neurofilament, heavy polypeptide 200kDa	6815	-0.11129995435476303	-0.10531033	No	
+row_45	CAMK4	CAMK4	calcium/calmodulin-dependent protein kinase IV	7092	-0.1330816149711609	-0.12343533	No	
+row_46	ADCYAP1	ADCYAP1	adenylate cyclase activating polypeptide 1 (pituitary)	7222	-0.14407391846179962	-0.12735146	No	
+row_47	PIAS2	PIAS2	protein inhibitor of activated STAT, 2	7225	-0.14452645182609558	-0.11949513	No	
+row_48	MAST2	MAST2	microtubule associated serine/threonine kinase 2	7305	-0.1523282676935196	-0.11832709	No	
+row_49	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	7505	-0.17001192271709442	-0.12727495	No	
+row_50	SIRT1	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	7530	-0.17174309492111206	-0.11993926	No	
+row_51	PARP2	PARP2	poly (ADP-ribose) polymerase family, member 2	7874	-0.20373262465000153	-0.14033069	No	
+row_52	ZPBP	ZPBP	zona pellucida binding protein	8010	-0.215448796749115	-0.14083058	Yes	
+row_53	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	8092	-0.2246864289045334	-0.13582158	Yes	
+row_54	MEP1B	MEP1B	meprin A, beta	8160	-0.2308354526758194	-0.12917548	Yes	
+row_55	HIST1H1T	HIST1H1T	histone cluster 1, H1t	8375	-0.254197895526886	-0.13482678	Yes	
+row_56	MAP7	MAP7	microtubule-associated protein 7	8395	-0.25732243061065674	-0.122267045	Yes	
+row_57	DMC1	DMC1	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	8452	-0.2641143798828125	-0.11275185	Yes	
+row_58	PAPOLB	PAPOLB	poly(A) polymerase beta (testis specific)	8642	-0.28454282879829407	-0.11440232	Yes	
+row_59	CRISP2	CRISP2	cysteine-rich secretory protein 2	8648	-0.28525710105895996	-0.09899334	Yes	
+row_60	KIF2C	KIF2C	kinesin family member 2C	8729	-0.29600799083709717	-0.08992357	Yes	
+row_61	GRM8	GRM8	glutamate receptor, metabotropic 8	8777	-0.3010270595550537	-0.0775221	Yes	
+row_62	CDKN3	CDKN3	cyclin-dependent kinase inhibitor 3 (CDK2-associated dual specificity phosphatase)	8948	-0.32175129652023315	-0.075344846	Yes	
+row_63	GAD1	GAD1	glutamate decarboxylase 1 (brain, 67kDa)	8983	-0.32616856694221497	-0.060342047	Yes	
+row_64	RPL39L	RPL39L	ribosomal protein L39-like	9181	-0.34915927052497864	-0.059137296	Yes	
+row_65	IDE	IDE	insulin-degrading enzyme	9239	-0.3562532365322113	-0.044588067	Yes	
+row_66	MLLT10	MLLT10	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 10	9441	-0.38051024079322815	-0.04200897	Yes	
+row_67	TOPBP1	TOPBP1	topoisomerase (DNA) II binding protein 1	9824	-0.4431001842021942	-0.052689627	Yes	
+row_68	DNAJB8	DNAJB8	DnaJ (Hsp40) homolog, subfamily B, member 8	9839	-0.4465750455856323	-0.02913754	Yes	
+row_69	TLE4	TLE4	transducin-like enhancer of split 4 (E(sp1) homolog, Drosophila)	10098	-0.49332568049430847	-0.025553891	Yes	
+row_70	NEK2	NEK2	NIMA (never in mitosis gene a)-related kinase 2	10140	-0.5047721266746521	-0.0012612237	Yes	
+row_71	AURKA	AURKA	aurora kinase A	10321	-0.5496861338615417	0.012673147	Yes	
+row_72	CCNB2	CCNB2	cyclin B2	10716	-0.7048726081848145	0.015447311	Yes	

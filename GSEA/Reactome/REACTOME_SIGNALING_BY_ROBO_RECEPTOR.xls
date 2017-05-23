@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NCK1	NCK1	NCK adaptor protein 1	678	0.5638196468353271	0.03179384	No	
+row_1	SRGAP2	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	1187	0.45156872272491455	0.060480747	No	
+row_2	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	1902	0.33409827947616577	0.050582174	No	
+row_3	ABL2	ABL2	v-abl Abelson murine leukemia viral oncogene homolog 2 (arg, Abelson-related gene)	2869	0.22580364346504211	-6.026755E-4	No	
+row_4	ROBO3	ROBO3	roundabout, axon guidance receptor, homolog 3 (Drosophila)	3483	0.16512928903102875	-0.029434605	No	
+row_5	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	5952	-0.038165971636772156	-0.25020972	No	
+row_6	PAK4	PAK4	p21(CDKN1A)-activated kinase 4	6181	-0.058625541627407074	-0.2614001	No	
+row_7	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	6764	-0.10628780722618103	-0.29720932	No	
+row_8	PAK6	PAK6	p21(CDKN1A)-activated kinase 6	7961	-0.21136300265789032	-0.37197563	Yes	
+row_9	ABL1	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	8005	-0.2148187756538391	-0.34004402	Yes	
+row_10	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	8526	-0.2708396017551422	-0.34265557	Yes	
+row_11	NCK2	NCK2	NCK adaptor protein 2	8626	-0.28263628482818604	-0.30454803	Yes	
+row_12	SRGAP3	SRGAP3	SLIT-ROBO Rho GTPase activating protein 3	8742	-0.298127681016922	-0.26532495	Yes	
+row_13	SOS2	SOS2	son of sevenless homolog 2 (Drosophila)	9345	-0.3671788275241852	-0.2593885	Yes	
+row_14	SLIT2	SLIT2	slit homolog 2 (Drosophila)	9510	-0.39274996519088745	-0.20886701	Yes	
+row_15	ENAH	ENAH	enabled homolog (Drosophila)	9699	-0.42143362760543823	-0.15576234	Yes	
+row_16	PAK7	PAK7	p21(CDKN1A)-activated kinase 7	9877	-0.4533396065235138	-0.09631478	Yes	
+row_17	GPC1	GPC1	glypican 1	9935	-0.46093812584877014	-0.024553116	Yes	
+row_18	SRGAP1	SRGAP1	SLIT-ROBO Rho GTPase activating protein 1	10663	-0.6686735153198242	0.020248523	Yes	

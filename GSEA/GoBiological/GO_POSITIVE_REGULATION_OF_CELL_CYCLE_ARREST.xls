@@ -1,0 +1,52 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	-0.0406698	No	
+row_1	CHEK2	CHEK2	CHK2 checkpoint homolog (S. pombe)	828	0.524837851524353	-0.015290876	No	
+row_2	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	1311	0.4271478056907654	-0.035222825	No	
+row_3	POU4F1	POU4F1	POU domain, class 4, transcription factor 1	1384	0.41563475131988525	-0.017969478	No	
+row_4	SOX4	SOX4	SRY (sex determining region Y)-box 4	1436	0.406953901052475	7.232285E-4	No	
+row_5	PLAGL1	PLAGL1	pleiomorphic adenoma gene-like 1	1488	0.39861953258514404	0.018936694	No	
+row_6	CRADD	CRADD	CASP2 and RIPK1 domain containing adaptor with death domain	1546	0.388018935918808	0.035986744	No	
+row_7	GATA6	GATA6	GATA binding protein 6	1621	0.37699824571609497	0.050833806	No	
+row_8	E2F4	E2F4	E2F transcription factor 4, p107/p130-binding	1786	0.35037288069725037	0.055841915	No	
+row_9	PPP2R5B	PPP2R5B	protein phosphatase 2, regulatory subunit B (B56), beta isoform	2411	0.2785976529121399	0.014259982	No	
+row_10	PML	PML	promyelocytic leukemia	2604	0.2567673325538635	0.01130092	No	
+row_11	TNKS1BP1	TNKS1BP1	tankyrase 1 binding protein 1, 182kDa	2801	0.23296697437763214	0.0066040526	No	
+row_12	PPP2R5C	PPP2R5C	protein phosphatase 2, regulatory subunit B (B56), gamma isoform	3364	0.17652370035648346	-0.035124052	No	
+row_13	DAB2IP	DAB2IP	DAB2 interacting protein	3618	0.15288253128528595	-0.049687613	No	
+row_14	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	-0.06823061	No	
+row_15	BTG2	BTG2	BTG family, member 2	3932	0.12462121993303299	-0.064018615	No	
+row_16	CNOT8	CNOT8	CCR4-NOT transcription complex, subunit 8	3956	0.12302727997303009	-0.059067477	No	
+row_17	MED25	MED25	mediator of RNA polymerase II transcription, subunit 25 homolog (S. cerevisiae)	4057	0.11470866203308105	-0.061702587	No	
+row_18	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	-0.1356855	No	
+row_19	PLK2	PLK2	polo-like kinase 2 (Drosophila)	5145	0.026558849960565567	-0.15788212	No	
+row_20	CDC25C	CDC25C	cell division cycle 25C	5284	0.01528681255877018	-0.16974197	No	
+row_21	INSM1	INSM1	insulinoma-associated 1	5818	-0.02710164710879326	-0.21738508	No	
+row_22	CNOT3	CNOT3	CCR4-NOT transcription complex, subunit 3	6163	-0.0571303591132164	-0.24585482	No	
+row_23	TP73	TP73	tumor protein p73	6434	-0.07772886008024216	-0.2663091	No	
+row_24	BRCA1	BRCA1	breast cancer 1, early onset	6554	-0.08838730305433273	-0.27221164	No	
+row_25	GML	GML	GPI anchored molecule like protein	6736	-0.10410252213478088	-0.2829338	No	
+row_26	CENPJ	CENPJ	centromere protein J	7250	-0.14691586792469025	-0.32184118	No	
+row_27	CNOT2	CNOT2	CCR4-NOT transcription complex, subunit 2	7378	-0.15860387682914734	-0.32444462	No	
+row_28	CNOT4	CNOT4	CCR4-NOT transcription complex, subunit 4	8080	-0.22379948198795319	-0.37628546	No	
+row_29	PRMT1	PRMT1	protein arginine methyltransferase 1	8311	-0.24686232209205627	-0.38332188	No	
+row_30	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	8351	-0.2515755891799927	-0.37245595	No	
+row_31	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	8690	-0.2921338379383087	-0.38685873	No	
+row_32	BAX	BAX	BCL2-associated X protein	8851	-0.3098953068256378	-0.3838089	No	
+row_33	TRIAP1	TRIAP1	TP53 regulated inhibitor of apoptosis 1	9396	-0.37407881021499634	-0.41251567	Yes	
+row_34	E2F7	E2F7	E2F transcription factor 7	9404	-0.37449371814727783	-0.39162782	Yes	
+row_35	MUC1	MUC1	mucin 1, cell surface associated	9635	-0.4123084843158722	-0.3891508	Yes	
+row_36	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.370555	Yes	
+row_37	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9772	-0.43414849042892456	-0.3524217	Yes	
+row_38	CCNB1	CCNB1	cyclin B1	9777	-0.4353015720844269	-0.32776037	Yes	
+row_39	MYBBP1A	MYBBP1A	MYB binding protein (P160) 1a	9789	-0.4369986355304718	-0.3036476	Yes	
+row_40	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.3168067	Yes	
+row_41	AURKA	AURKA	aurora kinase A	10321	-0.5496861338615417	-0.2902759	Yes	
+row_42	SFN	SFN	stratifin	10381	-0.564522922039032	-0.2632612	Yes	
+row_43	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	10384	-0.5649369359016418	-0.23096098	Yes	
+row_44	GTSE1	GTSE1	G-2 and S-phase expressed 1	10386	-0.5656414031982422	-0.19852795	Yes	
+row_45	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.1770448	Yes	
+row_46	MYOG	MYOG	myogenin (myogenic factor 4)	10637	-0.657709002494812	-0.14854877	Yes	
+row_47	MDM4	MDM4	Mdm4, transformed 3T3 cell double minute 4, p53 binding protein (mouse)	10702	-0.6947702765464783	-0.11450616	Yes	
+row_48	CNOT10	CNOT10	CCR4-NOT transcription complex, subunit 10	10730	-0.7188606262207031	-0.075662844	Yes	
+row_49	CASP2	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	10742	-0.7313997745513916	-0.034621526	Yes	
+row_50	PCBP4	PCBP4	poly(rC) binding protein 4	10823	-0.8268417119979858	0.00553844	Yes	

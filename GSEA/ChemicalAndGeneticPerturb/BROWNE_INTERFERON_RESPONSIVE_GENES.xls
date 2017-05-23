@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.09446622	Yes	
+row_1	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.17210954	Yes	
+row_2	IRF7	IRF7	interferon regulatory factor 7	30	0.9863246083259583	0.24723321	Yes	
+row_3	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	94	0.8560484647750854	0.3072707	Yes	
+row_4	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	164	0.7893309593200684	0.3616241	Yes	
+row_5	IL15RA	IL15RA	interleukin 15 receptor, alpha	167	0.7880962491035461	0.42205423	Yes	
+row_6	STX11	STX11	syntaxin 11	394	0.6607995629310608	0.4520599	Yes	
+row_7	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.49277744	Yes	
+row_8	OASL	OASL	2'-5'-oligoadenylate synthetase-like	539	0.6115098595619202	0.53455955	Yes	
+row_9	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.5777881	Yes	
+row_10	TRIM14	TRIM14	tripartite motif-containing 14	586	0.5956341028213501	0.62231016	Yes	
+row_11	SP110	SP110	SP110 nuclear body protein	752	0.545771598815918	0.6490878	Yes	
+row_12	TDRD7	TDRD7	tudor domain containing 7	1014	0.488777220249176	0.6626388	Yes	
+row_13	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.6736823	Yes	
+row_14	SAMHD1	SAMHD1	SAM domain and HD domain 1	1312	0.42701342701911926	0.70182705	Yes	
+row_15	TREX1	TREX1	three prime repair exonuclease 1	1824	0.3440151512622833	0.68121535	No	
+row_16	PML	PML	promyelocytic leukemia	2604	0.2567673325538635	0.62920636	No	
+row_17	SP100	SP100	SP100 nuclear antigen	3838	0.13253740966320038	0.5258224	No	
+row_18	RBCK1	RBCK1	RanBP-type and C3HC4-type zinc finger containing 1	4258	0.09758798032999039	0.49473193	No	
+row_19	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.44268534	No	
+row_20	CXCL11	CXCL11	chemokine (C-X-C motif) ligand 11	5136	0.027039935812354088	0.41970977	No	
+row_21	RGL1	RGL1	ral guanine nucleotide dissociation stimulator-like 1	5664	-0.013312229886651039	0.37218904	No	
+row_22	TLR3	TLR3	toll-like receptor 3	6628	-0.09442276507616043	0.29074463	No	
+row_23	PDZD2	PDZD2	PDZ domain containing 2	7005	-0.12661509215831757	0.26584768	No	
+row_24	KIF5C	KIF5C	kinesin family member 5C	7464	-0.16601762175559998	0.23642783	No	
+row_25	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	7609	-0.17886771261692047	0.23692042	No	
+row_26	GBP2	GBP2	guanylate binding protein 2, interferon-inducible	8974	-0.32536792755126953	0.13630043	No	
+row_27	RABGAP1L	RABGAP1L	RAB GTPase activating protein 1-like	10171	-0.5129850506782532	0.065585844	No	

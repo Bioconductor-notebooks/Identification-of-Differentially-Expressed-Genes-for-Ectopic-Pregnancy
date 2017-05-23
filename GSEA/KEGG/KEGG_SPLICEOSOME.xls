@@ -1,0 +1,50 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSPA1L	HSPA1L	heat shock 70kDa protein 1-like	46	0.9356867074966431	0.050734065	No	
+row_1	CRNKL1	CRNKL1	Crn, crooked neck-like 1 (Drosophila)	836	0.522711992263794	0.008628284	No	
+row_2	XAB2	XAB2	XPA binding protein 2	1081	0.4752146601676941	0.014031582	No	
+row_3	PCBP1	PCBP1	poly(rC) binding protein 1	1394	0.413624107837677	0.009539953	No	
+row_4	BUD31	BUD31	BUD31 homolog (yeast)	1448	0.4042898416519165	0.02840387	No	
+row_5	PRPF6	PRPF6	PRP6 pre-mRNA processing factor 6 homolog (S. cerevisiae)	1594	0.3820187449455261	0.03746817	No	
+row_6	SF3A2	SF3A2	splicing factor 3a, subunit 2, 66kDa	2630	0.25262540578842163	-0.0432117	No	
+row_7	LSM5	LSM5	LSM5 homolog, U6 small nuclear RNA associated (S. cerevisiae)	2667	0.24913638830184937	-0.03189538	No	
+row_8	DDX23	DDX23	DEAD (Asp-Glu-Ala-Asp) box polypeptide 23	2917	0.2205674946308136	-0.04191624	No	
+row_9	HSPA6	HSPA6	heat shock 70kDa protein 6 (HSP70B')	2963	0.21487750113010406	-0.033443563	No	
+row_10	SYF2	SYF2	SYF2 homolog, RNA splicing factor (S. cerevisiae)	3186	0.19317708909511566	-0.042581916	No	
+row_11	CHERP	CHERP	calcium homeostasis endoplasmic reticulum protein	3323	0.18018943071365356	-0.04454617	No	
+row_12	DHX38	DHX38	DEAH (Asp-Glu-Ala-His) box polypeptide 38	3733	0.14202316105365753	-0.073949136	No	
+row_13	SNRPC	SNRPC	small nuclear ribonucleoprotein polypeptide C	3792	0.13729222118854523	-0.07123507	No	
+row_14	PPIE	PPIE	peptidylprolyl isomerase E (cyclophilin E)	3816	0.13486802577972412	-0.065433174	No	
+row_15	HSPA2	HSPA2	heat shock 70kDa protein 2	3902	0.12668485939502716	-0.065834306	No	
+row_16	DHX8	DHX8	DEAH (Asp-Glu-Ala-His) box polypeptide 8	4357	0.08920923620462418	-0.10249375	No	
+row_17	LSM4	LSM4	LSM4 homolog, U6 small nuclear RNA associated (S. cerevisiae)	4569	0.07103394716978073	-0.11779383	No	
+row_18	U2AF2	U2AF2	U2 small nuclear RNA auxiliary factor 2	4580	0.07034709304571152	-0.11458327	No	
+row_19	SNRPB	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	4711	0.05949946492910385	-0.12308532	No	
+row_20	PRPF18	PRPF18	PRP18 pre-mRNA processing factor 18 homolog (S. cerevisiae)	5486	-2.465371217112988E-4	-0.194506	No	
+row_21	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	-0.21862948	No	
+row_22	PRPF4	PRPF4	PRP4 pre-mRNA processing factor 4 homolog (yeast)	6141	-0.05535599961876869	-0.25026378	No	
+row_23	ZMAT2	ZMAT2	zinc finger, matrin type 2	6257	-0.06442096829414368	-0.25709227	No	
+row_24	RBM22	RBM22	RNA binding motif protein 22	6402	-0.0753946602344513	-0.26595244	No	
+row_25	RBM17	RBM17	RNA binding motif protein 17	6519	-0.08462119847536087	-0.27168626	No	
+row_26	DDX46	DDX46	DEAD (Asp-Glu-Ala-Asp) box polypeptide 46	7593	-0.1774376779794693	-0.3602912	No	
+row_27	TXNL4A	TXNL4A	thioredoxin-like 4A	8357	-0.2522036135196686	-0.41589203	No	
+row_28	MAGOH	MAGOH	mago-nashi homolog, proliferation-associated (Drosophila)	8407	-0.2594480514526367	-0.40516964	No	
+row_29	SNRPD1	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide 16kDa	8724	-0.29552337527275085	-0.41696987	No	
+row_30	TRA2A	TRA2A	-	9145	-0.34488528966903687	-0.43546817	Yes	
+row_31	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.4168231	Yes	
+row_32	PRPF19	PRPF19	PRP19/PSO4 pre-mRNA processing factor 19 homolog (S. cerevisiae)	9318	-0.36349210143089294	-0.40949345	Yes	
+row_33	SF3B14	SF3B14	-	9649	-0.4134156405925751	-0.4156586	Yes	
+row_34	SNRPB2	SNRPB2	small nuclear ribonucleoprotein polypeptide B''	9736	-0.42636385560035706	-0.39854333	Yes	
+row_35	HSPA1B	HSPA1B	heat shock 70kDa protein 1B	9911	-0.4573933184146881	-0.38772663	Yes	
+row_36	PQBP1	PQBP1	polyglutamine binding protein 1	10010	-0.4743008017539978	-0.36890218	Yes	
+row_37	THOC3	THOC3	THO complex 3	10206	-0.5196038484573364	-0.35636827	Yes	
+row_38	HSPA8	HSPA8	heat shock 70kDa protein 8	10216	-0.5218904614448547	-0.3265334	Yes	
+row_39	BCAS2	BCAS2	breast carcinoma amplified sequence 2	10260	-0.5317643284797668	-0.29925632	Yes	
+row_40	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.2712085	Yes	
+row_41	PRPF38A	PRPF38A	PRP38 pre-mRNA processing factor 38 (yeast) domain containing A	10315	-0.5484183430671692	-0.23990719	Yes	
+row_42	LSM2	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10420	-0.5757595300674438	-0.21567494	Yes	
+row_43	PRPF40A	PRPF40A	PRP40 pre-mRNA processing factor 40 homolog A (yeast)	10446	-0.583737313747406	-0.18368274	Yes	
+row_44	SNRPA1	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	10504	-0.6001255512237549	-0.15368098	Yes	
+row_45	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.13202098	Yes	
+row_46	DHX15	DHX15	DEAH (Asp-Glu-Ala-His) box polypeptide 15	10779	-0.7672808170318604	-0.092289716	Yes	
+row_47	LSM7	LSM7	LSM7 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10784	-0.7699839472770691	-0.047415774	Yes	
+row_48	NCBP1	NCBP1	nuclear cap binding protein subunit 1, 80kDa	10865	-0.9608893394470215	0.0016611827	Yes	

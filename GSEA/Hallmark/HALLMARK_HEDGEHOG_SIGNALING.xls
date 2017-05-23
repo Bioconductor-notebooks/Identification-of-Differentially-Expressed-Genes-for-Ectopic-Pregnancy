@@ -1,0 +1,30 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	THY1	THY1	Thy-1 cell surface antigen	224	0.7483233213424683	0.057635065	No	
+row_1	RTN1	RTN1	reticulon 1	1709	0.36302822828292847	-0.041105267	No	
+row_2	PML	PML	promyelocytic leukemia	2604	0.2567673325538635	-0.096607104	No	
+row_3	CNTFR	CNTFR	ciliary neurotrophic factor receptor	2820	0.23065724968910217	-0.0922881	No	
+row_4	L1CAM	L1CAM	L1 cell adhesion molecule	3084	0.20276765525341034	-0.095308125	No	
+row_5	CRMP1	CRMP1	collapsin response mediator protein 1	4028	0.11748302727937698	-0.16989243	No	
+row_6	SHH	SHH	sonic hedgehog homolog (Drosophila)	4240	0.09903708845376968	-0.17897171	No	
+row_7	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	4385	0.08635181933641434	-0.18320553	No	
+row_8	LDB1	LDB1	LIM domain binding 1	5004	0.03650785610079765	-0.23631929	No	
+row_9	SLIT1	SLIT1	slit homolog 1 (Drosophila)	5693	-0.014484827406704426	-0.2981852	No	
+row_10	NRP2	NRP2	neuropilin 2	5732	-0.01843959651887417	-0.29975718	No	
+row_11	TLE3	TLE3	transducin-like enhancer of split 3 (E(sp1) homolog, Drosophila)	5774	-0.022872697561979294	-0.3011419	No	
+row_12	GPR56	GPR56	G protein-coupled receptor 56	5967	-0.039529718458652496	-0.314695	No	
+row_13	OPHN1	OPHN1	oligophrenin 1	6524	-0.08497966080904007	-0.3570272	No	
+row_14	NRCAM	NRCAM	neuronal cell adhesion molecule	7536	-0.17221462726593018	-0.43215126	No	
+row_15	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	7617	-0.17962267994880676	-0.4207335	No	
+row_16	AMOT	AMOT	angiomotin	7766	-0.19434431195259094	-0.4140404	No	
+row_17	GLI1	GLI1	glioma-associated oncogene homolog 1 (zinc finger protein)	8239	-0.2397065907716751	-0.4324506	No	
+row_18	PTCH1	PTCH1	patched homolog 1 (Drosophila)	9282	-0.35933825373649597	-0.49085832	Yes	
+row_19	TLE1	TLE1	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	9338	-0.366392582654953	-0.45760235	Yes	
+row_20	NRP1	NRP1	neuropilin 1	9984	-0.46927016973495483	-0.46793878	Yes	
+row_21	PLG	PLG	plasminogen	10105	-0.4941457509994507	-0.42730853	Yes	
+row_22	UNC5C	UNC5C	unc-5 homolog C (C. elegans)	10268	-0.5343234539031982	-0.38634506	Yes	
+row_23	CELSR1	CELSR1	cadherin, EGF LAG seven-pass G-type receptor 1 (flamingo homolog, Drosophila)	10396	-0.5678839683532715	-0.33864704	Yes	
+row_24	HEY2	HEY2	hairy/enhancer-of-split related with YRPW motif 2	10574	-0.6307806968688965	-0.28897652	Yes	
+row_25	VLDLR	VLDLR	very low density lipoprotein receptor	10664	-0.6690220832824707	-0.22719929	Yes	
+row_26	HEY1	HEY1	hairy/enhancer-of-split related with YRPW motif 1	10691	-0.6892940402030945	-0.15749793	Yes	
+row_27	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	10817	-0.8144341111183167	-0.08382781	Yes	
+row_28	CDK6	CDK6	cyclin-dependent kinase 6	10832	-0.8587019443511963	0.004698207	Yes	

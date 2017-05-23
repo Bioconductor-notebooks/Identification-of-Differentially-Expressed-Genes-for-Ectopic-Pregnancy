@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	-0.05323617	No	
+row_1	ARHGDIB	ARHGDIB	Rho GDP dissociation inhibitor (GDI) beta	1385	0.41537198424339294	-0.0050137364	No	
+row_2	CASP4	CASP4	caspase 4, apoptosis-related cysteine peptidase	1455	0.4032290279865265	0.04652789	No	
+row_3	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	1660	0.3716253340244293	0.08110571	No	
+row_4	APAF1	APAF1	apoptotic peptidase activating factor	4561	0.07209305465221405	-0.17548034	No	
+row_5	CASP10	CASP10	caspase 10, apoptosis-related cysteine peptidase	5056	0.033137913793325424	-0.2161939	No	
+row_6	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	-0.2877234	No	
+row_7	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	-0.38573197	No	
+row_8	CYCS	CYCS	cytochrome c, somatic	7447	-0.16420377790927887	-0.3879299	No	
+row_9	BIRC3	BIRC3	baculoviral IAP repeat-containing 3	7493	-0.1687932312488556	-0.36783785	No	
+row_10	CASP7	CASP7	caspase 7, apoptosis-related cysteine peptidase	8503	-0.26879531145095825	-0.42212158	Yes	
+row_11	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	8737	-0.29685360193252563	-0.40094835	Yes	
+row_12	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	8828	-0.30668458342552185	-0.3652009	Yes	
+row_13	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	8912	-0.3167245090007782	-0.32736766	Yes	
+row_14	DFFB	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	10126	-0.49965423345565796	-0.36728388	Yes	
+row_15	CASP6	CASP6	caspase 6, apoptosis-related cysteine peptidase	10142	-0.5048424601554871	-0.29618275	Yes	
+row_16	LMNB1	LMNB1	lamin B1	10348	-0.5551579594612122	-0.23534662	Yes	
+row_17	LMNB2	LMNB2	lamin B2	10432	-0.5790160298347473	-0.15985535	Yes	
+row_18	BIRC2	BIRC2	baculoviral IAP repeat-containing 2	10668	-0.6698684096336365	-0.085311286	Yes	
+row_19	CASP2	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	10742	-0.7313997745513916	0.012978673	Yes	

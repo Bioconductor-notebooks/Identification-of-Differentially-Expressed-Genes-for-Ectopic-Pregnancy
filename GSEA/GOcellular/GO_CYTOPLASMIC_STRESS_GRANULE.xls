@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MBNL1	MBNL1	muscleblind-like (Drosophila)	1373	0.41678547859191895	-0.038549185	No	
+row_1	GRB7	GRB7	growth factor receptor-bound protein 7	2680	0.24795480072498322	-0.10649741	No	
+row_2	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	2956	0.2159496247768402	-0.08631319	No	
+row_3	CIRBP	CIRBP	cold inducible RNA binding protein	3833	0.13332970440387726	-0.13883807	No	
+row_4	KHSRP	KHSRP	KH-type splicing regulatory protein (FUSE binding protein 2)	4447	0.08061003684997559	-0.17826672	No	
+row_5	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	5730	-0.018188919872045517	-0.29240704	No	
+row_6	ATXN2	ATXN2	ataxin 2	6002	-0.04238511249423027	-0.3084164	No	
+row_7	DDX1	DDX1	DEAD (Asp-Glu-Ala-Asp) box polypeptide 1	6986	-0.12523433566093445	-0.3724929	No	
+row_8	ATXN2L	ATXN2L	ataxin 2-like	7749	-0.19292356073856354	-0.40197375	No	
+row_9	DDX3X	DDX3X	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	7974	-0.21226392686367035	-0.37787282	No	
+row_10	PUM2	PUM2	pumilio homolog 2 (Drosophila)	9127	-0.3434589207172394	-0.4115316	Yes	
+row_11	YBX1	YBX1	Y box binding protein 1	9293	-0.3600674867630005	-0.3508663	Yes	
+row_12	RC3H1	RC3H1	ring finger and CCCH-type zinc finger domains 1	9505	-0.39226603507995605	-0.2876513	Yes	
+row_13	EIF2S1	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	9662	-0.4157504141330719	-0.21442811	Yes	
+row_14	PQBP1	PQBP1	polyglutamine binding protein 1	10010	-0.4743008017539978	-0.1464473	Yes	
+row_15	STAU1	STAU1	staufen, RNA binding protein, homolog 1 (Drosophila)	10139	-0.5045326948165894	-0.05194534	Yes	
+row_16	PUM1	PUM1	pumilio homolog 1 (Drosophila)	10405	-0.5711675882339478	0.04398641	Yes	

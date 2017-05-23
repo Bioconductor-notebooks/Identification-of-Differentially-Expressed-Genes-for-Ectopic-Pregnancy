@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLD4	POLD4	polymerase (DNA-directed), delta 4	611	0.5896422266960144	0.044413943	No	
+row_1	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	1640	0.3740386664867401	0.013645104	No	
+row_2	RNASEH1	RNASEH1	ribonuclease H1	2414	0.27842625975608826	-0.009974532	No	
+row_3	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4525	0.07441273331642151	-0.19147414	No	
+row_4	RNASEH2C	RNASEH2C	ribonuclease H2, subunit C	4717	0.058555200695991516	-0.1990584	No	
+row_5	RPA3	RPA3	replication protein A3, 14kDa	5331	0.011692625470459461	-0.2534822	No	
+row_6	RFC1	RFC1	replication factor C (activator 1) 1, 145kDa	5779	-0.023348888382315636	-0.29063794	No	
+row_7	RNASEH2B	RNASEH2B	ribonuclease H2, subunit B	6358	-0.07220873236656189	-0.33151054	No	
+row_8	POLE	POLE	polymerase (DNA directed), epsilon	7558	-0.17363658547401428	-0.4122258	No	
+row_9	RNASEH2A	RNASEH2A	ribonuclease H2, subunit A	7616	-0.17962220311164856	-0.38681123	No	
+row_10	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	7765	-0.19411583244800568	-0.36729816	No	
+row_11	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.42042768	Yes	
+row_12	LIG1	LIG1	ligase I, DNA, ATP-dependent	9115	-0.34198853373527527	-0.37834245	Yes	
+row_13	POLE4	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	9643	-0.41303151845932007	-0.356344	Yes	
+row_14	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.2893041	Yes	
+row_15	SSBP1	SSBP1	single-stranded DNA binding protein 1	9983	-0.4691582918167114	-0.23545168	Yes	
+row_16	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10079	-0.4891257584095001	-0.16070354	Yes	
+row_17	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	10473	-0.5902814269065857	-0.096116066	Yes	
+row_18	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	0.008191467	Yes	

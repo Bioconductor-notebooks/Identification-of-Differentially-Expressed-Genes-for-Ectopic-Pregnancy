@@ -1,0 +1,154 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.023879278	Yes	
+row_1	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.045574877	Yes	
+row_2	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.06647217	Yes	
+row_3	PTK2B	PTK2B	PTK2B protein tyrosine kinase 2 beta	20	1.0311212539672852	0.08626362	Yes	
+row_4	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.10642665	Yes	
+row_5	IRF7	IRF7	interferon regulatory factor 7	30	0.9863246083259583	0.124969326	Yes	
+row_6	HERC5	HERC5	hect domain and RLD 5	66	0.9037300944328308	0.13938074	Yes	
+row_7	OAS3	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	92	0.8597618341445923	0.1538642	Yes	
+row_8	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	94	0.8560484647750854	0.17051156	Yes	
+row_9	CSH1	CSH1	chorionic somatomammotropin hormone 1 (placental lactogen)	136	0.8141359090805054	0.18261178	Yes	
+row_10	IRS2	IRS2	insulin receptor substrate 2	154	0.7992238402366638	0.19665688	Yes	
+row_11	GH2	GH2	growth hormone 2	162	0.7897409796714783	0.21144843	Yes	
+row_12	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.21913381	Yes	
+row_13	IL1R1	IL1R1	interleukin 1 receptor, type I	284	0.7123434543609619	0.22868429	Yes	
+row_14	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	402	0.6561956405639648	0.2306136	Yes	
+row_15	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.23571192	Yes	
+row_16	GH1	GH1	growth hormone 1	487	0.6311387419700623	0.24758828	Yes	
+row_17	OASL	OASL	2'-5'-oligoadenylate synthetase-like	539	0.6115098595619202	0.25479412	Yes	
+row_18	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.26425412	Yes	
+row_19	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.27550545	Yes	
+row_20	TOLLIP	TOLLIP	toll interacting protein	609	0.590422511100769	0.28360355	Yes	
+row_21	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.29170415	Yes	
+row_22	PRLR	PRLR	prolactin receptor	804	0.5291977524757385	0.28723603	Yes	
+row_23	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.29321533	Yes	
+row_24	VAV1	VAV1	vav 1 oncogene	859	0.5181168913841248	0.30260193	Yes	
+row_25	IL1RAP	IL1RAP	interleukin 1 receptor accessory protein	889	0.5134376287460327	0.30994007	Yes	
+row_26	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.318605	Yes	
+row_27	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.32486975	Yes	
+row_28	TEC	TEC	tec protein tyrosine kinase	1020	0.4868044853210449	0.32730722	Yes	
+row_29	NFKB2	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	1111	0.468742311000824	0.32808682	Yes	
+row_30	IL1B	IL1B	interleukin 1, beta	1178	0.4545525014400482	0.33082548	Yes	
+row_31	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.3386286	Yes	
+row_32	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.34074464	Yes	
+row_33	KPNA4	KPNA4	karyopherin alpha 4 (importin alpha 3)	1271	0.43453335762023926	0.34831035	Yes	
+row_34	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	1318	0.4259844720363617	0.35235408	Yes	
+row_35	IRAK3	IRAK3	interleukin-1 receptor-associated kinase 3	1343	0.4218984544277191	0.35836804	Yes	
+row_36	FYN	FYN	FYN oncogene related to SRC, FGR, YES	1346	0.4208412170410156	0.36641148	Yes	
+row_37	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.37156737	Yes	
+row_38	YWHAB	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	1479	0.4000081717967987	0.37016416	Yes	
+row_39	IFNGR1	IFNGR1	interferon gamma receptor 1	1550	0.3873807489871979	0.37121648	Yes	
+row_40	RNASEL	RNASEL	ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent)	1611	0.3788950741291046	0.37303472	Yes	
+row_41	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	1720	0.3604777157306671	0.3700198	Yes	
+row_42	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.37263328	Yes	
+row_43	FCGR1A	FCGR1A	Fc fragment of IgG, high affinity Ia, receptor (CD64)	1789	0.3497459292411804	0.37751582	Yes	
+row_44	HCK	HCK	hemopoietic cell kinase	1901	0.33418676257133484	0.3737072	Yes	
+row_45	PIN1	PIN1	protein (peptidylprolyl cis/trans isomerase) NIMA-interacting 1	1973	0.3261585533618927	0.37346908	Yes	
+row_46	SOCS3	SOCS3	suppressor of cytokine signaling 3	1985	0.3247014284133911	0.37879375	Yes	
+row_47	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	2026	0.3202206492424011	0.38132834	Yes	
+row_48	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.38615775	Yes	
+row_49	IL7	IL7	interleukin 7	2188	0.30445414781570435	0.3785993	No	
+row_50	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	2261	0.2967488169670105	0.37769285	No	
+row_51	DDX58	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	2471	0.271854966878891	0.36353284	No	
+row_52	PML	PML	promyelocytic leukemia	2604	0.2567673325538635	0.35625327	No	
+row_53	AAAS	AAAS	achalasia, adrenocortical insufficiency, alacrimia (Allgrove, triple-A)	2659	0.2499682754278183	0.3561094	No	
+row_54	PRKCD	PRKCD	protein kinase C, delta	2684	0.24734103679656982	0.3587098	No	
+row_55	IFNA7	IFNA7	interferon, alpha 7	2695	0.2456003725528717	0.36258078	No	
+row_56	FLNB	FLNB	filamin B, beta (actin binding protein 278)	2709	0.2444763034582138	0.36615023	No	
+row_57	IKBKB	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	2715	0.24346618354320526	0.37044543	No	
+row_58	IFNA4	IFNA4	interferon, alpha 4	2781	0.23530040681362152	0.36898965	No	
+row_59	SYK	SYK	spleen tyrosine kinase	2814	0.23133614659309387	0.37053156	No	
+row_60	PTAFR	PTAFR	platelet-activating factor receptor	2924	0.2198028266429901	0.36467242	No	
+row_61	CSF2	CSF2	colony stimulating factor 2 (granulocyte-macrophage)	2951	0.21648748219013214	0.3664831	No	
+row_62	NUP88	NUP88	nucleoporin 88kDa	2976	0.21345721185207367	0.36842087	No	
+row_63	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	3071	0.20460627973079681	0.3636624	No	
+row_64	GBP5	GBP5	guanylate binding protein 5	3158	0.19601601362228394	0.35948145	No	
+row_65	ICAM1	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	3264	0.1862606257200241	0.35333914	No	
+row_66	JAK3	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	3311	0.18217116594314575	0.35261497	No	
+row_67	HLA-DPB1	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	3405	0.17204107344150543	0.34731287	No	
+row_68	CAMK2B	CAMK2B	calcium/calmodulin-dependent protein kinase (CaM kinase) II beta	3565	0.15717028081417084	0.33556953	No	
+row_69	IL1A	IL1A	interleukin 1, alpha	3610	0.1535114049911499	0.33447126	No	
+row_70	CSF2RA	CSF2RA	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)	3636	0.15135309100151062	0.33510137	No	
+row_71	RAPGEF1	RAPGEF1	Rap guanine nucleotide exchange factor (GEF) 1	3663	0.14903879165649414	0.33559301	No	
+row_72	RBX1	RBX1	ring-box 1	3734	0.14194390177726746	0.33184567	No	
+row_73	IFNG	IFNG	interferon, gamma	3788	0.13774867355823517	0.32960045	No	
+row_74	TNIP2	TNIP2	TNFAIP3 interacting protein 2	3798	0.13652431964874268	0.3314316	No	
+row_75	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	3810	0.13557729125022888	0.33305782	No	
+row_76	SP100	SP100	SP100 nuclear antigen	3838	0.13253740966320038	0.3331336	No	
+row_77	NCAM1	NCAM1	neural cell adhesion molecule 1	3881	0.12875443696975708	0.33173758	No	
+row_78	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.31948197	No	
+row_79	KPNA5	KPNA5	karyopherin alpha 5 (importin alpha 6)	4244	0.09880032390356064	0.30231056	No	
+row_80	IFNA17	IFNA17	interferon, alpha 17	4376	0.08752031624317169	0.29181445	No	
+row_81	CAMK2A	CAMK2A	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha	4571	0.0708693191409111	0.27512187	No	
+row_82	NUP50	NUP50	nucleoporin 50kDa	4806	0.051652941852808	0.254326	No	
+row_83	IFITM2	IFITM2	interferon induced transmembrane protein 2 (1-8D)	4840	0.04848024249076843	0.25219885	No	
+row_84	IFNA21	IFNA21	interferon, alpha 21	5168	0.023904120549559593	0.22219384	No	
+row_85	ADAM17	ADAM17	ADAM metallopeptidase domain 17 (tumor necrosis factor, alpha, converting enzyme)	5181	0.023289674893021584	0.22153103	No	
+row_86	IRF2	IRF2	interferon regulatory factor 2	5417	0.00508889090269804	0.19973136	No	
+row_87	SUMO1	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	5504	-0.0014547808095812798	0.19174565	No	
+row_88	SEH1L	SEH1L	SEH1-like (S. cerevisiae)	5580	-0.006413943134248257	0.18488199	No	
+row_89	IFNA1	IFNA1	interferon, alpha 1	5617	-0.009364314377307892	0.18171035	No	
+row_90	BLNK	BLNK	B-cell linker	5665	-0.01331662479788065	0.17759092	No	
+row_91	IL3	IL3	interleukin 3 (colony-stimulating factor, multiple)	5682	-0.014118344523012638	0.17637601	No	
+row_92	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	5730	-0.018188919872045517	0.17235187	No	
+row_93	IRAK4	IRAK4	interleukin-1 receptor-associated kinase 4	5882	-0.031821269541978836	0.15890278	No	
+row_94	IL5RA	IL5RA	interleukin 5 receptor, alpha	5908	-0.03421301394701004	0.15724213	No	
+row_95	CUL1	CUL1	cullin 1	5946	-0.03780459612607956	0.15453348	No	
+row_96	BTRC	BTRC	beta-transducin repeat containing	5961	-0.03904975950717926	0.15399247	No	
+row_97	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	6008	-0.043398335576057434	0.15055451	No	
+row_98	EIF4E3	EIF4E3	eukaryotic translation initiation factor 4E member 3	6048	-0.046850573271512985	0.14783637	No	
+row_99	IFNGR2	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)	6340	-0.07026460021734238	0.122092746	No	
+row_100	IRF1	IRF1	interferon regulatory factor 1	6401	-0.0753432959318161	0.11797485	No	
+row_101	CAMK2D	CAMK2D	calcium/calmodulin-dependent protein kinase (CaM kinase) II delta	6443	-0.07809430360794067	0.11568133	No	
+row_102	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	6469	-0.08030635863542557	0.11492207	No	
+row_103	NUP133	NUP133	nucleoporin 133kDa	6487	-0.08183037489652634	0.11493811	No	
+row_104	IL3RA	IL3RA	interleukin 3 receptor, alpha (low affinity)	6564	-0.08963263779878616	0.10960865	No	
+row_105	IRF4	IRF4	interferon regulatory factor 4	6715	-0.10203070938587189	0.097625725	No	
+row_106	IFNB1	IFNB1	interferon, beta 1, fibroblast	6760	-0.1061411052942276	0.09560111	No	
+row_107	IFNA14	IFNA14	interferon, alpha 14	6853	-0.11391837149858475	0.089255564	No	
+row_108	IL1RN	IL1RN	interleukin 1 receptor antagonist	6887	-0.11691686511039734	0.08846674	No	
+row_109	PPM1B	PPM1B	protein phosphatase 1B (formerly 2C), magnesium-dependent, beta isoform	6903	-0.1187114492058754	0.0893904	No	
+row_110	KPNA1	KPNA1	karyopherin alpha 1 (importin alpha 5)	7002	-0.12655626237392426	0.082732856	No	
+row_111	RIPK2	RIPK2	receptor-interacting serine-threonine kinase 2	7009	-0.12681223452091217	0.08465362	No	
+row_112	HLA-DQA1	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	7098	-0.13357144594192505	0.07906515	No	
+row_113	CIITA	CIITA	class II, major histocompatibility complex, transactivator	7300	-0.15188607573509216	0.063304596	No	
+row_114	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	0.043117486	No	
+row_115	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	7609	-0.17886771261692047	0.0415832	No	
+row_116	IFNA8	IFNA8	interferon, alpha 8	7667	-0.18490375578403473	0.03988739	No	
+row_117	NUP210	NUP210	nucleoporin 210kDa	7709	-0.18940718472003937	0.03977066	No	
+row_118	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	0.04100393	No	
+row_119	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	7943	-0.21029451489448547	0.026012836	No	
+row_120	SH2B1	SH2B1	SH2B adaptor protein 1	8031	-0.2177485078573227	0.022163687	No	
+row_121	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	0.016303753	No	
+row_122	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.012684116	No	
+row_123	TRIM25	TRIM25	tripartite motif-containing 25	8306	-0.24588707089424133	0.010783054	No	
+row_124	NUP62	NUP62	nucleoporin 62kDa	8349	-0.25141042470932007	0.011785643	No	
+row_125	PLCG1	PLCG1	phospholipase C, gamma 1	8440	-0.2628726661205292	0.008539361	No	
+row_126	HGF	HGF	hepatocyte growth factor (hepapoietin A; scatter factor)	8471	-0.2660711407661438	0.010946904	No	
+row_127	NUP43	NUP43	nucleoporin 43kDa	8609	-0.2808064818382263	0.0036714943	No	
+row_128	IL2	IL2	interleukin 2	8635	-0.2841058373451233	0.006897657	No	
+row_129	NUP153	NUP153	nucleoporin 153kDa	8660	-0.28766804933547974	0.010286669	No	
+row_130	EIF4G3	EIF4G3	eukaryotic translation initiation factor 4 gamma, 3	8738	-0.2969469726085663	0.008918175	No	
+row_131	EIF4E2	EIF4E2	eukaryotic translation initiation factor 4E member 2	8854	-0.31022536754608154	0.004268204	No	
+row_132	NUP214	NUP214	nucleoporin 214kDa	8875	-0.31290674209594727	0.008523526	No	
+row_133	NUP155	NUP155	nucleoporin 155kDa	8886	-0.3139033913612366	0.013730218	No	
+row_134	GBP2	GBP2	guanylate binding protein 2, interferon-inducible	8974	-0.32536792755126953	0.011985632	No	
+row_135	EIF4G1	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	9008	-0.3293784260749817	0.015351624	No	
+row_136	PIK3R2	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (p85 beta)	9119	-0.34236544370651245	0.011796112	No	
+row_137	IRF3	IRF3	interferon regulatory factor 3	9263	-0.35825881361961365	0.005476202	No	
+row_138	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	9353	-0.36760300397872925	0.004371173	No	
+row_139	IFNA16	IFNA16	interferon, alpha 16	9368	-0.3695545494556427	0.0102934055	No	
+row_140	PTPN2	PTPN2	protein tyrosine phosphatase, non-receptor type 2	9429	-0.3785429894924164	0.012104765	No	
+row_141	IRF6	IRF6	interferon regulatory factor 6	9476	-0.386247843503952	0.015371429	No	
+row_142	IFNA10	IFNA10	interferon, alpha 10	9556	-0.3999842405319214	0.015831515	No	
+row_143	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.019956363	No	
+row_144	ARIH1	ARIH1	ariadne homolog, ubiquitin-conjugating enzyme E2 binding protein, 1 (Drosophila)	9600	-0.40641531348228455	0.027810875	No	
+row_145	IL5	IL5	interleukin 5 (colony-stimulating factor, eosinophil)	9609	-0.4074488580226898	0.035033282	No	
+row_146	PELI1	PELI1	pellino homolog 1 (Drosophila)	9788	-0.43679848313331604	0.026987683	No	
+row_147	CD44	CD44	CD44 molecule (Indian blood group)	9946	-0.4618864953517914	0.021389643	No	
+row_148	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	10129	-0.5016360878944397	0.014239232	No	
+row_149	YES1	YES1	v-yes-1 Yamaguchi sarcoma viral oncogene homolog 1	10251	-0.5302547812461853	0.013332942	No	
+row_150	NUP93	NUP93	nucleoporin 93kDa	10753	-0.7454150319099426	-0.018777184	No	
+row_151	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	-0.006258853	No	
+row_152	NUP54	NUP54	nucleoporin 54kDa	10806	-0.8013492226600647	0.0071755056	No	

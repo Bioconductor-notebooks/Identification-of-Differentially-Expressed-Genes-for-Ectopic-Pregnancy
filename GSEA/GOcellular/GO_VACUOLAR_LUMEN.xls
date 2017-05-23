@@ -1,0 +1,62 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SGSH	SGSH	N-sulfoglucosamine sulfohydrolase (sulfamidase)	100	0.851408064365387	0.03188164	Yes	
+row_1	SMPD1	SMPD1	sphingomyelin phosphodiesterase 1, acid lysosomal (acid sphingomyelinase)	189	0.7704732418060303	0.060963046	Yes	
+row_2	LGMN	LGMN	legumain	265	0.7221225500106812	0.08891036	Yes	
+row_3	HPSE	HPSE	heparanase	268	0.7203890681266785	0.12351885	Yes	
+row_4	DCN	DCN	decorin	289	0.7102755904197693	0.15597576	Yes	
+row_5	GM2A	GM2A	GM2 ganglioside activator	544	0.6106191277503967	0.16199884	Yes	
+row_6	HEXB	HEXB	hexosaminidase B (beta polypeptide)	588	0.5952228307723999	0.18677382	Yes	
+row_7	LAMP2	LAMP2	lysosomal-associated membrane protein 2	750	0.5465723872184753	0.1982964	Yes	
+row_8	PRLR	PRLR	prolactin receptor	804	0.5291977524757385	0.21895856	Yes	
+row_9	AP4E1	AP4E1	adaptor-related protein complex 4, epsilon 1 subunit	853	0.5198383927345276	0.23963067	Yes	
+row_10	GAA	GAA	glucosidase, alpha; acid (Pompe disease, glycogen storage disease type II)	874	0.5160138010978699	0.26270512	Yes	
+row_11	CTSB	CTSB	cathepsin B	931	0.5039360523223877	0.28187	Yes	
+row_12	SDC4	SDC4	syndecan 4 (amphiglycan, ryudocan)	1234	0.44265270233154297	0.27534568	Yes	
+row_13	ACP2	ACP2	acid phosphatase 2, lysosomal	1418	0.4097628593444824	0.27822793	Yes	
+row_14	SDC3	SDC3	syndecan 3 (N-syndecan)	1447	0.40450936555862427	0.2951778	Yes	
+row_15	CTSS	CTSS	cathepsin S	1506	0.3941039443016052	0.30885324	Yes	
+row_16	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1539	0.3899523913860321	0.32473046	Yes	
+row_17	SFTPB	SFTPB	surfactant, pulmonary-associated protein B	1575	0.38378411531448364	0.34003255	Yes	
+row_18	GALNS	GALNS	galactosamine (N-acetyl)-6-sulfate sulfatase (Morquio syndrome, mucopolysaccharidosis type IVA)	1624	0.375996857881546	0.3537574	Yes	
+row_19	FASLG	FASLG	Fas ligand (TNF superfamily, member 6)	1657	0.3718077540397644	0.3687583	Yes	
+row_20	CUBN	CUBN	cubilin (intrinsic factor-cobalamin receptor)	1701	0.3638492524623871	0.38235843	Yes	
+row_21	MAN2B1	MAN2B1	mannosidase, alpha, class 2B, member 1	1780	0.35126712918281555	0.39211702	Yes	
+row_22	OGN	OGN	osteoglycin (osteoinductive factor, mimecan)	1886	0.3360936939716339	0.39864805	Yes	
+row_23	HYAL1	HYAL1	hyaluronoglucosaminidase 1	1917	0.33226802945137024	0.41192403	Yes	
+row_24	FMOD	FMOD	fibromodulin	1936	0.32993432879447937	0.42619604	Yes	
+row_25	RAB38	RAB38	RAB38, member RAS oncogene family	2056	0.31751763820648193	0.4305364	Yes	
+row_26	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	2199	0.30352675914764404	0.4320759	Yes	
+row_27	AP4S1	AP4S1	adaptor-related protein complex 4, sigma 1 subunit	2269	0.29612505435943604	0.4400028	Yes	
+row_28	IDS	IDS	iduronate 2-sulfatase (Hunter syndrome)	2357	0.2845359146595001	0.44570684	Yes	
+row_29	RAB32	RAB32	RAB32, member RAS oncogene family	2401	0.2800276577472687	0.45525858	Yes	
+row_30	CTSL2	CTSL2	cathepsin L2	2436	0.2765655219554901	0.46547464	Yes	
+row_31	GALC	GALC	galactosylceramidase	2476	0.2709352970123291	0.4749568	Yes	
+row_32	CTSD	CTSD	cathepsin D (lysosomal aspartyl peptidase)	3033	0.20806264877319336	0.43363371	No	
+row_33	ARSB	ARSB	arylsulfatase B	3128	0.19876037538051605	0.43454823	No	
+row_34	PPT2	PPT2	palmitoyl-protein thioesterase 2	3240	0.18848654627799988	0.4333958	No	
+row_35	PRELP	PRELP	proline/arginine-rich end leucine-rich repeat protein	3664	0.1489841639995575	0.40150797	No	
+row_36	FUCA1	FUCA1	fucosidase, alpha-L- 1, tissue	3876	0.12915121018886566	0.3882502	No	
+row_37	ASAH1	ASAH1	N-acylsphingosine amidohydrolase (acid ceramidase) 1	4031	0.1173127070069313	0.3796872	No	
+row_38	SFTPC	SFTPC	surfactant, pulmonary-associated protein C	4377	0.08742585778236389	0.35203314	No	
+row_39	AP4M1	AP4M1	adaptor-related protein complex 4, mu 1 subunit	4421	0.08265091478824615	0.35205197	No	
+row_40	SDC1	SDC1	syndecan 1	4950	0.039749324321746826	0.30518678	No	
+row_41	GPC5	GPC5	glypican 5	5048	0.033454082906246185	0.29784015	No	
+row_42	CSPG5	CSPG5	chondroitin sulfate proteoglycan 5 (neuroglycan C)	5059	0.032686103135347366	0.29849488	No	
+row_43	DAPK2	DAPK2	death-associated protein kinase 2	5499	-0.0012592985294759274	0.2579939	No	
+row_44	GUSB	GUSB	glucuronidase, beta	5744	-0.020071133971214294	0.23641874	No	
+row_45	NEU4	NEU4	sialidase 4	5944	-0.03766212612390518	0.21985097	No	
+row_46	LNPEP	LNPEP	leucyl/cystinyl aminopeptidase	6706	-0.10073316842317581	0.15440294	No	
+row_47	INS	INS	insulin	7109	-0.13417471945285797	0.12374018	No	
+row_48	GIF	GIF	gastric intrinsic factor (vitamin B synthesis)	7470	-0.16654889285564423	0.09852165	No	
+row_49	GYG2	GYG2	glycogenin 2	7508	-0.17016835510730743	0.10332178	No	
+row_50	GPC3	GPC3	glypican 3	7740	-0.1920977234840393	0.09125626	No	
+row_51	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.057341464	No	
+row_52	RNASET2	RNASET2	ribonuclease T2	8630	-0.283791720867157	0.034459263	No	
+row_53	NAGLU	NAGLU	N-acetylglucosaminidase, alpha- (Sanfilippo disease IIIB)	8663	-0.28812772035598755	0.04541856	No	
+row_54	BGN	BGN	biglycan	9046	-0.33342134952545166	0.026226906	No	
+row_55	CD1E	CD1E	CD1e molecule	9164	-0.3470243811607361	0.032177143	No	
+row_56	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.01179347	No	
+row_57	GPC1	GPC1	glypican 1	9935	-0.46093812584877014	0.0030108183	No	
+row_58	HSPA8	HSPA8	heat shock 70kDa protein 8	10216	-0.5218904614448547	0.002346202	No	
+row_59	SCARB2	SCARB2	scavenger receptor class B, member 2	10374	-0.5625383853912354	0.015009481	No	
+row_60	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	10645	-0.6610552668571472	0.021990191	No	

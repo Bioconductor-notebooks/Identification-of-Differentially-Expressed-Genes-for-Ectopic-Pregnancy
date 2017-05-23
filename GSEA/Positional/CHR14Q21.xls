@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1269	0.4350684881210327	-0.044273686	No	
+row_1	RTN1	RTN1	reticulon 1	1709	0.36302822828292847	-0.024158722	No	
+row_2	RPL36AL	RPL36AL	ribosomal protein L36a-like	2315	0.28984904289245605	-0.031523935	No	
+row_3	LOC283547	LOC283547	-	2528	0.2650836110115051	-0.0068434887	No	
+row_4	MGAT2	MGAT2	mannosyl (alpha-1,6-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase	3175	0.1936885565519333	-0.0340144	No	
+row_5	KLHDC1	KLHDC1	kelch domain containing 1	4102	0.11078629642724991	-0.100779876	No	
+row_6	ATP5S	ATP5S	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit s (factor B)	4452	0.08027568459510803	-0.11952085	No	
+row_7	CDKL1	CDKL1	cyclin-dependent kinase-like 1 (CDC2-related kinase)	5422	0.004981602542102337	-0.207884	No	
+row_8	PNN	PNN	pinin, desmosome associated protein	6483	-0.08155263960361481	-0.2918576	No	
+row_9	ESR2	ESR2	estrogen receptor 2 (ER beta)	7144	-0.13676334917545319	-0.32980767	No	
+row_10	AKAP5	AKAP5	A kinase (PRKA) anchor protein 5	7614	-0.17942102253437042	-0.3430649	No	
+row_11	ARF6	ARF6	ADP-ribosylation factor 6	8366	-0.2530387043952942	-0.37000597	Yes	
+row_12	ATXN3	ATXN3	ataxin 3	8394	-0.2571452856063843	-0.32962027	Yes	
+row_13	OTX2	OTX2	orthodenticle homolog 2 (Drosophila)	8722	-0.29534921050071716	-0.3104794	Yes	
+row_14	FANCM	FANCM	Fanconi anemia, complementation group M	8787	-0.302693635225296	-0.26590568	Yes	
+row_15	SIX1	SIX1	sine oculis homeobox homolog 1 (Drosophila)	8966	-0.3242523670196533	-0.22823109	Yes	
+row_16	SOS2	SOS2	son of sevenless homolog 2 (Drosophila)	9345	-0.3671788275241852	-0.20180926	Yes	
+row_17	EIF2S1	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	9662	-0.4157504141330719	-0.16158272	Yes	
+row_18	NIN	NIN	ninein (GSK3B interacting protein)	9875	-0.4532843232154846	-0.105525665	Yes	
+row_19	TRIM9	TRIM9	tripartite motif-containing 9	10880	-1.1889296770095825	2.7601037E-4	Yes	

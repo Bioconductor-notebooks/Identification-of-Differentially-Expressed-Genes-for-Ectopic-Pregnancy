@@ -1,0 +1,58 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.0658795	Yes	
+row_1	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	119	0.8310408592224121	0.104527585	Yes	
+row_2	IL1RL1	IL1RL1	interleukin 1 receptor-like 1	122	0.8270478248596191	0.1528243	Yes	
+row_3	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.1768658	Yes	
+row_4	LTBP1	LTBP1	latent transforming growth factor beta binding protein 1	320	0.6961708068847656	0.21665926	Yes	
+row_5	CSF1R	CSF1R	colony stimulating factor 1 receptor, formerly McDonough feline sarcoma viral (v-fms) oncogene homolog	601	0.5923332571983337	0.22552049	Yes	
+row_6	IL18BP	IL18BP	interleukin 18 binding protein	774	0.5369377732276917	0.2411095	Yes	
+row_7	CRLF1	CRLF1	cytokine receptor-like factor 1	1017	0.4879903495311737	0.24736391	Yes	
+row_8	CX3CR1	CX3CR1	chemokine (C-X3-C motif) receptor 1	1053	0.4785647690296173	0.27218464	Yes	
+row_9	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1077	0.47552821040153503	0.29793572	Yes	
+row_10	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.3105342	Yes	
+row_11	IFNGR1	IFNGR1	interferon gamma receptor 1	1550	0.3873807489871979	0.30322486	Yes	
+row_12	DARC	DARC	Duffy blood group, chemokine receptor	1659	0.37163692712783813	0.3150351	Yes	
+row_13	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	0.32444623	Yes	
+row_14	ACVRL1	ACVRL1	activin A receptor type II-like 1	1938	0.32976365089416504	0.3293685	Yes	
+row_15	TNFRSF11A	TNFRSF11A	tumor necrosis factor receptor superfamily, member 11a, NFKB activator	1983	0.3252542316913605	0.34437096	Yes	
+row_16	CXCR3	CXCR3	chemokine (C-X-C motif) receptor 3	2034	0.3195161819458008	0.35848287	Yes	
+row_17	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	2199	0.30352675914764404	0.36112824	Yes	
+row_18	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	2218	0.3014027774333954	0.37713394	Yes	
+row_19	CCBP2	CCBP2	chemokine binding protein 2	2247	0.29794877767562866	0.39201352	Yes	
+row_20	PLP2	PLP2	proteolipid protein 2 (colonic epithelium-enriched)	2338	0.2873690724372864	0.40054652	Yes	
+row_21	CNTFR	CNTFR	ciliary neurotrophic factor receptor	2820	0.23065724968910217	0.36964163	No	
+row_22	CCR7	CCR7	chemokine (C-C motif) receptor 7	3087	0.2027040421962738	0.35695592	No	
+row_23	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	3487	0.1646052598953247	0.32975274	No	
+row_24	CSF2RA	CSF2RA	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)	3636	0.15135309100151062	0.3249555	No	
+row_25	HAX1	HAX1	HCLS1 associated protein X-1	3637	0.15134461224079132	0.33382732	No	
+row_26	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	3810	0.13557729125022888	0.32588863	No	
+row_27	LIFR	LIFR	leukemia inhibitory factor receptor alpha	3845	0.1318957507610321	0.33048004	No	
+row_28	KLHL20	KLHL20	kelch-like 20 (Drosophila)	3921	0.12529991567134857	0.330898	No	
+row_29	CCR2	CCR2	chemokine (C-C motif) receptor 2	4207	0.10180412977933884	0.31054264	No	
+row_30	TNFRSF9	TNFRSF9	tumor necrosis factor receptor superfamily, member 9	4549	0.07290557026863098	0.28332102	No	
+row_31	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	5045	0.033715587109327316	0.23957838	No	
+row_32	IL22RA2	IL22RA2	interleukin 22 receptor, alpha 2	5203	0.021857330575585365	0.22635888	No	
+row_33	IL22RA1	IL22RA1	interleukin 22 receptor, alpha 1	5344	0.010793664492666721	0.21406096	No	
+row_34	ITGA4	ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	5469	0.0010385802015662193	0.202669	No	
+row_35	GREM1	GREM1	gremlin 1, cysteine knot superfamily, homolog (Xenopus laevis)	5714	-0.01702759973704815	0.1811309	No	
+row_36	NRP2	NRP2	neuropilin 2	5732	-0.01843959651887417	0.18064167	No	
+row_37	CD36	CD36	CD36 molecule (thrombospondin receptor)	5848	-0.029118184000253677	0.17172699	No	
+row_38	HYAL2	HYAL2	hyaluronoglucosaminidase 2	5962	-0.03923065587878227	0.1635898	No	
+row_39	CXCR7	CXCR7	chemokine (C-X-C motif) receptor 7	6203	-0.06025402992963791	0.14495508	No	
+row_40	LTBP3	LTBP3	latent transforming growth factor beta binding protein 3	6495	-0.08242935687303543	0.12290983	No	
+row_41	IL1RAPL1	IL1RAPL1	interleukin 1 receptor accessory protein-like 1	6568	-0.08987528085708618	0.12152827	No	
+row_42	AGER	AGER	advanced glycosylation end product-specific receptor	6589	-0.09174855798482895	0.12505932	No	
+row_43	NBL1	NBL1	neuroblastoma, suppression of tumorigenicity 1	6804	-0.11023163795471191	0.111755684	No	
+row_44	IL1RN	IL1RN	interleukin 1 receptor antagonist	6887	-0.11691686511039734	0.11103568	No	
+row_45	IL20RA	IL20RA	interleukin 20 receptor, alpha	7281	-0.15007126331329346	0.083534695	No	
+row_46	BMPR2	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	7999	-0.21411368250846863	0.02986268	No	
+row_47	HFE2	HFE2	hemochromatosis type 2 (juvenile)	8344	-0.2509812116622925	0.012802744	No	
+row_48	GDF5	GDF5	growth differentiation factor 5 (cartilage-derived morphogenetic protein-1)	8541	-0.27291324734687805	0.0106979925	No	
+row_49	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	0.014605257	No	
+row_50	THBS1	THBS1	thrombospondin 1	8752	-0.29891130328178406	0.026031528	No	
+row_51	IL17F	IL17F	interleukin 17F	9173	-0.34793874621391296	0.0076357434	No	
+row_52	CXCR6	CXCR6	chemokine (C-X-C motif) receptor 6	9219	-0.35400116443634033	0.024230972	No	
+row_53	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	0.00706707	No	
+row_54	NRP1	NRP1	neuropilin 1	9984	-0.46927016973495483	0.0057587815	No	
+row_55	LTBP4	LTBP4	latent transforming growth factor beta binding protein 4	10401	-0.5702211856842041	7.6261064E-4	No	
+row_56	TGFB3	TGFB3	transforming growth factor, beta 3	10752	-0.7448577880859375	0.012099488	No	

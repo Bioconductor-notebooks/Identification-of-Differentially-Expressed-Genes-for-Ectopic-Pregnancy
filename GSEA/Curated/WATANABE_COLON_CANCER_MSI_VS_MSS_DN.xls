@@ -1,0 +1,47 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNMD	TNMD	tenomodulin	286	0.712212085723877	0.024497868	No	
+row_1	ISX	ISX	intestine-specific homeobox	1745	0.35660016536712646	-0.08455025	No	
+row_2	TOB1	TOB1	transducer of ERBB2, 1	2129	0.3100707232952118	-0.09773477	No	
+row_3	ACE2	ACE2	angiotensin I converting enzyme (peptidyl-dipeptidase A) 2	2398	0.2801041901111603	-0.10244955	No	
+row_4	GPR143	GPR143	G protein-coupled receptor 143	2559	0.2617691159248352	-0.09850941	No	
+row_5	SYK	SYK	spleen tyrosine kinase	2814	0.23133614659309387	-0.10541684	No	
+row_6	CELP	CELP	carboxyl ester lipase pseudogene	3400	0.17275671660900116	-0.14705038	No	
+row_7	LY6G6D	LY6G6D	lymphocyte antigen 6 complex, locus G6D	3550	0.15893718600273132	-0.14944248	No	
+row_8	SPINK1	SPINK1	serine peptidase inhibitor, Kazal type 1	3948	0.12360543757677078	-0.17724143	No	
+row_9	RIT1	RIT1	Ras-like without CAAX 1	4319	0.09209231287240982	-0.20480071	No	
+row_10	ACSL6	ACSL6	acyl-CoA synthetase long-chain family member 6	4335	0.09074710309505463	-0.19970098	No	
+row_11	MUC12	MUC12	mucin 12, cell surface associated	5053	0.033304110169410706	-0.26347756	No	
+row_12	TMCC1	TMCC1	transmembrane and coiled-coil domain family 1	5148	0.026367519050836563	-0.27026683	No	
+row_13	VAV3	VAV3	vav 3 oncogene	5433	0.004117110278457403	-0.29617676	No	
+row_14	SLC1A7	SLC1A7	solute carrier family 1 (glutamate transporter), member 7	5441	0.0032074847258627415	-0.2965935	No	
+row_15	CYP2B6	CYP2B6	cytochrome P450, family 2, subfamily B, polypeptide 6	5451	0.002468251623213291	-0.29724753	No	
+row_16	CXCL14	CXCL14	chemokine (C-X-C motif) ligand 14	5810	-0.026284359395503998	-0.32840148	No	
+row_17	IGF1R	IGF1R	insulin-like growth factor 1 receptor	6004	-0.042984142899513245	-0.34313804	No	
+row_18	HMGCS2	HMGCS2	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial)	6421	-0.07724013179540634	-0.37600282	No	
+row_19	PDK3	PDK3	pyruvate dehydrogenase kinase, isozyme 3	6430	-0.07754891365766525	-0.3712002	No	
+row_20	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	6764	-0.10628780722618103	-0.3943313	No	
+row_21	SLC26A3	SLC26A3	solute carrier family 26, member 3	7084	-0.13246391713619232	-0.41430044	No	
+row_22	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	7505	-0.17001192271709442	-0.44090587	No	
+row_23	CBX5	CBX5	chromobox homolog 5 (HP1 alpha homolog, Drosophila)	7967	-0.21176637709140778	-0.468311	No	
+row_24	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	8000	-0.2141714096069336	-0.45596135	No	
+row_25	SAMD12	SAMD12	sterile alpha motif domain containing 12	8432	-0.26177266240119934	-0.47702557	No	
+row_26	NME7	NME7	non-metastatic cells 7, protein expressed in (nucleoside-diphosphate kinase)	8697	-0.29309800267219543	-0.48044288	Yes	
+row_27	GRM8	GRM8	glutamate receptor, metabotropic 8	8777	-0.3010270595550537	-0.4662241	Yes	
+row_28	FLJ22763	FLJ22763	-	9025	-0.33130043745040894	-0.4653434	Yes	
+row_29	EMILIN3	EMILIN3	elastin microfibril interfacer 3	9063	-0.33590972423553467	-0.44475704	Yes	
+row_30	EIF2C2	EIF2C2	eukaryotic translation initiation factor 2C, 2	9171	-0.34775954484939575	-0.4297828	Yes	
+row_31	CD9	CD9	CD9 molecule	9302	-0.36062124371528625	-0.41601178	Yes	
+row_32	POLR3E	POLR3E	polymerase (RNA) III (DNA directed) polypeptide E (80kD)	9421	-0.3775346875190735	-0.3999251	Yes	
+row_33	MUM1	MUM1	melanoma associated antigen (mutated) 1	9432	-0.37880393862724304	-0.37378278	Yes	
+row_34	CADPS	CADPS	Ca2+-dependent secretion activator	9579	-0.4032503366470337	-0.35844228	Yes	
+row_35	RBM6	RBM6	RNA binding motif protein 6	9580	-0.4035644233226776	-0.3296082	Yes	
+row_36	DACH1	DACH1	dachshund homolog 1 (Drosophila)	9589	-0.40503573417663574	-0.30140713	Yes	
+row_37	NFIB	NFIB	nuclear factor I/B	9713	-0.423800528049469	-0.28247616	Yes	
+row_38	TMEM106B	TMEM106B	transmembrane protein 106B	9821	-0.4423271417617798	-0.26074523	Yes	
+row_39	DUOX2	DUOX2	dual oxidase 2	10049	-0.4820547103881836	-0.24724795	Yes	
+row_40	USP53	USP53	ubiquitin specific peptidase 53	10494	-0.5970816016197205	-0.24555431	Yes	
+row_41	ZMYM2	ZMYM2	zinc finger, MYM-type 2	10675	-0.6740624904632568	-0.21400177	Yes	
+row_42	SLC26A2	SLC26A2	solute carrier family 26 (sulfate transporter), member 2	10678	-0.6751212477684021	-0.1659499	Yes	
+row_43	MYEF2	MYEF2	myelin expression factor 2	10711	-0.7032253742218018	-0.11865806	Yes	
+row_44	EBP	EBP	emopamil binding protein (sterol isomerase)	10836	-0.8635202646255493	-0.068402044	Yes	
+row_45	PTCD2	PTCD2	pentatricopeptide repeat domain 2	10870	-1.016764760017395	0.001199458	Yes	

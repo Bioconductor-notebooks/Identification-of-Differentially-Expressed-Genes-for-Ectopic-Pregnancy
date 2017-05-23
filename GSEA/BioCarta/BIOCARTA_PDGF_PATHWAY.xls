@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.18090501	Yes	
+row_1	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.23569007	Yes	
+row_2	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.3128081	Yes	
+row_3	STAT4	STAT4	signal transducer and activator of transcription 4	1095	0.47118377685546875	0.33345523	Yes	
+row_4	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.32361954	Yes	
+row_5	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1869	0.3382832407951355	0.36410266	Yes	
+row_6	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.3951306	Yes	
+row_7	STAT6	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	2098	0.3144935965538025	0.43634683	Yes	
+row_8	PDGFRA	PDGFRA	platelet-derived growth factor receptor, alpha polypeptide	2574	0.2603074610233307	0.4309332	No	
+row_9	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	4385	0.08635181933641434	0.27705005	No	
+row_10	PDGFA	PDGFA	platelet-derived growth factor alpha polypeptide	4744	0.056447844952344894	0.25240663	No	
+row_11	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	0.1362198	No	
+row_12	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	0.026796004	No	
+row_13	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	0.0064179194	No	
+row_14	PLCG1	PLCG1	phospholipase C, gamma 1	8440	-0.2628726661205292	0.017856691	No	
+row_15	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	0.044000577	No	
+row_16	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	0.040124793	No	
+row_17	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	9353	-0.36760300397872925	0.08142491	No	
+row_18	ELK1	ELK1	ELK1, member of ETS oncogene family	9576	-0.4029989540576935	0.120294385	No	

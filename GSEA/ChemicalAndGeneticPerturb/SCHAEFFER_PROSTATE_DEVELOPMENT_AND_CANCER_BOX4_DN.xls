@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	1577	0.38362520933151245	-0.08240299	No	
+row_1	ZNF462	ZNF462	zinc finger protein 462	6336	-0.07007024437189102	-0.50882506	No	
+row_2	IER2	IER2	immediate early response 2	6556	-0.08844484388828278	-0.51451755	No	
+row_3	TOB2	TOB2	transducer of ERBB2, 2	7007	-0.12666314840316772	-0.5352198	No	
+row_4	SSR1	SSR1	signal sequence receptor, alpha (translocon-associated protein alpha)	7642	-0.18211621046066284	-0.5637881	No	
+row_5	CANX	CANX	calnexin	8156	-0.23046649992465973	-0.5733148	No	
+row_6	GCC2	GCC2	GRIP and coiled-coil domain containing 2	8715	-0.29454103112220764	-0.57650566	Yes	
+row_7	ELOVL5	ELOVL5	ELOVL family member 5, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	8864	-0.3111656904220581	-0.5392458	Yes	
+row_8	PPHLN1	PPHLN1	periphilin 1	8982	-0.32584989070892334	-0.49673182	Yes	
+row_9	SMARCA2	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	9208	-0.3525012135505676	-0.45979926	Yes	
+row_10	TNRC6B	TNRC6B	trinucleotide repeat containing 6B	9261	-0.35786107182502747	-0.40606907	Yes	
+row_11	NFIA	NFIA	nuclear factor I/A	9414	-0.3759598433971405	-0.35858244	Yes	
+row_12	ZNF664	ZNF664	zinc finger protein 664	9522	-0.39519989490509033	-0.30380842	Yes	
+row_13	CDC37L1	CDC37L1	CDC37 cell division cycle 37 homolog (S. cerevisiae)-like 1	10076	-0.48870933055877686	-0.27478963	Yes	
+row_14	NRIP1	NRIP1	nuclear receptor interacting protein 1	10086	-0.4913164973258972	-0.19528012	Yes	
+row_15	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	10155	-0.5075100064277649	-0.1185525	Yes	
+row_16	REST	REST	RE1-silencing transcription factor	10323	-0.5498949885368347	-0.044005275	Yes	
+row_17	PRPF40A	PRPF40A	PRP40 pre-mRNA processing factor 40 homolog A (yeast)	10446	-0.583737313747406	0.04021705	Yes	

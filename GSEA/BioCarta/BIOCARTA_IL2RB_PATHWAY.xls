@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.1576674	Yes	
+row_1	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.19052278	Yes	
+row_2	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.23681882	Yes	
+row_3	FAS	FAS	Fas (TNF receptor superfamily, member 6)	1213	0.4470568597316742	0.26574552	Yes	
+row_4	FASLG	FASLG	Fas ligand (TNF superfamily, member 6)	1657	0.3718077540397644	0.27673274	Yes	
+row_5	BCL2L1	BCL2L1	BCL2-like 1	1733	0.3584105968475342	0.31974307	Yes	
+row_6	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1869	0.3382832407951355	0.3544248	Yes	
+row_7	SOCS3	SOCS3	suppressor of cytokine signaling 3	1985	0.3247014284133911	0.38905674	Yes	
+row_8	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.4282495	Yes	
+row_9	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	2261	0.2967488169670105	0.44950318	Yes	
+row_10	SYK	SYK	spleen tyrosine kinase	2814	0.23133614659309387	0.4308887	No	
+row_11	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	3071	0.20460627973079681	0.43581	No	
+row_12	JAK3	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	3311	0.18217116594314575	0.43917218	No	
+row_13	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	0.40280634	No	
+row_14	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.40634826	No	
+row_15	CFLAR	CFLAR	CASP8 and FADD-like apoptosis regulator	5060	0.03267040476202965	0.31687498	No	
+row_16	PPIA	PPIA	peptidylprolyl isomerase A (cyclophilin A)	5708	-0.016138024628162384	0.25954065	No	
+row_17	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	6008	-0.043398335576057434	0.23805012	No	
+row_18	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	0.2378038	No	
+row_19	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	0.16877602	No	
+row_20	BCL2	BCL2	B-cell CLL/lymphoma 2	7141	-0.13663285970687866	0.17785966	No	
+row_21	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	0.16405812	No	
+row_22	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	0.14184363	No	
+row_23	BAD	BAD	BCL2-antagonist of cell death	8222	-0.2376699149608612	0.16776173	No	
+row_24	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	10342	-0.5542796850204468	0.049820412	No	

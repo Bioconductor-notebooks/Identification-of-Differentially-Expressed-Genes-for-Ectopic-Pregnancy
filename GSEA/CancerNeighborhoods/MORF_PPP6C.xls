@@ -1,0 +1,53 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHMP2B	CHMP2B	chromatin modifying protein 2B	267	0.7208751440048218	0.01981192	No	
+row_1	CDIPT	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase (phosphatidylinositol synthase)	993	0.49229180812835693	-0.01675652	No	
+row_2	RAD23B	RAD23B	RAD23 homolog B (S. cerevisiae)	1097	0.4710351228713989	0.0027864513	No	
+row_3	NDUFB1	NDUFB1	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 1, 7kDa	1098	0.4708869755268097	0.031829145	No	
+row_4	NBN	NBN	nibrin	1276	0.4336807131767273	0.042236615	No	
+row_5	BUD31	BUD31	BUD31 homolog (yeast)	1448	0.4042898416519165	0.05138527	No	
+row_6	RNF6	RNF6	ring finger protein (C3H2C3 type) 6	1609	0.3792114555835724	0.06000268	No	
+row_7	RPL36AL	RPL36AL	ribosomal protein L36a-like	2315	0.28984904289245605	0.012794645	No	
+row_8	PSMA2	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	2447	0.2754203677177429	0.017687833	No	
+row_9	DBI	DBI	diazepam binding inhibitor (GABA receptor modulator, acyl-Coenzyme A binding protein)	2462	0.27346867322921753	0.033261977	No	
+row_10	SP2	SP2	Sp2 transcription factor	3229	0.18950700759887695	-0.025766274	No	
+row_11	SYPL1	SYPL1	synaptophysin-like 1	3373	0.17549143731594086	-0.028144188	No	
+row_12	KIAA0196	KIAA0196	KIAA0196	4091	0.1115003451704979	-0.08745999	No	
+row_13	SAP18	SAP18	Sin3A-associated protein, 18kDa	4351	0.08936657756567001	-0.1058588	No	
+row_14	DPM1	DPM1	dolichyl-phosphate mannosyltransferase polypeptide 1, catalytic subunit	4540	0.07353246212005615	-0.11867955	No	
+row_15	PHF2	PHF2	PHD finger protein 2	5174	0.023453999310731888	-0.17567095	No	
+row_16	USP6	USP6	ubiquitin specific peptidase 6 (Tre-2 oncogene)	5281	0.01564972847700119	-0.18449154	No	
+row_17	PSMC5	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	5390	0.007063155062496662	-0.19402638	No	
+row_18	PDCD6	PDCD6	programmed cell death 6	5414	0.005462992005050182	-0.19581278	No	
+row_19	WIPI2	WIPI2	WD repeat domain, phosphoinositide interacting 2	5501	-0.0012676510959863663	-0.20367403	No	
+row_20	SUMO1	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	5504	-0.0014547808095812798	-0.20376894	No	
+row_21	ETFA	ETFA	electron-transfer-flavoprotein, alpha polypeptide (glutaric aciduria II)	5526	-0.003315851790830493	-0.20550314	No	
+row_22	EEF1D	EEF1D	eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein)	5748	-0.02036411501467228	-0.22464965	No	
+row_23	PSMB4	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	5909	-0.03426709771156311	-0.23730722	No	
+row_24	EEF1A2	EEF1A2	eukaryotic translation elongation factor 1 alpha 2	5937	-0.036779481917619705	-0.23753141	No	
+row_25	COX4I1	COX4I1	cytochrome c oxidase subunit IV isoform 1	6426	-0.07731466740369797	-0.2778146	No	
+row_26	PSMC3	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	6647	-0.0963214784860611	-0.29218403	No	
+row_27	MAD2L1BP	MAD2L1BP	MAD2L1 binding protein	6974	-0.12427381426095963	-0.31461525	No	
+row_28	ATP5J2	ATP5J2	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F2	7096	-0.1334868222475052	-0.31755283	No	
+row_29	VTI1B	VTI1B	vesicle transport through interaction with t-SNAREs homolog 1B (yeast)	7120	-0.1351262927055359	-0.31134206	No	
+row_30	CNBP	CNBP	CCHC-type zinc finger, nucleic acid binding protein	7168	-0.13888727128505707	-0.30711496	No	
+row_31	PSMD9	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	7427	-0.16232649981975555	-0.32092154	No	
+row_32	PSMD7	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	7486	-0.16814729571342468	-0.31590527	No	
+row_33	RAB5A	RAB5A	RAB5A, member RAS oncogene family	8499	-0.26836058497428894	-0.3927806	No	
+row_34	EIF5	EIF5	eukaryotic translation initiation factor 5	8505	-0.2691045105457306	-0.37664476	No	
+row_35	EIF4E2	EIF4E2	eukaryotic translation initiation factor 4E member 2	8854	-0.31022536754608154	-0.38963816	No	
+row_36	ZNF410	ZNF410	zinc finger protein 410	9019	-0.3305269479751587	-0.3843927	No	
+row_37	CD47	CD47	CD47 molecule	9488	-0.38958239555358887	-0.4035699	Yes	
+row_38	TLK2	TLK2	tousled-like kinase 2	9614	-0.40814313292503357	-0.38993692	Yes	
+row_39	MBD4	MBD4	methyl-CpG binding domain protein 4	9773	-0.43437761068344116	-0.3777324	Yes	
+row_40	PSMA3	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	9791	-0.43724092841148376	-0.35233432	Yes	
+row_41	HARS2	HARS2	histidyl-tRNA synthetase 2	9943	-0.4616108238697052	-0.3378039	Yes	
+row_42	VCP	VCP	valosin-containing protein	10178	-0.5139451026916504	-0.3277082	Yes	
+row_43	ATP5C1	ATP5C1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	10387	-0.5656885504722595	-0.31202084	Yes	
+row_44	PPP6C	PPP6C	protein phosphatase 6, catalytic subunit	10449	-0.5842502117156982	-0.28161773	Yes	
+row_45	CFDP1	CFDP1	craniofacial development protein 1	10460	-0.5856122970581055	-0.24642238	Yes	
+row_46	MRPS11	MRPS11	mitochondrial ribosomal protein S11	10476	-0.5910588502883911	-0.21135268	Yes	
+row_47	UBE4A	UBE4A	ubiquitination factor E4A (UFD2 homolog, yeast)	10542	-0.615145742893219	-0.17941333	Yes	
+row_48	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	-0.15279603	Yes	
+row_49	USP8	USP8	ubiquitin specific peptidase 8	10803	-0.7972171306610107	-0.10879627	Yes	
+row_50	FUBP1	FUBP1	far upstream element (FUSE) binding protein 1	10813	-0.8094899654388428	-0.05970057	Yes	
+row_51	PAF1	PAF1	Paf1, RNA polymerase II associated factor, homolog (S. cerevisiae)	10876	-1.0712440013885498	6.463069E-4	Yes	

@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.16360791	Yes	
+row_1	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.31452236	Yes	
+row_2	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	514	0.6212735772132874	0.3508199	Yes	
+row_3	IL1B	IL1B	interleukin 1, beta	1178	0.4545525014400482	0.35029194	Yes	
+row_4	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.40100086	Yes	
+row_5	HTRA2	HTRA2	HtrA serine peptidase 2	1286	0.43189185857772827	0.45618293	Yes	
+row_6	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	1318	0.4259844720363617	0.51002645	Yes	
+row_7	CRADD	CRADD	CASP2 and RIPK1 domain containing adaptor with death domain	1546	0.388018935918808	0.54077566	Yes	
+row_8	DAP3	DAP3	death associated protein 3	2048	0.3179381191730499	0.5369765	Yes	
+row_9	DAPK1	DAPK1	death-associated protein kinase 1	2366	0.283490389585495	0.5455291	Yes	
+row_10	RIPK1	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	2648	0.2506020963191986	0.5530181	Yes	
+row_11	P2RX1	P2RX1	purinergic receptor P2X, ligand-gated ion channel, 1	2722	0.24266046285629272	0.5785959	Yes	
+row_12	DUSP6	DUSP6	dual specificity phosphatase 6	2828	0.23005008697509766	0.5995498	Yes	
+row_13	LTBR	LTBR	lymphotoxin beta receptor (TNFR superfamily, member 3)	3172	0.19428522884845734	0.59383625	No	
+row_14	AHR	AHR	aryl hydrocarbon receptor	5108	0.028631705790758133	0.41953585	No	
+row_15	ADRA1A	ADRA1A	adrenergic, alpha-1A-, receptor	5551	-0.0046010129153728485	0.3794634	No	
+row_16	TNFAIP3	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	6078	-0.049101073294878006	0.33758178	No	
+row_17	MAEA	MAEA	macrophage erythroblast attacher	7631	-0.18119171261787415	0.21884061	No	
+row_18	PDCD1	PDCD1	programmed cell death 1	7884	-0.20433326065540314	0.22284076	No	
+row_19	TNFRSF25	TNFRSF25	tumor necrosis factor receptor superfamily, member 25	9551	-0.3990827202796936	0.12260671	No	

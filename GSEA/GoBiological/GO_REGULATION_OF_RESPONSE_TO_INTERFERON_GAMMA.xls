@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.21127754	Yes	
+row_1	NR1H2	NR1H2	nuclear receptor subfamily 1, group H, member 2	807	0.5288107395172119	0.22815892	Yes	
+row_2	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.31368062	Yes	
+row_3	PARP9	PARP9	poly (ADP-ribose) polymerase family, member 9	886	0.5138067007064819	0.39874852	Yes	
+row_4	TXK	TXK	TXK tyrosine kinase	1056	0.4780775308609009	0.46534607	Yes	
+row_5	IFNGR1	IFNGR1	interferon gamma receptor 1	1550	0.3873807489871979	0.48654392	Yes	
+row_6	HPX	HPX	hemopexin	1922	0.33138909935951233	0.50934726	Yes	
+row_7	SOCS3	SOCS3	suppressor of cytokine signaling 3	1985	0.3247014284133911	0.55943614	Yes	
+row_8	IFNG	IFNG	interferon, gamma	3788	0.13774867355823517	0.4172827	No	
+row_9	HSP90AB1	HSP90AB1	heat shock protein 90kDa alpha (cytosolic), class B member 1	4942	0.04015278443694115	0.31808123	No	
+row_10	PPARG	PPARG	peroxisome proliferative activated receptor, gamma	5124	0.02783171646296978	0.3062077	No	
+row_11	SUMO1	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	5504	-0.0014547808095812798	0.27158144	No	
+row_12	IFNGR2	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)	6340	-0.07026460021734238	0.20681705	No	
+row_13	CDC37	CDC37	CDC37 cell division cycle 37 homolog (S. cerevisiae)	7983	-0.21304170787334442	0.09232487	No	
+row_14	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	0.117093086	No	
+row_15	PTPN2	PTPN2	protein tyrosine phosphatase, non-receptor type 2	9429	-0.3785429894924164	0.06389115	No	
+row_16	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.11824801	No	

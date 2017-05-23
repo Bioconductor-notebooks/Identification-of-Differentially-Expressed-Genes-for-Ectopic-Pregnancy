@@ -1,0 +1,42 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANTXR1	ANTXR1	anthrax toxin receptor 1	62	0.910504162311554	0.05136281	Yes	
+row_1	PPAP2B	PPAP2B	phosphatidic acid phosphatase type 2B	70	0.8979034423828125	0.107008055	Yes	
+row_2	CDON	CDON	Cdon homolog (mouse)	81	0.8718423843383789	0.16074282	Yes	
+row_3	ADM	ADM	adrenomedullin	140	0.8118693828582764	0.20629098	Yes	
+row_4	SAT1	SAT1	spermidine/spermine N1-acetyltransferase 1	175	0.7814401984214783	0.2521449	Yes	
+row_5	SLC43A3	SLC43A3	solute carrier family 43, member 3	178	0.778405487537384	0.3007598	Yes	
+row_6	TRPV2	TRPV2	transient receptor potential cation channel, subfamily V, member 2	242	0.7355249524116516	0.34106067	Yes	
+row_7	CREG1	CREG1	cellular repressor of E1A-stimulated genes 1	532	0.615012526512146	0.35296354	Yes	
+row_8	DPT	DPT	dermatopontin	605	0.5911024808883667	0.38338032	Yes	
+row_9	AKAP12	AKAP12	A kinase (PRKA) anchor protein (gravin) 12	665	0.567996084690094	0.41354752	Yes	
+row_10	SELPLG	SELPLG	selectin P ligand	758	0.5432658195495605	0.43912086	Yes	
+row_11	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	0.4713023	Yes	
+row_12	CPXM2	CPXM2	carboxypeptidase X (M14 family), member 2	936	0.5026412010192871	0.48805752	Yes	
+row_13	KRT34	KRT34	keratin 34	988	0.4935300946235657	0.51429415	Yes	
+row_14	PTGES	PTGES	prostaglandin E synthase	1156	0.4605548083782196	0.52776533	Yes	
+row_15	EIF2B3	EIF2B3	eukaryotic translation initiation factor 2B, subunit 3 gamma, 58kDa	1471	0.4009576737880707	0.5239431	Yes	
+row_16	PAPPA	PAPPA	pregnancy-associated plasma protein A, pappalysin 1	1652	0.3722878098487854	0.5306818	Yes	
+row_17	SH3PXD2B	SH3PXD2B	SH3 and PX domains 2B	1895	0.33513882756233215	0.5293736	Yes	
+row_18	FMOD	FMOD	fibromodulin	1936	0.32993432879447937	0.5463686	Yes	
+row_19	DCT	DCT	dopachrome tautomerase (dopachrome delta-isomerase, tyrosine-related protein 2)	2500	0.26826003193855286	0.5112633	No	
+row_20	LAMA4	LAMA4	laminin, alpha 4	3137	0.1979011446237564	0.46501467	No	
+row_21	ARHGAP5	ARHGAP5	Rho GTPase activating protein 5	3440	0.1690741777420044	0.4477621	No	
+row_22	ISLR	ISLR	immunoglobulin superfamily containing leucine-rich repeat	3547	0.1592593789100647	0.4479704	No	
+row_23	ENO2	ENO2	enolase 2 (gamma, neuronal)	3986	0.12046215683221817	0.4151276	No	
+row_24	ELN	ELN	elastin (supravalvular aortic stenosis, Williams-Beuren syndrome)	4208	0.10175169259309769	0.40112475	No	
+row_25	CYP20A1	CYP20A1	cytochrome P450, family 20, subfamily A, polypeptide 1	4614	0.06731586158275604	0.3679936	No	
+row_26	FN1	FN1	fibronectin 1	5175	0.023436052724719048	0.31781662	No	
+row_27	COPA	COPA	coatomer protein complex, subunit alpha	5321	0.012566783465445042	0.30523175	No	
+row_28	CXCL1	CXCL1	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	6648	-0.09637056291103363	0.18898249	No	
+row_29	CYR61	CYR61	cysteine-rich, angiogenic inducer, 61	7399	-0.16017873585224152	0.12985526	No	
+row_30	PER3	PER3	period homolog 3 (Drosophila)	7443	-0.1636366844177246	0.13614818	No	
+row_31	FAM84A	FAM84A	family with sequence similarity 84, member A	7578	-0.17577208578586578	0.13480939	No	
+row_32	AKR1C1	AKR1C1	aldo-keto reductase family 1, member C1 (dihydrodiol dehydrogenase 1; 20-alpha (3-alpha)-hydroxysteroid dehydrogenase)	7665	-0.18478845059871674	0.13846265	No	
+row_33	PDPN	PDPN	podoplanin	7686	-0.18683819472789764	0.14833128	No	
+row_34	TMEM47	TMEM47	transmembrane protein 47	7743	-0.1923421323299408	0.15522486	No	
+row_35	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	8137	-0.228673055768013	0.13331611	No	
+row_36	PLOD2	PLOD2	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2	8369	-0.25365445017814636	0.127914	No	
+row_37	SLIT3	SLIT3	slit homolog 3 (Drosophila)	8523	-0.27048778533935547	0.13076077	No	
+row_38	SLC7A1	SLC7A1	solute carrier family 7 (cationic amino acid transporter, y+ system), member 1	8882	-0.31363287568092346	0.11740617	No	
+row_39	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	10096	-0.4928477704524994	0.036434077	No	
+row_40	PTK7	PTK7	PTK7 protein tyrosine kinase 7	10418	-0.5751218795776367	0.04288492	No	

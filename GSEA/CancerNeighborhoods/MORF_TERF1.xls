@@ -1,0 +1,34 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KRIT1	KRIT1	KRIT1, ankyrin repeat containing	1359	0.41904765367507935	-0.08811884	No	
+row_1	CAPZA1	CAPZA1	capping protein (actin filament) muscle Z-line, alpha 1	3587	0.1548652946949005	-0.279634	No	
+row_2	DHX38	DHX38	DEAH (Asp-Glu-Ala-His) box polypeptide 38	3733	0.14202316105365753	-0.28041512	No	
+row_3	BRD8	BRD8	bromodomain containing 8	3946	0.12362964451313019	-0.28900024	No	
+row_4	POLR2C	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	4202	0.10199275612831116	-0.30346492	No	
+row_5	POLR2A	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	4773	0.054010964930057526	-0.35120985	No	
+row_6	PTP4A2	PTP4A2	protein tyrosine phosphatase type IVA, member 2	5052	0.03331146016716957	-0.37387857	No	
+row_7	RNPS1	RNPS1	RNA binding protein S1, serine-rich domain	6599	-0.09238248318433762	-0.50816983	No	
+row_8	TCEA1	TCEA1	transcription elongation factor A (SII), 1	6788	-0.10891035199165344	-0.51584715	No	
+row_9	GAK	GAK	cyclin G associated kinase	7003	-0.1265658289194107	-0.5243565	No	
+row_10	XPO7	XPO7	exportin 7	7738	-0.19173051416873932	-0.57501477	Yes	
+row_11	ATXN2L	ATXN2L	ataxin 2-like	7749	-0.19292356073856354	-0.5588454	Yes	
+row_12	GPAA1	GPAA1	glycosylphosphatidylinositol anchor attachment protein 1 homolog (yeast)	7914	-0.20778991281986237	-0.5555513	Yes	
+row_13	DDX49	DDX49	DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	8045	-0.21983741223812103	-0.54805654	Yes	
+row_14	SMARCC2	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	8256	-0.24132594466209412	-0.54603076	Yes	
+row_15	ANAPC5	ANAPC5	anaphase promoting complex subunit 5	8506	-0.2691396474838257	-0.5451351	Yes	
+row_16	RNF44	RNF44	ring finger protein 44	9069	-0.3366246521472931	-0.56710625	Yes	
+row_17	PUM2	PUM2	pumilio homolog 2 (Drosophila)	9127	-0.3434589207172394	-0.5419325	Yes	
+row_18	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.51458764	Yes	
+row_19	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	9553	-0.3993682563304901	-0.51487285	Yes	
+row_20	RBM6	RBM6	RNA binding motif protein 6	9580	-0.4035644233226776	-0.48151752	Yes	
+row_21	ARFGEF1	ARFGEF1	ADP-ribosylation factor guanine nucleotide-exchange factor 1(brefeldin A-inhibited)	9986	-0.46970823407173157	-0.47723022	Yes	
+row_22	CS	CS	citrate synthase	9995	-0.4717693328857422	-0.43617383	Yes	
+row_23	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.39508274	Yes	
+row_24	FUS	FUS	fusion (involved in t(12;16) in malignant liposarcoma)	10281	-0.5379582643508911	-0.3727688	Yes	
+row_25	NAP1L4	NAP1L4	nucleosome assembly protein 1-like 4	10282	-0.5380938649177551	-0.3250995	Yes	
+row_26	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.27750218	Yes	
+row_27	SUMO2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10347	-0.5550322532653809	-0.23404612	Yes	
+row_28	PUM1	PUM1	pumilio homolog 1 (Drosophila)	10405	-0.5711675882339478	-0.18869984	Yes	
+row_29	STK24	STK24	serine/threonine kinase 24 (STE20 homolog, yeast)	10492	-0.5963195562362671	-0.14379793	Yes	
+row_30	ARIH2	ARIH2	ariadne homolog 2 (Drosophila)	10508	-0.6007270812988281	-0.0919624	Yes	
+row_31	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	-0.047157023	Yes	
+row_32	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	0.010505731	Yes	

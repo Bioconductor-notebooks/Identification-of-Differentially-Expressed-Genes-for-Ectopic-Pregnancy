@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	245	0.7341944575309753	0.059971824	No	
+row_1	VAV1	VAV1	vav 1 oncogene	859	0.5181168913841248	0.06176456	No	
+row_2	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	946	0.5011234879493713	0.11017817	No	
+row_3	PPP3CC	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)	1399	0.4126199185848236	0.114937976	No	
+row_4	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	1720	0.3604777157306671	0.12599209	No	
+row_5	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.16142102	No	
+row_6	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1869	0.3382832407951355	0.19014776	No	
+row_7	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.21010515	No	
+row_8	NFATC2	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	2714	0.24373674392700195	0.17571251	No	
+row_9	SYK	SYK	spleen tyrosine kinase	2814	0.23133614659309387	0.19260108	No	
+row_10	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.093091965	No	
+row_11	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	4190	0.10301537811756134	0.09076682	No	
+row_12	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	5952	-0.038165971636772156	-0.067112416	No	
+row_13	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	-0.073853515	No	
+row_14	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	-0.18937275	No	
+row_15	FCER1A	FCER1A	Fc fragment of IgE, high affinity I, receptor for; alpha polypeptide	7841	-0.2010926753282547	-0.19310471	No	
+row_16	PLCG1	PLCG1	phospholipase C, gamma 1	8440	-0.2628726661205292	-0.21862367	No	
+row_17	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	-0.24999867	Yes	
+row_18	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	9353	-0.36760300397872925	-0.22147538	Yes	
+row_19	ELK1	ELK1	ELK1, member of ETS oncogene family	9576	-0.4029989540576935	-0.19661652	Yes	
+row_20	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	9967	-0.4657366871833801	-0.1801761	Yes	
+row_21	MAP2K7	MAP2K7	mitogen-activated protein kinase kinase 7	10108	-0.49443936347961426	-0.13748671	Yes	
+row_22	NFATC3	NFATC3	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3	10173	-0.5132340788841248	-0.08568572	Yes	
+row_23	PLA2G4A	PLA2G4A	phospholipase A2, group IVA (cytosolic, calcium-dependent)	10438	-0.5806888341903687	-0.044719785	Yes	
+row_24	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	10771	-0.7615377902984619	0.010314027	Yes	

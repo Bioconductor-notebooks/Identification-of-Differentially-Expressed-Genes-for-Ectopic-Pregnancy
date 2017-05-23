@@ -1,0 +1,52 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RBBP6	RBBP6	retinoblastoma binding protein 6	1661	0.37122148275375366	-0.13244776	No	
+row_1	IFI16	IFI16	interferon, gamma-inducible protein 16	1783	0.35081058740615845	-0.123885356	No	
+row_2	DAP3	DAP3	death associated protein 3	2048	0.3179381191730499	-0.13037233	No	
+row_3	CCDC59	CCDC59	coiled-coil domain containing 59	2114	0.3126712441444397	-0.11878575	No	
+row_4	RPS23	RPS23	ribosomal protein S23	2554	0.2623004913330078	-0.1445565	No	
+row_5	GTF3A	GTF3A	general transcription factor IIIA	2606	0.25614893436431885	-0.13485678	No	
+row_6	OXA1L	OXA1L	oxidase (cytochrome c) assembly 1-like	2855	0.2271510511636734	-0.14497325	No	
+row_7	BTF3	BTF3	basic transcription factor 3	3045	0.20682337880134583	-0.15078679	No	
+row_8	TTC31	TTC31	tetratricopeptide repeat domain 31	3786	0.1378483772277832	-0.21134305	No	
+row_9	RBM15	RBM15	RNA binding motif protein 15	3843	0.13217291235923767	-0.20907813	No	
+row_10	PSMA1	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	3852	0.13128387928009033	-0.2024323	No	
+row_11	PAPOLA	PAPOLA	poly(A) polymerase alpha	4083	0.11244435608386993	-0.2173391	No	
+row_12	UBP1	UBP1	upstream binding protein 1 (LBP-1a)	5542	-0.004043276887387037	-0.35170043	No	
+row_13	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	-0.37071294	No	
+row_14	YTHDC1	YTHDC1	YTH domain containing 1	6279	-0.06607812643051147	-0.4146285	No	
+row_15	UXT	UXT	ubiquitously-expressed transcript	6339	-0.07026107609272003	-0.41612285	No	
+row_16	NACA	NACA	nascent-polypeptide-associated complex alpha polypeptide	6699	-0.10015479475259781	-0.44362894	No	
+row_17	TAPBP	TAPBP	TAP binding protein (tapasin)	6739	-0.10429192334413528	-0.44136298	No	
+row_18	RPL22	RPL22	ribosomal protein L22	6939	-0.12176656723022461	-0.45288378	No	
+row_19	ABT1	ABT1	activator of basal transcription 1	7071	-0.13159112632274628	-0.45757487	No	
+row_20	CDK5RAP1	CDK5RAP1	CDK5 regulatory subunit associated protein 1	7235	-0.14576347172260284	-0.46442276	No	
+row_21	DDX46	DDX46	DEAD (Asp-Glu-Ala-Asp) box polypeptide 46	7593	-0.1774376779794693	-0.4873973	No	
+row_22	EED	EED	embryonic ectoderm development	7792	-0.19675356149673462	-0.49460804	No	
+row_23	CLK2	CLK2	CDC-like kinase 2	7886	-0.20462585985660553	-0.49168336	No	
+row_24	EIF2S3	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa	8335	-0.24989567697048187	-0.51898265	No	
+row_25	MAGOH	MAGOH	mago-nashi homolog, proliferation-associated (Drosophila)	8407	-0.2594480514526367	-0.51094353	No	
+row_26	SS18L2	SS18L2	synovial sarcoma translocation gene on chromosome 18-like 2	8582	-0.2783718407154083	-0.51134807	No	
+row_27	RPS3	RPS3	ribosomal protein S3	9062	-0.33552804589271545	-0.53669244	Yes	
+row_28	RBM39	RBM39	RNA binding motif protein 39	9071	-0.33671748638153076	-0.5184916	Yes	
+row_29	TRA2A	TRA2A	-	9145	-0.34488528966903687	-0.5058316	Yes	
+row_30	OSR1	OSR1	odd-skipped related 1 (Drosophila)	9166	-0.3473791778087616	-0.4881388	Yes	
+row_31	FBL	FBL	fibrillarin	9343	-0.3670318126678467	-0.48374107	Yes	
+row_32	UBE2D2	UBE2D2	ubiquitin-conjugating enzyme E2D 2 (UBC4/5 homolog, yeast)	9397	-0.3741128742694855	-0.46759087	Yes	
+row_33	DDX50	DDX50	DEAD (Asp-Glu-Ala-Asp) box polypeptide 50	9842	-0.44688835740089417	-0.4834407	Yes	
+row_34	COPS7B	COPS7B	COP9 constitutive photomorphogenic homolog subunit 7B (Arabidopsis)	9869	-0.4518094062805176	-0.46042794	Yes	
+row_35	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.44627377	Yes	
+row_36	HNRPDL	HNRPDL	heterogeneous nuclear ribonucleoprotein D-like	10016	-0.4748769700527191	-0.42048657	Yes	
+row_37	CBFB	CBFB	core-binding factor, beta subunit	10189	-0.5156906843185425	-0.40735802	Yes	
+row_38	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.38575628	Yes	
+row_39	SUMO2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10347	-0.5550322532653809	-0.36026075	Yes	
+row_40	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	10384	-0.5649369359016418	-0.331808	Yes	
+row_41	ZNF207	ZNF207	zinc finger protein 207	10471	-0.5895144939422607	-0.3065884	Yes	
+row_42	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.2772466	Yes	
+row_43	SF1	SF1	splicing factor 1	10539	-0.6134036779403687	-0.24412924	Yes	
+row_44	ZBTB1	ZBTB1	zinc finger and BTB domain containing 1	10578	-0.632575273513794	-0.21205668	Yes	
+row_45	DDX18	DDX18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	10613	-0.6471725106239319	-0.17879385	Yes	
+row_46	FAM111A	FAM111A	family with sequence similarity 111, member A	10654	-0.6668580770492554	-0.14497761	Yes	
+row_47	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.11124879	Yes	
+row_48	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	-0.07219161	Yes	
+row_49	ZCCHC8	ZCCHC8	zinc finger, CCHC domain containing 8	10748	-0.737756073474884	-0.03078748	Yes	
+row_50	DHX15	DHX15	DEAH (Asp-Glu-Ala-His) box polypeptide 15	10779	-0.7672808170318604	0.009600317	Yes	

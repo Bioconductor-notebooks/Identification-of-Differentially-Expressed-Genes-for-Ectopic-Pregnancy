@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	119	0.8310408592224121	0.089250095	No	
+row_1	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	1311	0.4271478056907654	0.031077912	No	
+row_2	GATA4	GATA4	GATA binding protein 4	1525	0.3920111060142517	0.05873241	No	
+row_3	NKX2-5	NKX2-5	NK2 transcription factor related, locus 5 (Drosophila)	2147	0.3084925711154938	0.038743537	No	
+row_4	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	2218	0.3014027774333954	0.06864109	No	
+row_5	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	0.07112123	No	
+row_6	BMP10	BMP10	bone morphogenetic protein 10	2590	0.25787433981895447	0.097519726	No	
+row_7	WNT1	WNT1	wingless-type MMTV integration site family, member 1	2856	0.2271018773317337	0.10050045	No	
+row_8	DVL1	DVL1	dishevelled, dsh homolog 1 (Drosophila)	3025	0.20884709060192108	0.110212654	No	
+row_9	BMP4	BMP4	bone morphogenetic protein 4	3830	0.13352465629577637	0.052273385	No	
+row_10	MYL2	MYL2	myosin, light chain 2, regulatory, cardiac, slow	4053	0.11521833389997482	0.045722798	No	
+row_11	NPPB	NPPB	natriuretic peptide precursor B	4245	0.09879550337791443	0.04004668	No	
+row_12	NPPA	NPPA	natriuretic peptide precursor A	5098	0.02964436449110508	-0.034839	No	
+row_13	RFC1	RFC1	replication factor C (activator 1) 1, 145kDa	5779	-0.023348888382315636	-0.094644405	No	
+row_14	SMAD6	SMAD6	SMAD, mothers against DPP homolog 6 (Drosophila)	5932	-0.03652958571910858	-0.1042372	No	
+row_15	BMP7	BMP7	bone morphogenetic protein 7 (osteogenic protein 1)	7189	-0.1406870186328888	-0.20293728	No	
+row_16	TGFB2	TGFB2	transforming growth factor, beta 2	7908	-0.20721526443958282	-0.24407107	No	
+row_17	BMPR2	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	7999	-0.21411368250846863	-0.22654082	No	
+row_18	SMAD1	SMAD1	SMAD, mothers against DPP homolog 1 (Drosophila)	9481	-0.386703222990036	-0.31629586	Yes	
+row_19	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.28984115	Yes	
+row_20	SMAD4	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	10237	-0.5262101888656616	-0.27040836	Yes	
+row_21	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.22026767	Yes	
+row_22	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.15452537	Yes	
+row_23	TGFB3	TGFB3	transforming growth factor, beta 3	10752	-0.7448577880859375	-0.08073235	Yes	
+row_24	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.009393086	Yes	

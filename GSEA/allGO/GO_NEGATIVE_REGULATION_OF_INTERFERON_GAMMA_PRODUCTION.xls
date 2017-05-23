@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFSF4	TNFSF4	tumor necrosis factor (ligand) superfamily, member 4 (tax-transcriptionally activated glycoprotein 1, 34kDa)	61	0.9117786288261414	0.087633505	Yes	
+row_1	IL1RL1	IL1RL1	interleukin 1 receptor-like 1	122	0.8270478248596191	0.16669345	Yes	
+row_2	INHA	INHA	inhibin, alpha	128	0.8212161064147949	0.25022095	Yes	
+row_3	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	156	0.7956458926200867	0.32910773	Yes	
+row_4	GATA3	GATA3	GATA binding protein 3	174	0.7816216945648193	0.40748096	Yes	
+row_5	XCL1	XCL1	chemokine (C motif) ligand 1	390	0.662642776966095	0.45545554	Yes	
+row_6	AXL	AXL	AXL receptor tyrosine kinase	436	0.6446796655654907	0.5172453	Yes	
+row_7	HLA-DRB4	HLA-DRB4	major histocompatibility complex, class II, DR beta 4	716	0.5524282455444336	0.5480553	Yes	
+row_8	LILRB1	LILRB1	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 1	1001	0.4909232258796692	0.5721147	Yes	
+row_9	IL10	IL10	interleukin 10	1246	0.44008180499076843	0.5946573	Yes	
+row_10	LGALS9	LGALS9	lectin, galactoside-binding, soluble, 9 (galectin 9)	1338	0.42240673303604126	0.6294793	Yes	
+row_11	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.6683563	Yes	
+row_12	ZC3H12A	ZC3H12A	zinc finger CCCH-type containing 12A	2621	0.2536022365093231	0.58003086	No	
+row_13	SLAMF1	SLAMF1	signaling lymphocytic activation molecule family member 1	2817	0.2310214638710022	0.58570385	No	
+row_14	PDCD1LG2	PDCD1LG2	programmed cell death 1 ligand 2	3318	0.18132072687149048	0.5582117	No	
+row_15	PGLYRP1	PGLYRP1	peptidoglycan recognition protein 1	4733	0.05749867111444473	0.43390164	No	
+row_16	NR1H4	NR1H4	nuclear receptor subfamily 1, group H, member 4	6816	-0.1113157719373703	0.25359115	No	
+row_17	RARA	RARA	retinoic acid receptor, alpha	6930	-0.12100757658481598	0.2555627	No	
+row_18	INHBA	INHBA	inhibin, beta A (activin A, activin AB alpha polypeptide)	6980	-0.1247730404138565	0.263812	No	
+row_19	C1QBP	C1QBP	complement component 1, q subcomponent binding protein	7425	-0.16192923486232758	0.23949271	No	
+row_20	GAS6	GAS6	growth arrest-specific 6	7856	-0.20249150693416595	0.22061084	No	
+row_21	CD276	CD276	CD276 molecule	8546	-0.27425289154052734	0.1852214	No	
+row_22	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	0.20237546	No	

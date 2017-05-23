@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP1	AQP1	aquaporin 1 (Colton blood group)	118	0.8312647938728333	0.15532333	No	
+row_1	ATP1B3	ATP1B3	ATPase, Na+/K+ transporting, beta 3 polypeptide	1241	0.44077569246292114	0.14020139	No	
+row_2	ATP1A4	ATP1A4	ATPase, Na+/K+ transporting, alpha 4 polypeptide	1736	0.3578356206417084	0.16628295	No	
+row_3	FXYD2	FXYD2	FXYD domain containing ion transport regulator 2	3579	0.15594413876533508	0.027969847	No	
+row_4	PCK2	PCK2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	3945	0.1236693412065506	0.019108158	No	
+row_5	PCK1	PCK1	phosphoenolpyruvate carboxykinase 1 (soluble)	4273	0.09665094316005707	0.008341635	No	
+row_6	GLUD2	GLUD2	glutamate dehydrogenase 2	4732	0.05754616856575012	-0.02229619	No	
+row_7	SLC9A3	SLC9A3	solute carrier family 9 (sodium/hydrogen exchanger), member 3	5242	0.018302368000149727	-0.065472044	No	
+row_8	CA2	CA2	carbonic anhydrase II	5984	-0.041115280240774155	-0.12543437	No	
+row_9	GLS	GLS	glutaminase	6552	-0.08795429766178131	-0.16002266	No	
+row_10	CA4	CA4	carbonic anhydrase IV	7278	-0.1499512940645218	-0.196755	No	
+row_11	SLC4A4	SLC4A4	solute carrier family 4, sodium bicarbonate cotransporter, member 4	8195	-0.23511020839214325	-0.23403747	No	
+row_12	GLS2	GLS2	glutaminase 2 (liver, mitochondrial)	9369	-0.36974406242370605	-0.26805225	Yes	
+row_13	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	10085	-0.49116864800453186	-0.23565058	Yes	
+row_14	SLC25A10	SLC25A10	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10	10672	-0.6734228134155273	-0.15494417	Yes	
+row_15	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	10839	-0.8717123866081238	0.0040485323	Yes	

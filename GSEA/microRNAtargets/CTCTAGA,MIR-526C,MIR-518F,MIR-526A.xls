@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANTXR1	ANTXR1	anthrax toxin receptor 1	62	0.910504162311554	0.08960739	Yes	
+row_1	BCL2L2	BCL2L2	BCL2-like 2	169	0.787087082862854	0.16224058	Yes	
+row_2	SS18	SS18	synovial sarcoma translocation, chromosome 18	527	0.6175515055656433	0.1940002	Yes	
+row_3	FHL1	FHL1	four and a half LIM domains 1	619	0.5861766338348389	0.2469823	Yes	
+row_4	DTNA	DTNA	dystrobrevin, alpha	820	0.5271099805831909	0.28373843	Yes	
+row_5	SORCS1	SORCS1	sortilin-related VPS10 domain containing receptor 1	1428	0.4081432521343231	0.27054235	Yes	
+row_6	CBX4	CBX4	chromobox homolog 4 (Pc class homolog, Drosophila)	1489	0.39806249737739563	0.30668712	Yes	
+row_7	GTF3C2	GTF3C2	general transcription factor IIIC, polypeptide 2, beta 110kDa	3586	0.1552138775587082	0.12982775	No	
+row_8	RBM3	RBM3	RNA binding motif (RNP1, RRM) protein 3	3778	0.13816335797309875	0.12669471	No	
+row_9	KLHL7	KLHL7	kelch-like 7 (Drosophila)	4080	0.1125699058175087	0.1107478	No	
+row_10	DMRT3	DMRT3	doublesex and mab-3 related transcription factor 3	4291	0.09534942358732224	0.101382114	No	
+row_11	CBX8	CBX8	chromobox homolog 8 (Pc class homolog, Drosophila)	4774	0.0539071299135685	0.062617995	No	
+row_12	ZC3H12B	ZC3H12B	zinc finger CCCH-type containing 12B	5479	3.35213408106938E-4	-0.0022077924	No	
+row_13	TBR1	TBR1	T-box, brain, 1	5506	-0.0015286499401554465	-0.00444319	No	
+row_14	BAI3	BAI3	brain-specific angiogenesis inhibitor 3	6171	-0.05794092267751694	-0.059553027	No	
+row_15	IL1RAPL1	IL1RAPL1	interleukin 1 receptor accessory protein-like 1	6568	-0.08987528085708618	-0.08662834	No	
+row_16	MYO3B	MYO3B	myosin IIIB	6722	-0.10260040313005447	-0.08998341	No	
+row_17	EGLN3	EGLN3	egl nine homolog 3 (C. elegans)	6814	-0.11117273569107056	-0.08672888	No	
+row_18	SLC4A10	SLC4A10	solute carrier family 4, sodium bicarbonate transporter-like, member 10	7207	-0.14233577251434326	-0.10794364	No	
+row_19	TJAP1	TJAP1	tight junction associated protein 1 (peripheral)	7526	-0.1713981330394745	-0.11929813	No	
+row_20	ANK2	ANK2	ankyrin 2, neuronal	7769	-0.19460435211658478	-0.12122117	No	
+row_21	WAPAL	WAPAL	wings apart-like homolog (Drosophila)	8262	-0.2417334020137787	-0.14124331	No	
+row_22	FLT3	FLT3	fms-related tyrosine kinase 3	8309	-0.246506005525589	-0.11967496	No	
+row_23	SLC25A33	SLC25A33	solute carrier family 25, member 33	8475	-0.2664636969566345	-0.106980965	No	
+row_24	PUM2	PUM2	pumilio homolog 2 (Drosophila)	9127	-0.3434589207172394	-0.13100256	No	
+row_25	CD9	CD9	CD9 molecule	9302	-0.36062124371528625	-0.10928052	No	
+row_26	ARL2BP	ARL2BP	ADP-ribosylation factor-like 2 binding protein	9865	-0.45146092772483826	-0.11379577	No	
+row_27	CS	CS	citrate synthase	9995	-0.4717693328857422	-0.07629184	No	
+row_28	KLF12	KLF12	Kruppel-like factor 12	10725	-0.7112607955932617	-0.06899499	No	
+row_29	USP8	USP8	ubiquitin specific peptidase 8	10803	-0.7972171306610107	0.007370542	No	

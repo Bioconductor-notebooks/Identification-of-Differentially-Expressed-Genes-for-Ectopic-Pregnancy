@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OXTR	OXTR	oxytocin receptor	73	0.8907396793365479	0.18967225	Yes	
+row_1	CRYAB	CRYAB	crystallin, alpha B	300	0.703855574131012	0.32406393	Yes	
+row_2	FKBP1B	FKBP1B	FK506 binding protein 1B, 12.6 kDa	622	0.5859147906303406	0.42371178	Yes	
+row_3	PLN	PLN	phospholamban	1125	0.46708863973617554	0.48050818	Yes	
+row_4	HRC	HRC	histidine rich calcium binding protein	1208	0.44816553592681885	0.5717745	Yes	
+row_5	CHRNB1	CHRNB1	cholinergic receptor, nicotinic, beta 1 (muscle)	3515	0.1612788289785385	0.3951699	No	
+row_6	TMSB4Y	TMSB4Y	thymosin, beta 4, Y-linked	3520	0.1612115204334259	0.4303455	No	
+row_7	SSPN	SSPN	sarcospan (Kras oncogene-associated gene)	3869	0.1296795904636383	0.42691934	No	
+row_8	GNAO1	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	5348	0.01069079153239727	0.29329336	No	
+row_9	CACNG1	CACNG1	calcium channel, voltage-dependent, gamma subunit 1	6317	-0.06907682120800018	0.21946265	No	
+row_10	NOS1	NOS1	nitric oxide synthase 1 (neuronal)	6367	-0.0728147029876709	0.23100847	No	
+row_11	KCNA1	KCNA1	potassium voltage-gated channel, shaker-related subfamily, member 1 (episodic ataxia with myokymia)	6636	-0.09523818641901016	0.22734912	No	
+row_12	TRDN	TRDN	triadin	7031	-0.12854015827178955	0.21943952	No	
+row_13	CLCN1	CLCN1	chloride channel 1, skeletal muscle (Thomsen disease, autosomal dominant)	7623	-0.18053176999092102	0.204868	No	
+row_14	CXCL12	CXCL12	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	9760	-0.43077120184898376	0.10332141	No	

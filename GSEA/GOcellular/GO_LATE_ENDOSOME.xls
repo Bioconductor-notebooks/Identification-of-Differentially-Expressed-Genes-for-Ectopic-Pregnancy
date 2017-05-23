@@ -1,0 +1,101 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC9A9	SLC9A9	solute carrier family 9 (sodium/hydrogen exchanger), member 9	115	0.836979866027832	0.013672671	Yes	
+row_1	PLD1	PLD1	phospholipase D1, phosphatidylcholine-specific	161	0.7901567220687866	0.032474976	Yes	
+row_2	MCOLN1	MCOLN1	mucolipin 1	235	0.7413685917854309	0.047262244	Yes	
+row_3	LGMN	LGMN	legumain	265	0.7221225500106812	0.06557002	Yes	
+row_4	CHMP2B	CHMP2B	chromatin modifying protein 2B	267	0.7208751440048218	0.08643796	Yes	
+row_5	STARD3	STARD3	START domain containing 3	354	0.6767902374267578	0.09814201	Yes	
+row_6	UVRAG	UVRAG	UV radiation resistance associated gene	371	0.6718257665634155	0.11619282	Yes	
+row_7	F2R	F2R	coagulation factor II (thrombin) receptor	377	0.6705260872840881	0.13522586	Yes	
+row_8	EXOC8	EXOC8	exocyst complex component 8	419	0.6493697166442871	0.15030546	Yes	
+row_9	VPS4B	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	425	0.6480343341827393	0.16868451	Yes	
+row_10	MARCH1	MARCH1	membrane-associated ring finger (C3HC4) 1	541	0.6112520098686218	0.17579375	Yes	
+row_11	DERL1	DERL1	Der1-like domain family, member 1	576	0.5979816913604736	0.19002828	Yes	
+row_12	MTM1	MTM1	myotubularin 1	630	0.5828036665916443	0.2020596	Yes	
+row_13	MYO5A	MYO5A	myosin VA (heavy chain 12, myoxin)	696	0.5592535138130188	0.2122934	Yes	
+row_14	HGS	HGS	hepatocyte growth factor-regulated tyrosine kinase substrate	699	0.557640016078949	0.22832227	Yes	
+row_15	HLA-DRB4	HLA-DRB4	major histocompatibility complex, class II, DR beta 4	716	0.5524282455444336	0.24290138	Yes	
+row_16	CTNS	CTNS	cystinosis, nephropathic	722	0.5507973432540894	0.2584531	Yes	
+row_17	LAMP2	LAMP2	lysosomal-associated membrane protein 2	750	0.5465723872184753	0.2718419	Yes	
+row_18	GOSR2	GOSR2	golgi SNAP receptor complex member 2	786	0.5335584878921509	0.2841105	Yes	
+row_19	CYBASC3	CYBASC3	cytochrome b, ascorbate dependent 3	805	0.5291140675544739	0.29782626	Yes	
+row_20	VPS37A	VPS37A	vacuolar protein sorting 37 homolog A (S. cerevisiae)	811	0.5282949209213257	0.31272367	Yes	
+row_21	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.32619414	Yes	
+row_22	SLA2	SLA2	Src-like-adaptor 2	941	0.5015689134597778	0.33067054	Yes	
+row_23	VPS41	VPS41	vacuolar protein sorting 41 (yeast)	1003	0.49079442024230957	0.3392847	Yes	
+row_24	FAM125B	FAM125B	family with sequence similarity 125, member B	1091	0.47231897711753845	0.34495065	Yes	
+row_25	DERL2	DERL2	Der1-like domain family, member 2	1297	0.429466187953949	0.33842847	Yes	
+row_26	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	1313	0.42639338970184326	0.34943563	Yes	
+row_27	NPC1	NPC1	Niemann-Pick disease, type C1	1370	0.41730397939682007	0.3563766	Yes	
+row_28	ANXA2	ANXA2	annexin A2	1376	0.41656655073165894	0.36802533	Yes	
+row_29	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.3799399	Yes	
+row_30	TPT1	TPT1	tumor protein, translationally-controlled 1	1386	0.4152695834636688	0.39145818	Yes	
+row_31	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1539	0.3899523913860321	0.38870177	Yes	
+row_32	SFTPB	SFTPB	surfactant, pulmonary-associated protein B	1575	0.38378411531448364	0.39661542	Yes	
+row_33	DDIT3	DDIT3	DNA-damage-inducible transcript 3	1595	0.3817373812198639	0.4059532	Yes	
+row_34	SLC30A3	SLC30A3	solute carrier family 30 (zinc transporter), member 3	1757	0.35470709204673767	0.4013374	Yes	
+row_35	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.41076246	Yes	
+row_36	NTRK1	NTRK1	neurotrophic tyrosine kinase, receptor, type 1	1799	0.34804853796958923	0.41800794	Yes	
+row_37	VPS33A	VPS33A	vacuolar protein sorting 33 homolog A (S. cerevisiae)	2007	0.3230300545692444	0.40820548	Yes	
+row_38	ANKRD13A	ANKRD13A	ankyrin repeat domain 13A	2092	0.31498265266418457	0.40957484	Yes	
+row_39	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	2199	0.30352675914764404	0.408571	Yes	
+row_40	VPS11	VPS11	vacuolar protein sorting 11 (yeast)	2327	0.28822582960128784	0.40517497	Yes	
+row_41	OSBPL11	OSBPL11	oxysterol binding protein-like 11	2372	0.2827160954475403	0.4093153	Yes	
+row_42	VPS33B	VPS33B	vacuolar protein sorting 33B (yeast)	2416	0.2781223654747009	0.4134148	Yes	
+row_43	NDFIP2	NDFIP2	Nedd4 family interacting protein 2	2470	0.27216434478759766	0.41641375	Yes	
+row_44	VTI1A	VTI1A	vesicle transport through interaction with t-SNAREs homolog 1A (yeast)	2517	0.266541063785553	0.4198983	Yes	
+row_45	SLC30A4	SLC30A4	solute carrier family 30 (zinc transporter), member 4	2584	0.25862371921539307	0.42129806	Yes	
+row_46	FYCO1	FYCO1	FYVE and coiled-coil domain containing 1	2607	0.2560388445854187	0.42670277	Yes	
+row_47	NMNAT2	NMNAT2	nicotinamide nucleotide adenylyltransferase 2	2696	0.24542351067066193	0.42567864	Yes	
+row_48	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2725	0.2422666698694229	0.43012652	Yes	
+row_49	RAB27B	RAB27B	RAB27B, member RAS oncogene family	2729	0.24181722104549408	0.43687958	Yes	
+row_50	CHMP2A	CHMP2A	chromatin modifying protein 2A	3108	0.20010757446289062	0.4076461	No	
+row_51	SNX16	SNX16	sorting nexin 16	3136	0.19802403450012207	0.41090026	No	
+row_52	SLC11A1	SLC11A1	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1	3195	0.19259488582611084	0.41112196	No	
+row_53	ACPP	ACPP	acid phosphatase, prostate	3439	0.16911627352237701	0.39350593	No	
+row_54	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	3487	0.1646052598953247	0.3939338	No	
+row_55	RAB22A	RAB22A	RAB22A, member RAS oncogene family	3605	0.15373875200748444	0.38755462	No	
+row_56	GALNTL5	GALNTL5	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 5	3866	0.1299908310174942	0.3672245	No	
+row_57	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.35476035	No	
+row_58	PIK3C3	PIK3C3	phosphoinositide-3-kinase, class 3	4090	0.11159882694482803	0.35327604	No	
+row_59	SFTPC	SFTPC	surfactant, pulmonary-associated protein C	4377	0.08742585778236389	0.3292973	No	
+row_60	SLC40A1	SLC40A1	solute carrier family 40 (iron-regulated transporter), member 1	4396	0.08445235341787338	0.3300838	No	
+row_61	CHID1	CHID1	chitinase domain containing 1	4500	0.07620630413293839	0.32274842	No	
+row_62	STARD3NL	STARD3NL	STARD3 N-terminal like	4692	0.06141618266701698	0.30682278	No	
+row_63	KCNQ1	KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1	5196	0.02247987687587738	0.26083323	No	
+row_64	LIPC	LIPC	lipase, hepatic	6304	-0.06805260479450226	0.1601599	No	
+row_65	PIK3R4	PIK3R4	phosphoinositide-3-kinase, regulatory subunit 4, p150	6309	-0.06821633130311966	0.16177249	No	
+row_66	IGF2R	IGF2R	insulin-like growth factor 2 receptor	6318	-0.06913866102695465	0.16304098	No	
+row_67	RAB27A	RAB27A	RAB27A, member RAS oncogene family	6500	-0.08275271952152252	0.14866303	No	
+row_68	CLN3	CLN3	ceroid-lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	6540	-0.08642321825027466	0.14755946	No	
+row_69	PCSK9	PCSK9	proprotein convertase subtilisin/kexin type 9	6691	-0.09983067214488983	0.13655272	No	
+row_70	VPS29	VPS29	vacuolar protein sorting 29 (yeast)	6725	-0.1029069721698761	0.13648482	No	
+row_71	VAMP8	VAMP8	vesicle-associated membrane protein 8 (endobrevin)	6800	-0.11007102578878403	0.1328233	No	
+row_72	ZP2	ZP2	zona pellucida glycoprotein 2 (sperm receptor)	6835	-0.1128285676240921	0.13295117	No	
+row_73	MAGI2	MAGI2	membrane associated guanylate kinase, WW and PDZ domain containing 2	6884	-0.11684754490852356	0.13189767	No	
+row_74	OSBPL1A	OSBPL1A	oxysterol binding protein-like 1A	6929	-0.12100094556808472	0.13133587	No	
+row_75	VTI1B	VTI1B	vesicle transport through interaction with t-SNAREs homolog 1B (yeast)	7120	-0.1351262927055359	0.117646195	No	
+row_76	ABCA5	ABCA5	ATP-binding cassette, sub-family A (ABC1), member 5	7137	-0.1363544762134552	0.12012725	No	
+row_77	SLC2A4	SLC2A4	solute carrier family 2 (facilitated glucose transporter), member 4	7401	-0.16032636165618896	0.10040104	No	
+row_78	WDR48	WDR48	WD repeat domain 48	7701	-0.18819060921669006	0.07814674	No	
+row_79	HDAC6	HDAC6	histone deacetylase 6	7846	-0.20142142474651337	0.070650294	No	
+row_80	CHMP1B	CHMP1B	chromatin modifying protein 1B	7897	-0.20620611310005188	0.07200959	No	
+row_81	TICAM2	TICAM2	toll-like receptor adaptor molecule 2	7972	-0.21225127577781677	0.07131914	No	
+row_82	UNC13D	UNC13D	unc-13 homolog D (C. elegans)	7993	-0.21376629173755646	0.07568016	No	
+row_83	RAB14	RAB14	RAB14, member RAS oncogene family	8048	-0.22008655965328217	0.077072136	No	
+row_84	VAC14	VAC14	Vac14 homolog (S. cerevisiae)	8087	-0.22421802580356598	0.08006792	No	
+row_85	TMEM9	TMEM9	transmembrane protein 9	8343	-0.2506391108036041	0.063709535	No	
+row_86	TMEM165	TMEM165	transmembrane protein 165	8430	-0.2617477774620056	0.06334552	No	
+row_87	STX8	STX8	syntaxin 8	8678	-0.2905791997909546	0.048890304	No	
+row_88	VPS35	VPS35	vacuolar protein sorting 35 (yeast)	9027	-0.3313618302345276	0.026255183	No	
+row_89	ARF1	ARF1	ADP-ribosylation factor 1	9041	-0.3329540193080902	0.0347309	No	
+row_90	CD1E	CD1E	CD1e molecule	9164	-0.3470243811607361	0.03350817	No	
+row_91	CHMP6	CHMP6	chromatin modifying protein 6	9185	-0.3500502109527588	0.041831877	No	
+row_92	ANKRD13B	ANKRD13B	ankyrin repeat domain 13B	9266	-0.35845479369163513	0.044836164	No	
+row_93	SLC11A2	SLC11A2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	9655	-0.4143681526184082	0.020905396	No	
+row_94	TMEM106B	TMEM106B	transmembrane protein 106B	9821	-0.4423271417617798	0.018466366	No	
+row_95	STEAP3	STEAP3	STEAP family member 3	10060	-0.4845418930053711	0.010485516	No	
+row_96	HSPA8	HSPA8	heat shock 70kDa protein 8	10216	-0.5218904614448547	0.011287225	No	
+row_97	SNF8	SNF8	SNF8, ESCRT-II complex subunit, homolog (S. cerevisiae)	10366	-0.5598471164703369	0.013748969	No	
+row_98	NBR1	NBR1	neighbor of BRCA1 gene 1	10404	-0.5711018443107605	0.02692372	No	
+row_99	RAPGEF2	RAPGEF2	Rap guanine nucleotide exchange factor (GEF) 2	10499	-0.5984556078910828	0.03560822	No	

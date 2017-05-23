@@ -1,0 +1,36 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFSF4	TNFSF4	tumor necrosis factor (ligand) superfamily, member 4 (tax-transcriptionally activated glycoprotein 1, 34kDa)	61	0.9117786288261414	0.054893754	Yes	
+row_1	GATA3	GATA3	GATA binding protein 3	174	0.7816216945648193	0.09644786	Yes	
+row_2	HFE	HFE	hemochromatosis	234	0.7415509223937988	0.14022765	Yes	
+row_3	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	245	0.7341944575309753	0.18803571	Yes	
+row_4	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.22888815	Yes	
+row_5	PVRL2	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	333	0.6898292303085327	0.27246118	Yes	
+row_6	XCL1	XCL1	chemokine (C motif) ligand 1	390	0.662642776966095	0.31128022	Yes	
+row_7	PVR	PVR	poliovirus receptor	479	0.6325870156288147	0.34515482	Yes	
+row_8	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	642	0.5770642161369324	0.36852336	Yes	
+row_9	WAS	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	860	0.5181088447570801	0.38290933	Yes	
+row_10	NCR3	NCR3	natural cytotoxicity triggering receptor 3	990	0.4931564927101135	0.4037505	Yes	
+row_11	LILRB1	LILRB1	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 1	1001	0.4909232258796692	0.43541223	Yes	
+row_12	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1165	0.4581811726093292	0.45079812	Yes	
+row_13	IL1B	IL1B	interleukin 1, beta	1178	0.4545525014400482	0.4798615	Yes	
+row_14	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.50881046	Yes	
+row_15	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.5353012	Yes	
+row_16	DUSP22	DUSP22	dual specificity phosphatase 22	1429	0.40766969323158264	0.54355544	Yes	
+row_17	FADD	FADD	Fas (TNFRSF6)-associated via death domain	2618	0.25387781858444214	0.45090258	No	
+row_18	SLAMF1	SLAMF1	signaling lymphocytic activation molecule family member 1	2817	0.2310214638710022	0.44798535	No	
+row_19	RIPK3	RIPK3	receptor-interacting serine-threonine kinase 3	3083	0.2028730809688568	0.43702418	No	
+row_20	FZD5	FZD5	frizzled homolog 5 (Drosophila)	5251	0.01794244349002838	0.23847316	No	
+row_21	SPN	SPN	sialophorin (leukosialin, CD43)	6124	-0.05372157692909241	0.16166268	No	
+row_22	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.13190515	No	
+row_23	AGER	AGER	advanced glycosylation end product-specific receptor	6589	-0.09174855798482895	0.13062073	No	
+row_24	IFNB1	IFNB1	interferon, beta 1, fibroblast	6760	-0.1061411052942276	0.12199586	No	
+row_25	MALT1	MALT1	mucosa associated lymphoid tissue lymphoma translocation gene 1	7515	-0.1707853227853775	0.063831694	No	
+row_26	CLC	CLC	Charcot-Leyden crystal protein	7945	-0.21037591993808746	0.03825191	No	
+row_27	IL23A	IL23A	interleukin 23, alpha subunit p19	8025	-0.2167479395866394	0.045356084	No	
+row_28	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.042139873	No	
+row_29	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	0.019947503	No	
+row_30	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	-0.043114316	No	
+row_31	CEACAM1	CEACAM1	carcinoembryonic antigen-related cell adhesion molecule 1 (biliary glycoprotein)	9936	-0.4609989821910858	-0.036851022	No	
+row_32	PRKCZ	PRKCZ	protein kinase C, zeta	9962	-0.4648299813270569	-0.008303776	No	
+row_33	ZBTB1	ZBTB1	zinc finger and BTB domain containing 1	10578	-0.632575273513794	-0.023005866	No	
+row_34	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.009401739	No	

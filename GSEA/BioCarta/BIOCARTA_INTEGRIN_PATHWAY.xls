@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTK2	PTK2	PTK2 protein tyrosine kinase 2	938	0.5018228888511658	0.034958243	Yes	
+row_1	FYN	FYN	FYN oncogene related to SRC, FGR, YES	1346	0.4208412170410156	0.09921575	Yes	
+row_2	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.14584278	Yes	
+row_3	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	0.22952949	Yes	
+row_4	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.2825656	Yes	
+row_5	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	2261	0.2967488169670105	0.33422533	Yes	
+row_6	TLN1	TLN1	talin 1	2635	0.2521447241306305	0.36083823	Yes	
+row_7	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2725	0.2422666698694229	0.4112026	Yes	
+row_8	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	3014	0.21034978330135345	0.43553698	Yes	
+row_9	ACTN1	ACTN1	actinin, alpha 1	3452	0.1678929477930069	0.43589577	Yes	
+row_10	RAPGEF1	RAPGEF1	Rap guanine nucleotide exchange factor (GEF) 1	3663	0.14903879165649414	0.45259032	Yes	
+row_11	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.44636914	Yes	
+row_12	PPP1R12B	PPP1R12B	protein phosphatase 1, regulatory (inhibitor) subunit 12B	4108	0.11008480191230774	0.46662593	Yes	
+row_13	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	4625	0.0662061870098114	0.43513602	No	
+row_14	PXN	PXN	paxillin	5058	0.03304290026426315	0.40336177	No	
+row_15	ACTN3	ACTN3	actinin, alpha 3	5507	-0.0016223107231780887	0.36252058	No	
+row_16	TNS1	TNS1	tensin 1	5739	-0.01950116455554962	0.34597307	No	
+row_17	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	0.22090718	No	
+row_18	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	0.15370442	No	

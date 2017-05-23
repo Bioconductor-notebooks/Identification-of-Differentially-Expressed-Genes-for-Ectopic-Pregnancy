@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP1	AQP1	aquaporin 1 (Colton blood group)	118	0.8312647938728333	0.08735927	Yes	
+row_1	HFE	HFE	hemochromatosis	234	0.7415509223937988	0.16439375	Yes	
+row_2	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	303	0.702338695526123	0.2411233	Yes	
+row_3	TEK	TEK	TEK tyrosine kinase, endothelial (venous malformations, multiple cutaneous and mucosal)	304	0.7021304965019226	0.32409093	Yes	
+row_4	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	603	0.5916893482208252	0.366563	Yes	
+row_5	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	0.41425362	Yes	
+row_6	PHLDB2	PHLDB2	pleckstrin homology-like domain, family B, member 2	790	0.5324851870536804	0.47588563	Yes	
+row_7	CD34	CD34	CD34 molecule	2202	0.3034250736236572	0.38178974	No	
+row_8	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	3014	0.21034978330135345	0.33195436	No	
+row_9	MYO1C	MYO1C	myosin IC	3543	0.15938162803649902	0.30216002	No	
+row_10	PHLDB1	PHLDB1	pleckstrin homology-like domain, family B, member 1	3757	0.1398499459028244	0.2990686	No	
+row_11	CLCA2	CLCA2	chloride channel, calcium activated, family member 2	4171	0.10500943660736084	0.27344063	No	
+row_12	DOCK7	DOCK7	dedicator of cytokinesis 7	4330	0.0914323702454567	0.2696933	No	
+row_13	EDN1	EDN1	endothelin 1	4484	0.07693403214216232	0.26469326	No	
+row_14	DST	DST	dystonin	5224	0.01981372758746147	0.19897413	No	
+row_15	SLC23A2	SLC23A2	solute carrier family 23 (nucleobase transporters), member 2	5723	-0.017363453283905983	0.15516108	No	
+row_16	AGER	AGER	advanced glycosylation end product-specific receptor	6589	-0.09174855798482895	0.086337835	No	
+row_17	CLASP2	CLASP2	cytoplasmic linker associated protein 2	6679	-0.0983874574303627	0.08976712	No	
+row_18	SLC27A5	SLC27A5	solute carrier family 27 (fatty acid transporter), member 5	6745	-0.10479574650526047	0.096163996	No	
+row_19	ERBB2IP	ERBB2IP	erbb2 interacting protein	7875	-0.20373761653900146	0.016260121	No	
+row_20	BMPR2	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	7999	-0.21411368250846863	0.030232923	No	
+row_21	MET	MET	met proto-oncogene (hepatocyte growth factor receptor)	8739	-0.2971569895744324	-0.002713784	No	
+row_22	CLDN11	CLDN11	claudin 11 (oligodendrocyte transmembrane protein)	8810	-0.30514657497406006	0.02689716	No	
+row_23	SLC11A2	SLC11A2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	9655	-0.4143681526184082	-0.0018695202	No	
+row_24	CEACAM1	CEACAM1	carcinoembryonic antigen-related cell adhesion molecule 1 (biliary glycoprotein)	9936	-0.4609989821910858	0.026817223	No	
+row_25	ANK3	ANK3	ankyrin 3, node of Ranvier (ankyrin G)	10163	-0.5103659629821777	0.06631073	No	

@@ -1,0 +1,68 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RET	RET	ret proto-oncogene (multiple endocrine neoplasia and medullary thyroid carcinoma 1, Hirschsprung disease)	8	1.1422606706619263	0.052670166	Yes	
+row_1	SNAP29	SNAP29	synaptosomal-associated protein, 29kDa	31	0.9846784472465515	0.096677855	Yes	
+row_2	LEPROTL1	LEPROTL1	leptin receptor overlapping transcript-like 1	76	0.883213222026825	0.13390741	Yes	
+row_3	KCND2	KCND2	potassium voltage-gated channel, Shal-related subfamily, member 2	170	0.7858412265777588	0.16205414	Yes	
+row_4	ZC3H7A	ZC3H7A	zinc finger CCCH-type containing 7A	292	0.7088965773582458	0.18401457	Yes	
+row_5	PIK3AP1	PIK3AP1	phosphoinositide-3-kinase adaptor protein 1	577	0.597869873046875	0.18571477	Yes	
+row_6	TRIM39	TRIM39	tripartite motif-containing 39	799	0.5308956503868103	0.19010754	Yes	
+row_7	DNAJB12	DNAJB12	DnaJ (Hsp40) homolog, subfamily B, member 12	872	0.516205370426178	0.20758805	Yes	
+row_8	ALS2	ALS2	amyotrophic lateral sclerosis 2 (juvenile)	922	0.5050987601280212	0.22667551	Yes	
+row_9	RABGEF1	RABGEF1	RAB guanine nucleotide exchange factor (GEF) 1	1079	0.47551077604293823	0.23448767	Yes	
+row_10	UBAP1	UBAP1	ubiquitin associated protein 1	1209	0.4481236934661865	0.24351533	Yes	
+row_11	TNNI2	TNNI2	troponin I type 2 (skeletal, fast)	1400	0.41249099373817444	0.2452376	Yes	
+row_12	SOX4	SOX4	SRY (sex determining region Y)-box 4	1436	0.406953901052475	0.2610303	Yes	
+row_13	ADIPOR2	ADIPOR2	adiponectin receptor 2	1444	0.40535426139831543	0.2793367	Yes	
+row_14	TAF5L	TAF5L	TAF5-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa	1490	0.3978520333766937	0.29377928	Yes	
+row_15	LARP1	LARP1	La ribonucleoprotein domain family, member 1	1710	0.3626345694065094	0.29048944	Yes	
+row_16	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.30181083	Yes	
+row_17	CD164	CD164	CD164 molecule, sialomucin	1873	0.3378320038318634	0.30790022	Yes	
+row_18	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	0.25886837	No	
+row_19	USP12	USP12	ubiquitin specific peptidase 12	2636	0.25203225016593933	0.2616855	No	
+row_20	SCN3A	SCN3A	sodium channel, voltage-gated, type III, alpha	2652	0.2504849135875702	0.27201095	No	
+row_21	ERRFI1	ERRFI1	ERBB receptor feedback inhibitor 1	2700	0.2451469749212265	0.2791285	No	
+row_22	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	2766	0.23700666427612305	0.28420138	No	
+row_23	WDFY3	WDFY3	WD repeat and FYVE domain containing 3	2771	0.23651838302612305	0.2948907	No	
+row_24	ZIC4	ZIC4	Zic family member 4	2774	0.23586063086986542	0.30573416	No	
+row_25	SRR	SRR	serine racemase	3185	0.19319389760494232	0.2768642	No	
+row_26	GRB10	GRB10	growth factor receptor-bound protein 10	3335	0.1791856288909912	0.27146795	No	
+row_27	AMMECR1	AMMECR1	Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region, gene 1	3374	0.17544405162334442	0.27615836	No	
+row_28	RAB22A	RAB22A	RAB22A, member RAS oncogene family	3605	0.15373875200748444	0.26208404	No	
+row_29	NPR3	NPR3	natriuretic peptide receptor C/guanylate cyclase C (atrionatriuretic peptide receptor C)	3628	0.15207616984844208	0.26716098	No	
+row_30	PDK1	PDK1	pyruvate dehydrogenase kinase, isozyme 1	3630	0.15192018449306488	0.274172	No	
+row_31	LPGAT1	LPGAT1	lysophosphatidylglycerol acyltransferase 1	3750	0.1404256522655487	0.2697368	No	
+row_32	CAMTA1	CAMTA1	calmodulin binding transcription activator 1	3896	0.1271483451128006	0.2622772	No	
+row_33	CHODL	CHODL	chondrolectin	4088	0.11184825003147125	0.24984957	No	
+row_34	MYLK	MYLK	myosin, light chain kinase	4231	0.09968674182891846	0.24138324	No	
+row_35	PRKCE	PRKCE	protein kinase C, epsilon	4527	0.07424821704626083	0.21758305	No	
+row_36	ZNF238	ZNF238	zinc finger protein 238	4871	0.04574993625283241	0.18801287	No	
+row_37	SYNJ1	SYNJ1	synaptojanin 1	4882	0.04444819688796997	0.18916671	No	
+row_38	CA6	CA6	carbonic anhydrase VI	5140	0.026853974908590317	0.16666344	No	
+row_39	NFIX	NFIX	nuclear factor I/X (CCAAT-binding transcription factor)	5199	0.02234671637415886	0.1623464	No	
+row_40	RGL1	RGL1	ral guanine nucleotide dissociation stimulator-like 1	5664	-0.013312229886651039	0.12007341	No	
+row_41	VDAC2	VDAC2	voltage-dependent anion channel 2	5794	-0.024561291560530663	0.10929617	No	
+row_42	PLP1	PLP1	proteolipid protein 1 (Pelizaeus-Merzbacher disease, spastic paraplegia 2, uncomplicated)	5800	-0.025269990786910057	0.110015504	No	
+row_43	CUL1	CUL1	cullin 1	5946	-0.03780459612607956	0.098378345	No	
+row_44	PNN	PNN	pinin, desmosome associated protein	6483	-0.08155263960361481	0.052639946	No	
+row_45	KIF1C	KIF1C	kinesin family member 1C	6740	-0.10429193824529648	0.03384997	No	
+row_46	NR2F2	NR2F2	nuclear receptor subfamily 2, group F, member 2	6944	-0.12247516959905624	0.0208099	No	
+row_47	ADCYAP1	ADCYAP1	adenylate cyclase activating polypeptide 1 (pituitary)	7222	-0.14407391846179962	0.0019386592	No	
+row_48	H2AFX	H2AFX	H2A histone family, member X	7435	-0.16274268925189972	-0.01005061	No	
+row_49	GIF	GIF	gastric intrinsic factor (vitamin B synthesis)	7470	-0.16654889285564423	-0.0054063285	No	
+row_50	HAS2	HAS2	hyaluronan synthase 2	7552	-0.17327770590782166	-0.0047924346	No	
+row_51	CLK2	CLK2	CDC-like kinase 2	7886	-0.20462585985660553	-0.02600943	No	
+row_52	KRR1	KRR1	KRR1, small subunit (SSU) processome component, homolog (yeast)	8115	-0.22699981927871704	-0.03647332	No	
+row_53	PITX2	PITX2	paired-like homeodomain transcription factor 2	8400	-0.258428692817688	-0.0506447	No	
+row_54	SLC35B3	SLC35B3	solute carrier family 35, member B3	8487	-0.2674688696861267	-0.046088856	No	
+row_55	KLHL14	KLHL14	kelch-like 14 (Drosophila)	8530	-0.2713668644428253	-0.03728308	No	
+row_56	NR4A3	NR4A3	nuclear receptor subfamily 4, group A, member 3	8640	-0.2844530940055847	-0.034059376	No	
+row_57	PLXNB1	PLXNB1	plexin B1	9149	-0.3456312417984009	-0.06486149	No	
+row_58	RSBN1	RSBN1	round spermatid basic protein 1	9352	-0.36747539043426514	-0.06635341	No	
+row_59	KIF2A	KIF2A	kinesin heavy chain member 2A	9450	-0.3817175030708313	-0.057472456	No	
+row_60	CELSR2	CELSR2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	9470	-0.38474607467651367	-0.04123902	No	
+row_61	QKI	QKI	quaking homolog, KH domain RNA binding (mouse)	9641	-0.41283026337623596	-0.037651937	No	
+row_62	ZMYM5	ZMYM5	zinc finger, MYM-type 5	9771	-0.43401995301246643	-0.029283734	No	
+row_63	LRRC1	LRRC1	leucine rich repeat containing 1	10605	-0.6443986892700195	-0.0761614	No	
+row_64	PPP2R5E	PPP2R5E	protein phosphatase 2, regulatory subunit B (B56), epsilon isoform	10714	-0.7044916152954102	-0.05320511	No	
+row_65	CTDSPL2	CTDSPL2	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase like 2	10717	-0.7049362659454346	-0.020428644	No	
+row_66	UBE4B	UBE4B	ubiquitination factor E4B (UFD2 homolog, yeast)	10774	-0.7631322145462036	0.0100768	No	

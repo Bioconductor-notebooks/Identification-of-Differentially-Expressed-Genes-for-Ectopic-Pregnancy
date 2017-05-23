@@ -1,0 +1,57 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRNKL1	CRNKL1	Crn, crooked neck-like 1 (Drosophila)	836	0.522711992263794	-0.045237474	No	
+row_1	EXOC5	EXOC5	exocyst complex component 5	1041	0.48084452748298645	-0.034668423	No	
+row_2	RABGEF1	RABGEF1	RAB guanine nucleotide exchange factor (GEF) 1	1079	0.47551077604293823	-0.009002618	No	
+row_3	DHX36	DHX36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	1254	0.4376438856124878	0.0016948188	No	
+row_4	CEP76	CEP76	centrosomal protein 76kDa	1933	0.3302200436592102	-0.040723924	No	
+row_5	SMAD2	SMAD2	SMAD, mothers against DPP homolog 2 (Drosophila)	1946	0.32896578311920166	-0.021712173	No	
+row_6	FBXO3	FBXO3	F-box protein 3	2091	0.31500744819641113	-0.015744751	No	
+row_7	NCAM1	NCAM1	neural cell adhesion molecule 1	3881	0.12875443696975708	-0.17308976	No	
+row_8	DYNC1I2	DYNC1I2	dynein, cytoplasmic 1, intermediate chain 2	4283	0.09596813470125198	-0.20425382	No	
+row_9	ZFAND5	ZFAND5	zinc finger, AN1-type domain 5	4382	0.08694957196712494	-0.20798649	No	
+row_10	CLK4	CLK4	CDC-like kinase 4	4635	0.06580311059951782	-0.22723487	No	
+row_11	REPS1	REPS1	RALBP1 associated Eps domain containing 1	5141	0.026779890060424805	-0.27223533	No	
+row_12	PHF2	PHF2	PHD finger protein 2	5174	0.023453999310731888	-0.27375615	No	
+row_13	FANCL	FANCL	Fanconi anemia, complementation group L	5727	-0.01777046173810959	-0.3236482	No	
+row_14	UBE2E3	UBE2E3	ubiquitin-conjugating enzyme E2E 3 (UBC4/5 homolog, yeast)	5753	-0.02090197242796421	-0.32467866	No	
+row_15	SPAST	SPAST	spastin	5950	-0.03811728581786156	-0.3404486	No	
+row_16	BTRC	BTRC	beta-transducin repeat containing	5961	-0.03904975950717926	-0.33898377	No	
+row_17	BRPF3	BRPF3	bromodomain and PHD finger containing, 3	6075	-0.04897351190447807	-0.3464244	No	
+row_18	ZNF462	ZNF462	zinc finger protein 462	6336	-0.07007024437189102	-0.36615062	No	
+row_19	UBE2H	UBE2H	ubiquitin-conjugating enzyme E2H (UBC8 homolog, yeast)	6400	-0.07526697218418121	-0.36736545	No	
+row_20	SMC3	SMC3	structural maintenance of chromosomes 3	6654	-0.09657962620258331	-0.38482386	No	
+row_21	ZNF529	ZNF529	zinc finger protein 529	6685	-0.0994117483496666	-0.38151428	No	
+row_22	PPM1B	PPM1B	protein phosphatase 1B (formerly 2C), magnesium-dependent, beta isoform	6903	-0.1187114492058754	-0.39429438	No	
+row_23	DMTF1	DMTF1	cyclin D binding myb-like transcription factor 1	6973	-0.1242688000202179	-0.3930663	No	
+row_24	TAF5	TAF5	TAF5 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 100kDa	6994	-0.12569116055965424	-0.38722593	No	
+row_25	NLK	NLK	nemo-like kinase	7033	-0.12856772541999817	-0.38287196	No	
+row_26	ZHX1	ZHX1	zinc fingers and homeoboxes 1	7130	-0.13566923141479492	-0.38344017	No	
+row_27	TUBGCP3	TUBGCP3	tubulin, gamma complex associated protein 3	7145	-0.13676683604717255	-0.37636825	No	
+row_28	PAFAH1B2	PAFAH1B2	platelet-activating factor acetylhydrolase, isoform Ib, beta subunit 30kDa	7777	-0.19530731439590454	-0.42269784	No	
+row_29	SLC25A29	SLC25A29	solute carrier family 25, member 29	8097	-0.22507496178150177	-0.4383926	No	
+row_30	CEP170	CEP170	centrosomal protein 170kDa	8153	-0.23030884563922882	-0.42938605	No	
+row_31	CAND1	CAND1	cullin-associated and neddylation-dissociated 1	8668	-0.288611501455307	-0.4592037	Yes	
+row_32	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	8737	-0.29685360193252563	-0.44732776	Yes	
+row_33	ZFP14	ZFP14	zinc finger protein 14 homolog (mouse)	8767	-0.2999219596385956	-0.43166235	Yes	
+row_34	NAB1	NAB1	NGFI-A binding protein 1 (EGR1 binding protein 1)	8849	-0.3097269833087921	-0.42019966	Yes	
+row_35	QSER1	QSER1	glutamine and serine rich 1	8909	-0.316447377204895	-0.40629414	Yes	
+row_36	HMG20A	HMG20A	high-mobility group 20A	8934	-0.31994837522506714	-0.38894215	Yes	
+row_37	RBM4B	RBM4B	RNA binding motif protein 4B	9039	-0.3327674865722656	-0.3781944	Yes	
+row_38	ARID1A	ARID1A	AT rich interactive domain 1A (SWI- like)	9176	-0.34851863980293274	-0.36943853	Yes	
+row_39	PARP6	PARP6	poly (ADP-ribose) polymerase family, member 6	9284	-0.35940757393836975	-0.3573385	Yes	
+row_40	PATZ1	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	9424	-0.3778258264064789	-0.34706724	Yes	
+row_41	ISOC1	ISOC1	isochorismatase domain containing 1	9582	-0.4036470651626587	-0.3368791	Yes	
+row_42	PAIP1	PAIP1	poly(A) binding protein interacting protein 1	9591	-0.40552517771720886	-0.31281546	Yes	
+row_43	PRKRA	PRKRA	protein kinase, interferon-inducible double stranded RNA dependent activator	9814	-0.44132739305496216	-0.30632567	Yes	
+row_44	VEZF1	VEZF1	vascular endothelial zinc finger 1	9859	-0.45040610432624817	-0.28284177	Yes	
+row_45	MLL5	MLL5	myeloid/lymphoid or mixed-lineage leukemia 5 (trithorax homolog, Drosophila)	10004	-0.4731179177761078	-0.2672041	Yes	
+row_46	EPM2AIP1	EPM2AIP1	EPM2A (laforin) interacting protein 1	10091	-0.4919567406177521	-0.24505775	Yes	
+row_47	RABGAP1L	RABGAP1L	RAB GTPase activating protein 1-like	10171	-0.5129850506782532	-0.2209788	Yes	
+row_48	NCOA5	NCOA5	nuclear receptor coactivator 5	10213	-0.5210487842559814	-0.19289725	Yes	
+row_49	SPAG9	SPAG9	sperm associated antigen 9	10234	-0.5258978009223938	-0.16257969	Yes	
+row_50	ARID4B	ARID4B	AT rich interactive domain 4B (RBP1- like)	10240	-0.5271574854850769	-0.1307998	Yes	
+row_51	SCARB2	SCARB2	scavenger receptor class B, member 2	10374	-0.5625383853912354	-0.10867717	Yes	
+row_52	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	10384	-0.5649369359016418	-0.07495605	Yes	
+row_53	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.05401738	Yes	
+row_54	SUV420H1	SUV420H1	suppressor of variegation 4-20 homolog 1 (Drosophila)	10661	-0.6681699156761169	-0.020816527	Yes	
+row_55	ZMYM2	ZMYM2	zinc finger, MYM-type 2	10675	-0.6740624904632568	0.019209445	Yes	

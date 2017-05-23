@@ -1,0 +1,68 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ZRSR2	ZRSR2	zinc finger (CCCH type), RNA-binding motif and serine/arginine rich 2	832	0.5238279104232788	-0.052911334	No	
+row_1	CRNKL1	CRNKL1	Crn, crooked neck-like 1 (Drosophila)	836	0.522711992263794	-0.029235179	No	
+row_2	RNF113A	RNF113A	ring finger protein 113A	901	0.5104147791862488	-0.01176182	No	
+row_3	XAB2	XAB2	XPA binding protein 2	1081	0.4752146601676941	-0.006532935	No	
+row_4	BUD31	BUD31	BUD31 homolog (yeast)	1448	0.4042898416519165	-0.021841815	No	
+row_5	PRPF6	PRPF6	PRP6 pre-mRNA processing factor 6 homolog (S. cerevisiae)	1594	0.3820187449455261	-0.017740471	No	
+row_6	RHEB	RHEB	Ras homolog enriched in brain	1790	0.3494910001754761	-0.01975208	No	
+row_7	DHX35	DHX35	DEAH (Asp-Glu-Ala-His) box polypeptide 35	2437	0.27608242630958557	-0.0668213	No	
+row_8	SF3A2	SF3A2	splicing factor 3a, subunit 2, 66kDa	2630	0.25262540578842163	-0.07299447	No	
+row_9	LSM5	LSM5	LSM5 homolog, U6 small nuclear RNA associated (S. cerevisiae)	2667	0.24913638830184937	-0.064905785	No	
+row_10	DHX32	DHX32	DEAH (Asp-Glu-Ala-His) box polypeptide 32	2683	0.24741263687610626	-0.054954704	No	
+row_11	DGCR14	DGCR14	DiGeorge syndrome critical region gene 14	2798	0.23350584506988525	-0.054793168	No	
+row_12	DDX23	DDX23	DEAD (Asp-Glu-Ala-Asp) box polypeptide 23	2917	0.2205674946308136	-0.055594325	No	
+row_13	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	2956	0.2159496247768402	-0.049211334	No	
+row_14	TXNL4B	TXNL4B	thioredoxin-like 4B	3080	0.2030385285615921	-0.051278	No	
+row_15	SYF2	SYF2	SYF2 homolog, RNA splicing factor (S. cerevisiae)	3186	0.19317708909511566	-0.05213252	No	
+row_16	DHX38	DHX38	DEAH (Asp-Glu-Ala-His) box polypeptide 38	3733	0.14202316105365753	-0.09610035	No	
+row_17	SNRPC	SNRPC	small nuclear ribonucleoprotein polypeptide C	3792	0.13729222118854523	-0.09517081	No	
+row_18	PPIE	PPIE	peptidylprolyl isomerase E (cyclophilin E)	3816	0.13486802577972412	-0.091116704	No	
+row_19	DHX8	DHX8	DEAH (Asp-Glu-Ala-His) box polypeptide 8	4357	0.08920923620462418	-0.13695008	No	
+row_20	KIAA1875	KIAA1875	KIAA1875	4488	0.07663051784038544	-0.14545657	No	
+row_21	LSM4	LSM4	LSM4 homolog, U6 small nuclear RNA associated (S. cerevisiae)	4569	0.07103394716978073	-0.14959718	No	
+row_22	U2AF2	U2AF2	U2 small nuclear RNA auxiliary factor 2	4580	0.07034709304571152	-0.14729796	No	
+row_23	HTATSF1	HTATSF1	HIV-1 Tat specific factor 1	4622	0.0664747878909111	-0.14804205	No	
+row_24	SNRPB	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	4711	0.05949946492910385	-0.15345082	No	
+row_25	PRPF18	PRPF18	PRP18 pre-mRNA processing factor 18 homolog (S. cerevisiae)	5486	-2.465371217112988E-4	-0.22499356	No	
+row_26	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	-0.24943599	No	
+row_27	PPP1R8	PPP1R8	protein phosphatase 1, regulatory (inhibitor) subunit 8	5875	-0.03144542872905731	-0.25834906	No	
+row_28	PRPF4	PRPF4	PRP4 pre-mRNA processing factor 4 homolog (yeast)	6141	-0.05535599961876869	-0.28031084	No	
+row_29	RBM22	RBM22	RNA binding motif protein 22	6402	-0.0753946602344513	-0.30089208	No	
+row_30	TFIP11	TFIP11	tuftelin interacting protein 11	6446	-0.07840563356876373	-0.30127433	No	
+row_31	PNN	PNN	pinin, desmosome associated protein	6483	-0.08155263960361481	-0.30086523	No	
+row_32	RBM17	RBM17	RNA binding motif protein 17	6519	-0.08462119847536087	-0.30022308	No	
+row_33	IVNS1ABP	IVNS1ABP	influenza virus NS1A binding protein	6856	-0.11421762406826019	-0.32605124	No	
+row_34	WAC	WAC	WW domain containing adaptor with coiled-coil	6888	-0.11695381253957748	-0.32355765	No	
+row_35	ZNF326	ZNF326	zinc finger protein 326	7058	-0.13093359768390656	-0.3331811	No	
+row_36	SRRM2	SRRM2	serine/arginine repetitive matrix 2	8149	-0.22992129623889923	-0.42341217	No	
+row_37	TXNL4A	TXNL4A	thioredoxin-like 4A	8357	-0.2522036135196686	-0.43099138	No	
+row_38	MAGOH	MAGOH	mago-nashi homolog, proliferation-associated (Drosophila)	8407	-0.2594480514526367	-0.42363197	No	
+row_39	SNRPD1	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide 16kDa	8724	-0.29552337527275085	-0.43930277	No	
+row_40	RBM5	RBM5	RNA binding motif protein 5	8967	-0.3242822289466858	-0.4468146	Yes	
+row_41	HELB	HELB	helicase (DNA) B	9006	-0.3291548192501068	-0.4352439	Yes	
+row_42	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.43394175	Yes	
+row_43	YBX1	YBX1	Y box binding protein 1	9293	-0.3600674867630005	-0.4291823	Yes	
+row_44	PRPF19	PRPF19	PRP19/PSO4 pre-mRNA processing factor 19 homolog (S. cerevisiae)	9318	-0.36349210143089294	-0.41474384	Yes	
+row_45	SNRPN	SNRPN	small nuclear ribonucleoprotein polypeptide N	9383	-0.37221992015838623	-0.40360332	Yes	
+row_46	PRPF4B	PRPF4B	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	9385	-0.3723583519458771	-0.3866323	Yes	
+row_47	SF3B14	SF3B14	-	9649	-0.4134156405925751	-0.39200094	Yes	
+row_48	SNRPB2	SNRPB2	small nuclear ribonucleoprotein polypeptide B''	9736	-0.42636385560035706	-0.3804131	Yes	
+row_49	API5	API5	apoptosis inhibitor 5	9898	-0.45629626512527466	-0.3743871	Yes	
+row_50	HNRPDL	HNRPDL	heterogeneous nuclear ribonucleoprotein D-like	10016	-0.4748769700527191	-0.36344197	Yes	
+row_51	RALY	RALY	RNA binding protein, autoantigenic (hnRNP-associated with lethal yellow homolog (mouse))	10152	-0.5067469477653503	-0.3527004	Yes	
+row_52	HSPA8	HSPA8	heat shock 70kDa protein 8	10216	-0.5218904614448547	-0.33460873	Yes	
+row_53	BCAS2	BCAS2	breast carcinoma amplified sequence 2	10260	-0.5317643284797668	-0.31421566	Yes	
+row_54	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.2916731	Yes	
+row_55	SKIV2L2	SKIV2L2	superkiller viralicidic activity 2-like 2 (S. cerevisiae)	10294	-0.542285144329071	-0.2676547	Yes	
+row_56	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.24351728	Yes	
+row_57	PRPF38A	PRPF38A	PRP38 pre-mRNA processing factor 38 (yeast) domain containing A	10315	-0.5484183430671692	-0.21931025	Yes	
+row_58	LUC7L	LUC7L	LUC7-like (S. cerevisiae)	10362	-0.5591142177581787	-0.19794117	Yes	
+row_59	LSM2	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10420	-0.5757595300674438	-0.17682624	Yes	
+row_60	PRPF40A	PRPF40A	PRP40 pre-mRNA processing factor 40 homolog A (yeast)	10446	-0.583737313747406	-0.15238741	Yes	
+row_61	SNRPA1	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	10504	-0.6001255512237549	-0.13015589	Yes	
+row_62	SF1	SF1	splicing factor 1	10539	-0.6134036779403687	-0.10518961	Yes	
+row_63	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.089462064	Yes	
+row_64	ZCCHC8	ZCCHC8	zinc finger, CCHC domain containing 8	10748	-0.737756073474884	-0.058150157	Yes	
+row_65	DHX15	DHX15	DEAH (Asp-Glu-Ala-His) box polypeptide 15	10779	-0.7672808170318604	-0.025762606	Yes	
+row_66	LSM7	LSM7	LSM7 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10784	-0.7699839472770691	0.00915244	Yes	

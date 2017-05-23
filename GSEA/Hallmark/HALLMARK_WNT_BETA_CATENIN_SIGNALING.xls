@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DKK1	DKK1	dickkopf homolog 1 (Xenopus laevis)	146	0.806253969669342	0.089964814	No	
+row_1	NCSTN	NCSTN	nicastrin	935	0.5030595064163208	0.08192054	No	
+row_2	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	1231	0.4436311423778534	0.111654125	No	
+row_3	WNT1	WNT1	wingless-type MMTV integration site family, member 1	2856	0.2271018773317337	-0.008771221	No	
+row_4	HDAC11	HDAC11	histone deacetylase 11	2946	0.21718917787075043	0.010889429	No	
+row_5	DLL1	DLL1	delta-like 1 (Drosophila)	3242	0.1882266402244568	0.007864914	No	
+row_6	DKK4	DKK4	dickkopf homolog 4 (Xenopus laevis)	3276	0.18504895269870758	0.02856028	No	
+row_7	JAG2	JAG2	jagged 2	3481	0.16516228020191193	0.030957684	No	
+row_8	ADAM17	ADAM17	ADAM metallopeptidase domain 17 (tumor necrosis factor, alpha, converting enzyme)	5181	0.023289674893021584	-0.12251527	No	
+row_9	PPARD	PPARD	peroxisome proliferative activated receptor, delta	5644	-0.011759327724575996	-0.16355237	No	
+row_10	CUL1	CUL1	cullin 1	5946	-0.03780459612607956	-0.18642251	No	
+row_11	NCOR2	NCOR2	nuclear receptor co-repressor 2	6345	-0.07070150971412659	-0.21400598	No	
+row_12	LEF1	LEF1	lymphoid enhancer-binding factor 1	7383	-0.1589733213186264	-0.28911293	Yes	
+row_13	NUMB	NUMB	numb homolog (Drosophila)	7603	-0.17826925218105316	-0.2864158	Yes	
+row_14	DVL2	DVL2	dishevelled, dsh homolog 2 (Drosophila)	7796	-0.19719325006008148	-0.27880502	Yes	
+row_15	FZD8	FZD8	frizzled homolog 8 (Drosophila)	7900	-0.2063004970550537	-0.2618302	Yes	
+row_16	JAG1	JAG1	jagged 1 (Alagille syndrome)	8258	-0.2414504587650299	-0.2637378	Yes	
+row_17	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	8794	-0.3033764660358429	-0.2740947	Yes	
+row_18	PTCH1	PTCH1	patched homolog 1 (Drosophila)	9282	-0.35933825373649597	-0.2728537	Yes	
+row_19	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	9431	-0.378663033246994	-0.23791574	Yes	
+row_20	FRAT1	FRAT1	frequently rearranged in advanced T-cell lymphomas	9797	-0.4383038580417633	-0.21531169	Yes	
+row_21	AXIN2	AXIN2	axin 2 (conductin, axil)	10317	-0.5486176013946533	-0.19274062	Yes	
+row_22	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.13072693	Yes	
+row_23	HEY2	HEY2	hairy/enhancer-of-split related with YRPW motif 2	10574	-0.6307806968688965	-0.06004513	Yes	
+row_24	HEY1	HEY1	hairy/enhancer-of-split related with YRPW motif 1	10691	-0.6892940402030945	0.017681127	Yes	

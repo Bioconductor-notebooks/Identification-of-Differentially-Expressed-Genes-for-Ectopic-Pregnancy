@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLA2G7	PLA2G7	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)	269	0.7201087474822998	0.05260245	Yes	
+row_1	MSR1	MSR1	macrophage scavenger receptor 1	429	0.6471074819564819	0.10749158	Yes	
+row_2	SCARB1	SCARB1	scavenger receptor class B, member 1	493	0.6286409497261047	0.16923787	Yes	
+row_3	PLTP	PLTP	phospholipid transfer protein	551	0.6088070869445801	0.22940555	Yes	
+row_4	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	603	0.5916893482208252	0.2882865	Yes	
+row_5	APOC2	APOC2	apolipoprotein C-II	659	0.5707862973213196	0.344553	Yes	
+row_6	AGTR1	AGTR1	angiotensin II receptor, type 1	675	0.5647091269493103	0.4038504	Yes	
+row_7	SOAT2	SOAT2	sterol O-acyltransferase 2	867	0.5170338153839111	0.4418158	Yes	
+row_8	APOA2	APOA2	apolipoprotein A-II	1250	0.43804821372032166	0.4537033	Yes	
+row_9	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	1313	0.42639338970184326	0.49380988	Yes	
+row_10	LCAT	LCAT	lecithin-cholesterol acyltransferase	1573	0.38383859395980835	0.51120055	Yes	
+row_11	AGT	AGT	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	1582	0.3832041621208191	0.5516397	Yes	
+row_12	ABCA7	ABCA7	ATP-binding cassette, sub-family A (ABC1), member 7	2362	0.28420132398605347	0.5104332	No	
+row_13	PLAGL2	PLAGL2	pleiomorphic adenoma gene-like 2	3359	0.17704124748706818	0.43772697	No	
+row_14	EHD1	EHD1	EH-domain containing 1	4067	0.11403907090425491	0.38486737	No	
+row_15	ABCG1	ABCG1	ATP-binding cassette, sub-family G (WHITE), member 1	4158	0.10612069070339203	0.38798136	No	
+row_16	CD36	CD36	CD36 molecule (thrombospondin receptor)	5848	-0.029118184000253677	0.23555665	No	
+row_17	LIPC	LIPC	lipase, hepatic	6304	-0.06805260479450226	0.20096442	No	
+row_18	CETP	CETP	cholesteryl ester transfer protein, plasma	6965	-0.1238422691822052	0.15348679	No	
+row_19	ABCA5	ABCA5	ATP-binding cassette, sub-family A (ABC1), member 5	7137	-0.1363544762134552	0.15238954	No	
+row_20	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	7147	-0.1369704306125641	0.16627835	No	
+row_21	APOA4	APOA4	apolipoprotein A-IV	7237	-0.1459536850452423	0.17376457	No	
+row_22	ADIPOQ	ADIPOQ	adiponectin, C1Q and collagen domain containing	7253	-0.14774087071418762	0.1882581	No	
+row_23	ARF1	ARF1	ADP-ribosylation factor 1	9041	-0.3329540193080902	0.059455406	No	
+row_24	LRP6	LRP6	low density lipoprotein receptor-related protein 6	9226	-0.3547409474849701	0.080626845	No	
+row_25	VLDLR	VLDLR	very low density lipoprotein receptor	10664	-0.6690220832824707	0.0201695	No	

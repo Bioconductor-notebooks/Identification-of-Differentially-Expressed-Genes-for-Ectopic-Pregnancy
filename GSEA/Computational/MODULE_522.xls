@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL15RA	IL15RA	interleukin 15 receptor, alpha	167	0.7880962491035461	0.07161994	Yes	
+row_1	SPSB1	SPSB1	splA/ryanodine receptor domain and SOCS box containing 1	315	0.6981339454650879	0.13515063	Yes	
+row_2	ADA	ADA	adenosine deaminase	468	0.636820375919342	0.19145253	Yes	
+row_3	LSS	LSS	lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)	475	0.6345296502113342	0.2609454	Yes	
+row_4	NINJ1	NINJ1	ninjurin 1	655	0.5720203518867493	0.3076079	Yes	
+row_5	SEC61B	SEC61B	Sec61 beta subunit	821	0.5269429683685303	0.35058343	Yes	
+row_6	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.39931	Yes	
+row_7	GRAMD1A	GRAMD1A	GRAM domain containing 1A	984	0.4944271743297577	0.44661513	Yes	
+row_8	LIMK2	LIMK2	LIM domain kinase 2	1006	0.4905107915401459	0.49882862	Yes	
+row_9	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1077	0.47552821040153503	0.5448762	Yes	
+row_10	NFKB2	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	1111	0.468742311000824	0.59358174	Yes	
+row_11	HLA-DOA	HLA-DOA	major histocompatibility complex, class II, DO alpha	1484	0.399245947599411	0.6034001	Yes	
+row_12	LANCL1	LANCL1	LanC lantibiotic synthetase component C-like 1 (bacterial)	2242	0.2984464764595032	0.56664014	No	
+row_13	LAG3	LAG3	lymphocyte-activation gene 3	2392	0.28076326847076416	0.5839133	No	
+row_14	SLAMF1	SLAMF1	signaling lymphocytic activation molecule family member 1	2817	0.2310214638710022	0.5703733	No	
+row_15	TXN	TXN	thioredoxin	3978	0.12093561887741089	0.4769093	No	
+row_16	NPPB	NPPB	natriuretic peptide precursor B	4245	0.09879550337791443	0.46332172	No	
+row_17	SMPX	SMPX	small muscle protein, X-linked	4674	0.06248810514807701	0.43080908	No	
+row_18	LILRA1	LILRA1	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 1	4932	0.041040629148483276	0.4116747	No	
+row_19	TRIP10	TRIP10	thyroid hormone receptor interactor 10	6246	-0.06342906504869461	0.2977742	No	
+row_20	DNAJC3	DNAJC3	DnaJ (Hsp40) homolog, subfamily C, member 3	8085	-0.22418685257434845	0.15327711	No	
+row_21	CPM	CPM	carboxypeptidase M	8292	-0.24454441666603088	0.16130354	No	
+row_22	GRK6	GRK6	G protein-coupled receptor kinase 6	8931	-0.319840669631958	0.13786286	No	
+row_23	PTPN2	PTPN2	protein tyrosine phosphatase, non-receptor type 2	9429	-0.3785429894924164	0.13388571	No	

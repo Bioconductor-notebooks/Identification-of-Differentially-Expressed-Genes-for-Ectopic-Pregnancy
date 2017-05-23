@@ -1,0 +1,50 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TCEB1	TCEB1	transcription elongation factor B (SIII), polypeptide 1 (15kDa, elongin C)	559	0.6060299873352051	-0.015565782	No	
+row_1	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	946	0.5011234879493713	-0.021401098	No	
+row_2	YWHAB	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	1479	0.4000081717967987	-0.046722203	No	
+row_3	UBA2	UBA2	-	1668	0.3698031008243561	-0.04208993	No	
+row_4	RHEB	RHEB	Ras homolog enriched in brain	1790	0.3494910001754761	-0.032481473	No	
+row_5	PSMA2	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	2447	0.2754203677177429	-0.076653264	No	
+row_6	CSNK2B	CSNK2B	casein kinase 2, beta polypeptide	3032	0.20820662379264832	-0.11817554	No	
+row_7	HAX1	HAX1	HCLS1 associated protein X-1	3637	0.15134461224079132	-0.16492392	No	
+row_8	HPRT1	HPRT1	hypoxanthine phosphoribosyltransferase 1 (Lesch-Nyhan syndrome)	4159	0.10609064996242523	-0.20670213	No	
+row_9	SNRPB	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	4711	0.05949946492910385	-0.2540188	No	
+row_10	NDUFAB1	NDUFAB1	NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa	5007	0.03638511896133423	-0.27908242	No	
+row_11	PDCD6	PDCD6	programmed cell death 6	5414	0.005462992005050182	-0.31622884	No	
+row_12	COX7C	COX7C	cytochrome c oxidase subunit VIIc	5663	-0.013267641887068748	-0.3383289	No	
+row_13	PSMB4	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	5909	-0.03426709771156311	-0.35890377	No	
+row_14	SRP9	SRP9	signal recognition particle 9kDa	6173	-0.058061450719833374	-0.3797254	No	
+row_15	COX4I1	COX4I1	cytochrome c oxidase subunit IV isoform 1	6426	-0.07731466740369797	-0.39838728	No	
+row_16	COX7B	COX7B	cytochrome c oxidase subunit VIIb	6585	-0.09117656946182251	-0.40754953	No	
+row_17	RNPS1	RNPS1	RNA binding protein S1, serine-rich domain	6599	-0.09238248318433762	-0.40325755	No	
+row_18	UBE2I	UBE2I	ubiquitin-conjugating enzyme E2I (UBC9 homolog, yeast)	6877	-0.11621702462434769	-0.42191416	No	
+row_19	ATP5J2	ATP5J2	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F2	7096	-0.1334868222475052	-0.43409884	No	
+row_20	CNBP	CNBP	CCHC-type zinc finger, nucleic acid binding protein	7168	-0.13888727128505707	-0.43239534	No	
+row_21	C1QBP	C1QBP	complement component 1, q subcomponent binding protein	7425	-0.16192923486232758	-0.44639638	No	
+row_22	JTB	JTB	jumping translocation breakpoint	7437	-0.1628672182559967	-0.43772975	No	
+row_23	ACLY	ACLY	ATP citrate lyase	7629	-0.18085364997386932	-0.4446067	No	
+row_24	DDX49	DDX49	DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	8045	-0.21983741223812103	-0.46983996	No	
+row_25	PRMT1	PRMT1	protein arginine methyltransferase 1	8311	-0.24686232209205627	-0.47962266	No	
+row_26	ATP5G3	ATP5G3	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C3 (subunit 9)	8989	-0.32681161165237427	-0.5226776	Yes	
+row_27	BANF1	BANF1	barrier to autointegration factor 1	8997	-0.32807374000549316	-0.50382084	Yes	
+row_28	TUFM	TUFM	Tu translation elongation factor, mitochondrial	9052	-0.33402687311172485	-0.48894802	Yes	
+row_29	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.47864744	Yes	
+row_30	UQCRFS1	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1	9232	-0.3556801378726959	-0.4635949	Yes	
+row_31	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.48137304	Yes	
+row_32	NDUFA2	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa	9730	-0.4256703555583954	-0.45902187	Yes	
+row_33	SNRPB2	SNRPB2	small nuclear ribonucleoprotein polypeptide B''	9736	-0.42636385560035706	-0.43413755	Yes	
+row_34	PRDX1	PRDX1	peroxiredoxin 1	9752	-0.42870858311653137	-0.4100368	Yes	
+row_35	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.40516466	Yes	
+row_36	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	10129	-0.5016360878944397	-0.3866963	Yes	
+row_37	RALY	RALY	RNA binding protein, autoantigenic (hnRNP-associated with lethal yellow homolog (mouse))	10152	-0.5067469477653503	-0.35860252	Yes	
+row_38	DRG1	DRG1	developmentally regulated GTP binding protein 1	10202	-0.5186378955841064	-0.33229375	Yes	
+row_39	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.30922416	Yes	
+row_40	SUMO2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10347	-0.5550322532653809	-0.28010583	Yes	
+row_41	ATP5C1	ATP5C1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	10387	-0.5656885504722595	-0.25007716	Yes	
+row_42	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.22655025	Yes	
+row_43	SET	SET	SET translocation (myeloid leukemia-associated)	10597	-0.6403020024299622	-0.19522405	Yes	
+row_44	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	10645	-0.6610552668571472	-0.1602645	Yes	
+row_45	CCT2	CCT2	chaperonin containing TCP1, subunit 2 (beta)	10698	-0.6929426789283752	-0.12387085	Yes	
+row_46	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	-0.0844907	Yes	
+row_47	PSMB3	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	10780	-0.7673816680908203	-0.041918334	Yes	
+row_48	COX5B	COX5B	cytochrome c oxidase subunit Vb	10835	-0.8635061979293823	0.0044301227	Yes	

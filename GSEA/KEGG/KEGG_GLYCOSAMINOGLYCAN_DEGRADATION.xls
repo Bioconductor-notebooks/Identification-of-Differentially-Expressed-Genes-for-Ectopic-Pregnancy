@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SGSH	SGSH	N-sulfoglucosamine sulfohydrolase (sulfamidase)	100	0.851408064365387	0.18863012	Yes	
+row_1	HPSE	HPSE	heparanase	268	0.7203890681266785	0.34065276	Yes	
+row_2	HEXB	HEXB	hexosaminidase B (beta polypeptide)	588	0.5952228307723999	0.4496074	Yes	
+row_3	GALNS	GALNS	galactosamine (N-acetyl)-6-sulfate sulfatase (Morquio syndrome, mucopolysaccharidosis type IVA)	1624	0.375996857881546	0.44174793	Yes	
+row_4	HYAL1	HYAL1	hyaluronoglucosaminidase 1	1917	0.33226802945137024	0.49208733	Yes	
+row_5	IDS	IDS	iduronate 2-sulfatase (Hunter syndrome)	2357	0.2845359146595001	0.5178111	Yes	
+row_6	ARSB	ARSB	arylsulfatase B	3128	0.19876037538051605	0.49315083	No	
+row_7	SPAM1	SPAM1	sperm adhesion molecule 1 (PH-20 hyaluronidase, zona pellucida binding)	5572	-0.005692509934306145	0.26970583	No	
+row_8	GUSB	GUSB	glucuronidase, beta	5744	-0.020071133971214294	0.25863668	No	
+row_9	HYAL2	HYAL2	hyaluronoglucosaminidase 2	5962	-0.03923065587878227	0.24778716	No	
+row_10	HGSNAT	HGSNAT	heparan-alpha-glucosaminide N-acetyltransferase	5985	-0.04112767055630684	0.25531936	No	
+row_11	HYAL3	HYAL3	hyaluronoglucosaminidase 3	6264	-0.06491050124168396	0.24482444	No	
+row_12	HS3ST3B1	HS3ST3B1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	7962	-0.21153149008750916	0.13784313	No	
+row_13	HS3ST3A1	HS3ST3A1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3A1	8549	-0.27444988489151	0.14769869	No	
+row_14	NAGLU	NAGLU	N-acetylglucosaminidase, alpha- (Sanfilippo disease IIIB)	8663	-0.28812772035598755	0.20425062	No	

@@ -1,0 +1,50 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	514	0.6212735772132874	-0.0033695798	Yes	
+row_1	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.025600351	Yes	
+row_2	SGCB	SGCB	sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)	664	0.5680785179138184	0.06414273	Yes	
+row_3	HLA-DRB4	HLA-DRB4	major histocompatibility complex, class II, DR beta 4	716	0.5524282455444336	0.09862158	Yes	
+row_4	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.12525995	Yes	
+row_5	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	863	0.5175926685333252	0.15911366	Yes	
+row_6	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.18739122	Yes	
+row_7	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1183	0.4526088535785675	0.19743833	Yes	
+row_8	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.22890687	Yes	
+row_9	CD86	CD86	CD86 molecule	1191	0.45085471868515015	0.2608877	Yes	
+row_10	FYN	FYN	FYN oncogene related to SRC, FGR, YES	1346	0.4208412170410156	0.27652636	Yes	
+row_11	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.3030915	Yes	
+row_12	CD28	CD28	CD28 molecule	1420	0.4092986583709717	0.32843286	Yes	
+row_13	HLA-DOA	HLA-DOA	major histocompatibility complex, class II, DO alpha	1484	0.399245947599411	0.35093838	Yes	
+row_14	MYH7	MYH7	myosin, heavy chain 7, cardiac muscle, beta	1551	0.3872138261795044	0.37231356	Yes	
+row_15	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	1744	0.35679522156715393	0.37990203	Yes	
+row_16	CD55	CD55	CD55 molecule, decay accelerating factor for complement (Cromer blood group)	1763	0.35358256101608276	0.40332168	Yes	
+row_17	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	1902	0.33409827947616577	0.41428402	Yes	
+row_18	CD80	CD80	CD80 molecule	1918	0.33194929361343384	0.43644604	Yes	
+row_19	ACTB	ACTB	actin, beta	1930	0.33078357577323914	0.45889455	Yes	
+row_20	SGCG	SGCG	sarcoglycan, gamma (35kDa dystrophin-associated glycoprotein)	2493	0.2688460052013397	0.42609587	No	
+row_21	HLA-DQB1	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	2737	0.24034389853477478	0.42071703	No	
+row_22	ABL2	ABL2	v-abl Abelson murine leukemia viral oncogene homolog 2 (arg, Abelson-related gene)	2869	0.22580364346504211	0.4246437	No	
+row_23	SGCA	SGCA	sarcoglycan, alpha (50kDa dystrophin-associated glycoprotein)	2884	0.22405391931533813	0.43924457	No	
+row_24	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	3014	0.21034978330135345	0.4422596	No	
+row_25	ICAM1	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	3264	0.1862606257200241	0.4324907	No	
+row_26	HLA-DPB1	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	3405	0.17204107344150543	0.43177313	No	
+row_27	MYH8	MYH8	myosin, heavy chain 8, skeletal muscle, perinatal	3774	0.13851825892925262	0.40763476	No	
+row_28	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	3938	0.12421831488609314	0.40140218	No	
+row_29	RAC3	RAC3	ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3)	4747	0.05628691241145134	0.3308217	No	
+row_30	SGCD	SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	5117	0.02819104492664337	0.2987651	No	
+row_31	ACTG1	ACTG1	actin, gamma 1	5391	0.0070533971302211285	0.27406928	No	
+row_32	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	0.23093034	No	
+row_33	MYH13	MYH13	myosin, heavy chain 13, skeletal muscle	5929	-0.03640033304691315	0.22945145	No	
+row_34	BID	BID	BH3 interacting domain death agonist	6477	-0.08071265369653702	0.18469216	No	
+row_35	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.18784976	No	
+row_36	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	6640	-0.09585864841938019	0.18255894	No	
+row_37	HLA-DQA1	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	7098	-0.13357144594192505	0.14985554	No	
+row_38	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	0.15350555	No	
+row_39	CYCS	CYCS	cytochrome c, somatic	7447	-0.16420377790927887	0.13931096	No	
+row_40	MYH4	MYH4	myosin, heavy chain 4, skeletal muscle	7537	-0.17239819467067719	0.14332569	No	
+row_41	MYH14	MYH14	myosin, heavy chain 14	7657	-0.18381857872009277	0.1453817	No	
+row_42	ABL1	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	8005	-0.2148187756538391	0.12859377	No	
+row_43	MYH7B	MYH7B	myosin, heavy chain 7B, cardiac muscle, beta	8116	-0.22702957689762115	0.13454555	No	
+row_44	EIF4G3	EIF4G3	eukaryotic translation initiation factor 4 gamma, 3	8738	-0.2969469726085663	0.09829486	No	
+row_45	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	8828	-0.30668458342552185	0.11183503	No	
+row_46	EIF4G1	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	9008	-0.3293784260749817	0.11867855	No	
+row_47	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	0.13535778	No	
+row_48	LAMA2	LAMA2	laminin, alpha 2 (merosin, congenital muscular dystrophy)	9720	-0.4246826767921448	0.10733723	No	

@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	22	1.0169299840927124	0.112382285	Yes	
+row_1	BCL2L2	BCL2L2	BCL2-like 2	169	0.787087082862854	0.18748951	Yes	
+row_2	KCND2	KCND2	potassium voltage-gated channel, Shal-related subfamily, member 2	170	0.7858412265777588	0.27589917	Yes	
+row_3	FEZ2	FEZ2	fasciculation and elongation protein zeta 2 (zygin II)	1323	0.42534762620925903	0.21768457	Yes	
+row_4	FST	FST	follistatin	1403	0.41227030754089355	0.25679258	Yes	
+row_5	PAPPA	PAPPA	pregnancy-associated plasma protein A, pappalysin 1	1652	0.3722878098487854	0.27584213	Yes	
+row_6	YPEL1	YPEL1	yippee-like 1 (Drosophila)	1909	0.3334152400493622	0.28978184	Yes	
+row_7	HMGN3	HMGN3	high mobility group nucleosomal binding domain 3	2865	0.22631026804447174	0.22731319	No	
+row_8	RNF40	RNF40	ring finger protein 40	2872	0.22478236258029938	0.2520495	No	
+row_9	PLEKHA3	PLEKHA3	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 3	3040	0.20733262598514557	0.25999898	No	
+row_10	RBM3	RBM3	RNA binding motif (RNP1, RRM) protein 3	3778	0.13816335797309875	0.20768532	No	
+row_11	CBX8	CBX8	chromobox homolog 8 (Pc class homolog, Drosophila)	4774	0.0539071299135685	0.12213785	No	
+row_12	TP53INP2	TP53INP2	tumor protein p53 inducible nuclear protein 2	4938	0.04043331369757652	0.111678906	No	
+row_13	TNPO2	TNPO2	transportin 2 (importin 3, karyopherin beta 2b)	6744	-0.10472019016742706	-0.04273069	No	
+row_14	PKNOX1	PKNOX1	PBX/knotted 1 homeobox 1	8639	-0.2844325602054596	-0.18511653	No	
+row_15	HOXA4	HOXA4	homeobox A4	8718	-0.29468291997909546	-0.15914541	No	
+row_16	HOXB13	HOXB13	homeobox B13	9499	-0.3911762237548828	-0.18695343	No	
+row_17	ARIH1	ARIH1	ariadne homolog, ubiquitin-conjugating enzyme E2 binding protein, 1 (Drosophila)	9600	-0.40641531348228455	-0.15043765	No	
+row_18	LYSMD1	LYSMD1	LysM, putative peptidoglycan-binding, domain containing 1	9640	-0.41280946135520935	-0.10758609	No	
+row_19	CUL3	CUL3	cullin 3	9955	-0.4629765450954437	-0.08441053	No	
+row_20	CS	CS	citrate synthase	9995	-0.4717693328857422	-0.034925796	No	
+row_21	HOXB9	HOXB9	homeobox B9	10027	-0.47768861055374146	0.015961453	No	
+row_22	PTPN9	PTPN9	protein tyrosine phosphatase, non-receptor type 9	10355	-0.5578576922416687	0.048614506	No	

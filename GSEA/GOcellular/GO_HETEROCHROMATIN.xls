@@ -1,0 +1,38 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SIRT6	SIRT6	sirtuin (silent mating type information regulation 2 homolog) 6 (S. cerevisiae)	1037	0.4820777177810669	-0.05106914	No	
+row_1	HIST1H1E	HIST1H1E	histone cluster 1, H1e	1389	0.41485005617141724	-0.045105334	No	
+row_2	TNKS1BP1	TNKS1BP1	tankyrase 1 binding protein 1, 182kDa	2801	0.23296697437763214	-0.15366638	No	
+row_3	RNF40	RNF40	ring finger protein 40	2872	0.22478236258029938	-0.13935485	No	
+row_4	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	3380	0.17508181929588318	-0.1699222	No	
+row_5	UBE2B	UBE2B	ubiquitin-conjugating enzyme E2B (RAD6 homolog)	4164	0.1057344377040863	-0.23234053	No	
+row_6	MBD3	MBD3	methyl-CpG binding domain protein 3	4658	0.06366045773029327	-0.27191007	No	
+row_7	CBX8	CBX8	chromobox homolog 8 (Pc class homolog, Drosophila)	4774	0.0539071299135685	-0.27753225	No	
+row_8	CBX2	CBX2	chromobox homolog 2 (Pc class homolog, Drosophila)	5080	0.030981311574578285	-0.30278862	No	
+row_9	SUMO1	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	5504	-0.0014547808095812798	-0.3416512	No	
+row_10	RNF20	RNF20	ring finger protein 20	6188	-0.05903568118810654	-0.39916432	No	
+row_11	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	6219	-0.06098038703203201	-0.39629683	No	
+row_12	CBX6	CBX6	chromobox homolog 6	6461	-0.07963603734970093	-0.41115835	No	
+row_13	INCENP	INCENP	inner centromere protein antigens 135/155kDa	6584	-0.09114602953195572	-0.41398582	No	
+row_14	UBE2A	UBE2A	ubiquitin-conjugating enzyme E2A (RAD6 homolog)	6663	-0.09744591265916824	-0.41217488	No	
+row_15	PHC2	PHC2	polyhomeotic homolog 2 (Drosophila)	6997	-0.1263159215450287	-0.4312058	No	
+row_16	SIRT1	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	7530	-0.17174309492111206	-0.46438637	Yes	
+row_17	DNMT1	DNMT1	DNA (cytosine-5-)-methyltransferase 1	7560	-0.1738724261522293	-0.45099795	Yes	
+row_18	ESCO2	ESCO2	establishment of cohesion 1 homolog 2 (S. cerevisiae)	7576	-0.17542056739330292	-0.43617582	Yes	
+row_19	EME1	EME1	essential meiotic endonuclease 1 homolog 1 (S. pombe)	7585	-0.17673195898532867	-0.42058724	Yes	
+row_20	TCP1	TCP1	t-complex 1	7649	-0.1830902397632599	-0.4094818	Yes	
+row_21	EED	EED	embryonic ectoderm development	7792	-0.19675356149673462	-0.4043973	Yes	
+row_22	CBX5	CBX5	chromobox homolog 5 (HP1 alpha homolog, Drosophila)	7967	-0.21176637709140778	-0.40087608	Yes	
+row_23	RING1	RING1	ring finger protein 1	7986	-0.21350595355033875	-0.38281226	Yes	
+row_24	SUV420H2	SUV420H2	suppressor of variegation 4-20 homolog 2 (Drosophila)	9007	-0.3292907178401947	-0.4464283	Yes	
+row_25	PSIP1	PSIP1	PC4 and SFRS1 interacting protein 1	9056	-0.33462661504745483	-0.4199414	Yes	
+row_26	SUZ12	SUZ12	suppressor of zeste 12 homolog (Drosophila)	9231	-0.3554827868938446	-0.40314394	Yes	
+row_27	HMGA1	HMGA1	high mobility group AT-hook 1	9646	-0.4132329225540161	-0.40313756	Yes	
+row_28	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9772	-0.43414849042892456	-0.37455577	Yes	
+row_29	SALL1	SALL1	sal-like 1 (Drosophila)	10025	-0.4774225056171417	-0.3536847	Yes	
+row_30	DNMT3A	DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	10161	-0.5086221694946289	-0.31914508	Yes	
+row_31	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.2793391	Yes	
+row_32	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	10414	-0.57424396276474	-0.23993598	Yes	
+row_33	BAZ1B	BAZ1B	bromodomain adjacent to zinc finger domain, 1B	10636	-0.6569410562515259	-0.19962344	Yes	
+row_34	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	10773	-0.7623668313026428	-0.14173561	Yes	
+row_35	H2AFY	H2AFY	H2A histone family, member Y	10799	-0.7901180982589722	-0.07105094	Yes	
+row_36	HELLS	HELLS	helicase, lymphoid-specific	10829	-0.8519662618637085	0.004978367	Yes	

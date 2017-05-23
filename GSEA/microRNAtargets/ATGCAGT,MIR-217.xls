@@ -1,0 +1,69 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC38A2	SLC38A2	solute carrier family 38, member 2	184	0.7741949558258057	0.017425815	No	
+row_1	ADAMTS5	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif, 5 (aggrecanase-2)	428	0.647803008556366	0.023774596	No	
+row_2	KCTD9	KCTD9	potassium channel tetramerisation domain containing 9	604	0.5912157297134399	0.033893254	No	
+row_3	EP400NL	EP400NL	EP400 N-terminal like	763	0.5421655774116516	0.04340181	No	
+row_4	CHN2	CHN2	chimerin (chimaerin) 2	919	0.5059546232223511	0.051577006	No	
+row_5	MAMDC2	MAMDC2	MAM domain containing 2	924	0.5047570466995239	0.073659725	No	
+row_6	RIN2	RIN2	Ras and Rab interactor 2	1310	0.42718979716300964	0.05706652	No	
+row_7	ACVR2A	ACVR2A	activin A receptor, type IIA	1342	0.4222390949726105	0.072982386	No	
+row_8	PAQR3	PAQR3	progestin and adipoQ receptor family member III	1692	0.36553269624710083	0.056974955	No	
+row_9	TM9SF3	TM9SF3	transmembrane 9 superfamily member 3	1796	0.3485319912433624	0.06295539	No	
+row_10	SENP5	SENP5	SUMO1/sentrin specific peptidase 5	1801	0.3477400541305542	0.0780537	No	
+row_11	SEPT4	SEPT4	septin 4	2268	0.2961766719818115	0.04814387	No	
+row_12	GPM6A	GPM6A	glycoprotein M6A	2336	0.2875578701496124	0.05474046	No	
+row_13	TBC1D15	TBC1D15	TBC1 domain family, member 15	2420	0.2779082655906677	0.059428528	No	
+row_14	FBN2	FBN2	fibrillin 2 (congenital contractural arachnodactyly)	2825	0.2301412671804428	0.032313574	No	
+row_15	RAP2C	RAP2C	RAP2C, member of RAS oncogene family	2983	0.2132733166217804	0.027284838	No	
+row_16	NOVA1	NOVA1	neuro-oncological ventral antigen 1	3007	0.2107146829366684	0.034531344	No	
+row_17	KCNA3	KCNA3	potassium voltage-gated channel, shaker-related subfamily, member 3	3178	0.19359610974788666	0.02742541	No	
+row_18	SLITRK3	SLITRK3	SLIT and NTRK-like family, member 3	3761	0.1397135704755783	-0.02016904	No	
+row_19	NDEL1	NDEL1	nudE nuclear distribution gene E homolog like 1 (A. nidulans)	3918	0.12563124299049377	-0.029003803	No	
+row_20	ST18	ST18	suppression of tumorigenicity 18 (breast carcinoma) (zinc finger protein)	4009	0.1188349574804306	-0.032038804	No	
+row_21	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	-0.029437462	No	
+row_22	GRIK2	GRIK2	glutamate receptor, ionotropic, kainate 2	4119	0.10950788110494614	-0.031962793	No	
+row_23	NEUROD1	NEUROD1	neurogenic differentiation 1	4736	0.05735516548156738	-0.086364195	No	
+row_24	FBXW11	FBXW11	F-box and WD-40 domain protein 11	4907	0.04271485656499863	-0.10018161	No	
+row_25	TACC2	TACC2	transforming, acidic coiled-coil containing protein 2	5172	0.023486003279685974	-0.12354519	No	
+row_26	FN1	FN1	fibronectin 1	5175	0.023436052724719048	-0.12268762	No	
+row_27	ATP6V1A	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A	5560	-0.005261389072984457	-0.15795656	No	
+row_28	APPBP2	APPBP2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2	5608	-0.008924146182835102	-0.161905	No	
+row_29	YAF2	YAF2	YY1 associated factor 2	5658	-0.012959811836481094	-0.16585885	No	
+row_30	PPM1D	PPM1D	protein phosphatase 1D magnesium-dependent, delta isoform	5903	-0.03373078256845474	-0.18691762	No	
+row_31	MAF	MAF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)	5940	-0.037206415086984634	-0.188591	No	
+row_32	ELOVL4	ELOVL4	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4	5979	-0.040529392659664154	-0.1903015	No	
+row_33	DLGAP2	DLGAP2	discs, large (Drosophila) homolog-associated protein 2	6019	-0.044252634048461914	-0.19193882	No	
+row_34	BAI3	BAI3	brain-specific angiogenesis inhibitor 3	6171	-0.05794092267751694	-0.20332229	No	
+row_35	STRBP	STRBP	spermatid perinuclear RNA binding protein	6220	-0.061146121472120285	-0.20504028	No	
+row_36	YTHDC1	YTHDC1	YTH domain containing 1	6279	-0.06607812643051147	-0.20746341	No	
+row_37	ZFYVE20	ZFYVE20	zinc finger, FYVE domain containing 20	6563	-0.08948607742786407	-0.22964785	No	
+row_38	CAPN3	CAPN3	calpain 3, (p94)	6731	-0.10365322232246399	-0.24047725	No	
+row_39	IVNS1ABP	IVNS1ABP	influenza virus NS1A binding protein	6856	-0.11421762406826019	-0.24686113	No	
+row_40	SIRT1	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	7530	-0.17174309492111206	-0.30144432	No	
+row_41	FNDC3B	FNDC3B	fibronectin type III domain containing 3B	7546	-0.1730414777994156	-0.29513392	No	
+row_42	ZCCHC2	ZCCHC2	zinc finger, CCHC domain containing 2	8194	-0.23490175604820251	-0.34450385	No	
+row_43	WAPAL	WAPAL	wings apart-like homolog (Drosophila)	8262	-0.2417334020137787	-0.3399456	No	
+row_44	HIVEP3	HIVEP3	human immunodeficiency virus type I enhancer binding protein 3	8627	-0.2834150493144989	-0.36099264	No	
+row_45	EHMT1	EHMT1	euchromatic histone-lysine N-methyltransferase 1	8922	-0.3183416724205017	-0.37401414	No	
+row_46	RBM39	RBM39	RNA binding motif protein 39	9071	-0.33671748638153076	-0.37271973	No	
+row_47	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	9313	-0.36291271448135376	-0.3788585	Yes	
+row_48	NFIA	NFIA	nuclear factor I/A	9414	-0.3759598433971405	-0.37138066	Yes	
+row_49	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	9423	-0.3777465522289276	-0.35531744	Yes	
+row_50	DACH1	DACH1	dachshund homolog 1 (Drosophila)	9589	-0.40503573417663574	-0.35255587	Yes	
+row_51	TLK2	TLK2	tousled-like kinase 2	9614	-0.40814313292503357	-0.33661982	Yes	
+row_52	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.32546	Yes	
+row_53	NIPBL	NIPBL	Nipped-B homolog (Drosophila)	9728	-0.4256017804145813	-0.3093021	Yes	
+row_54	STAG2	STAG2	stromal antigen 2	9767	-0.43336570262908936	-0.29353848	Yes	
+row_55	DYNC1LI2	DYNC1LI2	dynein, cytoplasmic 1, light intermediate chain 2	9874	-0.45292750000953674	-0.2831917	Yes	
+row_56	YWHAG	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide	9876	-0.4533332586288452	-0.26311904	Yes	
+row_57	MIER3	MIER3	mesoderm induction early response 1, family member 3	9923	-0.45888203382492065	-0.24696007	Yes	
+row_58	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	10011	-0.4743756353855133	-0.23390259	Yes	
+row_59	RICTOR	RICTOR	-	10416	-0.5744255781173706	-0.24570313	Yes	
+row_60	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10557	-0.6210469007492065	-0.23102158	Yes	
+row_61	ZNF711	ZNF711	zinc finger protein 711	10708	-0.698743462562561	-0.21380849	Yes	
+row_62	MYEF2	MYEF2	myelin expression factor 2	10711	-0.7032253742218018	-0.18271261	Yes	
+row_63	KLF12	KLF12	Kruppel-like factor 12	10725	-0.7112607955932617	-0.15227632	Yes	
+row_64	FBXO11	FBXO11	F-box protein 11	10733	-0.7236104607582092	-0.12073595	Yes	
+row_65	MTPN	MTPN	myotrophin	10802	-0.7952473759651184	-0.09164883	Yes	
+row_66	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	10839	-0.8717123866081238	-0.056201823	Yes	
+row_67	KIAA2026	KIAA2026	KIAA2026	10883	-1.352856159210205	1.7770799E-7	Yes	

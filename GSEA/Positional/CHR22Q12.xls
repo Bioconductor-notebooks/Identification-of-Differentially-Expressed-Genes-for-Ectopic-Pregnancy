@@ -1,0 +1,53 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GALR3	GALR3	galanin receptor 3	126	0.8236988186836243	0.04042447	Yes	
+row_1	RNF185	RNF185	ring finger protein 185	263	0.7228204607963562	0.073550366	Yes	
+row_2	EMID1	EMID1	EMI domain containing 1	323	0.6955993175506592	0.112064496	Yes	
+row_3	SYN3	SYN3	synapsin III	397	0.6592746376991272	0.14699048	Yes	
+row_4	TIMP3	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	542	0.6111975908279419	0.1723234	Yes	
+row_5	SFI1	SFI1	Sfi1 homolog, spindle assembly associated (yeast)	769	0.5394895076751709	0.18555433	Yes	
+row_6	CHEK2	CHEK2	CHK2 checkpoint homolog (S. pombe)	828	0.524837851524353	0.21336888	Yes	
+row_7	FBXO7	FBXO7	F-box protein 7	838	0.5225424766540527	0.24556199	Yes	
+row_8	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	863	0.5175926685333252	0.2760575	Yes	
+row_9	LIMK2	LIMK2	LIM domain kinase 2	1006	0.4905107915401459	0.29394782	Yes	
+row_10	APOL6	APOL6	apolipoprotein L, 6	1184	0.4522603154182434	0.3061896	Yes	
+row_11	KCTD17	KCTD17	potassium channel tetramerisation domain containing 17	1226	0.4445854425430298	0.33050174	Yes	
+row_12	ISX	ISX	intestine-specific homeobox	1745	0.35660016536712646	0.30521712	No	
+row_13	KREMEN1	KREMEN1	kringle containing transmembrane protein 1	1848	0.341656357049942	0.3173928	No	
+row_14	MAFF	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	2175	0.3055438697338104	0.30660674	No	
+row_15	SMTN	SMTN	smoothelin	2404	0.27977240085601807	0.30323926	No	
+row_16	SEC14L4	SEC14L4	SEC14-like 4 (S. cerevisiae)	3067	0.20484183728694916	0.25506976	No	
+row_17	MTMR3	MTMR3	myotubularin related protein 3	3349	0.17797426879405975	0.24037585	No	
+row_18	SEC14L3	SEC14L3	SEC14-like 3 (S. cerevisiae)	3490	0.1643252670764923	0.23783632	No	
+row_19	NF2	NF2	neurofibromin 2 (bilateral acoustic neuroma)	3952	0.12319538742303848	0.20306303	No	
+row_20	GAS2L1	GAS2L1	growth arrest-specific 2 like 1	4001	0.11956296116113663	0.20618793	No	
+row_21	PDXP	PDXP	pyridoxal (pyridoxine, vitamin B6) phosphatase	4157	0.1061779260635376	0.19858877	No	
+row_22	CACNA1I	CACNA1I	calcium channel, voltage-dependent, alpha 1I subunit	4217	0.10097222030162811	0.19952327	No	
+row_23	TBC1D10A	TBC1D10A	TBC1 domain family, member 10A	4792	0.052405308932065964	0.14984407	No	
+row_24	RFPL1	RFPL1	ret finger protein-like 1	5314	0.012959887273609638	0.10256489	No	
+row_25	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	0.06265051	No	
+row_26	RFPL2	RFPL2	ret finger protein-like 2	5786	-0.023789091035723686	0.06203061	No	
+row_27	HORMAD2	HORMAD2	HORMA domain containing 2	5807	-0.026079898700118065	0.061832443	No	
+row_28	GCAT	GCAT	glycine C-acetyltransferase (2-amino-3-ketobutyrate coenzyme A ligase)	6104	-0.051726244390010834	0.037775032	No	
+row_29	MORC2	MORC2	MORC family CW-type zinc finger 2	6130	-0.054244350641965866	0.038895227	No	
+row_30	SLC5A4	SLC5A4	solute carrier family 5 (low affinity glucose cotransporter), member 4	6362	-0.07255291938781738	0.022154775	No	
+row_31	TFIP11	TFIP11	tuftelin interacting protein 11	6446	-0.07840563356876373	0.019447424	No	
+row_32	CBX6	CBX6	chromobox homolog 6	6461	-0.07963603734970093	0.02318785	No	
+row_33	RFPL3	RFPL3	ret finger protein-like 3	6553	-0.0879857987165451	0.0203474	No	
+row_34	CABP7	CABP7	calcium binding protein 7	6641	-0.09588916599750519	0.01837571	No	
+row_35	NEFH	NEFH	neurofilament, heavy polypeptide 200kDa	6815	-0.11129995435476303	0.009438523	No	
+row_36	LOC339666	LOC339666	-	6901	-0.11843778938055038	0.009076514	No	
+row_37	TOB2	TOB2	transducer of ERBB2, 2	7007	-0.12666314840316772	0.0073879557	No	
+row_38	LOC284898	LOC284898	-	7390	-0.15909239649772644	-0.017823495	No	
+row_39	PDGFB	PDGFB	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)	7780	-0.1958526074886322	-0.041357983	No	
+row_40	LGALS2	LGALS2	lectin, galactoside-binding, soluble, 2 (galectin 2)	7824	-0.19927790760993958	-0.032733604	No	
+row_41	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	8053	-0.22101743519306183	-0.039814338	No	
+row_42	DMC1	DMC1	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	8452	-0.2641143798828125	-0.059865646	No	
+row_43	OSBP2	OSBP2	oxysterol binding protein 2	8977	-0.3255488872528076	-0.08766657	No	
+row_44	PATZ1	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	9424	-0.3778258264064789	-0.10496278	No	
+row_45	EWSR1	EWSR1	Ewing sarcoma breakpoint region 1	9425	-0.3781188130378723	-0.08106618	No	
+row_46	TUG1	TUG1	-	9793	-0.4373549818992615	-0.08730701	No	
+row_47	THOC5	THOC5	THO complex 5	10082	-0.4892982840538025	-0.0829719	No	
+row_48	PITPNB	PITPNB	phosphatidylinositol transfer protein, beta	10131	-0.5017614364624023	-0.055692565	No	
+row_49	DRG1	DRG1	developmentally regulated GTP binding protein 1	10202	-0.5186378955841064	-0.029377673	No	
+row_50	APOL1	APOL1	apolipoprotein L, 1	10682	-0.6805948615074158	-0.03058581	No	
+row_51	SEC14L2	SEC14L2	SEC14-like 2 (S. cerevisiae)	10787	-0.7761170864105225	0.0088625755	No	

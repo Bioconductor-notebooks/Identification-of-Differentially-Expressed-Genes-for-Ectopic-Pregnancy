@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTK2B	PTK2B	PTK2B protein tyrosine kinase 2 beta	20	1.0311212539672852	0.112834096	Yes	
+row_1	MEF2A	MEF2A	MADS box transcription enhancer factor 2, polypeptide A (myocyte enhancer factor 2A)	274	0.7183312177658081	0.16943055	Yes	
+row_2	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.22608845	Yes	
+row_3	AGTR1	AGTR1	angiotensin II receptor, type 1	675	0.5647091269493103	0.26716504	Yes	
+row_4	PTK2	PTK2	PTK2 protein tyrosine kinase 2	938	0.5018228888511658	0.2988541	Yes	
+row_5	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	946	0.5011234879493713	0.35394174	Yes	
+row_6	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1539	0.3899523913860321	0.34280807	Yes	
+row_7	AGT	AGT	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	1582	0.3832041621208191	0.38155913	Yes	
+row_8	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.40386105	Yes	
+row_9	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	1902	0.33409827947616577	0.42868096	Yes	
+row_10	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.45129877	Yes	
+row_11	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	0.43510884	No	
+row_12	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2725	0.2422666698694229	0.44492844	No	
+row_13	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.33711672	No	
+row_14	MEF2D	MEF2D	MADS box transcription enhancer factor 2, polypeptide D (myocyte enhancer factor 2D)	5977	-0.040225304663181305	0.16317017	No	
+row_15	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	0.03735323	No	
+row_16	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	8402	-0.2586412727832794	-0.011860446	No	
+row_17	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	8526	-0.2708396017551422	0.006936897	No	
+row_18	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	-0.016924864	No	
+row_19	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	9353	-0.36760300397872925	0.011160922	No	
+row_20	ELK1	ELK1	ELK1, member of ETS oncogene family	9576	-0.4029989540576935	0.035541926	No	
+row_21	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	10771	-0.7615377902984619	0.0103112785	No	

@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DKK1	DKK1	dickkopf homolog 1 (Xenopus laevis)	146	0.806253969669342	0.029641006	No	
+row_1	MDFIC	MDFIC	MyoD family inhibitor domain containing	171	0.7840122580528259	0.0693514	No	
+row_2	TCF7L2	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	278	0.7168463468551636	0.097902715	No	
+row_3	TLE2	TLE2	transducin-like enhancer of split 2 (E(sp1) homolog, Drosophila)	355	0.6767602562904358	0.12707897	No	
+row_4	YWHAB	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	1479	0.4000081717967987	0.044833455	No	
+row_5	HBP1	HBP1	HMG-box transcription factor 1	2173	0.30587610602378845	-0.0027632406	No	
+row_6	TBL1X	TBL1X	transducin (beta)-like 1X-linked	2619	0.25385332107543945	-0.030255193	No	
+row_7	T	T	T, brachyury homolog (mouse)	2996	0.21230244636535645	-0.053601425	No	
+row_8	YWHAE	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide	3263	0.18632839620113373	-0.06818528	No	
+row_9	DKK4	DKK4	dickkopf homolog 4 (Xenopus laevis)	3276	0.18504895269870758	-0.05939716	No	
+row_10	CDX1	CDX1	caudal type homeobox transcription factor 1	3431	0.16960929334163666	-0.06453915	No	
+row_11	SSPO	SSPO	SCO-spondin homolog (Bos taurus)	3432	0.1695987433195114	-0.055469822	No	
+row_12	CUL1	CUL1	cullin 1	5946	-0.03780459612607956	-0.28536037	No	
+row_13	IL8	IL8	interleukin 8	6332	-0.06969403475522995	-0.31716317	No	
+row_14	TERT	TERT	telomerase reverse transcriptase	6491	-0.08228009194135666	-0.32734427	No	
+row_15	INCENP	INCENP	inner centromere protein antigens 135/155kDa	6584	-0.09114602953195572	-0.33096042	No	
+row_16	CAMK4	CAMK4	calcium/calmodulin-dependent protein kinase IV	7092	-0.1330816149711609	-0.37063235	No	
+row_17	LEF1	LEF1	lymphoid enhancer-binding factor 1	7383	-0.1589733213186264	-0.38889384	No	
+row_18	CYR61	CYR61	cysteine-rich, angiogenic inducer, 61	7399	-0.16017873585224152	-0.38171253	No	
+row_19	FGF4	FGF4	fibroblast growth factor 4 (heparin secretory transforming protein 1, Kaposi sarcoma oncogene)	8052	-0.22089754045009613	-0.4300698	No	
+row_20	KCNIP4	KCNIP4	Kv channel interacting protein 4	8246	-0.24012580513954163	-0.43504	Yes	
+row_21	TBL1XR1	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	8294	-0.2445785403251648	-0.4262985	Yes	
+row_22	PITX2	PITX2	paired-like homeodomain transcription factor 2	8400	-0.258428692817688	-0.4221689	Yes	
+row_23	TNIK	TNIK	TRAF2 and NCK interacting kinase	8594	-0.2793641984462738	-0.42504084	Yes	
+row_24	CTNNBIP1	CTNNBIP1	catenin, beta interacting protein 1	8603	-0.2801682949066162	-0.41079706	Yes	
+row_25	CACNA1G	CACNA1G	calcium channel, voltage-dependent, alpha 1G subunit	8884	-0.31386739015579224	-0.41985273	Yes	
+row_26	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.42053857	Yes	
+row_27	MYF5	MYF5	myogenic factor 5	9246	-0.35679009556770325	-0.4158556	Yes	
+row_28	TLE1	TLE1	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	9338	-0.366392582654953	-0.4046606	Yes	
+row_29	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.42032433	Yes	
+row_30	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9772	-0.43414849042892456	-0.39830783	Yes	
+row_31	NEUROG1	NEUROG1	neurogenin 1	9853	-0.4495883584022522	-0.3816488	Yes	
+row_32	YWHAG	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide	9876	-0.4533332586288452	-0.35943696	Yes	
+row_33	MITF	MITF	microphthalmia-associated transcription factor	9889	-0.455241858959198	-0.33620024	Yes	
+row_34	AR	AR	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)	9899	-0.45631444454193115	-0.31262928	Yes	
+row_35	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	10024	-0.47733598947525024	-0.29854697	Yes	
+row_36	TLE4	TLE4	transducin-like enhancer of split 4 (E(sp1) homolog, Drosophila)	10098	-0.49332568049430847	-0.27890307	Yes	
+row_37	DVL3	DVL3	dishevelled, dsh homolog 3 (Drosophila)	10225	-0.5246871113777161	-0.2624732	Yes	
+row_38	ZCCHC12	ZCCHC12	zinc finger, CCHC domain containing 12	10236	-0.5261731147766113	-0.23525883	Yes	
+row_39	AXIN2	AXIN2	axin 2 (conductin, axil)	10317	-0.5486176013946533	-0.21330418	Yes	
+row_40	MED12	MED12	mediator of RNA polymerase II transcription, subunit 12 homolog (S. cerevisiae)	10327	-0.5503443479537964	-0.18470496	Yes	
+row_41	SFN	SFN	stratifin	10381	-0.564522922039032	-0.15940808	Yes	
+row_42	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.13540669	Yes	
+row_43	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.10857197	Yes	
+row_44	TRRAP	TRRAP	transformation/transcription domain-associated protein	10567	-0.6244063377380371	-0.079149954	Yes	
+row_45	MYOG	MYOG	myogenin (myogenic factor 4)	10637	-0.657709002494812	-0.050346483	Yes	
+row_46	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	-0.01715074	Yes	
+row_47	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	10699	-0.6934834122657776	0.016980322	Yes	

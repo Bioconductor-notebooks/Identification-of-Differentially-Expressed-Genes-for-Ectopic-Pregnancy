@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	-0.11708705	No	
+row_1	CAV3	CAV3	caveolin 3	2257	0.29708796739578247	-0.12111687	No	
+row_2	NRAP	NRAP	nebulin-related anchoring protein	2565	0.26112765073776245	-0.114480704	No	
+row_3	SLC9A1	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	3383	0.17461244761943817	-0.16638595	No	
+row_4	ATP2A2	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	3446	0.16863593459129333	-0.14954987	No	
+row_5	ACTN1	ACTN1	actinin, alpha 1	3452	0.1678929477930069	-0.12756306	No	
+row_6	PGM5	PGM5	phosphoglucomutase 5	3627	0.1521095335483551	-0.12325249	No	
+row_7	PKP2	PKP2	plakophilin 2	3960	0.12279798090457916	-0.13741371	No	
+row_8	KCNJ2	KCNJ2	potassium inwardly-rectifying channel, subfamily J, member 2	4115	0.10975831001996994	-0.13692339	No	
+row_9	DES	DES	desmin	5468	0.001082407427020371	-0.2613066	No	
+row_10	OBSL1	OBSL1	obscurin-like 1	5918	-0.03551936894655228	-0.2979135	No	
+row_11	ANKRD23	ANKRD23	ankyrin repeat domain 23	6057	-0.04782337322831154	-0.30423018	No	
+row_12	SLC8A1	SLC8A1	solute carrier family 8 (sodium/calcium exchanger), member 1	6218	-0.06092529371380806	-0.31082147	No	
+row_13	CAMK2D	CAMK2D	calcium/calmodulin-dependent protein kinase (CaM kinase) II delta	6443	-0.07809430360794067	-0.3210121	No	
+row_14	ANK2	ANK2	ankyrin 2, neuronal	7769	-0.19460435211658478	-0.4170345	No	
+row_15	SCN1A	SCN1A	sodium channel, voltage-gated, type I, alpha	8293	-0.24456557631492615	-0.4325077	Yes	
+row_16	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	8526	-0.2708396017551422	-0.41766506	Yes	
+row_17	TMEM65	TMEM65	transmembrane protein 65	8580	-0.2780669629573822	-0.38536906	Yes	
+row_18	SCN5A	SCN5A	sodium channel, voltage-gated, type V, alpha (long QT syndrome 3)	8821	-0.3060227632522583	-0.36655927	Yes	
+row_19	TJP1	TJP1	tight junction protein 1 (zona occludens 1)	8872	-0.3125503361225128	-0.3293765	Yes	
+row_20	CTNNA1	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	8988	-0.3267988860607147	-0.29627562	Yes	
+row_21	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	10085	-0.49116864800453186	-0.3315549	Yes	
+row_22	KCNA5	KCNA5	potassium voltage-gated channel, shaker-related subfamily, member 5	10089	-0.4915582239627838	-0.2661097	Yes	
+row_23	ANK3	ANK3	ankyrin 3, node of Ranvier (ankyrin G)	10163	-0.5103659629821777	-0.20459738	Yes	
+row_24	DLG1	DLG1	discs, large homolog 1 (Drosophila)	10385	-0.5656057000160217	-0.14933124	Yes	
+row_25	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.077863686	Yes	
+row_26	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	10839	-0.8717123866081238	0.0040525184	Yes	

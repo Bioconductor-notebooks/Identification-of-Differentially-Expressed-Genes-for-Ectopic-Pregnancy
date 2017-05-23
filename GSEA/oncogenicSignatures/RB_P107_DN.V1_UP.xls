@@ -1,0 +1,69 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDKN1C	CDKN1C	cyclin-dependent kinase inhibitor 1C (p57, Kip2)	102	0.8504776358604431	0.030546324	No	
+row_1	KHDRBS3	KHDRBS3	KH domain containing, RNA binding, signal transduction associated 3	103	0.850001871585846	0.07050076	No	
+row_2	TRPV2	TRPV2	transient receptor potential cation channel, subfamily V, member 2	242	0.7355249524116516	0.092315316	No	
+row_3	TEK	TEK	TEK tyrosine kinase, endothelial (venous malformations, multiple cutaneous and mucosal)	304	0.7021304965019226	0.11967925	No	
+row_4	MFGE8	MFGE8	milk fat globule-EGF factor 8 protein	306	0.7017759084701538	0.15257385	No	
+row_5	S100A4	S100A4	S100 calcium binding protein A4	871	0.5162599682807922	0.12469574	No	
+row_6	FBLN5	FBLN5	fibulin 5	1087	0.4730991721153259	0.12705587	No	
+row_7	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	1640	0.3740386664867401	0.09360209	No	
+row_8	TRPM1	TRPM1	transient receptor potential cation channel, subfamily M, member 1	1899	0.33470818400382996	0.08548154	No	
+row_9	PRDX4	PRDX4	peroxiredoxin 4	1907	0.3334672749042511	0.10050902	No	
+row_10	FBN1	FBN1	fibrillin 1	2035	0.3194338381290436	0.10378218	No	
+row_11	KIAA0195	KIAA0195	KIAA0195	2252	0.29753947257995605	0.09779764	No	
+row_12	DCT	DCT	dopachrome tautomerase (dopachrome delta-isomerase, tyrosine-related protein 2)	2500	0.26826003193855286	0.0875707	No	
+row_13	PML	PML	promyelocytic leukemia	2604	0.2567673325538635	0.09011714	No	
+row_14	GMNN	GMNN	geminin, DNA replication inhibitor	3188	0.19310662150382996	0.045292515	No	
+row_15	SAMD10	SAMD10	sterile alpha motif domain containing 10	3616	0.15304957330226898	0.013008076	No	
+row_16	DCLRE1A	DCLRE1A	DNA cross-link repair 1A (PSO2 homolog, S. cerevisiae)	3679	0.1476294845342636	0.014215168	No	
+row_17	WDHD1	WDHD1	WD repeat and HMG-box DNA binding protein 1	3747	0.14087934792041779	0.014642691	No	
+row_18	RDBP	RDBP	RD RNA binding protein	3874	0.12935909628868103	0.009073822	No	
+row_19	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	0.012825546	No	
+row_20	CDH11	CDH11	cadherin 11, type 2, OB-cadherin (osteoblast)	4111	0.11005669832229614	-0.0015093625	No	
+row_21	ABAT	ABAT	4-aminobutyrate aminotransferase	4247	0.0984756201505661	-0.009362013	No	
+row_22	COL6A1	COL6A1	collagen, type VI, alpha 1	4559	0.07214480638504028	-0.034724537	No	
+row_23	RPA3	RPA3	replication protein A3, 14kDa	5331	0.011692625470459461	-0.10545821	No	
+row_24	FANCL	FANCL	Fanconi anemia, complementation group L	5727	-0.01777046173810959	-0.14114287	No	
+row_25	HEXDC	HEXDC	hexosaminidase (glycosyl hydrolase family 20, catalytic domain) containing	5771	-0.022211428731679916	-0.14407443	No	
+row_26	FSTL1	FSTL1	follistatin-like 1	5861	-0.030682025477290154	-0.15086076	No	
+row_27	CA2	CA2	carbonic anhydrase II	5984	-0.041115280240774155	-0.16020772	No	
+row_28	TAGLN	TAGLN	transgelin	6429	-0.07748851925134659	-0.19761565	No	
+row_29	SNCG	SNCG	synuclein, gamma (breast cancer-specific protein 1)	6525	-0.08498339354991913	-0.20240429	No	
+row_30	EDN2	EDN2	endothelin 2	6548	-0.08702726662158966	-0.20034759	No	
+row_31	INCENP	INCENP	inner centromere protein antigens 135/155kDa	6584	-0.09114602953195572	-0.1992992	No	
+row_32	KCNA1	KCNA1	potassium voltage-gated channel, shaker-related subfamily, member 1 (episodic ataxia with myokymia)	6636	-0.09523818641901016	-0.19953775	No	
+row_33	SYCE2	SYCE2	synaptonemal complex central element protein 2	6682	-0.0986807569861412	-0.19905975	No	
+row_34	RBPMS2	RBPMS2	RNA binding protein with multiple splicing 2	7075	-0.1319730579853058	-0.22909895	No	
+row_35	ASF1B	ASF1B	ASF1 anti-silencing function 1 homolog B (S. cerevisiae)	7264	-0.14914384484291077	-0.23947008	No	
+row_36	POLE	POLE	polymerase (DNA directed), epsilon	7558	-0.17363658547401428	-0.2583978	No	
+row_37	CENPK	CENPK	centromere protein K	7726	-0.19050371646881104	-0.26488322	No	
+row_38	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	7765	-0.19411583244800568	-0.2592721	No	
+row_39	SI	SI	sucrase-isomaltase (alpha-glucosidase)	7836	-0.2005743831396103	-0.25631598	No	
+row_40	E2F8	E2F8	E2F transcription factor 8	7969	-0.2119826078414917	-0.25855583	No	
+row_41	SRPX2	SRPX2	sushi-repeat-containing protein, X-linked 2	8021	-0.21649916470050812	-0.2530945	No	
+row_42	WDR90	WDR90	WD repeat domain 90	8328	-0.24878953397274017	-0.26969156	Yes	
+row_43	COL6A2	COL6A2	collagen, type VI, alpha 2	8435	-0.2620890736579895	-0.2671723	Yes	
+row_44	SLIT3	SLIT3	slit homolog 3 (Drosophila)	8523	-0.27048778533935547	-0.26250166	Yes	
+row_45	CCNE2	CCNE2	cyclin E2	8596	-0.27950018644332886	-0.25602052	Yes	
+row_46	HMGN2	HMGN2	high-mobility group nucleosomal binding domain 2	8708	-0.294057697057724	-0.25246087	Yes	
+row_47	EFS	EFS	embryonal Fyn-associated substrate	8779	-0.3017222583293915	-0.24475028	Yes	
+row_48	RRM2	RRM2	ribonucleotide reductase M2 polypeptide	8925	-0.3188234865665436	-0.24317001	Yes	
+row_49	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.2291385	Yes	
+row_50	FANCA	FANCA	Fanconi anemia, complementation group A	8972	-0.3252541720867157	-0.21699336	Yes	
+row_51	BGN	BGN	biglycan	9046	-0.33342134952545166	-0.20807011	Yes	
+row_52	LIG1	LIG1	ligase I, DNA, ATP-dependent	9115	-0.34198853373527527	-0.19828188	Yes	
+row_53	RPL39L	RPL39L	ribosomal protein L39-like	9181	-0.34915927052497864	-0.18787923	Yes	
+row_54	MRGPRF	MRGPRF	MAS-related GPR, member F	9240	-0.35630738735198975	-0.17649339	Yes	
+row_55	CCNE1	CCNE1	cyclin E1	9288	-0.3596876561641693	-0.16393165	Yes	
+row_56	COL1A2	COL1A2	collagen, type I, alpha 2	9299	-0.3605695366859436	-0.14790758	Yes	
+row_57	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.16480818	Yes	
+row_58	COL5A1	COL5A1	collagen, type V, alpha 1	9759	-0.430505633354187	-0.15021202	Yes	
+row_59	KIF4A	KIF4A	kinesin family member 4A	9846	-0.44815680384635925	-0.13709754	Yes	
+row_60	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10079	-0.4891257584095001	-0.13555583	Yes	
+row_61	SPIRE2	SPIRE2	spire homolog 2 (Drosophila)	10107	-0.49439314007759094	-0.11481313	Yes	
+row_62	GINS4	GINS4	GINS complex subunit 4 (Sld5 homolog)	10368	-0.5607828497886658	-0.11249192	Yes	
+row_63	GTSE1	GTSE1	G-2 and S-phase expressed 1	10386	-0.5656414031982422	-0.08747563	Yes	
+row_64	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	10473	-0.5902814269065857	-0.06768057	Yes	
+row_65	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.044590775	Yes	
+row_66	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	-0.031610418	Yes	
+row_67	DYNLT1	DYNLT1	dynein, light chain, Tctex-type 1	10827	-0.8455749154090881	0.005177349	Yes	

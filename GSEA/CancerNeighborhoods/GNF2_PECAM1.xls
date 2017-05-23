@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAFB	MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)	393	0.6609540581703186	0.045497324	Yes	
+row_1	MFSD1	MFSD1	major facilitator superfamily domain containing 1	554	0.6070277690887451	0.105790064	Yes	
+row_2	S100A4	S100A4	S100 calcium binding protein A4	871	0.5162599682807922	0.14049512	Yes	
+row_3	LILRA6	LILRA6	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 6	1008	0.4901025593280792	0.18854624	Yes	
+row_4	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1183	0.4526088535785675	0.22846302	Yes	
+row_5	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.27547845	Yes	
+row_6	CTSS	CTSS	cathepsin S	1506	0.3941039443016052	0.30162436	Yes	
+row_7	IFNGR1	IFNGR1	interferon gamma receptor 1	1550	0.3873807489871979	0.34554476	Yes	
+row_8	AIF1	AIF1	allograft inflammatory factor 1	1618	0.37762677669525146	0.386049	Yes	
+row_9	CD93	CD93	CD93 molecule	1664	0.3711540997028351	0.4277796	Yes	
+row_10	IGSF6	IGSF6	immunoglobulin superfamily, member 6	1741	0.3573460876941681	0.46494812	Yes	
+row_11	TBXAS1	TBXAS1	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)	1776	0.35147902369499207	0.50526	Yes	
+row_12	HCK	HCK	hemopoietic cell kinase	1901	0.33418676257133484	0.53514487	Yes	
+row_13	CLEC4A	CLEC4A	C-type lectin domain family 4, member A	2096	0.31483158469200134	0.55619	Yes	
+row_14	LILRA2	LILRA2	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 2	2449	0.2753489911556244	0.5578022	Yes	
+row_15	MS4A6A	MS4A6A	membrane-spanning 4-domains, subfamily A, member 6A	2749	0.2390880286693573	0.5598141	Yes	
+row_16	LILRB2	LILRB2	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 2	2762	0.23737624287605286	0.58804893	Yes	
+row_17	NCF2	NCF2	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)	3066	0.20484659075737	0.5854601	No	
+row_18	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	4619	0.066714346408844	0.45075688	No	
+row_19	LILRA1	LILRA1	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 1	4932	0.041040629148483276	0.42709237	No	
+row_20	LST1	LST1	leukocyte specific transcript 1	5090	0.030134279280900955	0.4163563	No	
+row_21	TMEM127	TMEM127	transmembrane protein 127	5612	-0.00914919376373291	0.36949968	No	
+row_22	CFP	CFP	complement factor properdin	6440	-0.07789922505617142	0.3029561	No	
+row_23	RNF130	RNF130	ring finger protein 130	6490	-0.08215498179197311	0.30859742	No	
+row_24	CECR1	CECR1	cat eye syndrome chromosome region, candidate 1	6845	-0.1136077344417572	0.29003385	No	
+row_25	AP1S2	AP1S2	adaptor-related protein complex 1, sigma 2 subunit	6996	-0.12589934468269348	0.29177928	No	
+row_26	CMTM6	CMTM6	CKLF-like MARVEL transmembrane domain containing 6	10271	-0.5351582169532776	0.05636923	No	

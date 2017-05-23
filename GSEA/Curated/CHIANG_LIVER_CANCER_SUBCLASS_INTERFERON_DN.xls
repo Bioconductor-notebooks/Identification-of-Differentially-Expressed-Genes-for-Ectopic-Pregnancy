@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADM	ADM	adrenomedullin	140	0.8118693828582764	0.07229465	No	
+row_1	USP54	USP54	ubiquitin specific peptidase 54	1103	0.4702751934528351	0.0330492	No	
+row_2	SLC6A8	SLC6A8	solute carrier family 6 (neurotransmitter transporter, creatine), member 8	1307	0.4282490313053131	0.05929	No	
+row_3	SLC16A10	SLC16A10	solute carrier family 16, member 10 (aromatic amino acid transporter)	2399	0.2800363600254059	-0.011796228	No	
+row_4	GRB10	GRB10	growth factor receptor-bound protein 10	3335	0.1791856288909912	-0.07909848	No	
+row_5	ONECUT2	ONECUT2	one cut domain, family member 2	3357	0.17742080986499786	-0.062416088	No	
+row_6	ASPSCR1	ASPSCR1	alveolar soft part sarcoma chromosome region, candidate 1	3376	0.17526566982269287	-0.045683563	No	
+row_7	NEK3	NEK3	NIMA (never in mitosis gene a)-related kinase 3	3658	0.14951162040233612	-0.05587288	No	
+row_8	HSDL2	HSDL2	hydroxysteroid dehydrogenase like 2	4289	0.09547989070415497	-0.10387083	No	
+row_9	IGF2	IGF2	insulin-like growth factor 2 (somatomedin A)	4737	0.05732639506459236	-0.13901974	No	
+row_10	SLC16A11	SLC16A11	solute carrier family 16, member 11 (monocarboxylic acid transporter 11)	5295	0.014353967271745205	-0.18880749	No	
+row_11	DAAM1	DAAM1	dishevelled associated activator of morphogenesis 1	5916	-0.03526424244046211	-0.2422028	No	
+row_12	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	7357	-0.15762832760810852	-0.3582722	No	
+row_13	AMACR	AMACR	alpha-methylacyl-CoA racemase	7482	-0.16772422194480896	-0.35209247	No	
+row_14	FLJ22763	FLJ22763	-	9025	-0.33130043745040894	-0.45933205	Yes	
+row_15	GABPB2	GABPB2	GA binding protein transcription factor, beta subunit 2	9382	-0.37175828218460083	-0.45310837	Yes	
+row_16	NR2F1	NR2F1	nuclear receptor subfamily 2, group F, member 1	9602	-0.40666237473487854	-0.43060604	Yes	
+row_17	ESM1	ESM1	endothelial cell-specific molecule 1	9726	-0.4251060485839844	-0.39732784	Yes	
+row_18	LGR5	LGR5	leucine-rich repeat-containing G protein-coupled receptor 5	10392	-0.5673525929450989	-0.39903668	Yes	
+row_19	ZNF703	ZNF703	zinc finger protein 703	10445	-0.5835409760475159	-0.342596	Yes	
+row_20	CRLS1	CRLS1	cardiolipin synthase 1	10488	-0.5956916213035583	-0.2839595	Yes	
+row_21	BTNL9	BTNL9	butyrophilin-like 9	10490	-0.5961909890174866	-0.22149494	Yes	
+row_22	TRPM7	TRPM7	transient receptor potential cation channel, subfamily M, member 7	10515	-0.6023604273796082	-0.16050111	Yes	
+row_23	TNFRSF19	TNFRSF19	tumor necrosis factor receptor superfamily, member 19	10846	-0.8819776177406311	-0.0983472	Yes	
+row_24	CDC14B	CDC14B	CDC14 cell division cycle 14 homolog B (S. cerevisiae)	10867	-0.9688862562179565	0.0014735223	Yes	

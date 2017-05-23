@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ULK4	ULK4	unc-51-like kinase 4 (C. elegans)	54	0.9229074120521545	0.08802744	No	
+row_1	PARP3	PARP3	poly (ADP-ribose) polymerase family, member 3	386	0.664559543132782	0.12450772	No	
+row_2	EIF1B	EIF1B	eukaryotic translation initiation factor 1B	421	0.6493550539016724	0.18681146	No	
+row_3	CRTAP	CRTAP	cartilage associated protein	1314	0.42638036608695984	0.14761876	No	
+row_4	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	2218	0.3014027774333954	0.0948189	No	
+row_5	ZBTB47	ZBTB47	zinc finger and BTB domain containing 47	2384	0.2818358540534973	0.10802187	No	
+row_6	MLH1	MLH1	mutL homolog 1, colon cancer, nonpolyposis type 2 (E. coli)	2608	0.25565528869628906	0.11324445	No	
+row_7	OXSR1	OXSR1	oxidative-stress responsive 1	2958	0.21579371392726898	0.10284478	No	
+row_8	CYP8B1	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	3723	0.14317220449447632	0.046902865	No	
+row_9	GORASP1	GORASP1	golgi reassembly stacking protein 1, 65kDa	4550	0.0724969357252121	-0.021871584	No	
+row_10	UBP1	UBP1	upstream binding protein 1 (LBP-1a)	5542	-0.004043276887387037	-0.112741664	No	
+row_11	CCR8	CCR8	chemokine (C-C motif) receptor 8	6015	-0.04405992105603218	-0.15177602	No	
+row_12	PFKFB4	PFKFB4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4	6132	-0.05433671548962593	-0.15698487	No	
+row_13	ACVR2B	ACVR2B	activin A receptor, type IIB	7640	-0.1819174736738205	-0.27745754	No	
+row_14	TGM4	TGM4	transglutaminase 4 (prostate)	8133	-0.22851799428462982	-0.29974622	No	
+row_15	ANGPTL3	ANGPTL3	angiopoietin-like 3	8321	-0.2479313462972641	-0.29198614	No	
+row_16	ZNF662	ZNF662	zinc finger protein 662	8845	-0.30880215764045715	-0.3090399	No	
+row_17	SLC4A7	SLC4A7	solute carrier family 4, sodium bicarbonate cotransporter, member 7	9163	-0.34695956110954285	-0.3032746	No	
+row_18	TRAK1	TRAK1	trafficking protein, kinesin binding 1	9795	-0.4376591145992279	-0.317291	Yes	
+row_19	OSBPL10	OSBPL10	oxysterol binding protein-like 10	9924	-0.4590456485748291	-0.28282267	Yes	
+row_20	CMTM7	CMTM7	CKLF-like MARVEL transmembrane domain containing 7	10031	-0.47884857654571533	-0.24433249	Yes	
+row_21	XYLB	XYLB	xylulokinase homolog (H. influenzae)	10078	-0.4888429641723633	-0.19930878	Yes	
+row_22	EPM2AIP1	EPM2AIP1	EPM2A (laforin) interacting protein 1	10091	-0.4919567406177521	-0.15083967	Yes	
+row_23	SNRK	SNRK	SNF related kinase	10197	-0.5179421305656433	-0.108317934	Yes	
+row_24	CMTM6	CMTM6	CKLF-like MARVEL transmembrane domain containing 6	10271	-0.5351582169532776	-0.061113928	Yes	
+row_25	TTC21A	TTC21A	tetratricopeptide repeat domain 21A	10378	-0.5635941624641418	-0.014083944	Yes	
+row_26	LRRFIP2	LRRFIP2	leucine rich repeat (in FLII) interacting protein 2	10507	-0.6004341840744019	0.034632057	Yes	

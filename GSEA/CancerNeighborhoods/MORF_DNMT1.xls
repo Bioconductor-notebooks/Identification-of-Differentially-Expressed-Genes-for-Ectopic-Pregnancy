@@ -1,0 +1,59 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLPP	CLPP	ClpP caseinolytic peptidase, ATP-dependent, proteolytic subunit homolog (E. coli)	1805	0.34656572341918945	-0.14908116	No	
+row_1	ESD	ESD	esterase D/formylglutathione hydrolase	2260	0.2967883050441742	-0.17590483	No	
+row_2	CCT5	CCT5	chaperonin containing TCP1, subunit 5 (epsilon)	2297	0.29237592220306396	-0.1643424	No	
+row_3	TREX2	TREX2	three prime repair exonuclease 2	2532	0.2644258439540863	-0.1724925	No	
+row_4	GTF2A2	GTF2A2	general transcription factor IIA, 2, 12kDa	3458	0.1674680858850479	-0.2494075	No	
+row_5	ESPL1	ESPL1	extra spindle poles like 1 (S. cerevisiae)	3634	0.1515258103609085	-0.2578566	No	
+row_6	PPIE	PPIE	peptidylprolyl isomerase E (cyclophilin E)	3816	0.13486802577972412	-0.26770818	No	
+row_7	EBNA1BP2	EBNA1BP2	EBNA1 binding protein 2	4314	0.0925341472029686	-0.30890435	No	
+row_8	GARS	GARS	glycyl-tRNA synthetase	4417	0.08315463364124298	-0.3140919	No	
+row_9	KHSRP	KHSRP	KH-type splicing regulatory protein (FUSE binding protein 2)	4447	0.08061003684997559	-0.31266597	No	
+row_10	VDAC3	VDAC3	voltage-dependent anion channel 3	4451	0.08029729872941971	-0.30885434	No	
+row_11	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	5033	0.03432447090744972	-0.36077365	No	
+row_12	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	5184	0.023122919723391533	-0.37345177	No	
+row_13	VDAC2	VDAC2	voltage-dependent anion channel 2	5794	-0.024561291560530663	-0.42845458	No	
+row_14	TARS	TARS	threonyl-tRNA synthetase	5920	-0.03556858375668526	-0.4381897	No	
+row_15	WHSC1	WHSC1	Wolf-Hirschhorn syndrome candidate 1	6408	-0.0760808065533638	-0.47929996	No	
+row_16	SMC3	SMC3	structural maintenance of chromosomes 3	6654	-0.09657962620258331	-0.49701285	No	
+row_17	TCEA1	TCEA1	transcription elongation factor A (SII), 1	6788	-0.10891035199165344	-0.5037524	No	
+row_18	FH	FH	fumarate hydratase	7219	-0.14350272715091705	-0.53616446	No	
+row_19	PDIA6	PDIA6	protein disulfide isomerase family A, member 6	7274	-0.1497727483510971	-0.533526	No	
+row_20	DNAJC11	DNAJC11	DnaJ (Hsp40) homolog, subfamily C, member 11	7312	-0.1527584046125412	-0.52916527	No	
+row_21	DKC1	DKC1	dyskeratosis congenita 1, dyskerin	7431	-0.1626778393983841	-0.53178144	No	
+row_22	DNMT1	DNMT1	DNA (cytosine-5-)-methyltransferase 1	7560	-0.1738724261522293	-0.53475124	No	
+row_23	RAD54L	RAD54L	RAD54-like (S. cerevisiae)	7587	-0.1768946796655655	-0.52814543	No	
+row_24	TCP1	TCP1	t-complex 1	7649	-0.1830902397632599	-0.5244571	No	
+row_25	XPO7	XPO7	exportin 7	7738	-0.19173051416873932	-0.5228228	No	
+row_26	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	7765	-0.19411583244800568	-0.51534003	No	
+row_27	HDDC2	HDDC2	HD domain containing 2	7789	-0.19635240733623505	-0.5074663	No	
+row_28	ATP5O	ATP5O	ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit (oligomycin sensitivity conferring protein)	8212	-0.23695097863674164	-0.53438103	No	
+row_29	TXNL4A	TXNL4A	thioredoxin-like 4A	8357	-0.2522036135196686	-0.53484017	No	
+row_30	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.5720207	No	
+row_31	ATP5G3	ATP5G3	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C3 (subunit 9)	8989	-0.32681161165237427	-0.5600904	No	
+row_32	NUDC	NUDC	nuclear distribution gene C homolog (A. nidulans)	9409	-0.375210165977478	-0.57968783	Yes	
+row_33	TYMS	TYMS	thymidylate synthetase	9474	-0.38597366213798523	-0.5659458	Yes	
+row_34	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	9553	-0.3993682563304901	-0.5528149	Yes	
+row_35	DUT	DUT	dUTP pyrophosphatase	9701	-0.42160773277282715	-0.54492515	Yes	
+row_36	SPAG5	SPAG5	sperm associated antigen 5	9715	-0.4243207275867462	-0.5245196	Yes	
+row_37	SSBP1	SSBP1	single-stranded DNA binding protein 1	9983	-0.4691582918167114	-0.525293	Yes	
+row_38	PRKDC	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	9989	-0.4702838063240051	-0.50180805	Yes	
+row_39	CS	CS	citrate synthase	9995	-0.4717693328857422	-0.47824746	Yes	
+row_40	AFG3L2	AFG3L2	AFG3 ATPase family gene 3-like 2 (yeast)	9999	-0.4725126028060913	-0.4544643	Yes	
+row_41	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.43083078	Yes	
+row_42	UPF3A	UPF3A	UPF3 regulator of nonsense transcripts homolog A (yeast)	10029	-0.4785469174385071	-0.40858775	Yes	
+row_43	CBFB	CBFB	core-binding factor, beta subunit	10189	-0.5156906843185425	-0.39701572	Yes	
+row_44	NASP	NASP	nuclear autoantigenic sperm protein (histone-binding)	10217	-0.5220777988433838	-0.37292558	Yes	
+row_45	FUS	FUS	fusion (involved in t(12;16) in malignant liposarcoma)	10281	-0.5379582643508911	-0.35135216	Yes	
+row_46	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.32412562	Yes	
+row_47	SKIV2L2	SKIV2L2	superkiller viralicidic activity 2-like 2 (S. cerevisiae)	10294	-0.542285144329071	-0.29734385	Yes	
+row_48	LSM2	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10420	-0.5757595300674438	-0.27957252	Yes	
+row_49	LMNB2	LMNB2	lamin B2	10432	-0.5790160298347473	-0.2511052	Yes	
+row_50	TRRAP	TRRAP	transformation/transcription domain-associated protein	10567	-0.6244063377380371	-0.23168811	Yes	
+row_51	HADH	HADH	hydroxyacyl-Coenzyme A dehydrogenase	10628	-0.653465747833252	-0.20395593	Yes	
+row_52	YARS	YARS	tyrosyl-tRNA synthetase	10630	-0.654425859451294	-0.17072502	Yes	
+row_53	BAZ1B	BAZ1B	bromodomain adjacent to zinc finger domain, 1B	10636	-0.6569410562515259	-0.13773552	Yes	
+row_54	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	-0.1063443	Yes	
+row_55	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	-0.07721925	Yes	
+row_56	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	-0.03953457	Yes	
+row_57	R3HDM1	R3HDM1	R3H domain containing 1	10861	-0.9360464215278625	0.002032353	Yes	

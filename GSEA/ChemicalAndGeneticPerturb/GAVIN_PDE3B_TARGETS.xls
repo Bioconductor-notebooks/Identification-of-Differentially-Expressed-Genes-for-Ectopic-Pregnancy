@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.16479683	Yes	
+row_1	TFPI	TFPI	tissue factor pathway inhibitor (lipoprotein-associated coagulation inhibitor)	64	0.9073187112808228	0.29187617	Yes	
+row_2	F13A1	F13A1	coagulation factor XIII, A1 polypeptide	346	0.6806878447532654	0.36508134	Yes	
+row_3	NT5E	NT5E	5'-nucleotidase, ecto (CD73)	412	0.6516246795654297	0.45393527	Yes	
+row_4	SYTL2	SYTL2	synaptotagmin-like 2	930	0.5042561292648315	0.47974387	Yes	
+row_5	IL10	IL10	interleukin 10	1246	0.44008180499076843	0.5148028	Yes	
+row_6	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	1311	0.4271478056907654	0.5710789	Yes	
+row_7	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	1318	0.4259844720363617	0.6325235	Yes	
+row_8	NCF4	NCF4	neutrophil cytosolic factor 4, 40kDa	1625	0.3759497404098511	0.65907705	Yes	
+row_9	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	1660	0.3716253340244293	0.7100335	Yes	
+row_10	EBI3	EBI3	Epstein-Barr virus induced gene 3	1939	0.3296132981777191	0.7324202	Yes	
+row_11	SYPL1	SYPL1	synaptophysin-like 1	3373	0.17549143731594086	0.6260816	No	
+row_12	HMOX2	HMOX2	heme oxygenase (decycling) 2	3600	0.15409421920776367	0.62770927	No	
+row_13	SYT11	SYT11	synaptotagmin XI	4353	0.08927390724420547	0.5714953	No	
+row_14	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	4619	0.066714346408844	0.5568167	No	
+row_15	ENTPD1	ENTPD1	ectonucleoside triphosphate diphosphohydrolase 1	4814	0.05083141475915909	0.54636073	No	
+row_16	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.54873806	No	
+row_17	CTLA4	CTLA4	cytotoxic T-lymphocyte-associated protein 4	5016	0.03567246347665787	0.53994113	No	

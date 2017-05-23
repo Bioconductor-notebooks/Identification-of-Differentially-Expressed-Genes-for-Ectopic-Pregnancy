@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TRIM14	TRIM14	tripartite motif-containing 14	586	0.5956341028213501	0.046790395	Yes	
+row_1	MTSS1	MTSS1	metastasis suppressor 1	682	0.5635286569595337	0.1333309	Yes	
+row_2	MOSPD1	MOSPD1	motile sperm domain containing 1	719	0.5516448616981506	0.22329086	Yes	
+row_3	KPNA4	KPNA4	karyopherin alpha 4 (importin alpha 3)	1271	0.43453335762023926	0.24606271	Yes	
+row_4	BTBD3	BTBD3	BTB (POZ) domain containing 3	1586	0.3829445540904999	0.28191903	Yes	
+row_5	KCNAB1	KCNAB1	potassium voltage-gated channel, shaker-related subfamily, beta member 1	1862	0.33884719014167786	0.3139079	Yes	
+row_6	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	2766	0.23700666427612305	0.27089313	No	
+row_7	PPP2R5C	PPP2R5C	protein phosphatase 2, regulatory subunit B (B56), gamma isoform	3364	0.17652370035648346	0.24580796	No	
+row_8	ARHGEF2	ARHGEF2	rho/rac guanine nucleotide exchange factor (GEF) 2	4153	0.10668116807937622	0.19133922	No	
+row_9	RBM33	RBM33	RNA binding motif protein 33	5529	-0.003486763220280409	0.065410554	No	
+row_10	NCOA3	NCOA3	nuclear receptor coactivator 3	6305	-0.06805751472711563	0.0056074886	No	
+row_11	SLITRK1	SLITRK1	SLIT and NTRK-like family, member 1	7951	-0.2108280509710312	-0.11010738	No	
+row_12	GZF1	GZF1	GDNF-inducible zinc finger protein 1	8345	-0.2510577142238617	-0.1038196	No	
+row_13	FAM98A	FAM98A	family with sequence similarity 98, member A	9465	-0.38393887877464294	-0.14186582	No	
+row_14	ACTR2	ACTR2	ARP2 actin-related protein 2 homolog (yeast)	10737	-0.7265403270721436	-0.1359708	No	
+row_15	SRPK2	SRPK2	SFRS protein kinase 2	10847	-0.8830863237380981	0.0033125049	No	

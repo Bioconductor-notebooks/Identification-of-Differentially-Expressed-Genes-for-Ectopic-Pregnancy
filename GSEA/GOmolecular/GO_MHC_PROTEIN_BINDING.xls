@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MARCH1	MARCH1	membrane-associated ring finger (C3HC4) 1	541	0.6112520098686218	0.047822997	Yes	
+row_1	DERL1	DERL1	Der1-like domain family, member 1	576	0.5979816913604736	0.14019455	Yes	
+row_2	TAP2	TAP2	transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)	615	0.5888063907623291	0.23073255	Yes	
+row_3	PILRA	PILRA	paired immunoglobin-like type 2 receptor alpha	887	0.5136489272117615	0.2878205	Yes	
+row_4	LILRB1	LILRB1	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 1	1001	0.4909232258796692	0.35582244	Yes	
+row_5	CD244	CD244	CD244 molecule, natural killer cell receptor 2B4	1290	0.43020057678222656	0.39801842	Yes	
+row_6	KLRD1	KLRD1	killer cell lectin-like receptor subfamily D, member 1	1554	0.38663357496261597	0.43555763	Yes	
+row_7	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	2199	0.30352675914764404	0.4247543	Yes	
+row_8	LAG3	LAG3	lymphocyte-activation gene 3	2392	0.28076326847076416	0.45192075	Yes	
+row_9	LILRB2	LILRB2	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 2	2762	0.23737624287605286	0.45586574	Yes	
+row_10	ATP5A1	ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	2811	0.2319898009300232	0.48849759	Yes	
+row_11	CD4	CD4	CD4 molecule	4931	0.04107549786567688	0.3000097	No	
+row_12	CLEC7A	CLEC7A	C-type lectin domain family 7, member A	5868	-0.030917491763830185	0.2187913	No	
+row_13	KRT17	KRT17	keratin 17	5976	-0.040131982415914536	0.21535157	No	
+row_14	CD8B	CD8B	CD8b molecule	6208	-0.06060751900076866	0.20376806	No	
+row_15	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.18958916	No	
+row_16	TAPBP	TAPBP	TAP binding protein (tapasin)	6739	-0.10429192334413528	0.18507434	No	
+row_17	ATP5B	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	8859	-0.31066930294036865	0.039642166	No	
+row_18	TUBB	TUBB	tubulin, beta	9578	-0.4032236635684967	0.037949488	No	
+row_19	VCP	VCP	valosin-containing protein	10178	-0.5139451026916504	0.06489327	No	

@@ -1,0 +1,41 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OXT	OXT	oxytocin, prepro- (neurophysin I)	125	0.8241628408432007	0.06372011	Yes	
+row_1	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	156	0.7956458926200867	0.13359718	Yes	
+row_2	SIGLEC1	SIGLEC1	sialic acid binding Ig-like lectin 1, sialoadhesin	159	0.7952516078948975	0.20602033	Yes	
+row_3	SMOX	SMOX	spermine oxidase	204	0.7624666690826416	0.27157706	Yes	
+row_4	SNPH	SNPH	syntaphilin	431	0.6465066075325012	0.30976298	Yes	
+row_5	NRSN2	NRSN2	neurensin 2	543	0.6111763119697571	0.35532817	Yes	
+row_6	CPXM1	CPXM1	carboxypeptidase X (M14 family), member 1	884	0.51385498046875	0.3708901	Yes	
+row_7	PRNT	PRNT	prion protein (testis specific)	1248	0.4399864077568054	0.37758675	Yes	
+row_8	FKBP1A	FKBP1A	FK506 binding protein 1A, 12kDa	1303	0.42850154638290405	0.4117298	Yes	
+row_9	HSPA12B	HSPA12B	heat shock 70kD protein 12B	2282	0.29442209005355835	0.34842286	No	
+row_10	SLC24A3	SLC24A3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 3	2813	0.23174667358398438	0.3207067	No	
+row_11	SIRPA	SIRPA	signal-regulatory protein alpha	2902	0.22191600501537323	0.33285284	No	
+row_12	TGM6	TGM6	transglutaminase 6	2961	0.21527354419231415	0.34715906	No	
+row_13	ZNF343	ZNF343	zinc finger protein 343	3196	0.1924680769443512	0.3431529	No	
+row_14	SIRPD	SIRPD	signal-regulatory protein delta	3683	0.14731068909168243	0.31178516	No	
+row_15	RBCK1	RBCK1	RanBP-type and C3HC4-type zinc finger containing 1	4258	0.09758798032999039	0.26776257	No	
+row_16	UBOX5	UBOX5	U-box domain containing 5	4423	0.08249633014202118	0.26017106	No	
+row_17	AVP	AVP	arginine vasopressin (neurophysin II, antidiuretic hormone, diabetes insipidus, neurohypophyseal)	4593	0.06902964413166046	0.25088888	No	
+row_18	SNRPB	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	4711	0.05949946492910385	0.2455319	No	
+row_19	DEFB127	DEFB127	defensin, beta 127	4835	0.04878350719809532	0.23864323	No	
+row_20	SOX12	SOX12	SRY (sex determining region Y)-box 12	4905	0.04302087053656578	0.23620813	No	
+row_21	ADAM33	ADAM33	ADAM metallopeptidase domain 33	5275	0.016134733334183693	0.20365322	No	
+row_22	DEFB129	DEFB129	defensin, beta 129	5398	0.006592647638171911	0.19300467	No	
+row_23	ADRA1D	ADRA1D	adrenergic, alpha-1D-, receptor	5645	-0.01181776449084282	0.1713983	No	
+row_24	SLC23A2	SLC23A2	solute carrier family 23 (nucleobase transporters), member 2	5723	-0.017363453283905983	0.1658829	No	
+row_25	RSPO4	RSPO4	R-spondin family, member 4	5914	-0.03484203666448593	0.15154283	No	
+row_26	TRIB3	TRIB3	tribbles homolog 3 (Drosophila)	6049	-0.04689016938209534	0.14346689	No	
+row_27	PDYN	PDYN	prodynorphin	6241	-0.06251025199890137	0.13156074	No	
+row_28	IDH3B	IDH3B	isocitrate dehydrogenase 3 (NAD+) beta	6515	-0.08400867879390717	0.11405564	No	
+row_29	GNRH2	GNRH2	gonadotropin-releasing hormone 2	6582	-0.09090191125869751	0.1162688	No	
+row_30	SDCBP2	SDCBP2	syndecan binding protein (syntenin) 2	7342	-0.15589052438735962	0.0605092	No	
+row_31	SIRPB1	SIRPB1	signal-regulatory protein beta 1	7539	-0.1724943220615387	0.058183663	No	
+row_32	TCF15	TCF15	transcription factor 15 (basic helix-loop-helix)	7655	-0.18346372246742249	0.064329214	No	
+row_33	DEFB126	DEFB126	defensin, beta 126	8023	-0.2166355401277542	0.050264742	No	
+row_34	PANK2	PANK2	pantothenate kinase 2 (Hallervorden-Spatz syndrome)	8232	-0.23886500298976898	0.052892335	No	
+row_35	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	0.04417419	No	
+row_36	PTPRA	PTPRA	protein tyrosine phosphatase, receptor type, A	8976	-0.32544106245040894	0.039767165	No	
+row_37	NSFL1C	NSFL1C	NSFL1 (p97) cofactor (p47)	9592	-0.40562281012535095	0.020087706	No	
+row_38	CDS2	CDS2	CDP-diacylglycerol synthase (phosphatidate cytidylyltransferase) 2	10069	-0.48621898889541626	0.02058494	No	
+row_39	CRLS1	CRLS1	cardiolipin synthase 1	10488	-0.5956916213035583	0.036425754	No	

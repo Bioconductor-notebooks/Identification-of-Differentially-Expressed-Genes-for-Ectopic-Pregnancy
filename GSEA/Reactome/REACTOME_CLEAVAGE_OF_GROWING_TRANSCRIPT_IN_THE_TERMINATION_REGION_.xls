@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CSTF2	CSTF2	cleavage stimulation factor, 3' pre-RNA, subunit 2, 64kDa	2821	0.23065228760242462	-0.22161818	No	
+row_1	DHX38	DHX38	DEAH (Asp-Glu-Ala-His) box polypeptide 38	3733	0.14202316105365753	-0.28204596	No	
+row_2	LSM11	LSM11	LSM11, U7 small nuclear RNA associated	3813	0.13528895378112793	-0.26700136	No	
+row_3	PAPOLA	PAPOLA	poly(A) polymerase alpha	4083	0.11244435608386993	-0.273214	No	
+row_4	U2AF2	U2AF2	U2 small nuclear RNA auxiliary factor 2	4580	0.07034709304571152	-0.30726543	No	
+row_5	SNRPB	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	4711	0.05949946492910385	-0.30941695	No	
+row_6	CSTF1	CSTF1	cleavage stimulation factor, 3' pre-RNA, subunit 1, 50kDa	6462	-0.079666867852211	-0.45735812	No	
+row_7	RNPS1	RNPS1	RNA binding protein S1, serine-rich domain	6599	-0.09238248318433762	-0.45463777	No	
+row_8	CPSF1	CPSF1	cleavage and polyadenylation specific factor 1, 160kDa	7677	-0.18568705022335052	-0.52314293	Yes	
+row_9	PCF11	PCF11	PCF11, cleavage and polyadenylation factor subunit, homolog (S. cerevisiae)	7915	-0.20784445106983185	-0.5106735	Yes	
+row_10	NUDT21	NUDT21	nudix (nucleoside diphosphate linked moiety X)-type motif 21	8004	-0.21467837691307068	-0.48336184	Yes	
+row_11	CSTF3	CSTF3	cleavage stimulation factor, 3' pre-RNA, subunit 3, 77kDa	8381	-0.2554212808609009	-0.47583905	Yes	
+row_12	MAGOH	MAGOH	mago-nashi homolog, proliferation-associated (Drosophila)	8407	-0.2594480514526367	-0.4353435	Yes	
+row_13	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.44775793	Yes	
+row_14	NFX1	NFX1	nuclear transcription factor, X-box binding 1	9783	-0.4360537528991699	-0.43262264	Yes	
+row_15	CPSF2	CPSF2	cleavage and polyadenylation specific factor 2, 100kDa	10055	-0.48330944776535034	-0.3778441	Yes	
+row_16	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.31003302	Yes	
+row_17	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.22190207	Yes	
+row_18	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.14358987	Yes	
+row_19	NCBP1	NCBP1	nuclear cap binding protein subunit 1, 80kDa	10865	-0.9608893394470215	0.0016568974	Yes	

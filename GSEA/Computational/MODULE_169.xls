@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RGS16	RGS16	regulator of G-protein signalling 16	79	0.8776017427444458	0.050194547	Yes	
+row_1	IL15RA	IL15RA	interleukin 15 receptor, alpha	167	0.7880962491035461	0.09378798	Yes	
+row_2	DHRS9	DHRS9	dehydrogenase/reductase (SDR family) member 9	365	0.6743113398551941	0.11977688	Yes	
+row_3	XCL1	XCL1	chemokine (C motif) ligand 1	390	0.662642776966095	0.16096677	Yes	
+row_4	AGA	AGA	aspartylglucosaminidase	461	0.6376301050186157	0.19627315	Yes	
+row_5	ADA	ADA	adenosine deaminase	468	0.636820375919342	0.23743272	Yes	
+row_6	KLHL6	KLHL6	kelch-like 6 (Drosophila)	473	0.635013997554779	0.27865854	Yes	
+row_7	CREG1	CREG1	cellular repressor of E1A-stimulated genes 1	532	0.615012526512146	0.31359085	Yes	
+row_8	HIST1H1C	HIST1H1C	histone cluster 1, H1c	581	0.5971025824546814	0.34827283	Yes	
+row_9	STK17A	STK17A	serine/threonine kinase 17a (apoptosis-inducing)	784	0.5347370505332947	0.36465785	Yes	
+row_10	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1183	0.4526088535785675	0.35757542	Yes	
+row_11	CD86	CD86	CD86 molecule	1191	0.45085471868515015	0.38646153	Yes	
+row_12	MICAL2	MICAL2	microtubule associated monoxygenase, calponin and LIM domain containing 2	1291	0.4297747015953064	0.4054766	Yes	
+row_13	HLA-DOA	HLA-DOA	major histocompatibility complex, class II, DO alpha	1484	0.399245947599411	0.41390947	Yes	
+row_14	RGS13	RGS13	regulator of G-protein signalling 13	1751	0.3556775748729706	0.4126594	Yes	
+row_15	ULK1	ULK1	unc-51-like kinase 1 (C. elegans)	1867	0.3384068012237549	0.4242131	Yes	
+row_16	HCK	HCK	hemopoietic cell kinase	1901	0.33418676257133484	0.44305775	Yes	
+row_17	DAPK1	DAPK1	death-associated protein kinase 1	2366	0.283490389585495	0.41880685	No	
+row_18	ATP2C1	ATP2C1	ATPase, Ca++ transporting, type 2C, member 1	2415	0.27827954292297363	0.43260515	No	
+row_19	CACNA1A	CACNA1A	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	2724	0.2425052970647812	0.42006606	No	
+row_20	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	2766	0.23700666427612305	0.4318069	No	
+row_21	RIPK3	RIPK3	receptor-interacting serine-threonine kinase 3	3083	0.2028730809688568	0.41593352	No	
+row_22	MYBL1	MYBL1	v-myb myeloblastosis viral oncogene homolog (avian)-like 1	3647	0.15063022077083588	0.37384373	No	
+row_23	ABCC1	ABCC1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	3925	0.12500882148742676	0.35646918	No	
+row_24	TXN	TXN	thioredoxin	3978	0.12093561887741089	0.35959193	No	
+row_25	HTR3A	HTR3A	5-hydroxytryptamine (serotonin) receptor 3A	4061	0.11449417471885681	0.35952422	No	
+row_26	KCNJ5	KCNJ5	potassium inwardly-rectifying channel, subfamily J, member 5	4105	0.11032672226428986	0.36278263	No	
+row_27	RGL3	RGL3	ral guanine nucleotide dissociation stimulator-like 3	4480	0.07715800404548645	0.33332208	No	
+row_28	STAG3	STAG3	stromal antigen 3	4509	0.07559684664011002	0.33568987	No	
+row_29	ZNF16	ZNF16	zinc finger protein 16	4536	0.07367990165948868	0.33811668	No	
+row_30	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	4619	0.066714346408844	0.33491927	No	
+row_31	RGS1	RGS1	regulator of G-protein signalling 1	4957	0.03935164958238602	0.30639687	No	
+row_32	AHR	AHR	aryl hydrocarbon receptor	5108	0.028631705790758133	0.29442957	No	
+row_33	ITGA4	ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	5469	0.0010385802015662193	0.261275	No	
+row_34	SCD	SCD	stearoyl-CoA desaturase (delta-9-desaturase)	5857	-0.03030245378613472	0.22754559	No	
+row_35	TNS3	TNS3	tensin 3	6064	-0.04830264672636986	0.21169883	No	
+row_36	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	0.21293098	No	
+row_37	STIM2	STIM2	stromal interaction molecule 2	6807	-0.1107088103890419	0.15382978	No	
+row_38	USP2	USP2	ubiquitin specific peptidase 2	6917	-0.11962228268384933	0.15160626	No	
+row_39	CAMK4	CAMK4	calcium/calmodulin-dependent protein kinase IV	7092	-0.1330816149711609	0.14426585	No	
+row_40	TOX	TOX	-	7152	-0.13756227493286133	0.14783171	No	
+row_41	BMP7	BMP7	bone morphogenetic protein 7 (osteogenic protein 1)	7189	-0.1406870186328888	0.15372479	No	
+row_42	ASB13	ASB13	ankyrin repeat and SOCS box-containing 13	7595	-0.17773091793060303	0.12799118	No	
+row_43	AICDA	AICDA	activation-induced cytidine deaminase	8527	-0.27097266912460327	0.059823234	No	
+row_44	SVEP1	SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	9197	-0.351603239774704	0.021115454	No	
+row_45	ZNF608	ZNF608	zinc finger protein 608	9696	-0.42104166746139526	0.0027367906	No	
+row_46	SERPINA5	SERPINA5	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	10782	-0.7690367102622986	-0.047018632	No	
+row_47	CDK6	CDK6	cyclin-dependent kinase 6	10832	-0.8587019443511963	0.0047064796	No	

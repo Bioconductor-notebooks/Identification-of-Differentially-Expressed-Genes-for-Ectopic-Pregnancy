@@ -1,0 +1,32 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.097380064	Yes	
+row_1	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.18288286	Yes	
+row_2	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.26416492	Yes	
+row_3	IRF7	IRF7	interferon regulatory factor 7	30	0.9863246083259583	0.3416238	Yes	
+row_4	OAS3	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	92	0.8597618341445923	0.40416536	Yes	
+row_5	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	119	0.8310408592224121	0.4676548	Yes	
+row_6	SAMD9	SAMD9	sterile alpha motif domain containing 9	478	0.6333821415901184	0.4848832	Yes	
+row_7	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.53483576	Yes	
+row_8	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.5741381	Yes	
+row_9	SP110	SP110	SP110 nuclear body protein	752	0.545771598815918	0.60082173	Yes	
+row_10	TBC1D22A	TBC1D22A	TBC1 domain family, member 22A	1092	0.4718250632286072	0.6069925	Yes	
+row_11	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.6338451	Yes	
+row_12	RAB4B	RAB4B	RAB4B, member RAS oncogene family	1240	0.44132351875305176	0.66431844	Yes	
+row_13	DDX58	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	2471	0.271854966878891	0.57253844	No	
+row_14	DNAI1	DNAI1	dynein, axonemal, intermediate chain 1	3690	0.14680081605911255	0.47194982	No	
+row_15	CIRBP	CIRBP	cold inducible RNA binding protein	3833	0.13332970440387726	0.4694363	No	
+row_16	SP100	SP100	SP100 nuclear antigen	3838	0.13253740966320038	0.4795753	No	
+row_17	RBCK1	RBCK1	RanBP-type and C3HC4-type zinc finger containing 1	4258	0.09758798032999039	0.44870526	No	
+row_18	SLC40A1	SLC40A1	solute carrier family 40 (iron-regulated transporter), member 1	4396	0.08445235341787338	0.44277743	No	
+row_19	HERC6	HERC6	hect domain and RLD 6	4553	0.0723920539021492	0.43414277	No	
+row_20	LBP	LBP	lipopolysaccharide binding protein	5089	0.03014107421040535	0.38723725	No	
+row_21	RTEL1	RTEL1	regulator of telomere elongation helicase 1	5438	0.0034883737098425627	0.35544893	No	
+row_22	ZP1	ZP1	zona pellucida glycoprotein 1 (sperm receptor)	5489	-4.2792572639882565E-4	0.35087585	No	
+row_23	TMEM44	TMEM44	transmembrane protein 44	5691	-0.0143763842061162	0.33349538	No	
+row_24	KRT17	KRT17	keratin 17	5976	-0.040131982415914536	0.31050918	No	
+row_25	COX4I1	COX4I1	cytochrome c oxidase subunit IV isoform 1	6426	-0.07731466740369797	0.27526766	No	
+row_26	TAGLN	TAGLN	transgelin	6429	-0.07748851925134659	0.28122666	No	
+row_27	CD9	CD9	CD9 molecule	9302	-0.36062124371528625	0.04518951	No	
+row_28	TTC15	TTC15	tetratricopeptide repeat domain 15	9307	-0.361667662858963	0.07349403	No	
+row_29	TSC22D4	TSC22D4	TSC22 domain family, member 4	9473	-0.38521015644073486	0.088830404	No	
+row_30	CUEDC1	CUEDC1	CUE domain containing 1	10194	-0.5170958638191223	0.06348477	No	

@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TBCD	TBCD	tubulin-specific chaperone d	1538	0.3902484178543091	-0.083662406	No	
+row_1	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	-0.053855944	No	
+row_2	CLDN1	CLDN1	claudin 1	4978	0.03783503174781799	-0.3423471	No	
+row_3	ARL2	ARL2	ADP-ribosylation factor-like 2	6355	-0.07197795063257217	-0.45829588	No	
+row_4	MPP7	MPP7	membrane protein, palmitoylated 7 (MAGUK p55 subfamily member 7)	8106	-0.2262599915266037	-0.5857835	Yes	
+row_5	MARVELD3	MARVELD3	MARVEL domain containing 3	8372	-0.253905713558197	-0.5725195	Yes	
+row_6	ECT2	ECT2	epithelial cell transforming sequence 2 oncogene	8421	-0.2611542046070099	-0.53821194	Yes	
+row_7	WNT11	WNT11	wingless-type MMTV integration site family, member 11	8865	-0.31117579340934753	-0.53283566	Yes	
+row_8	RAMP2	RAMP2	receptor (calcitonin) activity modifying protein 2	9068	-0.33661389350891113	-0.5015101	Yes	
+row_9	F11R	F11R	F11 receptor	9743	-0.4273240864276886	-0.5001681	Yes	
+row_10	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.43766904	Yes	
+row_11	PARD6G	PARD6G	par-6 partitioning defective 6 homolog gamma (C. elegans)	9895	-0.45583537220954895	-0.3825916	Yes	
+row_12	CRB3	CRB3	crumbs homolog 3 (Drosophila)	10112	-0.4961272180080414	-0.32890132	Yes	
+row_13	DLG1	DLG1	discs, large homolog 1 (Drosophila)	10385	-0.5656057000160217	-0.27006185	Yes	
+row_14	PARD3	PARD3	par-3 partitioning defective 3 homolog (C. elegans)	10519	-0.6041291356086731	-0.19271898	Yes	
+row_15	STRN	STRN	striatin, calmodulin binding protein	10614	-0.6475511789321899	-0.10534854	Yes	
+row_16	PRKCI	PRKCI	protein kinase C, iota	10842	-0.8767752647399902	0.0037729084	Yes	

@@ -1,0 +1,51 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NLGN2	NLGN2	neuroligin 2	59	0.9147552847862244	0.06401329	Yes	
+row_1	TNFRSF8	TNFRSF8	tumor necrosis factor receptor superfamily, member 8	88	0.8662312030792236	0.1272034	Yes	
+row_2	MARCH1	MARCH1	membrane-associated ring finger (C3HC4) 1	541	0.6112520098686218	0.13189642	Yes	
+row_3	SELPLG	SELPLG	selectin P ligand	758	0.5432658195495605	0.1532104	Yes	
+row_4	FAM49A	FAM49A	family with sequence similarity 49, member A	934	0.5036348700523376	0.1752995	Yes	
+row_5	SIDT1	SIDT1	SID1 transmembrane family, member 1	1316	0.42618006467819214	0.17249309	Yes	
+row_6	ELMO1	ELMO1	engulfment and cell motility 1	1325	0.4249025583267212	0.20401834	Yes	
+row_7	KRIT1	KRIT1	KRIT1, ankyrin repeat containing	1359	0.41904765367507935	0.23279145	Yes	
+row_8	CITED1	CITED1	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 1	1443	0.4054718613624573	0.25591862	Yes	
+row_9	KBTBD10	KBTBD10	kelch repeat and BTB (POZ) domain containing 10	1478	0.40032652020454407	0.2831779	Yes	
+row_10	AKAP3	AKAP3	A kinase (PRKA) anchor protein 3	1639	0.3740684688091278	0.29681334	Yes	
+row_11	RWDD1	RWDD1	RWD domain containing 1	1961	0.32722026109695435	0.29203084	No	
+row_12	FAM53B	FAM53B	family with sequence similarity 53, member B	2312	0.29005733132362366	0.28174973	No	
+row_13	NDST1	NDST1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1	2600	0.25706568360328674	0.27477854	No	
+row_14	GNA13	GNA13	guanine nucleotide binding protein (G protein), alpha 13	2852	0.22743289172649384	0.26888016	No	
+row_15	ATP13A4	ATP13A4	ATPase type 13A4	2926	0.21957796812057495	0.27881506	No	
+row_16	FEZF2	FEZF2	FEZ family zinc finger 2	3176	0.193638414144516	0.2705352	No	
+row_17	SLC34A3	SLC34A3	solute carrier family 34 (sodium phosphate), member 3	3322	0.18053162097930908	0.2708595	No	
+row_18	DNM2	DNM2	dynamin 2	3915	0.12577638030052185	0.22576717	No	
+row_19	BTG2	BTG2	BTG family, member 2	3932	0.12462121993303299	0.23375306	No	
+row_20	MAX	MAX	MYC associated factor X	3942	0.12387663871049881	0.24232852	No	
+row_21	SLC44A1	SLC44A1	solute carrier family 44, member 1	4406	0.08379874378442764	0.2059557	No	
+row_22	CAMK2A	CAMK2A	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha	4571	0.0708693191409111	0.1961994	No	
+row_23	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	0.17048171	No	
+row_24	TSC22D1	TSC22D1	TSC22 domain family, member 1	5164	0.02442288212478161	0.14686082	No	
+row_25	DGKI	DGKI	diacylglycerol kinase, iota	5276	0.016133839264512062	0.13784038	No	
+row_26	ZP1	ZP1	zona pellucida glycoprotein 1 (sperm receptor)	5489	-4.2792572639882565E-4	0.11830484	No	
+row_27	MEOX2	MEOX2	mesenchyme homeobox 2	5815	-0.026590468361973763	0.09032576	No	
+row_28	NCDN	NCDN	neurochondrin	5899	-0.033442724496126175	0.08520406	No	
+row_29	HPCAL4	HPCAL4	hippocalcin like 4	6166	-0.05769656226038933	0.06503273	No	
+row_30	CDK2AP2	CDK2AP2	CDK2-associated protein 2	6175	-0.05810754746198654	0.06870653	No	
+row_31	TMEM178	TMEM178	transmembrane protein 178	6417	-0.07682869583368301	0.052295495	No	
+row_32	CAMK2D	CAMK2D	calcium/calmodulin-dependent protein kinase (CaM kinase) II delta	6443	-0.07809430360794067	0.055917792	No	
+row_33	AGER	AGER	advanced glycosylation end product-specific receptor	6589	-0.09174855798482895	0.049500644	No	
+row_34	KATNAL2	KATNAL2	katanin p60 subunit A-like 2	7201	-0.14183831214904785	0.0038741662	No	
+row_35	SEMA4B	SEMA4B	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4B	7372	-0.15831947326660156	2.0432184E-4	No	
+row_36	STX5	STX5	syntaxin 5	7403	-0.16038130223751068	0.009613318	No	
+row_37	FRMD4A	FRMD4A	FERM domain containing 4A	7652	-0.1832592934370041	6.3764513E-4	No	
+row_38	GIPR	GIPR	gastric inhibitory polypeptide receptor	7698	-0.18798664212226868	0.010758237	No	
+row_39	MPP2	MPP2	membrane protein, palmitoylated 2 (MAGUK p55 subfamily member 2)	7907	-0.20713208615779877	0.0072873505	No	
+row_40	POU4F2	POU4F2	POU domain, class 4, transcription factor 2	7917	-0.20806896686553955	0.022255704	No	
+row_41	ZNF768	ZNF768	zinc finger protein 768	8104	-0.2262135148048401	0.022264352	No	
+row_42	NDUFC1	NDUFC1	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 1, 6kDa	8590	-0.27901598811149597	-0.0013159107	No	
+row_43	TP53BP1	TP53BP1	tumor protein p53 binding protein, 1	8634	-0.28407642245292664	0.016285565	No	
+row_44	TNKS	TNKS	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase	8673	-0.2900944948196411	0.034805514	No	
+row_45	MGP	MGP	matrix Gla protein	8725	-0.29563644528388977	0.05254635	No	
+row_46	TYRO3	TYRO3	TYRO3 protein tyrosine kinase	9459	-0.3832162916660309	0.013987312	No	
+row_47	ROGDI	ROGDI	rogdi homolog (Drosophila)	9819	-0.44212520122528076	0.014422297	No	
+row_48	SPAG9	SPAG9	sperm associated antigen 9	10234	-0.5258978009223938	0.016141683	No	
+row_49	PTK7	PTK7	PTK7 protein tyrosine kinase 7	10418	-0.5751218795776367	0.04292051	No	

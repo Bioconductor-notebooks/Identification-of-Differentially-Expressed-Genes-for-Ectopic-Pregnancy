@@ -1,0 +1,65 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRNKL1	CRNKL1	Crn, crooked neck-like 1 (Drosophila)	836	0.522711992263794	-0.049998034	No	
+row_1	CDIPT	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase (phosphatidylinositol synthase)	993	0.49229180812835693	-0.0387363	No	
+row_2	EXOC5	EXOC5	exocyst complex component 5	1041	0.48084452748298645	-0.017997757	No	
+row_3	RABGEF1	RABGEF1	RAB guanine nucleotide exchange factor (GEF) 1	1079	0.47551077604293823	0.0033867771	No	
+row_4	FN3KRP	FN3KRP	-	1253	0.4377330541610718	0.010231391	No	
+row_5	DHX36	DHX36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	1254	0.4376438856124878	0.03306026	No	
+row_6	FBXO3	FBXO3	F-box protein 3	2091	0.31500744819641113	-0.027772289	No	
+row_7	MTMR3	MTMR3	myotubularin related protein 3	3349	0.17797426879405975	-0.13466235	No	
+row_8	NCAM1	NCAM1	neural cell adhesion molecule 1	3881	0.12875443696975708	-0.17702189	No	
+row_9	DYNC1I2	DYNC1I2	dynein, cytoplasmic 1, intermediate chain 2	4283	0.09596813470125198	-0.2090769	No	
+row_10	ZFAND5	ZFAND5	zinc finger, AN1-type domain 5	4382	0.08694957196712494	-0.21359864	No	
+row_11	COMMD9	COMMD9	COMM domain containing 9	4979	0.037829264998435974	-0.26670852	No	
+row_12	SETD5	SETD5	SET domain containing 5	5019	0.035491012036800385	-0.26846164	No	
+row_13	REPS1	REPS1	RALBP1 associated Eps domain containing 1	5141	0.026779890060424805	-0.2782477	No	
+row_14	PHF2	PHF2	PHD finger protein 2	5174	0.023453999310731888	-0.27998176	No	
+row_15	UBE2E3	UBE2E3	ubiquitin-conjugating enzyme E2E 3 (UBC4/5 homolog, yeast)	5753	-0.02090197242796421	-0.33231103	No	
+row_16	PPM1D	PPM1D	protein phosphatase 1D magnesium-dependent, delta isoform	5903	-0.03373078256845474	-0.34432232	No	
+row_17	BRD2	BRD2	bromodomain containing 2	5922	-0.03574179485440254	-0.34412152	No	
+row_18	SPAST	SPAST	spastin	5950	-0.03811728581786156	-0.34462857	No	
+row_19	BRPF3	BRPF3	bromodomain and PHD finger containing, 3	6075	-0.04897351190447807	-0.35353422	No	
+row_20	UBE3A	UBE3A	ubiquitin protein ligase E3A (human papilloma virus E6-associated protein, Angelman syndrome)	6144	-0.05541784688830376	-0.3569281	No	
+row_21	ZNF462	ZNF462	zinc finger protein 462	6336	-0.07007024437189102	-0.37092552	No	
+row_22	WHSC1	WHSC1	Wolf-Hirschhorn syndrome candidate 1	6408	-0.0760808065533638	-0.37351882	No	
+row_23	NUP133	NUP133	nucleoporin 133kDa	6487	-0.08183037489652634	-0.37645918	No	
+row_24	SMC3	SMC3	structural maintenance of chromosomes 3	6654	-0.09657962620258331	-0.38676324	No	
+row_25	ZNF529	ZNF529	zinc finger protein 529	6685	-0.0994117483496666	-0.38435027	No	
+row_26	DMTF1	DMTF1	cyclin D binding myb-like transcription factor 1	6973	-0.1242688000202179	-0.40439296	No	
+row_27	SPATA5L1	SPATA5L1	spermatogenesis associated 5-like 1	7095	-0.13342922925949097	-0.4086159	No	
+row_28	DCTN4	DCTN4	dynactin 4 (p62)	7368	-0.15816408395767212	-0.42550418	No	
+row_29	RPL7L1	RPL7L1	ribosomal protein L7-like 1	7395	-0.1595582365989685	-0.41958407	No	
+row_30	DHX40	DHX40	DEAH (Asp-Glu-Ala-His) box polypeptide 40	7414	-0.16126365959644318	-0.41283566	No	
+row_31	PAFAH1B2	PAFAH1B2	platelet-activating factor acetylhydrolase, isoform Ib, beta subunit 30kDa	7777	-0.19530731439590454	-0.43610436	No	
+row_32	SLC25A29	SLC25A29	solute carrier family 25, member 29	8097	-0.22507496178150177	-0.4538462	No	
+row_33	CEP170	CEP170	centrosomal protein 170kDa	8153	-0.23030884563922882	-0.44691575	No	
+row_34	PKNOX1	PKNOX1	PBX/knotted 1 homeobox 1	8639	-0.2844325602054596	-0.47690326	Yes	
+row_35	CAND1	CAND1	cullin-associated and neddylation-dissociated 1	8668	-0.288611501455307	-0.46443617	Yes	
+row_36	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	8737	-0.29685360193252563	-0.45523602	Yes	
+row_37	ZFP14	ZFP14	zinc finger protein 14 homolog (mouse)	8767	-0.2999219596385956	-0.44227138	Yes	
+row_38	NAB1	NAB1	NGFI-A binding protein 1 (EGR1 binding protein 1)	8849	-0.3097269833087921	-0.4336012	Yes	
+row_39	QSER1	QSER1	glutamine and serine rich 1	8909	-0.316447377204895	-0.42254716	Yes	
+row_40	HMG20A	HMG20A	high-mobility group 20A	8934	-0.31994837522506714	-0.40807578	Yes	
+row_41	CSDE1	CSDE1	cold shock domain containing E1, RNA-binding	9028	-0.3314405083656311	-0.399382	Yes	
+row_42	RBM4B	RBM4B	RNA binding motif protein 4B	9039	-0.3327674865722656	-0.382948	Yes	
+row_43	ARID1A	ARID1A	AT rich interactive domain 1A (SWI- like)	9176	-0.34851863980293274	-0.37733752	Yes	
+row_44	PARP6	PARP6	poly (ADP-ribose) polymerase family, member 6	9284	-0.35940757393836975	-0.3684788	Yes	
+row_45	PATZ1	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	9424	-0.3778258264064789	-0.3616168	Yes	
+row_46	PAIP1	PAIP1	poly(A) binding protein interacting protein 1	9591	-0.40552517771720886	-0.3558053	Yes	
+row_47	USP22	USP22	ubiquitin specific peptidase 22	9746	-0.42780858278274536	-0.34772235	Yes	
+row_48	PRKRA	PRKRA	protein kinase, interferon-inducible double stranded RNA dependent activator	9814	-0.44132739305496216	-0.33089358	Yes	
+row_49	VEZF1	VEZF1	vascular endothelial zinc finger 1	9859	-0.45040610432624817	-0.31146553	Yes	
+row_50	TRIM13	TRIM13	tripartite motif-containing 13	9880	-0.454005628824234	-0.2896316	Yes	
+row_51	MLL5	MLL5	myeloid/lymphoid or mixed-lineage leukemia 5 (trithorax homolog, Drosophila)	10004	-0.4731179177761078	-0.27632016	Yes	
+row_52	EPM2AIP1	EPM2AIP1	EPM2A (laforin) interacting protein 1	10091	-0.4919567406177521	-0.2586064	Yes	
+row_53	RABGAP1L	RABGAP1L	RAB GTPase activating protein 1-like	10171	-0.5129850506782532	-0.23914878	Yes	
+row_54	NCOA5	NCOA5	nuclear receptor coactivator 5	10213	-0.5210487842559814	-0.21575853	Yes	
+row_55	SPAG9	SPAG9	sperm associated antigen 9	10234	-0.5258978009223938	-0.19017449	Yes	
+row_56	ZNF84	ZNF84	zinc finger protein 84	10261	-0.5318869948387146	-0.16483256	Yes	
+row_57	LMNB1	LMNB1	lamin B1	10348	-0.5551579594612122	-0.14382203	Yes	
+row_58	SCARB2	SCARB2	scavenger receptor class B, member 2	10374	-0.5625383853912354	-0.116788805	Yes	
+row_59	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	10384	-0.5649369359016418	-0.08815172	Yes	
+row_60	TNPO1	TNPO1	transportin 1	10566	-0.624232292175293	-0.0723181	Yes	
+row_61	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.04026114	Yes	
+row_62	ZBTB5	ZBTB5	zinc finger and BTB domain containing 5	10589	-0.6363872289657593	-0.008081829	Yes	
+row_63	ZMYM2	ZMYM2	zinc finger, MYM-type 2	10675	-0.6740624904632568	0.019223554	Yes	

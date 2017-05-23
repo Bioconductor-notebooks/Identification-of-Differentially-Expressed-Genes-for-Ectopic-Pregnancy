@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.15683337	Yes	
+row_1	GATA3	GATA3	GATA binding protein 3	174	0.7816216945648193	0.24082299	Yes	
+row_2	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.31810153	Yes	
+row_3	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.37146193	Yes	
+row_4	STAT4	STAT4	signal transducer and activator of transcription 4	1095	0.47118377685546875	0.3828925	Yes	
+row_5	IL1B	IL1B	interleukin 1, beta	1178	0.4545525014400482	0.43334234	Yes	
+row_6	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.48597318	Yes	
+row_7	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	1311	0.4271478056907654	0.53255826	Yes	
+row_8	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	1318	0.4259844720363617	0.586358	Yes	
+row_9	EBI3	EBI3	Epstein-Barr virus induced gene 3	1939	0.3296132981777191	0.57134986	No	
+row_10	IL17A	IL17A	interleukin 17A	3699	0.14609235525131226	0.428094	No	
+row_11	IFNG	IFNG	interferon, gamma	3788	0.13774867355823517	0.43757015	No	
+row_12	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	3810	0.13557729125022888	0.45293584	No	
+row_13	IL12RB2	IL12RB2	interleukin 12 receptor, beta 2	4161	0.1060311496257782	0.43425098	No	
+row_14	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	4177	0.10438903421163559	0.44618955	No	
+row_15	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	0.110511854	No	
+row_16	IL2	IL2	interleukin 2	8635	-0.2841058373451233	0.101570345	No	
+row_17	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.0648703	No	
+row_18	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	0.11155086	No	

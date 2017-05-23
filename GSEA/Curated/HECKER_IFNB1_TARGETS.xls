@@ -1,0 +1,47 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.05577776	Yes	
+row_1	LY6E	LY6E	lymphocyte antigen 6 complex, locus E	4	1.1825754642486572	0.10946267	Yes	
+row_2	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.15821807	Yes	
+row_3	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.20464386	Yes	
+row_4	IRF7	IRF7	interferon regulatory factor 7	30	0.9863246083259583	0.24875847	Yes	
+row_5	HERC5	HERC5	hect domain and RLD 5	66	0.9037300944328308	0.28662586	Yes	
+row_6	OAS3	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	92	0.8597618341445923	0.32341653	Yes	
+row_7	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	94	0.8560484647750854	0.36225274	Yes	
+row_8	CLU	CLU	clusterin	144	0.8093606233596802	0.39453697	Yes	
+row_9	SIGLEC1	SIGLEC1	sialic acid binding Ig-like lectin 1, sialoadhesin	159	0.7952516078948975	0.429409	Yes	
+row_10	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	164	0.7893309593200684	0.46493444	Yes	
+row_11	C1QA	C1QA	complement component 1, q subcomponent, A chain	217	0.7531930804252625	0.4943877	Yes	
+row_12	C1QB	C1QB	complement component 1, q subcomponent, B chain	376	0.6705719828605652	0.5103034	Yes	
+row_13	SAMD9	SAMD9	sterile alpha motif domain containing 9	478	0.6333821415901184	0.5297871	Yes	
+row_14	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.55836076	Yes	
+row_15	ARG1	ARG1	arginase, liver	526	0.6181024312973022	0.58240896	Yes	
+row_16	OASL	OASL	2'-5'-oligoadenylate synthetase-like	539	0.6115098595619202	0.6091099	Yes	
+row_17	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.63349694	Yes	
+row_18	MS4A4A	MS4A4A	membrane-spanning 4-domains, subfamily A, member 4	709	0.5533108711242676	0.64601785	Yes	
+row_19	PROS1	PROS1	protein S (alpha)	738	0.548224687576294	0.66836464	Yes	
+row_20	EPSTI1	EPSTI1	epithelial stromal interaction 1 (breast)	745	0.5470795631408691	0.6926893	Yes	
+row_21	PARP9	PARP9	poly (ADP-ribose) polymerase family, member 9	886	0.5138067007064819	0.7031369	Yes	
+row_22	C3AR1	C3AR1	complement component 3a receptor 1	1031	0.4837310016155243	0.71184784	Yes	
+row_23	KLRD1	KLRD1	killer cell lectin-like receptor subfamily D, member 1	1554	0.38663357496261597	0.68126595	Yes	
+row_24	ZBP1	ZBP1	Z-DNA binding protein 1	1614	0.3786381781101227	0.6930406	Yes	
+row_25	CHI3L1	CHI3L1	chitinase 3-like 1 (cartilage glycoprotein-39)	1628	0.3753003478050232	0.7089078	Yes	
+row_26	CD163	CD163	CD163 molecule	1631	0.3750576674938202	0.7257788	Yes	
+row_27	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	1660	0.3716253340244293	0.74009484	Yes	
+row_28	DDX58	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	2471	0.271854966878891	0.6777203	No	
+row_29	RPS23	RPS23	ribosomal protein S23	2554	0.2623004913330078	0.68208236	No	
+row_30	PDZK1IP1	PDZK1IP1	PDZK1 interacting protein 1	2901	0.2221207320690155	0.66025853	No	
+row_31	RTP4	RTP4	receptor transporter protein 4	3781	0.13808293640613556	0.58543426	No	
+row_32	HERC6	HERC6	hect domain and RLD 6	4553	0.0723920539021492	0.51758766	No	
+row_33	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	0.45427805	No	
+row_34	KCNJ15	KCNJ15	potassium inwardly-rectifying channel, subfamily J, member 15	5430	0.00426508067175746	0.4378638	No	
+row_35	GP9	GP9	glycoprotein IX (platelet)	5431	0.00424595782533288	0.43805686	No	
+row_36	APOBEC3A	APOBEC3A	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3A	5571	-0.005691090133041143	0.4254904	No	
+row_37	MMP25	MMP25	matrix metallopeptidase 25	6013	-0.04379996284842491	0.38679203	No	
+row_38	TCL1A	TCL1A	T-cell leukemia/lymphoma 1A	6244	-0.06286421418190002	0.36842915	No	
+row_39	IL8	IL8	interleukin 8	6332	-0.06969403475522995	0.36357114	No	
+row_40	SPON2	SPON2	spondin 2, extracellular matrix protein	6812	-0.1110154390335083	0.3244232	No	
+row_41	ITGA2B	ITGA2B	integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	6827	-0.11218418180942535	0.32823297	No	
+row_42	LILRA3	LILRA3	leukocyte immunoglobulin-like receptor, subfamily A (without TM domain), member 3	7457	-0.165137380361557	0.277706	No	
+row_43	FCER1A	FCER1A	Fc fragment of IgE, high affinity I, receptor for; alpha polypeptide	7841	-0.2010926753282547	0.25151196	No	
+row_44	APOBEC3B	APOBEC3B	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3B	8384	-0.25560811161994934	0.21312644	No	
+row_45	CYP4F3	CYP4F3	cytochrome P450, family 4, subfamily F, polypeptide 3	9451	-0.3817249834537506	0.1321276	No	

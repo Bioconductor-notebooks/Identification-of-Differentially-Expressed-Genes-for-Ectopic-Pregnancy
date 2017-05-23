@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIF1AN	HIF1AN	hypoxia-inducible factor 1, alpha subunit inhibitor	1888	0.33594048023223877	-0.12262573	No	
+row_1	RNF25	RNF25	ring finger protein 25	3659	0.14941534399986267	-0.2627794	No	
+row_2	PPARD	PPARD	peroxisome proliferative activated receptor, delta	5644	-0.011759327724575996	-0.44357765	No	
+row_3	HDAC3	HDAC3	histone deacetylase 3	5975	-0.04009360074996948	-0.46784568	No	
+row_4	COMMD7	COMMD7	COMM domain containing 7	6521	-0.08470810204744339	-0.5051103	No	
+row_5	PSMA6	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	7060	-0.13095445930957794	-0.5346924	No	
+row_6	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	-0.56772554	No	
+row_7	TAF4B	TAF4B	TAF4b RNA polymerase II, TATA box binding protein (TBP)-associated factor, 105kDa	8074	-0.22331109642982483	-0.5646616	No	
+row_8	RPS3	RPS3	ribosomal protein S3	9062	-0.33552804589271545	-0.6044309	Yes	
+row_9	FAF1	FAF1	Fas (TNFRSF6) associated factor 1	9603	-0.40677255392074585	-0.59221995	Yes	
+row_10	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9772	-0.43414849042892456	-0.5416073	Yes	
+row_11	CPNE1	CPNE1	copine I	10077	-0.4887596368789673	-0.4951995	Yes	
+row_12	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.42306882	Yes	
+row_13	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.36830232	Yes	
+row_14	TP53BP2	TP53BP2	tumor protein p53 binding protein, 2	10531	-0.6090003848075867	-0.2762619	Yes	
+row_15	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.1841772	Yes	
+row_16	ANXA4	ANXA4	annexin A4	10593	-0.6384804248809814	-0.08838642	Yes	
+row_17	SETD6	SETD6	SET domain containing 6	10766	-0.7555170655250549	0.010767599	Yes	

@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PCBP1	PCBP1	poly(rC) binding protein 1	1394	0.413624107837677	-0.08143013	No	
+row_1	IGF2BP3	IGF2BP3	insulin-like growth factor 2 mRNA binding protein 3	2141	0.3091023564338684	-0.11504102	No	
+row_2	DDX23	DDX23	DEAD (Asp-Glu-Ala-Asp) box polypeptide 23	2917	0.2205674946308136	-0.16137874	No	
+row_3	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	2956	0.2159496247768402	-0.14035223	No	
+row_4	CHERP	CHERP	calcium homeostasis endoplasmic reticulum protein	3323	0.18018943071365356	-0.15360096	No	
+row_5	RBM3	RBM3	RNA binding motif (RNP1, RRM) protein 3	3778	0.13816335797309875	-0.179729	No	
+row_6	SNRPC	SNRPC	small nuclear ribonucleoprotein polypeptide C	3792	0.13729222118854523	-0.16533327	No	
+row_7	DHX8	DHX8	DEAH (Asp-Glu-Ala-His) box polypeptide 8	4357	0.08920923620462418	-0.207154	No	
+row_8	KHSRP	KHSRP	KH-type splicing regulatory protein (FUSE binding protein 2)	4447	0.08061003684997559	-0.2061968	No	
+row_9	RNMT	RNMT	RNA (guanine-7-) methyltransferase	4510	0.07558292150497437	-0.20332345	No	
+row_10	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	-0.31612912	No	
+row_11	PPP1R8	PPP1R8	protein phosphatase 1, regulatory (inhibitor) subunit 8	5875	-0.03144542872905731	-0.32287452	No	
+row_12	DDX1	DDX1	DEAD (Asp-Glu-Ala-Asp) box polypeptide 1	6986	-0.12523433566093445	-0.41089842	No	
+row_13	DUSP11	DUSP11	dual specificity phosphatase 11 (RNA/RNP complex 1-interacting)	7126	-0.1353692263364792	-0.40832758	No	
+row_14	SSB	SSB	Sjogren syndrome antigen B (autoantigen La)	7773	-0.1947857141494751	-0.4457107	No	
+row_15	CSTF3	CSTF3	cleavage stimulation factor, 3' pre-RNA, subunit 3, 77kDa	8381	-0.2554212808609009	-0.47261453	Yes	
+row_16	SNRPD1	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide 16kDa	8724	-0.29552337527275085	-0.47055322	Yes	
+row_17	RBM5	RBM5	RNA binding motif protein 5	8967	-0.3242822289466858	-0.4560141	Yes	
+row_18	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.43473127	Yes	
+row_19	PRPF4B	PRPF4B	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	9385	-0.3723583519458771	-0.41261315	Yes	
+row_20	SNRPB2	SNRPB2	small nuclear ribonucleoprotein polypeptide B''	9736	-0.42636385560035706	-0.39642832	Yes	
+row_21	HNRPDL	HNRPDL	heterogeneous nuclear ribonucleoprotein D-like	10016	-0.4748769700527191	-0.36819336	Yes	
+row_22	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.33274442	Yes	
+row_23	PCBP2	PCBP2	poly(rC) binding protein 2	10360	-0.5586636662483215	-0.27435946	Yes	
+row_24	SNRPA1	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	10504	-0.6001255512237549	-0.21937153	Yes	
+row_25	DDX17	DDX17	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	10612	-0.6470096707344055	-0.1557425	Yes	
+row_26	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.085375674	Yes	
+row_27	SRPK2	SRPK2	SFRS protein kinase 2	10847	-0.8830863237380981	0.0033160122	Yes	

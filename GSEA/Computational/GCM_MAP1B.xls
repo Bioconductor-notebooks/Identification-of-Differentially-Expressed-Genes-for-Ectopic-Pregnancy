@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SPIRE1	SPIRE1	spire homolog 1 (Drosophila)	1030	0.4839854836463928	-0.044701785	No	
+row_1	CCDC92	CCDC92	coiled-coil domain containing 92	1083	0.47447460889816284	-2.6864946E-4	No	
+row_2	NUAK1	NUAK1	NUAK family, SNF1-like kinase, 1	1884	0.33625227212905884	-0.039102923	No	
+row_3	SMAP1	SMAP1	stromal membrane-associated protein 1	2291	0.2931244373321533	-0.04610487	No	
+row_4	TTL	TTL	tubulin tyrosine ligase	2846	0.22769005596637726	-0.073533416	No	
+row_5	KIF1B	KIF1B	kinesin family member 1B	2873	0.2247096598148346	-0.052616544	No	
+row_6	MAPK8IP2	MAPK8IP2	mitogen-activated protein kinase 8 interacting protein 2	3075	0.20408037304878235	-0.049965937	No	
+row_7	NCAM1	NCAM1	neural cell adhesion molecule 1	3881	0.12875443696975708	-0.11078805	No	
+row_8	PDXP	PDXP	pyridoxal (pyridoxine, vitamin B6) phosphatase	4157	0.1061779260635376	-0.12511346	No	
+row_9	FBXW11	FBXW11	F-box and WD-40 domain protein 11	4907	0.04271485656499863	-0.18970148	No	
+row_10	PHF2	PHF2	PHD finger protein 2	5174	0.023453999310731888	-0.21177983	No	
+row_11	APPBP2	APPBP2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2	5608	-0.008924146182835102	-0.25075448	No	
+row_12	ELMO2	ELMO2	engulfment and cell motility 2	5628	-0.010001610033214092	-0.25146767	No	
+row_13	BTRC	BTRC	beta-transducin repeat containing	5961	-0.03904975950717926	-0.27800986	No	
+row_14	GABBR2	GABBR2	gamma-aminobutyric acid (GABA) B receptor, 2	6090	-0.05003302916884422	-0.28461418	No	
+row_15	CLASP2	CLASP2	cytoplasmic linker associated protein 2	6679	-0.0983874574303627	-0.32859042	No	
+row_16	NLK	NLK	nemo-like kinase	7033	-0.12856772541999817	-0.3477806	No	
+row_17	KIF5C	KIF5C	kinesin family member 5C	7464	-0.16601762175559998	-0.37018096	No	
+row_18	CEP170	CEP170	centrosomal protein 170kDa	8153	-0.23030884563922882	-0.40968576	No	
+row_19	CAND1	CAND1	cullin-associated and neddylation-dissociated 1	8668	-0.288611501455307	-0.427108	Yes	
+row_20	ZFP14	ZFP14	zinc finger protein 14 homolog (mouse)	8767	-0.2999219596385956	-0.40502286	Yes	
+row_21	NAB1	NAB1	NGFI-A binding protein 1 (EGR1 binding protein 1)	8849	-0.3097269833087921	-0.38035396	Yes	
+row_22	ABI2	ABI2	abl interactor 2	9092	-0.33965158462524414	-0.3674165	Yes	
+row_23	USP22	USP22	ubiquitin specific peptidase 22	9746	-0.42780858278274536	-0.38320628	Yes	
+row_24	RABGAP1L	RABGAP1L	RAB GTPase activating protein 1-like	10171	-0.5129850506782532	-0.3690572	Yes	
+row_25	PEG3	PEG3	paternally expressed 3	10176	-0.5135236978530884	-0.31614974	Yes	
+row_26	SPAG9	SPAG9	sperm associated antigen 9	10234	-0.5258978009223938	-0.2668424	Yes	
+row_27	ZNF84	ZNF84	zinc finger protein 84	10261	-0.5318869948387146	-0.21405709	Yes	
+row_28	SCARB2	SCARB2	scavenger receptor class B, member 2	10374	-0.5625383853912354	-0.16601661	Yes	
+row_29	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.11903517	Yes	
+row_30	PTPRD	PTPRD	protein tyrosine phosphatase, receptor type, D	10632	-0.6558500528335571	-0.05596934	Yes	
+row_31	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	10771	-0.7615377902984619	0.01032067	Yes	

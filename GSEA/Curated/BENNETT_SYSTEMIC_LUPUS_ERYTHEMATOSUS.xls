@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.13614541	Yes	
+row_1	LY6E	LY6E	lymphocyte antigen 6 complex, locus E	4	1.1825754642486572	0.26705968	Yes	
+row_2	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.3798091	Yes	
+row_3	IRF7	IRF7	interferon regulatory factor 7	30	0.9863246083259583	0.48833856	Yes	
+row_4	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	94	0.8560484647750854	0.5773757	Yes	
+row_5	CAMP	CAMP	cathelicidin antimicrobial peptide	454	0.6401345133781433	0.6152604	Yes	
+row_6	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.68292594	Yes	
+row_7	OASL	OASL	2'-5'-oligoadenylate synthetase-like	539	0.6115098595619202	0.745425	Yes	
+row_8	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.80894995	Yes	
+row_9	TDRD7	TDRD7	tudor domain containing 7	1014	0.488777220249176	0.82243085	Yes	
+row_10	C2	C2	complement component 2	2445	0.2755146026611328	0.7213856	No	
+row_11	RNASE2	RNASE2	ribonuclease, RNase A family, 2 (liver, eosinophil-derived neurotoxin)	2710	0.2443426549434662	0.7241648	No	
+row_12	APOBEC3C	APOBEC3C	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3C	3906	0.12652459740638733	0.6282355	No	
+row_13	S100A8	S100A8	S100 calcium binding protein A8	4516	0.07515516877174377	0.5805303	No	
+row_14	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.5538687	No	

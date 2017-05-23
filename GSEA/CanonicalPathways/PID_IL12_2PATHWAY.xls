@@ -1,0 +1,39 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.07807218	Yes	
+row_1	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.14988682	Yes	
+row_2	GADD45B	GADD45B	growth arrest and DNA-damage-inducible, beta	121	0.8277143239974976	0.19228767	Yes	
+row_3	IL18R1	IL18R1	interleukin 18 receptor 1	158	0.7955359220504761	0.23955727	Yes	
+row_4	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	245	0.7341944575309753	0.2783161	Yes	
+row_5	IL1R1	IL1R1	interleukin 1 receptor, type I	284	0.7123434543609619	0.32011104	Yes	
+row_6	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.36260653	Yes	
+row_7	MAPK14	MAPK14	mitogen-activated protein kinase 14	426	0.647968590259552	0.393024	Yes	
+row_8	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.41863805	Yes	
+row_9	CD247	CD247	CD247 molecule	792	0.5319358706474304	0.4316271	Yes	
+row_10	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.46143663	Yes	
+row_11	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.49285677	Yes	
+row_12	STAT4	STAT4	signal transducer and activator of transcription 4	1095	0.47118377685546875	0.50032294	Yes	
+row_13	NFKB2	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	1111	0.468742311000824	0.5287477	Yes	
+row_14	IL1B	IL1B	interleukin 1, beta	1178	0.4545525014400482	0.55156785	Yes	
+row_15	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.575714	Yes	
+row_16	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	1318	0.4259844720363617	0.5942281	Yes	
+row_17	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.615159	Yes	
+row_18	FASLG	FASLG	Fas ligand (TNF superfamily, member 6)	1657	0.3718077540397644	0.61326313	Yes	
+row_19	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	1660	0.3716253340244293	0.6367107	Yes	
+row_20	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	0.63854873	Yes	
+row_21	STAT6	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	2098	0.3144935965538025	0.6379871	No	
+row_22	IL4	IL4	interleukin 4	3450	0.16822966933250427	0.5241229	No	
+row_23	IFNG	IFNG	interferon, gamma	3788	0.13774867355823517	0.5018111	No	
+row_24	IL12RB2	IL12RB2	interleukin 12 receptor, beta 2	4161	0.1060311496257782	0.47425532	No	
+row_25	SPHK2	SPHK2	sphingosine kinase 2	4251	0.09836146235466003	0.47230443	No	
+row_26	CD4	CD4	CD4 molecule	4931	0.04107549786567688	0.41231275	No	
+row_27	IL18RAP	IL18RAP	interleukin 18 receptor accessory protein	4994	0.03698050603270531	0.40894797	No	
+row_28	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	6080	-0.04925861209630966	0.3120435	No	
+row_29	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	0.31465748	No	
+row_30	CD8B	CD8B	CD8b molecule	6208	-0.06060751900076866	0.30744758	No	
+row_31	RIPK2	RIPK2	receptor-interacting serine-threonine kinase 2	7009	-0.12681223452091217	0.24175178	No	
+row_32	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	0.18691456	No	
+row_33	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.15647481	No	
+row_34	PPP3R1	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, 19kDa, alpha isoform (calcineurin B, type I)	8488	-0.26755788922309875	0.15007028	No	
+row_35	IL2	IL2	interleukin 2	8635	-0.2841058373451233	0.15467562	No	
+row_36	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.09181665	No	
+row_37	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	0.111746326	No	

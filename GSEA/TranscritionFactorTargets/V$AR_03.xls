@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SMOX	SMOX	spermine oxidase	204	0.7624666690826416	0.10736296	Yes	
+row_1	SLC7A8	SLC7A8	solute carrier family 7 (cationic amino acid transporter, y+ system), member 8	330	0.6908388137817383	0.21014975	Yes	
+row_2	CPEB4	CPEB4	cytoplasmic polyadenylation element binding protein 4	347	0.6804352402687073	0.32125214	Yes	
+row_3	UVRAG	UVRAG	UV radiation resistance associated gene	371	0.6718257665634155	0.43028554	Yes	
+row_4	USP54	USP54	ubiquitin specific peptidase 54	1103	0.4702751934528351	0.44077972	Yes	
+row_5	ZNF654	ZNF654	zinc finger protein 654	2550	0.26321738958358765	0.35117897	No	
+row_6	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	2766	0.23700666427612305	0.3705935	No	
+row_7	SLC9A1	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	3383	0.17461244761943817	0.3427606	No	
+row_8	SMYD5	SMYD5	SMYD family member 5	4107	0.11011004447937012	0.29440334	No	
+row_9	CCDC6	CCDC6	coiled-coil domain containing 6	4282	0.09602343291044235	0.29426798	No	
+row_10	JPH1	JPH1	junctophilin 1	4771	0.05410126596689224	0.25828332	No	
+row_11	SDC1	SDC1	syndecan 1	4950	0.039749324321746826	0.24846928	No	
+row_12	KCNJ1	KCNJ1	potassium inwardly-rectifying channel, subfamily J, member 1	5106	0.028746511787176132	0.23895273	No	
+row_13	CXCL14	CXCL14	chemokine (C-X-C motif) ligand 14	5810	-0.026284359395503998	0.17856842	No	
+row_14	NCDN	NCDN	neurochondrin	5899	-0.033442724496126175	0.17599827	No	
+row_15	BAI3	BAI3	brain-specific angiogenesis inhibitor 3	6171	-0.05794092267751694	0.16063043	No	
+row_16	NLK	NLK	nemo-like kinase	7033	-0.12856772541999817	0.10261976	No	
+row_17	BDNF	BDNF	brain-derived neurotrophic factor	7103	-0.13379015028476715	0.11840129	No	
+row_18	ADCY6	ADCY6	adenylate cyclase 6	7329	-0.15498970448970795	0.12332557	No	
+row_19	PHF21A	PHF21A	PHD finger protein 21A	7483	-0.16791684925556183	0.13701844	No	
+row_20	RANBP9	RANBP9	RAN binding protein 9	7842	-0.20111201703548431	0.13732673	No	
+row_21	TRIM63	TRIM63	tripartite motif-containing 63	7877	-0.2039470076560974	0.1679383	No	
+row_22	MAP4K5	MAP4K5	mitogen-activated protein kinase kinase kinase kinase 5	8020	-0.2164904624223709	0.1906804	No	
+row_23	KLHL5	KLHL5	kelch-like 5 (Drosophila)	9809	-0.440356582403183	0.098895006	No	

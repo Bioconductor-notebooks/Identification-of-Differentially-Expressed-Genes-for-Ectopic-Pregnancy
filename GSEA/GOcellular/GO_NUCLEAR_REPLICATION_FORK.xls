@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLD4	POLD4	polymerase (DNA-directed), delta 4	611	0.5896422266960144	0.038513213	No	
+row_1	TOP1MT	TOP1MT	topoisomerase (DNA) I, mitochondrial	3763	0.13944107294082642	-0.22906852	No	
+row_2	SMARCAL1	SMARCAL1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a-like 1	4497	0.07628480345010757	-0.2842692	No	
+row_3	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4525	0.07441273331642151	-0.27479738	No	
+row_4	RPA3	RPA3	replication protein A3, 14kDa	5331	0.011692625470459461	-0.34700292	No	
+row_5	MCM10	MCM10	MCM10 minichromosome maintenance deficient 10 (S. cerevisiae)	6721	-0.1024155244231224	-0.45837674	No	
+row_6	PURB	PURB	purine-rich element binding protein B	6968	-0.12399683892726898	-0.46109235	No	
+row_7	POLE	POLE	polymerase (DNA directed), epsilon	7558	-0.17363658547401428	-0.4873982	No	
+row_8	XPA	XPA	xeroderma pigmentosum, complementation group A	8581	-0.2781285047531128	-0.53676337	Yes	
+row_9	HELB	HELB	helicase (DNA) B	9006	-0.3291548192501068	-0.52289563	Yes	
+row_10	PRPF19	PRPF19	PRP19/PSO4 pre-mRNA processing factor 19 homolog (S. cerevisiae)	9318	-0.36349210143089294	-0.49311113	Yes	
+row_11	POLE4	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	9643	-0.41303151845932007	-0.45656306	Yes	
+row_12	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.3937427	Yes	
+row_13	BCAS2	BCAS2	breast carcinoma amplified sequence 2	10260	-0.5317643284797668	-0.36001983	Yes	
+row_14	GINS4	GINS4	GINS complex subunit 4 (Sld5 homolog)	10368	-0.5607828497886658	-0.2797605	Yes	
+row_15	TOP1	TOP1	topoisomerase (DNA) I	10541	-0.6150469183921814	-0.19676404	Yes	
+row_16	BAZ1B	BAZ1B	bromodomain adjacent to zinc finger domain, 1B	10636	-0.6569410562515259	-0.09985764	Yes	
+row_17	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	10773	-0.7623668313026428	0.010123283	Yes	

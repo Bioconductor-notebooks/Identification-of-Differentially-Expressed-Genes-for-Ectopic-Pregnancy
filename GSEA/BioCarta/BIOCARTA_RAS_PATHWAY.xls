@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLD1	PLD1	phospholipase D1, phosphatidylcholine-specific	161	0.7901567220687866	0.1559601	Yes	
+row_1	BCL2L1	BCL2L1	BCL2-like 1	1733	0.3584105968475342	0.088869505	Yes	
+row_2	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.16209303	Yes	
+row_3	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1869	0.3382832407951355	0.22591184	Yes	
+row_4	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	0.29853663	Yes	
+row_5	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	1902	0.33409827947616577	0.36825997	Yes	
+row_6	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	2026	0.3202206492424011	0.42615065	Yes	
+row_7	RALA	RALA	v-ral simian leukemia viral oncogene homolog A (ras related)	3290	0.18360310792922974	0.3496195	No	
+row_8	RALBP1	RALBP1	ralA binding protein 1	4650	0.06430623680353165	0.23847182	No	
+row_9	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	6764	-0.10628780722618103	0.0670195	No	
+row_10	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	0.07023687	No	
+row_11	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	0.059757844	No	
+row_12	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	0.08444893	No	
+row_13	BAD	BAD	BCL2-antagonist of cell death	8222	-0.2376699149608612	0.091281414	No	
+row_14	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	8828	-0.30668458342552185	0.10189623	No	
+row_15	ELK1	ELK1	ELK1, member of ETS oncogene family	9576	-0.4029989540576935	0.1202613	No	

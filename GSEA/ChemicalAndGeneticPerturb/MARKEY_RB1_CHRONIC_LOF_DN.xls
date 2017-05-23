@@ -1,0 +1,61 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TFPI	TFPI	tissue factor pathway inhibitor (lipoprotein-associated coagulation inhibitor)	64	0.9073187112808228	0.03317686	Yes	
+row_1	UCHL1	UCHL1	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)	74	0.88616544008255	0.07052369	Yes	
+row_2	RABAC1	RABAC1	Rab acceptor 1 (prenylated)	214	0.7558629512786865	0.090246394	Yes	
+row_3	C1QA	C1QA	complement component 1, q subcomponent, A chain	217	0.7531930804252625	0.12251113	Yes	
+row_4	TRPV2	TRPV2	transient receptor potential cation channel, subfamily V, member 2	242	0.7355249524116516	0.15198216	Yes	
+row_5	PLA2G7	PLA2G7	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)	269	0.7201087474822998	0.18060425	Yes	
+row_6	DCN	DCN	decorin	289	0.7102755904197693	0.20944941	Yes	
+row_7	C1QB	C1QB	complement component 1, q subcomponent, B chain	376	0.6705719828605652	0.23039408	Yes	
+row_8	IGFBP3	IGFBP3	insulin-like growth factor binding protein 3	405	0.6546632647514343	0.25601184	Yes	
+row_9	MSR1	MSR1	macrophage scavenger receptor 1	429	0.6471074819564819	0.281766	Yes	
+row_10	GABARAPL1	GABARAPL1	GABA(A) receptor-associated protein like 1	489	0.6295192241668701	0.3034365	Yes	
+row_11	SYNGR1	SYNGR1	synaptogyrin 1	524	0.6189231872558594	0.32696012	Yes	
+row_12	RENBP	RENBP	renin binding protein	530	0.6159930229187012	0.35303676	Yes	
+row_13	TIMP3	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	542	0.6111975908279419	0.3783525	Yes	
+row_14	CSF1R	CSF1R	colony stimulating factor 1 receptor, formerly McDonough feline sarcoma viral (v-fms) oncogene homolog	601	0.5923332571983337	0.3985133	Yes	
+row_15	DCTN6	DCTN6	dynactin 6	640	0.5774531960487366	0.41988075	Yes	
+row_16	NINJ1	NINJ1	ninjurin 1	655	0.5720203518867493	0.44323146	Yes	
+row_17	SKAP2	SKAP2	src kinase associated phosphoprotein 2	789	0.5326653122901917	0.45389256	Yes	
+row_18	VAV1	VAV1	vav 1 oncogene	859	0.5181168913841248	0.46983966	Yes	
+row_19	TEC	TEC	tec protein tyrosine kinase	1020	0.4868044853210449	0.4760305	Yes	
+row_20	C3AR1	C3AR1	complement component 3a receptor 1	1031	0.4837310016155243	0.495947	Yes	
+row_21	ARL5A	ARL5A	ADP-ribosylation factor-like 5A	1126	0.46680423617362976	0.50737375	Yes	
+row_22	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1165	0.4581811726093292	0.52360266	Yes	
+row_23	STAB1	STAB1	stabilin 1	1189	0.4514477550983429	0.5409273	Yes	
+row_24	IGFBP2	IGFBP2	insulin-like growth factor binding protein 2, 36kDa	1198	0.4496512711048126	0.55956036	Yes	
+row_25	LGALS9	LGALS9	lectin, galactoside-binding, soluble, 9 (galectin 9)	1338	0.42240673303604126	0.5649169	Yes	
+row_26	CTSS	CTSS	cathepsin S	1506	0.3941039443016052	0.5664672	Yes	
+row_27	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1539	0.3899523913860321	0.580311	Yes	
+row_28	HPGD	HPGD	hydroxyprostaglandin dehydrogenase 15-(NAD)	1968	0.32661113142967224	0.5548405	No	
+row_29	CD53	CD53	CD53 molecule	2561	0.2615976631641388	0.5114175	No	
+row_30	SEPT11	SEPT11	septin 11	2594	0.25744232535362244	0.5195524	No	
+row_31	MS4A6A	MS4A6A	membrane-spanning 4-domains, subfamily A, member 6A	2749	0.2390880286693573	0.5156253	No	
+row_32	SLCO3A1	SLCO3A1	solute carrier organic anion transporter family, member 3A1	2815	0.23118813335895538	0.5195803	No	
+row_33	MEST	MEST	mesoderm specific transcript homolog (mouse)	3022	0.20946238934993744	0.50957274	No	
+row_34	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	0.51220095	No	
+row_35	WISP1	WISP1	WNT1 inducible signaling pathway protein 1	3615	0.1531592160463333	0.47029614	No	
+row_36	NPR3	NPR3	natriuretic peptide receptor C/guanylate cyclase C (atrionatriuretic peptide receptor C)	3628	0.15207616984844208	0.47573933	No	
+row_37	GLT25D1	GLT25D1	glycosyltransferase 25 domain containing 1	3752	0.1403580904006958	0.4704227	No	
+row_38	GSTA4	GSTA4	glutathione S-transferase A4	3829	0.13358159363269806	0.4691563	No	
+row_39	PON2	PON2	paraoxonase 2	3870	0.12962938845157623	0.47104555	No	
+row_40	HTRA1	HTRA1	HtrA serine peptidase 1	3903	0.12664435803890228	0.47354534	No	
+row_41	MMP12	MMP12	matrix metallopeptidase 12 (macrophage elastase)	3983	0.12056189775466919	0.47144085	No	
+row_42	MLLT11	MLLT11	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 11	4186	0.10395777225494385	0.45725742	No	
+row_43	EDN1	EDN1	endothelin 1	4484	0.07693403214216232	0.4331329	No	
+row_44	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	0.36332268	No	
+row_45	GABRB1	GABRB1	gamma-aminobutyric acid (GABA) A receptor, beta 1	5301	0.013918450102210045	0.35921055	No	
+row_46	UPK3B	UPK3B	uroplakin 3B	5847	-0.029052454978227615	0.31011114	No	
+row_47	CFP	CFP	complement factor properdin	6440	-0.07789922505617142	0.25877398	No	
+row_48	HM13	HM13	histocompatibility (minor) 13	6605	-0.09265074878931046	0.2476141	No	
+row_49	MCCC1	MCCC1	methylcrotonoyl-Coenzyme A carboxylase 1 (alpha)	6633	-0.09487343579530716	0.24920703	No	
+row_50	UBE2A	UBE2A	ubiquitin-conjugating enzyme E2A (RAD6 homolog)	6663	-0.09744591265916824	0.250726	No	
+row_51	RASL11B	RASL11B	RAS-like, family 11, member B	7480	-0.16763661801815033	0.18256022	No	
+row_52	NDRG4	NDRG4	NDRG family member 4	7784	-0.19608397781848907	0.16301468	No	
+row_53	TGFB2	TGFB2	transforming growth factor, beta 2	7908	-0.20721526443958282	0.16057841	No	
+row_54	SLC1A6	SLC1A6	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6	8303	-0.24572990834712982	0.1347645	No	
+row_55	FABP7	FABP7	fatty acid binding protein 7, brain	8637	-0.28422629833221436	0.11624475	No	
+row_56	ENAH	ENAH	enabled homolog (Drosophila)	9699	-0.42143362760543823	0.036378294	No	
+row_57	FBXO9	FBXO9	F-box protein 9	9849	-0.4483661949634552	0.041929368	No	
+row_58	PRDX2	PRDX2	peroxiredoxin 2	10058	-0.48414385318756104	0.043570988	No	
+row_59	TPD52L1	TPD52L1	tumor protein D52-like 1	10767	-0.7556673884391785	0.010716907	No	

@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.13605568	Yes	
+row_1	IRS2	IRS2	insulin receptor substrate 2	154	0.7992238402366638	0.2106291	Yes	
+row_2	MAPK14	MAPK14	mitogen-activated protein kinase 14	426	0.647968590259552	0.25740567	Yes	
+row_3	SH2B3	SH2B3	SH2B adaptor protein 3	498	0.6274920701980591	0.3203349	Yes	
+row_4	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.3809999	Yes	
+row_5	TEC	TEC	tec protein tyrosine kinase	1020	0.4868044853210449	0.3930804	Yes	
+row_6	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	1720	0.3604777157306671	0.36861157	Yes	
+row_7	BCL2L1	BCL2L1	BCL2-like 1	1733	0.3584105968475342	0.4071852	Yes	
+row_8	EPOR	EPOR	erythropoietin receptor	1797	0.34837159514427185	0.43995047	Yes	
+row_9	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	0.47034046	Yes	
+row_10	SOCS3	SOCS3	suppressor of cytokine signaling 3	1985	0.3247014284133911	0.49615663	Yes	
+row_11	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.52625257	Yes	
+row_12	PLCG2	PLCG2	phospholipase C, gamma 2 (phosphatidylinositol-specific)	2258	0.2969112694263458	0.53932184	Yes	
+row_13	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	2261	0.2967488169670105	0.5719901	Yes	
+row_14	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	3071	0.20460627973079681	0.52013427	No	
+row_15	EPO	EPO	erythropoietin	3247	0.18794302642345428	0.52482384	No	
+row_16	RAPGEF1	RAPGEF1	Rap guanine nucleotide exchange factor (GEF) 1	3663	0.14903879165649414	0.5031029	No	
+row_17	TRPC6	TRPC6	transient receptor potential cation channel, subfamily C, member 6	3884	0.1281414031982422	0.4970276	No	
+row_18	GAB1	GAB1	GRB2-associated binding protein 1	4071	0.11364574730396271	0.49247885	No	
+row_19	PTPN11	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	5407	0.006076879799365997	0.37020078	No	
+row_20	INPP5D	INPP5D	inositol polyphosphate-5-phosphatase, 145kDa	5434	0.004028508439660072	0.36825222	No	
+row_21	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	6008	-0.043398335576057434	0.3202846	No	
+row_22	BCL2	BCL2	B-cell CLL/lymphoma 2	7141	-0.13663285970687866	0.23115598	No	
+row_23	PLCG1	PLCG1	phospholipase C, gamma 1	8440	-0.2628726661205292	0.14071481	No	
+row_24	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	0.108730376	No	
+row_25	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.11834593	No	

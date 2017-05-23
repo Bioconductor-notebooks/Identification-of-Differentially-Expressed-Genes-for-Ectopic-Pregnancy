@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.13214448	Yes	
+row_1	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.24850899	Yes	
+row_2	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.35891825	Yes	
+row_3	NT5E	NT5E	5'-nucleotidase, ecto (CD73)	412	0.6516246795654297	0.39309528	Yes	
+row_4	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.45483884	Yes	
+row_5	CLEC2B	CLEC2B	C-type lectin domain family 2, member B	505	0.6240211725234985	0.5198228	Yes	
+row_6	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.57826996	Yes	
+row_7	HIST1H1C	HIST1H1C	histone cluster 1, H1c	581	0.5971025824546814	0.64164776	Yes	
+row_8	PROS1	PROS1	protein S (alpha)	738	0.548224687576294	0.68624127	Yes	
+row_9	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	0.7406574	Yes	
+row_10	IFI16	IFI16	interferon, gamma-inducible protein 16	1783	0.35081058740615845	0.6857054	No	
+row_11	PLAU	PLAU	plasminogen activator, urokinase	2595	0.2572542726993561	0.6387313	No	
+row_12	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	3810	0.13557729125022888	0.5415852	No	
+row_13	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.30236375	No	
+row_14	BLZF1	BLZF1	basic leucine zipper nuclear factor 1 (JEM-1)	6674	-0.09823175519704819	0.29774156	No	
+row_15	EMP1	EMP1	epithelial membrane protein 1	6934	-0.12110865861177444	0.2869285	No	
+row_16	TBX5	TBX5	T-box 5	8824	-0.3064863085746765	0.14603975	No	
+row_17	TUBB	TUBB	tubulin, beta	9578	-0.4032236635684967	0.120099425	No	

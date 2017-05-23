@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SIRT6	SIRT6	sirtuin (silent mating type information regulation 2 homolog) 6 (S. cerevisiae)	1037	0.4820777177810669	-0.022302942	No	
+row_1	MUTYH	MUTYH	mutY homolog (E. coli)	4277	0.09636534005403519	-0.3058726	No	
+row_2	ERCC6	ERCC6	excision repair cross-complementing rodent repair deficiency, complementation group 6	4956	0.03944680094718933	-0.362305	No	
+row_3	RPA3	RPA3	replication protein A3, 14kDa	5331	0.011692625470459461	-0.3949623	No	
+row_4	SMUG1	SMUG1	single-strand-selective monofunctional uracil-DNA glycosylase 1	6523	-0.08495640754699707	-0.49171633	No	
+row_5	POLE	POLE	polymerase (DNA directed), epsilon	7558	-0.17363658547401428	-0.5605568	Yes	
+row_6	LIG3	LIG3	ligase III, DNA, ATP-dependent	7722	-0.19027148187160492	-0.54668474	Yes	
+row_7	PARP2	PARP2	poly (ADP-ribose) polymerase family, member 2	7874	-0.20373262465000153	-0.5296649	Yes	
+row_8	POLQ	POLQ	polymerase (DNA directed), theta	8223	-0.23803840577602386	-0.5255748	Yes	
+row_9	NTHL1	NTHL1	nth endonuclease III-like 1 (E. coli)	8401	-0.2586374878883362	-0.50261533	Yes	
+row_10	XPA	XPA	xeroderma pigmentosum, complementation group A	8581	-0.2781285047531128	-0.47688177	Yes	
+row_11	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	-0.4420512	Yes	
+row_12	PRMT6	PRMT6	protein arginine methyltransferase 6	8735	-0.29671770334243774	-0.4015279	Yes	
+row_13	USP47	USP47	ubiquitin specific peptidase 47	8947	-0.32168081402778625	-0.37213024	Yes	
+row_14	LIG1	LIG1	ligase I, DNA, ATP-dependent	9115	-0.34198853373527527	-0.3355995	Yes	
+row_15	NEIL1	NEIL1	nei endonuclease VIII-like 1 (E. coli)	9154	-0.34625884890556335	-0.28654438	Yes	
+row_16	HMGA1	HMGA1	high mobility group AT-hook 1	9646	-0.4132329225540161	-0.2690293	Yes	
+row_17	MBD4	MBD4	methyl-CpG binding domain protein 4	9773	-0.43437761068344116	-0.21470156	Yes	
+row_18	HUWE1	HUWE1	HECT, UBA and WWE domain containing 1	9867	-0.451631635427475	-0.15471698	Yes	
+row_19	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.102127835	Yes	
+row_20	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.034751493	Yes	
+row_21	NEIL3	NEIL3	nei endonuclease VIII-like 3 (E. coli)	10517	-0.6032275557518005	0.03369548	Yes	

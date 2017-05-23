@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACACB	ACACB	acetyl-Coenzyme A carboxylase beta	34	0.9713865518569946	0.1638149	Yes	
+row_1	ACYP2	ACYP2	acylphosphatase 2, muscle type	69	0.9002652764320374	0.3154067	Yes	
+row_2	AKR1B1	AKR1B1	aldo-keto reductase family 1, member B1 (aldose reductase)	221	0.750921368598938	0.43056038	Yes	
+row_3	PC	PC	pyruvate carboxylase	713	0.5531569719314575	0.48042396	Yes	
+row_4	GRHPR	GRHPR	glyoxylate reductase/hydroxypyruvate reductase	2323	0.2889910638332367	0.38195965	No	
+row_5	PKLR	PKLR	pyruvate kinase, liver and RBC	2945	0.217259019613266	0.36212656	No	
+row_6	ACSS2	ACSS2	acyl-CoA synthetase short-chain family member 2	3417	0.1712300330400467	0.34819245	No	
+row_7	PCK2	PCK2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	3945	0.1236693412065506	0.3209288	No	
+row_8	DLAT	DLAT	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)	3975	0.1211271658539772	0.3390762	No	
+row_9	PCK1	PCK1	phosphoenolpyruvate carboxykinase 1 (soluble)	4273	0.09665094316005707	0.32834387	No	
+row_10	ALDH1B1	ALDH1B1	aldehyde dehydrogenase 1 family, member B1	4372	0.08796904236078262	0.33444017	No	
+row_11	MDH2	MDH2	malate dehydrogenase 2, NAD (mitochondrial)	4611	0.06749684363603592	0.3241291	No	
+row_12	ME2	ME2	malic enzyme 2, NAD(+)-dependent, mitochondrial	4628	0.06607116013765335	0.33401126	No	
+row_13	ACOT12	ACOT12	acyl-CoA thioesterase 12	5341	0.010968253016471863	0.27034667	No	
+row_14	ACSS1	ACSS1	acyl-CoA synthetase short-chain family member 1	5669	-0.013485845178365707	0.24255943	No	
+row_15	LDHC	LDHC	lactate dehydrogenase C	6453	-0.07891957461833954	0.18403658	No	
+row_16	LDHAL6B	LDHAL6B	lactate dehydrogenase A-like 6B	6631	-0.09470678120851517	0.1840178	No	
+row_17	ACAT2	ACAT2	acetyl-Coenzyme A acetyltransferase 2 (acetoacetyl Coenzyme A thiolase)	7262	-0.14896300435066223	0.15161861	No	
+row_18	LDHD	LDHD	lactate dehydrogenase D	7468	-0.1664939969778061	0.1613596	No	
+row_19	PDHB	PDHB	pyruvate dehydrogenase (lipoamide) beta	7729	-0.19108809530735016	0.17026384	No	
+row_20	PKM2	PKM2	pyruvate kinase, muscle	9169	-0.347682923078537	0.09753735	No	
+row_21	ALDH3A2	ALDH3A2	aldehyde dehydrogenase 3 family, member A2	9186	-0.3500959873199463	0.15623276	No	

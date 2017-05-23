@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.12450115	Yes	
+row_1	GCG	GCG	glucagon	449	0.6410951018333435	0.23151977	Yes	
+row_2	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	508	0.6233882308006287	0.34921512	Yes	
+row_3	ADCY9	ADCY9	adenylate cyclase 9	560	0.6048184633255005	0.46388963	Yes	
+row_4	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1269	0.4350684881210327	0.48460385	Yes	
+row_5	ADCY3	ADCY3	adenylate cyclase 3	2576	0.2600231170654297	0.41574195	Yes	
+row_6	PRKACG	PRKACG	protein kinase, cAMP-dependent, catalytic, gamma	2654	0.25039905309677124	0.4580753	Yes	
+row_7	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	2831	0.22965100407600403	0.48720366	Yes	
+row_8	GCGR	GCGR	glucagon receptor	3074	0.20408344268798828	0.50521255	Yes	
+row_9	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	3660	0.1493718922138214	0.48086005	No	
+row_10	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	3722	0.14318659901618958	0.5035062	No	
+row_11	ADCY5	ADCY5	adenylate cyclase 5	3980	0.1206485852599144	0.50366795	No	
+row_12	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	0.42902285	No	
+row_13	ADCY8	ADCY8	adenylate cyclase 8 (brain)	6295	-0.0668850764632225	0.31274882	No	
+row_14	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6675	-0.09823323041200638	0.29726002	No	
+row_15	ADCY6	ADCY6	adenylate cyclase 6	7329	-0.15498970448970795	0.2677588	No	
+row_16	GNAS	GNAS	GNAS complex locus	8768	-0.2999297082424164	0.194626	No	

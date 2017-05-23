@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SDPR	SDPR	serum deprivation response (phosphatidylserine binding protein)	494	0.6286381483078003	-0.0011947023	No	
+row_1	ACE	ACE	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1	1339	0.42234063148498535	-0.04924032	No	
+row_2	PMP22	PMP22	peripheral myelin protein 22	1354	0.4203561544418335	-0.020857766	No	
+row_3	HIF1AN	HIF1AN	hypoxia-inducible factor 1, alpha subunit inhibitor	1888	0.33594048023223877	-0.046312567	No	
+row_4	PITPNC1	PITPNC1	phosphatidylinositol transfer protein, cytoplasmic 1	2352	0.28522366285324097	-0.06889004	No	
+row_5	BRPF1	BRPF1	bromodomain and PHD finger containing, 1	2425	0.2777091860771179	-0.05592787	No	
+row_6	CPT1B	CPT1B	carnitine palmitoyltransferase 1B (muscle)	2460	0.2736642062664032	-0.03974571	No	
+row_7	ABCC3	ABCC3	ATP-binding cassette, sub-family C (CFTR/MRP), member 3	2502	0.26812130212783813	-0.024600599	No	
+row_8	TLN1	TLN1	talin 1	2635	0.2521447241306305	-0.018978147	No	
+row_9	HSPA14	HSPA14	heat shock 70kDa protein 14	3190	0.19300530850887299	-0.056460395	No	
+row_10	PLAGL2	PLAGL2	pleiomorphic adenoma gene-like 2	3359	0.17704124748706818	-0.059460733	No	
+row_11	DAB2IP	DAB2IP	DAB2 interacting protein	3618	0.15288253128528595	-0.072469085	No	
+row_12	SLMAP	SLMAP	sarcolemma associated protein	4348	0.08967839926481247	-0.13338937	No	
+row_13	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4525	0.07441273331642151	-0.14437254	No	
+row_14	PDLIM5	PDLIM5	PDZ and LIM domain 5	4554	0.07237190008163452	-0.14184663	No	
+row_15	ANKRD28	ANKRD28	ankyrin repeat domain 28	4596	0.06870704144239426	-0.1407787	No	
+row_16	PDE1B	PDE1B	phosphodiesterase 1B, calmodulin-dependent	4816	0.050818294286727905	-0.15739426	No	
+row_17	FN1	FN1	fibronectin 1	5175	0.023436052724719048	-0.18876567	No	
+row_18	TBC1D22B	TBC1D22B	TBC1 domain family, member 22B	5255	0.017856460064649582	-0.19479296	No	
+row_19	PDE4A	PDE4A	phosphodiesterase 4A, cAMP-specific (phosphodiesterase E2 dunce homolog, Drosophila)	5667	-0.013411561027169228	-0.23176134	No	
+row_20	KIAA0355	KIAA0355	KIAA0355	5702	-0.015520547516644001	-0.23380223	No	
+row_21	TRPC3	TRPC3	transient receptor potential cation channel, subfamily C, member 3	5919	-0.035525452345609665	-0.25122058	No	
+row_22	WHSC1	WHSC1	Wolf-Hirschhorn syndrome candidate 1	6408	-0.0760808065533638	-0.29086828	No	
+row_23	ZNF503	ZNF503	zinc finger protein 503	6450	-0.0786609798669815	-0.2890977	No	
+row_24	CAPN3	CAPN3	calpain 3, (p94)	6731	-0.10365322232246399	-0.30761078	No	
+row_25	FURIN	FURIN	furin (paired basic amino acid cleaving enzyme)	7656	-0.1835121214389801	-0.37989601	No	
+row_26	RGS7BP	RGS7BP	regulator of G-protein signalling 7 binding protein	7697	-0.18782904744148254	-0.3703267	No	
+row_27	CSE1L	CSE1L	CSE1 chromosome segregation 1-like (yeast)	8326	-0.24850380420684814	-0.41071773	No	
+row_28	EIF2C1	EIF2C1	eukaryotic translation initiation factor 2C, 1	8831	-0.30711251497268677	-0.4355323	Yes	
+row_29	ANKZF1	ANKZF1	ankyrin repeat and zinc finger domain containing 1	8885	-0.3138781487941742	-0.4182641	Yes	
+row_30	RNF44	RNF44	ring finger protein 44	9069	-0.3366246521472931	-0.4113828	Yes	
+row_31	ESRRA	ESRRA	estrogen-related receptor alpha	9341	-0.3668981194496155	-0.41048247	Yes	
+row_32	PRPF4B	PRPF4B	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	9385	-0.3723583519458771	-0.38816348	Yes	
+row_33	CELSR2	CELSR2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	9470	-0.38474607467651367	-0.3687523	Yes	
+row_34	FNTB	FNTB	farnesyltransferase, CAAX box, beta	9705	-0.4220741391181946	-0.36054367	Yes	
+row_35	CRB3	CRB3	crumbs homolog 3 (Drosophila)	10112	-0.4961272180080414	-0.36297458	Yes	
+row_36	KIAA1522	KIAA1522	KIAA1522	10246	-0.5286928415298462	-0.3379221	Yes	
+row_37	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.30190763	Yes	
+row_38	NR5A2	NR5A2	nuclear receptor subfamily 5, group A, member 2	10598	-0.6409006118774414	-0.28729203	Yes	
+row_39	EHD3	EHD3	EH-domain containing 3	10643	-0.6596940159797668	-0.2447815	Yes	
+row_40	NFAT5	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive	10683	-0.6820855736732483	-0.20022903	Yes	
+row_41	ZFP91	ZFP91	zinc finger protein 91 homolog (mouse)	10863	-0.9406134486198425	-0.15034153	Yes	
+row_42	EML4	EML4	echinoderm microtubule associated protein like 4	10866	-0.9642980098724365	-0.082453646	Yes	
+row_43	TRIM9	TRIM9	tripartite motif-containing 9	10880	-1.1889296770095825	2.7682807E-4	Yes	

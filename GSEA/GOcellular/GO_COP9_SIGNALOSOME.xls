@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FLOT1	FLOT1	flotillin 1	43	0.9407327771186829	0.12870845	Yes	
+row_1	HSPA1L	HSPA1L	heat shock 70kDa protein 1-like	46	0.9356867074966431	0.2604792	Yes	
+row_2	COPS8	COPS8	COP9 constitutive photomorphogenic homolog subunit 8 (Arabidopsis)	72	0.8917279839515686	0.38393363	Yes	
+row_3	LAT	LAT	linker for activation of T cells	893	0.5127918124198914	0.38077125	Yes	
+row_4	COPS2	COPS2	COP9 constitutive photomorphogenic homolog subunit 2 (Arabidopsis)	1101	0.47044837474823	0.42806232	Yes	
+row_5	KIAA0748	KIAA0748	KIAA0748	1441	0.40577051043510437	0.45408198	Yes	
+row_6	AMOTL1	AMOTL1	angiomotin like 1	1830	0.34338125586509705	0.46679288	Yes	
+row_7	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.4922784	Yes	
+row_8	ATP5A1	ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	2811	0.2319898009300232	0.4543025	No	
+row_9	HSPA6	HSPA6	heat shock 70kDa protein 6 (HSP70B')	2963	0.21487750113010406	0.47070637	No	
+row_10	COPS6	COPS6	COP9 constitutive photomorphogenic homolog subunit 6 (Arabidopsis)	3305	0.1827041655778885	0.4650841	No	
+row_11	WDR6	WDR6	WD repeat domain 6	3823	0.13412803411483765	0.43641108	No	
+row_12	DOCK7	DOCK7	dedicator of cytokinesis 7	4330	0.0914323702454567	0.40272945	No	
+row_13	COPS4	COPS4	COP9 constitutive photomorphogenic homolog subunit 4 (Arabidopsis)	4699	0.060863710939884186	0.3774394	No	
+row_14	HSP90AB1	HSP90AB1	heat shock protein 90kDa alpha (cytosolic), class B member 1	4942	0.04015278443694115	0.36082652	No	
+row_15	COPS3	COPS3	COP9 constitutive photomorphogenic homolog subunit 3 (Arabidopsis)	7392	-0.15917056798934937	0.15785007	No	
+row_16	AMOT	AMOT	angiomotin	7766	-0.19434431195259094	0.15092383	No	
+row_17	NCKIPSD	NCKIPSD	NCK interacting protein with SH3 domain	8317	-0.24763917922973633	0.13522114	No	
+row_18	PLCG1	PLCG1	phospholipase C, gamma 1	8440	-0.2628726661205292	0.1610629	No	
+row_19	COPS7B	COPS7B	COP9 constitutive photomorphogenic homolog subunit 7B (Arabidopsis)	9869	-0.4518094062805176	0.09333585	No	

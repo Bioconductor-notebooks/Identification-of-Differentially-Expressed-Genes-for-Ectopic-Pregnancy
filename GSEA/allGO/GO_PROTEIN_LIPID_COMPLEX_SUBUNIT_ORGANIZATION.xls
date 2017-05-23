@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLA2G7	PLA2G7	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)	269	0.7201087474822998	0.07684847	Yes	
+row_1	SCARB1	SCARB1	scavenger receptor class B, member 1	493	0.6286409497261047	0.14502487	Yes	
+row_2	PLTP	PLTP	phospholipid transfer protein	551	0.6088070869445801	0.22568384	Yes	
+row_3	APOC2	APOC2	apolipoprotein C-II	659	0.5707862973213196	0.29637507	Yes	
+row_4	AGTR1	AGTR1	angiotensin II receptor, type 1	675	0.5647091269493103	0.3746779	Yes	
+row_5	SOAT2	SOAT2	sterol O-acyltransferase 2	867	0.5170338153839111	0.43005168	Yes	
+row_6	APOA2	APOA2	apolipoprotein A-II	1250	0.43804821372032166	0.45669752	Yes	
+row_7	PCDHGA3	PCDHGA3	protocadherin gamma subfamily A, 3	1533	0.3911193907260895	0.48592702	Yes	
+row_8	LCAT	LCAT	lecithin-cholesterol acyltransferase	1573	0.38383859395980835	0.53649867	Yes	
+row_9	AGT	AGT	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	1582	0.3832041621208191	0.58983445	Yes	
+row_10	SNX9	SNX9	sorting nexin 9	2102	0.31366485357284546	0.58631754	Yes	
+row_11	ABCA7	ABCA7	ATP-binding cassette, sub-family A (ABC1), member 7	2362	0.28420132398605347	0.6025775	Yes	
+row_12	PLAGL2	PLAGL2	pleiomorphic adenoma gene-like 2	3359	0.17704124748706818	0.5358717	No	
+row_13	ABCG1	ABCG1	ATP-binding cassette, sub-family G (WHITE), member 1	4158	0.10612069070339203	0.47738552	No	
+row_14	BIN1	BIN1	bridging integrator 1	4760	0.055435486137866974	0.42988238	No	
+row_15	LIPC	LIPC	lipase, hepatic	6304	-0.06805260479450226	0.29744318	No	
+row_16	CETP	CETP	cholesteryl ester transfer protein, plasma	6965	-0.1238422691822052	0.25416133	No	
+row_17	ABCA5	ABCA5	ATP-binding cassette, sub-family A (ABC1), member 5	7137	-0.1363544762134552	0.2576602	No	
+row_18	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	7147	-0.1369704306125641	0.27615902	No	
+row_19	APOA4	APOA4	apolipoprotein A-IV	7237	-0.1459536850452423	0.28856096	No	
+row_20	ARF1	ARF1	ADP-ribosylation factor 1	9041	-0.3329540193080902	0.16956641	No	

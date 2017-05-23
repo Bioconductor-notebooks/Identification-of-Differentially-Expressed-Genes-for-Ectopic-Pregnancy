@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DDIT4	DDIT4	DNA-damage-inducible transcript 4	44	0.9396737217903137	0.17332463	No	
+row_1	FAM46A	FAM46A	family with sequence similarity 46, member A	1691	0.36590448021888733	0.090897724	No	
+row_2	MLH1	MLH1	mutL homolog 1, colon cancer, nonpolyposis type 2 (E. coli)	2608	0.25565528869628906	0.054848216	No	
+row_3	TTR	TTR	transthyretin (prealbumin, amyloidosis type I)	2838	0.22907760739326477	0.07701243	No	
+row_4	ZNF32	ZNF32	zinc finger protein 32	3345	0.17852899432182312	0.06414028	No	
+row_5	MYBL1	MYBL1	v-myb myeloblastosis viral oncogene homolog (avian)-like 1	3647	0.15063022077083588	0.06486986	No	
+row_6	RDH5	RDH5	retinol dehydrogenase 5 (11-cis/9-cis)	4062	0.11448933184146881	0.04837704	No	
+row_7	HSDL2	HSDL2	hydroxysteroid dehydrogenase like 2	4289	0.09547989070415497	0.045599245	No	
+row_8	PABPC3	PABPC3	poly(A) binding protein, cytoplasmic 3	4589	0.06951982527971268	0.03120236	No	
+row_9	UROS	UROS	uroporphyrinogen III synthase (congenital erythropoietic porphyria)	5084	0.03072214312851429	-0.008465576	No	
+row_10	TCF25	TCF25	transcription factor 25 (basic helix-loop-helix)	5328	0.011789663694798946	-0.028605534	No	
+row_11	KLHL9	KLHL9	kelch-like 9 (Drosophila)	6559	-0.08879220485687256	-0.12505253	No	
+row_12	IGHM	IGHM	immunoglobulin heavy constant mu	7625	-0.1806088089942932	-0.18898168	No	
+row_13	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	8794	-0.3033764660358429	-0.23921701	Yes	
+row_14	ISYNA1	ISYNA1	-	8880	-0.31326767802238464	-0.18790738	Yes	
+row_15	SLC27A6	SLC27A6	solute carrier family 27 (fatty acid transporter), member 6	9262	-0.3580271899700165	-0.1553923	Yes	
+row_16	RALY	RALY	RNA binding protein, autoantigenic (hnRNP-associated with lethal yellow homolog (mouse))	10152	-0.5067469477653503	-0.1415603	Yes	
+row_17	HMG20B	HMG20B	high-mobility group 20B	10278	-0.5375121235847473	-0.05160347	Yes	
+row_18	CELSR1	CELSR1	cadherin, EGF LAG seven-pass G-type receptor 1 (flamingo homolog, Drosophila)	10396	-0.5678839683532715	0.044822704	Yes	

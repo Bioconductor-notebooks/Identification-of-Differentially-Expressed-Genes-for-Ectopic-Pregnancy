@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STIM1	STIM1	stromal interaction molecule 1	29	0.9937036633491516	0.12585853	Yes	
+row_1	CCDC109B	CCDC109B	coiled-coil domain containing 109B	143	0.8105629086494446	0.22029574	Yes	
+row_2	CACNA2D4	CACNA2D4	calcium channel, voltage-dependent, alpha 2/delta subunit 4	485	0.631399393081665	0.27056885	Yes	
+row_3	FKBP1B	FKBP1B	FK506 binding protein 1B, 12.6 kDa	622	0.5859147906303406	0.333832	Yes	
+row_4	GRM2	GRM2	glutamate receptor, metabotropic 2	707	0.5539100170135498	0.39774287	Yes	
+row_5	ITPR1	ITPR1	inositol 1,4,5-triphosphate receptor, type 1	1068	0.4766588807106018	0.4262522	Yes	
+row_6	PLN	PLN	phospholamban	1125	0.46708863973617554	0.48151115	Yes	
+row_7	FKBP1A	FKBP1A	FK506 binding protein 1A, 12kDa	1303	0.42850154638290405	0.52063936	Yes	
+row_8	CACNA2D3	CACNA2D3	calcium channel, voltage-dependent, alpha 2/delta 3 subunit	1734	0.35830527544021606	0.527396	Yes	
+row_9	CAV3	CAV3	caveolin 3	2257	0.29708796739578247	0.51776475	No	
+row_10	CACNB2	CACNB2	calcium channel, voltage-dependent, beta 2 subunit	2875	0.22464129328727722	0.49001694	No	
+row_11	CRISP1	CRISP1	cysteine-rich secretory protein 1	3090	0.2024049460887909	0.49649486	No	
+row_12	SGK3	SGK3	serum/glucocorticoid regulated kinase family, member 3	3308	0.1826017200946808	0.5001352	No	
+row_13	SLC30A1	SLC30A1	solute carrier family 30 (zinc transporter), member 1	3427	0.16996458172798157	0.5112553	No	
+row_14	GRM7	GRM7	glutamate receptor, metabotropic 7	4606	0.06772322207689285	0.41156334	No	
+row_15	PRKG1	PRKG1	protein kinase, cGMP-dependent, type I	5191	0.02273969165980816	0.3607391	No	
+row_16	HPCAL4	HPCAL4	hippocalcin like 4	6166	-0.05769656226038933	0.27853134	No	
+row_17	NPY2R	NPY2R	neuropeptide Y receptor Y2	6431	-0.07759580761194229	0.26426288	No	
+row_18	STIM2	STIM2	stromal interaction molecule 2	6807	-0.1107088103890419	0.24405825	No	
+row_19	NRXN2	NRXN2	neurexin 2	7706	-0.1889052391052246	0.18581824	No	
+row_20	PHPT1	PHPT1	phosphohistidine phosphatase 1	9249	-0.35699257254600525	0.09002984	No	
+row_21	NRXN1	NRXN1	neurexin 1	9970	-0.4662874639034271	0.08405463	No	

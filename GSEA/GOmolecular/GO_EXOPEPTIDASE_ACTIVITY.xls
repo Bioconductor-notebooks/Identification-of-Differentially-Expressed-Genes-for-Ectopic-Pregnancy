@@ -1,0 +1,55 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UCHL1	UCHL1	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)	74	0.88616544008255	0.047132995	Yes	
+row_1	METAP2	METAP2	methionyl aminopeptidase 2	271	0.719149649143219	0.07283003	Yes	
+row_2	PEPD	PEPD	peptidase D	328	0.6918988823890686	0.109794594	Yes	
+row_3	NAALADL1	NAALADL1	N-acetylated alpha-linked acidic dipeptidase-like 1	482	0.6321106553077698	0.13416156	Yes	
+row_4	DNPEP	DNPEP	aspartyl aminopeptidase	693	0.5606647729873657	0.14891444	Yes	
+row_5	SCPEP1	SCPEP1	serine carboxypeptidase 1	746	0.5470680594444275	0.17742842	Yes	
+row_6	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	0.20753734	Yes	
+row_7	SCRN3	SCRN3	secernin 3	776	0.5368406772613525	0.24022996	Yes	
+row_8	CPA2	CPA2	carboxypeptidase A2 (pancreatic)	796	0.531156599521637	0.27082205	Yes	
+row_9	CPXM1	CPXM1	carboxypeptidase X (M14 family), member 1	884	0.51385498046875	0.29408163	Yes	
+row_10	CPXM2	CPXM2	carboxypeptidase X (M14 family), member 2	936	0.5026412010192871	0.31998244	Yes	
+row_11	ANPEP	ANPEP	alanyl (membrane) aminopeptidase (aminopeptidase N, aminopeptidase M, microsomal aminopeptidase, CD13, p150)	1225	0.444934219121933	0.32048532	Yes	
+row_12	ACE	ACE	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1	1339	0.42234063148498535	0.3357711	Yes	
+row_13	CPVL	CPVL	carboxypeptidase, vitellogenic-like	1598	0.38126274943351746	0.33516663	Yes	
+row_14	NPEPL1	NPEPL1	aminopeptidase-like 1	2191	0.3040938973426819	0.2990224	Yes	
+row_15	RNPEPL1	RNPEPL1	arginyl aminopeptidase (aminopeptidase B)-like 1	2342	0.2871277332305908	0.30265754	Yes	
+row_16	ACE2	ACE2	angiotensin I converting enzyme (peptidyl-dipeptidase A) 2	2398	0.2801041901111603	0.31463692	Yes	
+row_17	XPNPEP2	XPNPEP2	X-prolyl aminopeptidase (aminopeptidase P) 2, membrane-bound	2434	0.2768532931804657	0.328265	Yes	
+row_18	CTSL2	CTSL2	cathepsin L2	2436	0.2765655219554901	0.34501502	Yes	
+row_19	CPD	CPD	carboxypeptidase D	2473	0.2715315818786621	0.3582267	Yes	
+row_20	DPEP2	DPEP2	dipeptidase 2	2792	0.2341819703578949	0.34312508	No	
+row_21	DPP3	DPP3	dipeptidyl-peptidase 3	3065	0.20492331683635712	0.3304891	No	
+row_22	DPP7	DPP7	dipeptidyl-peptidase 7	3280	0.18452465534210205	0.3219664	No	
+row_23	PGCP	PGCP	-	3478	0.16544374823570251	0.31385142	No	
+row_24	TRHDE	TRHDE	thyrotropin-releasing hormone degrading enzyme	3640	0.15110747516155243	0.30818745	No	
+row_25	ZMPSTE24	ZMPSTE24	zinc metallopeptidase (STE24 homolog, yeast)	4206	0.10183469951152802	0.26221913	No	
+row_26	PREP	PREP	prolyl endopeptidase	4415	0.08334289491176605	0.24808864	No	
+row_27	CPN1	CPN1	carboxypeptidase N, polypeptide 1, 50kD	5100	0.0295006912201643	0.18672729	No	
+row_28	PHEX	PHEX	phosphate regulating endopeptidase homolog, X-linked (hypophosphatemia, vitamin D resistant rickets)	5401	0.006502107251435518	0.15942243	No	
+row_29	TPP2	TPP2	tripeptidyl peptidase II	5485	-1.2681512453127652E-4	0.15176626	No	
+row_30	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	5547	-0.004416901618242264	0.14640273	No	
+row_31	APEH	APEH	N-acylaminoacyl-peptide hydrolase	5731	-0.018384959548711777	0.13062483	No	
+row_32	F11	F11	coagulation factor XI (plasma thromboplastin antecedent)	6269	-0.0654393881559372	0.08502549	No	
+row_33	XPNPEP1	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble	6620	-0.09368382394313812	0.058413025	No	
+row_34	LNPEP	LNPEP	leucyl/cystinyl aminopeptidase	6706	-0.10073316842317581	0.056698926	No	
+row_35	DPP6	DPP6	dipeptidyl-peptidase 6	6855	-0.11393631249666214	0.049971696	No	
+row_36	ATXN3L	ATXN3L	ataxin 3-like	6926	-0.12071716785430908	0.050859626	No	
+row_37	PRSS16	PRSS16	protease, serine, 16 (thymus)	7085	-0.13263200223445892	0.04434757	No	
+row_38	PGPEP1	PGPEP1	pyroglutamyl-peptidase I	7176	-0.1395018845796585	0.04453273	No	
+row_39	AGTPBP1	AGTPBP1	ATP/GTP binding protein 1	7194	-0.14155267179012299	0.05158332	No	
+row_40	NAALAD2	NAALAD2	N-acetylated alpha-linked acidic dipeptidase 2	7354	-0.1574004888534546	0.046487283	No	
+row_41	SCRN2	SCRN2	secernin 2	7524	-0.17132875323295593	0.041316092	No	
+row_42	CPZ	CPZ	carboxypeptidase Z	7894	-0.20583368837833405	0.019778969	No	
+row_43	AGBL3	AGBL3	ATP/GTP binding protein-like 3	7895	-0.20605719089508057	0.032327477	No	
+row_44	RNPEP	RNPEP	arginyl aminopeptidase (aminopeptidase B)	8254	-0.2411220818758011	0.01395505	No	
+row_45	CPM	CPM	carboxypeptidase M	8292	-0.24454441666603088	0.025430925	No	
+row_46	ATXN3	ATXN3	ataxin 3	8394	-0.2571452856063843	0.03176466	No	
+row_47	GGT1	GGT1	gamma-glutamyltransferase 1	9120	-0.3425244390964508	-0.014319897	No	
+row_48	CNDP2	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family)	9373	-0.3707110583782196	-0.015012964	No	
+row_49	CPB2	CPB2	carboxypeptidase B2 (plasma, carboxypeptidase U)	9386	-0.37241604924201965	0.0065584644	No	
+row_50	ASRGL1	ASRGL1	asparaginase like 1	9744	-0.42769020795822144	-3.5996645E-4	No	
+row_51	BLMH	BLMH	bleomycin hydrolase	10190	-0.5157372355461121	-0.01004207	No	
+row_52	LTA4H	LTA4H	leukotriene A4 hydrolase	10199	-0.5182232856750488	0.020778097	No	
+row_53	DPP10	DPP10	dipeptidyl-peptidase 10	10701	-0.6943973898887634	0.01680525	No	

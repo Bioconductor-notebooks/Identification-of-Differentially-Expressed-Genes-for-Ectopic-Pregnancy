@@ -1,0 +1,38 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HDAC4	HDAC4	histone deacetylase 4	631	0.5815766453742981	-0.0066761523	No	
+row_1	YWHAB	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	1479	0.4000081717967987	-0.04934291	No	
+row_2	PRDM16	PRDM16	PR domain containing 16	2240	0.2985530495643616	-0.09297252	No	
+row_3	GFI1	GFI1	growth factor independent 1	2514	0.26684731245040894	-0.09451236	No	
+row_4	TBL1X	TBL1X	transducin (beta)-like 1X-linked	2619	0.25385332107543945	-0.08162242	No	
+row_5	GLI3	GLI3	GLI-Kruppel family member GLI3 (Greig cephalopolysyndactyly syndrome)	2731	0.24142341315746307	-0.070478454	No	
+row_6	MBD3	MBD3	methyl-CpG binding domain protein 3	4658	0.06366045773029327	-0.24240215	No	
+row_7	SPEN	SPEN	spen homolog, transcriptional regulator (Drosophila)	5418	0.005063297227025032	-0.31192708	No	
+row_8	INSM1	INSM1	insulinoma-associated 1	5818	-0.02710164710879326	-0.3463117	No	
+row_9	HDAC3	HDAC3	histone deacetylase 3	5975	-0.04009360074996948	-0.3571434	No	
+row_10	GATAD2A	GATAD2A	GATA zinc finger domain containing 2A	6079	-0.04918317869305611	-0.3622841	No	
+row_11	NCOR2	NCOR2	nuclear receptor co-repressor 2	6345	-0.07070150971412659	-0.38045445	No	
+row_12	GPS2	GPS2	G protein pathway suppressor 2	6460	-0.0796302780508995	-0.38391328	No	
+row_13	GATA1	GATA1	GATA binding protein 1 (globin transcription factor 1)	7041	-0.129303440451622	-0.4259349	No	
+row_14	SIN3A	SIN3A	SIN3 homolog A, transcription regulator (yeast)	7700	-0.18813608586788177	-0.46993804	No	
+row_15	CBX5	CBX5	chromobox homolog 5 (HP1 alpha homolog, Drosophila)	7967	-0.21176637709140778	-0.47570977	No	
+row_16	SMARCC2	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	8256	-0.24132594466209412	-0.4808923	Yes	
+row_17	TBL1XR1	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	8294	-0.2445785403251648	-0.46264678	Yes	
+row_18	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	-0.46641162	Yes	
+row_19	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	-0.44784218	Yes	
+row_20	ZNF350	ZNF350	zinc finger protein 350	8700	-0.29337701201438904	-0.42315534	Yes	
+row_21	CHD3	CHD3	chromodomain helicase DNA binding protein 3	8728	-0.29590532183647156	-0.3994431	Yes	
+row_22	ZNF224	ZNF224	zinc finger protein 224	8793	-0.3032519221305847	-0.37849143	Yes	
+row_23	CTBP2	CTBP2	C-terminal binding protein 2	8826	-0.30660831928253174	-0.35429245	Yes	
+row_24	DEPDC1	DEPDC1	DEP domain containing 1	8877	-0.3130697011947632	-0.33118078	Yes	
+row_25	NCOR1	NCOR1	nuclear receptor co-repressor 1	9014	-0.3300059735774994	-0.31449792	Yes	
+row_26	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.2912826	Yes	
+row_27	RCOR3	RCOR3	REST corepressor 3	9573	-0.4028759002685547	-0.30013776	Yes	
+row_28	RCOR1	RCOR1	REST corepressor 1	9815	-0.44140368700027466	-0.2832711	Yes	
+row_29	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.25272018	Yes	
+row_30	CDX2	CDX2	caudal type homeobox transcription factor 2	9969	-0.4662252366542816	-0.21530958	Yes	
+row_31	SALL1	SALL1	sal-like 1 (Drosophila)	10025	-0.4774225056171417	-0.17810598	Yes	
+row_32	SP3	SP3	Sp3 transcription factor	10106	-0.49418163299560547	-0.14172322	Yes	
+row_33	REST	REST	RE1-silencing transcription factor	10323	-0.5498949885368347	-0.11294524	Yes	
+row_34	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.07768868	Yes	
+row_35	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.025430316	Yes	
+row_36	HEY2	HEY2	hairy/enhancer-of-split related with YRPW motif 2	10574	-0.6307806968688965	0.028487127	Yes	

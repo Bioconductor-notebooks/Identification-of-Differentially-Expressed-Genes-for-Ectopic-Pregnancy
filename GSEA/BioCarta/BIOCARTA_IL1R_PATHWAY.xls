@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL1R1	IL1R1	interleukin 1 receptor, type I	284	0.7123434543609619	0.06474564	Yes	
+row_1	MAPK14	MAPK14	mitogen-activated protein kinase 14	426	0.647968590259552	0.1344415	Yes	
+row_2	TOLLIP	TOLLIP	toll interacting protein	609	0.590422511100769	0.19302066	Yes	
+row_3	IL1RAP	IL1RAP	interleukin 1 receptor accessory protein	889	0.5134376287460327	0.23284775	Yes	
+row_4	IL1B	IL1B	interleukin 1, beta	1178	0.4545525014400482	0.26433307	Yes	
+row_5	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	1311	0.4271478056907654	0.30668244	Yes	
+row_6	IRAK3	IRAK3	interleukin-1 receptor-associated kinase 3	1343	0.4218984544277191	0.35765964	Yes	
+row_7	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	0.35196203	Yes	
+row_8	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	2026	0.3202206492424011	0.37891927	Yes	
+row_9	IKBKB	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	2715	0.24346618354320526	0.34664938	No	
+row_10	IL1A	IL1A	interleukin 1, alpha	3610	0.1535114049911499	0.28393853	No	
+row_11	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	4177	0.10438903421163559	0.24515428	No	
+row_12	IFNA1	IFNA1	interferon, alpha 1	5617	-0.009364314377307892	0.11388107	No	
+row_13	IFNB1	IFNB1	interferon, beta 1, fibroblast	6760	-0.1061411052942276	0.022296337	No	
+row_14	IL1RN	IL1RN	interleukin 1 receptor antagonist	6887	-0.11691686511039734	0.025615005	No	
+row_15	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	-0.02807728	No	
+row_16	TGFB2	TGFB2	transforming growth factor, beta 2	7908	-0.20721526443958282	-0.017287692	No	
+row_17	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	-0.092247374	No	
+row_18	ECSIT	ECSIT	ECSIT homolog (Drosophila)	9633	-0.41203784942626953	-0.07824588	No	
+row_19	TGFB3	TGFB3	transforming growth factor, beta 3	10752	-0.7448577880859375	-0.08612604	No	
+row_20	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.009389617	No	

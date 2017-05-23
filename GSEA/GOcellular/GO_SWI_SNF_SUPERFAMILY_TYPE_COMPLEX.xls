@@ -1,0 +1,36 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SS18	SS18	synovial sarcoma translocation, chromosome 18	527	0.6175515055656433	0.012551438	No	
+row_1	ARID1B	ARID1B	AT rich interactive domain 1B (SWI1-like)	912	0.5074692964553833	0.027387504	No	
+row_2	CECR2	CECR2	cat eye syndrome chromosome region, candidate 2	1845	0.34184738993644714	-0.024681816	No	
+row_3	SMARCB1	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	1996	0.32387420535087585	-0.006449807	No	
+row_4	ACTR8	ACTR8	ARP8 actin-related protein 8 homolog (yeast)	2743	0.23954039812088013	-0.051501382	No	
+row_5	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	-0.06325381	No	
+row_6	DAXX	DAXX	death-associated protein 6	3152	0.19639824330806732	-0.04952846	No	
+row_7	NCR1	NCR1	natural cytotoxicity triggering receptor 1	3760	0.13979192078113556	-0.09164124	No	
+row_8	UCHL5	UCHL5	ubiquitin carboxyl-terminal hydrolase L5	3799	0.13648098707199097	-0.081634514	No	
+row_9	BRD8	BRD8	bromodomain containing 8	3946	0.12362964451313019	-0.082854696	No	
+row_10	ANP32E	ANP32E	acidic (leucine-rich) nuclear phosphoprotein 32 family, member E	3996	0.11982753127813339	-0.0755103	No	
+row_11	BRD7	BRD7	bromodomain containing 7	4271	0.09673936665058136	-0.091190495	No	
+row_12	DPF3	DPF3	D4, zinc and double PHD fingers, family 3	4446	0.0806659534573555	-0.09924425	No	
+row_13	MCRS1	MCRS1	microspherule protein 1	4541	0.07347091287374496	-0.100636244	No	
+row_14	MBD3	MBD3	methyl-CpG binding domain protein 3	4658	0.06366045773029327	-0.10502715	No	
+row_15	DPF1	DPF1	D4, zinc and double PHD fingers family 1	5478	4.1254449752159417E-4	-0.18047714	No	
+row_16	GATAD2A	GATAD2A	GATA zinc finger domain containing 2A	6079	-0.04918317869305611	-0.23091346	No	
+row_17	ACTL6A	ACTL6A	actin-like 6A	6210	-0.06066611781716347	-0.2368912	No	
+row_18	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	6219	-0.06098038703203201	-0.23159254	No	
+row_19	NFRKB	NFRKB	nuclear factor related to kappaB binding protein	7762	-0.19402243196964264	-0.35452044	Yes	
+row_20	RSF1	RSF1	remodeling and spacing factor 1	7853	-0.20220625400543213	-0.3428011	Yes	
+row_21	SMARCD1	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	8204	-0.23567958176136017	-0.35173377	Yes	
+row_22	SMARCC2	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	8256	-0.24132594466209412	-0.3325474	Yes	
+row_23	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	-0.33688474	Yes	
+row_24	CHD3	CHD3	chromodomain helicase DNA binding protein 3	8728	-0.29590532183647156	-0.3188403	Yes	
+row_25	ACTR5	ACTR5	ARP5 actin-related protein 5 homolog (yeast)	8785	-0.3025990426540375	-0.29404977	Yes	
+row_26	ARID1A	ARID1A	AT rich interactive domain 1A (SWI- like)	9176	-0.34851863980293274	-0.29550022	Yes	
+row_27	SMARCA2	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	9208	-0.3525012135505676	-0.26346588	Yes	
+row_28	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.28406665	Yes	
+row_29	SALL1	SALL1	sal-like 1 (Drosophila)	10025	-0.4774225056171417	-0.24584283	Yes	
+row_30	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.2317328	Yes	
+row_31	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.1730101	Yes	
+row_32	TRRAP	TRRAP	transformation/transcription domain-associated protein	10567	-0.6244063377380371	-0.112494685	Yes	
+row_33	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	10699	-0.6934834122657776	-0.055926193	Yes	
+row_34	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	0.012627978	Yes	

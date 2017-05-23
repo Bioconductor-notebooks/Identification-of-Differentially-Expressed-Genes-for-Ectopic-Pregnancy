@@ -1,0 +1,54 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BET1L	BET1L	blocked early in transport 1 homolog (S. cerevisiae)-like	199	0.7658703923225403	0.024473336	No	
+row_1	PKD1	PKD1	polycystic kidney disease 1 (autosomal dominant)	634	0.5801225304603577	0.016858047	No	
+row_2	STK10	STK10	serine/threonine kinase 10	760	0.5427902936935425	0.035683434	No	
+row_3	APOA2	APOA2	apolipoprotein A-II	1250	0.43804821372032166	0.015041799	No	
+row_4	RBBP6	RBBP6	retinoblastoma binding protein 6	1661	0.37122148275375366	-0.0020445697	No	
+row_5	THOC7	THOC7	THO complex 7 homolog (Drosophila)	1676	0.36821258068084717	0.01726245	No	
+row_6	CD164	CD164	CD164 molecule, sialomucin	1873	0.3378320038318634	0.018066213	No	
+row_7	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	2261	0.2967488169670105	-0.0010629862	No	
+row_8	RAB8B	RAB8B	RAB8B, member RAS oncogene family	2275	0.29522958397865295	0.014253336	No	
+row_9	TAGAP	TAGAP	T-cell activation GTPase activating protein	2331	0.2879349887371063	0.025283806	No	
+row_10	USP25	USP25	ubiquitin specific peptidase 25	2432	0.2771711051464081	0.03155735	No	
+row_11	LIPA	LIPA	lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	2483	0.2702156603336334	0.042058155	No	
+row_12	SH3BGRL	SH3BGRL	SH3 domain binding glutamic acid-rich protein like	2560	0.2616827189922333	0.049681064	No	
+row_13	RNGTT	RNGTT	RNA guanylyltransferase and 5'-phosphatase	2671	0.24887551367282867	0.053448338	No	
+row_14	GLCCI1	GLCCI1	glucocorticoid induced transcript 1	3713	0.14424513280391693	-0.034594897	No	
+row_15	G3BP2	G3BP2	-	4122	0.1091872826218605	-0.06615608	No	
+row_16	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	4190	0.10301537811756134	-0.06657884	No	
+row_17	SGCD	SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	5117	0.02819104492664337	-0.15049703	No	
+row_18	PTPN11	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	5407	0.006076879799365997	-0.17683974	No	
+row_19	SCYL2	SCYL2	SCY1-like 2 (S. cerevisiae)	5460	0.001540950033813715	-0.18155457	No	
+row_20	GPR44	GPR44	G protein-coupled receptor 44	5527	-0.0033929841592907906	-0.18745837	No	
+row_21	PIP5K1A	PIP5K1A	phosphatidylinositol-4-phosphate 5-kinase, type I, alpha	5677	-0.013918601907789707	-0.2004365	No	
+row_22	AKR1D1	AKR1D1	aldo-keto reductase family 1, member D1 (delta 4-3-ketosteroid-5-beta-reductase)	6022	-0.04447510465979576	-0.22970903	No	
+row_23	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	6469	-0.08030635863542557	-0.2663944	No	
+row_24	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	6640	-0.09585864841938019	-0.2767273	No	
+row_25	DNAJC5B	DNAJC5B	DnaJ (Hsp40) homolog, subfamily C, member 5 beta	6871	-0.1156197339296341	-0.2914943	No	
+row_26	FYTTD1	FYTTD1	forty-two-three domain containing 1	6975	-0.12432362139225006	-0.2940488	No	
+row_27	STK4	STK4	serine/threonine kinase 4	7246	-0.14667490124702454	-0.31077152	No	
+row_28	DDX49	DDX49	DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	8045	-0.21983741223812103	-0.37215015	No	
+row_29	INTS7	INTS7	integrator complex subunit 7	8131	-0.2282150387763977	-0.36723053	No	
+row_30	MUS81	MUS81	MUS81 endonuclease homolog (S. cerevisiae)	8206	-0.2359926849603653	-0.3608602	No	
+row_31	NSUN2	NSUN2	NOL1/NOP2/Sun domain family, member 2	8271	-0.2425748109817505	-0.35319835	No	
+row_32	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	8690	-0.2921338379383087	-0.37544787	Yes	
+row_33	NOX4	NOX4	NADPH oxidase 4	8705	-0.29378417134284973	-0.36030474	Yes	
+row_34	SMEK2	SMEK2	-	8727	-0.2958706021308899	-0.34569117	Yes	
+row_35	WDR75	WDR75	WD repeat domain 75	8744	-0.2983197569847107	-0.33047897	Yes	
+row_36	NCOR1	NCOR1	nuclear receptor co-repressor 1	9014	-0.3300059735774994	-0.33685294	Yes	
+row_37	PUM2	PUM2	pumilio homolog 2 (Drosophila)	9127	-0.3434589207172394	-0.32797885	Yes	
+row_38	EIF2C2	EIF2C2	eukaryotic translation initiation factor 2C, 2	9171	-0.34775954484939575	-0.3124936	Yes	
+row_39	WSB1	WSB1	WD repeat and SOCS box-containing 1	9766	-0.43328922986984253	-0.34309587	Yes	
+row_40	PELI1	PELI1	pellino homolog 1 (Drosophila)	9788	-0.43679848313331604	-0.3205981	Yes	
+row_41	TUG1	TUG1	-	9793	-0.4373549818992615	-0.29649964	Yes	
+row_42	ALCAM	ALCAM	activated leukocyte cell adhesion molecule	9866	-0.45146915316581726	-0.27788985	Yes	
+row_43	HOXA7	HOXA7	homeobox A7	9992	-0.4712258577346802	-0.2630681	Yes	
+row_44	DCLRE1C	DCLRE1C	DNA cross-link repair 1C (PSO2 homolog, S. cerevisiae)	10018	-0.4755915701389313	-0.2387694	Yes	
+row_45	FEM1A	FEM1A	fem-1 homolog a (C.elegans)	10274	-0.5364477038383484	-0.23230143	Yes	
+row_46	WNK1	WNK1	WNK lysine deficient protein kinase 1	10301	-0.5441384315490723	-0.2042602	Yes	
+row_47	SBNO1	SBNO1	strawberry notch homolog 1 (Drosophila)	10484	-0.5936834812164307	-0.18785027	Yes	
+row_48	DHX15	DHX15	DEAH (Asp-Glu-Ala-His) box polypeptide 15	10779	-0.7672808170318604	-0.17206915	Yes	
+row_49	SP1	SP1	Sp1 transcription factor	10783	-0.7691423296928406	-0.12931655	Yes	
+row_50	SMC5	SMC5	structural maintenance of chromosomes 5	10796	-0.787132203578949	-0.086388476	Yes	
+row_51	SUDS3	SUDS3	suppressor of defective silencing 3 homolog (S. cerevisiae)	10811	-0.8076736927032471	-0.042495858	Yes	
+row_52	PRKCI	PRKCI	protein kinase C, iota	10842	-0.8767752647399902	0.0037853932	Yes	

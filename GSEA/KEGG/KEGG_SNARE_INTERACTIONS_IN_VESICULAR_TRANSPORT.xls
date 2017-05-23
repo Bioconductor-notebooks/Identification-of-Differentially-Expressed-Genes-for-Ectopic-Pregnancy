@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SNAP29	SNAP29	synaptosomal-associated protein, 29kDa	31	0.9846784472465515	0.13189447	Yes	
+row_1	BET1L	BET1L	blocked early in transport 1 homolog (S. cerevisiae)-like	199	0.7658703923225403	0.22132905	Yes	
+row_2	VAMP4	VAMP4	vesicle-associated membrane protein 4	293	0.7088949680328369	0.3097777	Yes	
+row_3	STX11	STX11	syntaxin 11	394	0.6607995629310608	0.39100054	Yes	
+row_4	VAMP3	VAMP3	vesicle-associated membrane protein 3 (cellubrevin)	441	0.6436527371406555	0.474847	Yes	
+row_5	GOSR2	GOSR2	golgi SNAP receptor complex member 2	786	0.5335584878921509	0.5162001	Yes	
+row_6	TSNARE1	TSNARE1	t-SNARE domain containing 1	1130	0.4662337601184845	0.54843235	Yes	
+row_7	VTI1A	VTI1A	vesicle transport through interaction with t-SNAREs homolog 1A (yeast)	2517	0.266541063785553	0.4573414	No	
+row_8	STX3	STX3	syntaxin 3	3268	0.18576829135417938	0.41373375	No	
+row_9	STX2	STX2	syntaxin 2	3898	0.12702713906764984	0.37322438	No	
+row_10	BNIP1	BNIP1	BCL2/adenovirus E1B 19kDa interacting protein 1	4124	0.10907001793384552	0.3674413	No	
+row_11	BET1	BET1	BET1 homolog (S. cerevisiae)	5020	0.03544394671916962	0.289917	No	
+row_12	SEC22B	SEC22B	SEC22 vesicle trafficking protein homolog B (S. cerevisiae)	6728	-0.1033063530921936	0.1469439	No	
+row_13	VAMP8	VAMP8	vesicle-associated membrane protein 8 (endobrevin)	6800	-0.11007102578878403	0.15547174	No	
+row_14	VTI1B	VTI1B	vesicle transport through interaction with t-SNAREs homolog 1B (yeast)	7120	-0.1351262927055359	0.14460269	No	
+row_15	STX5	STX5	syntaxin 5	7403	-0.16038130223751068	0.14059505	No	
+row_16	STX8	STX8	syntaxin 8	8678	-0.2905791997909546	0.063101925	No	
+row_17	VAMP1	VAMP1	vesicle-associated membrane protein 1 (synaptobrevin 1)	8892	-0.3144291341304779	0.08652554	No	
+row_18	STX17	STX17	syntaxin 17	10719	-0.7061404585838318	0.015094271	No	

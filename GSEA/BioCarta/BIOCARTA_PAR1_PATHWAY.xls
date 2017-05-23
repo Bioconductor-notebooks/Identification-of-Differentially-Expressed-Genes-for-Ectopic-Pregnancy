@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTK2B	PTK2B	PTK2B protein tyrosine kinase 2 beta	20	1.0311212539672852	0.14262061	Yes	
+row_1	F2R	F2R	coagulation factor II (thrombin) receptor	377	0.6705260872840881	0.20378767	Yes	
+row_2	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.28854272	Yes	
+row_3	GNA12	GNA12	guanine nucleotide binding protein (G protein) alpha 12	548	0.609991192817688	0.36396855	Yes	
+row_4	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	1231	0.4436311423778534	0.36333436	Yes	
+row_5	ARHGEF3	ARHGEF3	Rho guanine nucleotide exchange factor (GEF) 3	1321	0.42566433548927307	0.41477695	Yes	
+row_6	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1869	0.3382832407951355	0.41181198	Yes	
+row_7	ARHGEF11	ARHGEF11	Rho guanine nucleotide exchange factor (GEF) 11	2159	0.3070622384548187	0.42822543	Yes	
+row_8	ARHGEF6	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6	2300	0.29143112897872925	0.45616645	Yes	
+row_9	ARHGEF4	ARHGEF4	Rho guanine nucleotide exchange factor (GEF) 4	2674	0.2484729140996933	0.45663804	Yes	
+row_10	GNA13	GNA13	guanine nucleotide binding protein (G protein), alpha 13	2852	0.22743289172649384	0.47220644	Yes	
+row_11	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	3501	0.1632448434829712	0.43541983	No	
+row_12	PPP1R12B	PPP1R12B	protein phosphatase 1, regulatory (inhibitor) subunit 12B	4108	0.11008480191230774	0.39505208	No	
+row_13	ARHGEF2	ARHGEF2	rho/rac guanine nucleotide exchange factor (GEF) 2	4153	0.10668116807937622	0.40594745	No	
+row_14	ARHGEF7	ARHGEF7	Rho guanine nucleotide exchange factor (GEF) 7	4750	0.05587879940867424	0.358906	No	
+row_15	ARHGEF10	ARHGEF10	Rho guanine nucleotide exchange factor (GEF) 10	5532	-0.0036471134517341852	0.28751493	No	
+row_16	ARHGEF16	ARHGEF16	Rho guanine exchange factor (GEF) 16	6073	-0.048834625631570816	0.24464212	No	
+row_17	ARHGEF9	ARHGEF9	Cdc42 guanine nucleotide exchange factor (GEF) 9	6325	-0.06941990554332733	0.2312599	No	
+row_18	ARHGEF1	ARHGEF1	Rho guanine nucleotide exchange factor (GEF) 1	6817	-0.11148327589035034	0.20167544	No	
+row_19	ARHGEF12	ARHGEF12	Rho guanine nucleotide exchange factor (GEF) 12	7863	-0.20295357704162598	0.13390262	No	
+row_20	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	8402	-0.2586412727832794	0.120608255	No	
+row_21	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.009390506	No	

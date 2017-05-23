@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	22	1.0169299840927124	0.21813877	Yes	
+row_1	MAFB	MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)	393	0.6609540581703186	0.32718292	Yes	
+row_2	GCG	GCG	glucagon	449	0.6410951018333435	0.46091715	Yes	
+row_3	AKT3	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	1166	0.4578343629837036	0.4941438	Yes	
+row_4	IAPP	IAPP	islet amyloid polypeptide	2564	0.26117241382598877	0.422121	No	
+row_5	PKLR	PKLR	pyruvate kinase, liver and RBC	2945	0.217259019613266	0.4341857	No	
+row_6	NEUROD1	NEUROD1	neurogenic differentiation 1	4736	0.05735516548156738	0.28186896	No	
+row_7	PAX4	PAX4	paired box gene 4	5375	0.007894047535955906	0.22486275	No	
+row_8	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	5547	-0.004416901618242264	0.21008185	No	
+row_9	INSM1	INSM1	insulinoma-associated 1	5818	-0.02710164710879326	0.19110115	No	
+row_10	SRP9	SRP9	signal recognition particle 9kDa	6173	-0.058061450719833374	0.17109266	No	
+row_11	NEUROG3	NEUROG3	neurogenin 3	6424	-0.0773082822561264	0.1648222	No	
+row_12	SLC2A2	SLC2A2	solute carrier family 2 (facilitated glucose transporter), member 2	6452	-0.07883649319410324	0.17940535	No	
+row_13	SRPRB	SRPRB	signal recognition particle receptor, B subunit	6517	-0.08410678058862686	0.19172437	No	
+row_14	NKX2-2	NKX2-2	NK2 transcription factor related, locus 2 (Drosophila)	6717	-0.10207086056470871	0.19550852	No	
+row_15	INS	INS	insulin	7109	-0.13417471945285797	0.1885733	No	
+row_16	ABCC8	ABCC8	ATP-binding cassette, sub-family C (CFTR/MRP), member 8	8928	-0.3197418451309204	0.09048593	No	
+row_17	FOXA2	FOXA2	forkhead box A2	9637	-0.4126647710800171	0.11466971	No	

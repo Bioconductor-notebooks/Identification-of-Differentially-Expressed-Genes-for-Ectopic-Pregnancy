@@ -1,0 +1,34 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	119	0.8310408592224121	0.062054094	No	
+row_1	RASAL2	RASAL2	RAS protein activator like 2	970	0.4967314898967743	0.027366461	No	
+row_2	PCBP1	PCBP1	poly(rC) binding protein 1	1394	0.413624107837677	0.02472767	No	
+row_3	PAPPA	PAPPA	pregnancy-associated plasma protein A, pappalysin 1	1652	0.3722878098487854	0.03375492	No	
+row_4	SLC1A3	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3	1785	0.3504142463207245	0.052379888	No	
+row_5	GTDC1	GTDC1	glycosyltransferase-like domain containing 1	2637	0.25199487805366516	-0.003904099	No	
+row_6	ZNF395	ZNF395	zinc finger protein 395	3177	0.1936308592557907	-0.036563233	No	
+row_7	NUFIP2	NUFIP2	nuclear fragile X mental retardation protein interacting protein 2	3209	0.19148515164852142	-0.022594944	No	
+row_8	CAMTA1	CAMTA1	calmodulin binding transcription activator 1	3896	0.1271483451128006	-0.074642815	No	
+row_9	AHCTF1	AHCTF1	AT hook containing transcription factor 1	3937	0.12428884953260422	-0.067408256	No	
+row_10	PAPOLA	PAPOLA	poly(A) polymerase alpha	4083	0.11244435608386993	-0.07089097	No	
+row_11	PPME1	PPME1	protein phosphatase methylesterase 1	4309	0.09289555251598358	-0.08346396	No	
+row_12	FAM76A	FAM76A	family with sequence similarity 76, member A	4648	0.06466209888458252	-0.10893151	No	
+row_13	MSI1	MSI1	musashi homolog 1 (Drosophila)	4682	0.06202375143766403	-0.10652288	No	
+row_14	SLC35A4	SLC35A4	solute carrier family 35, member A4	4858	0.04709814861416817	-0.11851207	No	
+row_15	PSME3	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	5138	0.0268996711820364	-0.1418604	No	
+row_16	TAF5	TAF5	TAF5 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 100kDa	6994	-0.12569116055965424	-0.3017683	No	
+row_17	HIC2	HIC2	hypermethylated in cancer 2	7912	-0.2075183242559433	-0.3680427	No	
+row_18	SMARCD1	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	8204	-0.23567958176136017	-0.37415212	No	
+row_19	DUSP13	DUSP13	dual specificity phosphatase 13	8433	-0.2620234489440918	-0.37214085	No	
+row_20	SMG1	SMG1	-	8604	-0.2802102565765381	-0.36318648	No	
+row_21	OXR1	OXR1	oxidation resistance 1	8873	-0.3127540647983551	-0.36040398	No	
+row_22	PATZ1	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	9424	-0.3778258264064789	-0.37789223	No	
+row_23	SLC6A6	SLC6A6	solute carrier family 6 (neurotransmitter transporter, taurine), member 6	10084	-0.48985910415649414	-0.39558166	Yes	
+row_24	NRIP1	NRIP1	nuclear receptor interacting protein 1	10086	-0.4913164973258972	-0.35250345	Yes	
+row_25	TNKS2	TNKS2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	10122	-0.4984244406223297	-0.31193405	Yes	
+row_26	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.27812633	Yes	
+row_27	PCBP2	PCBP2	poly(rC) binding protein 2	10360	-0.5586636662483215	-0.23770118	Yes	
+row_28	LUC7L	LUC7L	LUC7-like (S. cerevisiae)	10362	-0.5591142177581787	-0.1886658	Yes	
+row_29	FBXL19	FBXL19	F-box and leucine-rich repeat protein 19	10491	-0.5963009595870972	-0.14806695	Yes	
+row_30	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10557	-0.6210469007492065	-0.09948784	Yes	
+row_31	DDX17	DDX17	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	10612	-0.6470096707344055	-0.04761373	Yes	
+row_32	NHS	NHS	Nance-Horan syndrome (congenital cataracts and dental anomalies)	10822	-0.8250691294670105	0.005621484	Yes	

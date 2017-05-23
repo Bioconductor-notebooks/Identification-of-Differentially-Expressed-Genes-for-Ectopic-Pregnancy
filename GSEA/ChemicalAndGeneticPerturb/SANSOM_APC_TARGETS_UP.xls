@@ -1,0 +1,70 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CCDC86	CCDC86	coiled-coil domain containing 86	209	0.7584230899810791	0.012098467	No	
+row_1	RNASE4	RNASE4	ribonuclease, RNase A family, 4	391	0.6619633436203003	0.02278935	No	
+row_2	IMPA2	IMPA2	inositol(myo)-1(or 4)-monophosphatase 2	531	0.6152222752571106	0.03542712	No	
+row_3	TXNRD3	TXNRD3	thioredoxin reductase 3	1043	0.4806595742702484	0.008092931	No	
+row_4	NPC1	NPC1	Niemann-Pick disease, type C1	1370	0.41730397939682007	-0.004760379	No	
+row_5	SOX4	SOX4	SRY (sex determining region Y)-box 4	1436	0.406953901052475	0.00609063	No	
+row_6	CITED1	CITED1	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 1	1443	0.4054718613624573	0.022335619	No	
+row_7	KIAA0922	KIAA0922	KIAA0922	1509	0.3939339816570282	0.032647178	No	
+row_8	ERGIC1	ERGIC1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1	1630	0.3751118779182434	0.037093356	No	
+row_9	EIF2S2	EIF2S2	eukaryotic translation initiation factor 2, subunit 2 beta, 38kDa	1964	0.3270014822483063	0.019851327	No	
+row_10	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	2218	0.3014027774333954	0.008945808	No	
+row_11	ZNF746	ZNF746	zinc finger protein 746	2281	0.2945796847343445	0.015418247	No	
+row_12	TNFRSF12A	TNFRSF12A	tumor necrosis factor receptor superfamily, member 12A	2340	0.2871865928173065	0.021954227	No	
+row_13	RECQL	RECQL	RecQ protein-like (DNA helicase Q1-like)	2686	0.24681781232357025	2.8040513E-4	No	
+row_14	MAD1L1	MAD1L1	MAD1 mitotic arrest deficient-like 1 (yeast)	2708	0.2445010244846344	0.008468984	No	
+row_15	EMP2	EMP2	epithelial membrane protein 2	2822	0.2304747849702835	0.0075697144	No	
+row_16	CHRNB4	CHRNB4	cholinergic receptor, nicotinic, beta 4	3394	0.1738918423652649	-0.038022526	No	
+row_17	TIAM1	TIAM1	T-cell lymphoma invasion and metastasis 1	3456	0.16749253869056702	-0.03672318	No	
+row_18	DYRK3	DYRK3	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 3	3489	0.16437029838562012	-0.032871738	No	
+row_19	FOXA3	FOXA3	forkhead box A3	3861	0.13033880293369293	-0.061775662	No	
+row_20	SLC40A1	SLC40A1	solute carrier family 40 (iron-regulated transporter), member 1	4396	0.08445235341787338	-0.10765245	No	
+row_21	MSI1	MSI1	musashi homolog 1 (Drosophila)	4682	0.06202375143766403	-0.13143493	No	
+row_22	CPN1	CPN1	carboxypeptidase N, polypeptide 1, 50kD	5100	0.0295006912201643	-0.1687702	No	
+row_23	KCNQ1	KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1	5196	0.02247987687587738	-0.17662288	No	
+row_24	ABCC5	ABCC5	ATP-binding cassette, sub-family C (CFTR/MRP), member 5	5591	-0.007733445148915052	-0.21273336	No	
+row_25	AQP4	AQP4	aquaporin 4	5790	-0.02423577755689621	-0.23003711	No	
+row_26	DIAPH3	DIAPH3	diaphanous homolog 3 (Drosophila)	6275	-0.0656973123550415	-0.27206776	No	
+row_27	ASCL2	ASCL2	achaete-scute complex-like 2 (Drosophila)	6397	-0.07517119497060776	-0.28014138	No	
+row_28	EPHB2	EPHB2	EPH receptor B2	6418	-0.07701930403709412	-0.27879953	No	
+row_29	DLK1	DLK1	delta-like 1 homolog (Drosophila)	6480	-0.08131706714630127	-0.28107068	No	
+row_30	MYL7	MYL7	myosin, light chain 7, regulatory	6693	-0.09987682104110718	-0.29653493	No	
+row_31	SOX9	SOX9	SRY (sex determining region Y)-box 9 (campomelic dysplasia, autosomal sex-reversal)	7178	-0.13957490026950836	-0.33550462	No	
+row_32	CA12	CA12	carbonic anhydrase XII	7315	-0.15307144820690155	-0.3417376	No	
+row_33	CNOT2	CNOT2	CCR4-NOT transcription complex, subunit 2	7378	-0.15860387682914734	-0.340899	No	
+row_34	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	7617	-0.17962267994880676	-0.3554632	No	
+row_35	LRIG1	LRIG1	leucine-rich repeats and immunoglobulin-like domains 1	7621	-0.180350199341774	-0.34826824	No	
+row_36	NR2E3	NR2E3	nuclear receptor subfamily 2, group E, member 3	7970	-0.212131068110466	-0.3716566	No	
+row_37	CDC37	CDC37	CDC37 cell division cycle 37 homolog (S. cerevisiae)	7983	-0.21304170787334442	-0.3639393	No	
+row_38	DTL	DTL	denticleless homolog (Drosophila)	8157	-0.2304813414812088	-0.37038615	No	
+row_39	ECT2	ECT2	epithelial cell transforming sequence 2 oncogene	8421	-0.2611542046070099	-0.3838839	No	
+row_40	ETV4	ETV4	ets variant gene 4 (E1A enhancer binding protein, E1AF)	8632	-0.2839395999908447	-0.391537	Yes	
+row_41	WDR75	WDR75	WD repeat domain 75	8744	-0.2983197569847107	-0.38944036	Yes	
+row_42	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	8794	-0.3033764660358429	-0.38140142	Yes	
+row_43	DTYMK	DTYMK	deoxythymidylate kinase (thymidylate kinase)	8837	-0.3082672655582428	-0.37251258	Yes	
+row_44	QSER1	QSER1	glutamine and serine rich 1	8909	-0.316447377204895	-0.36596626	Yes	
+row_45	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	8912	-0.3167245090007782	-0.35302848	Yes	
+row_46	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.34198308	Yes	
+row_47	UBE2T	UBE2T	ubiquitin-conjugating enzyme E2T (putative)	9099	-0.34016159176826477	-0.34277603	Yes	
+row_48	SHF	SHF	Src homology 2 domain containing F	9500	-0.391196072101593	-0.3635534	Yes	
+row_49	HUNK	HUNK	hormonally upregulated Neu-associated kinase	9873	-0.4528951644897461	-0.3791854	Yes	
+row_50	CD44	CD44	CD44 molecule (Indian blood group)	9946	-0.4618864953517914	-0.36670566	Yes	
+row_51	EPHB3	EPHB3	EPH receptor B3	10003	-0.4730863571166992	-0.35228243	Yes	
+row_52	CCDC101	CCDC101	coiled-coil domain containing 101	10046	-0.48166924715042114	-0.3362091	Yes	
+row_53	PRDX2	PRDX2	peroxiredoxin 2	10058	-0.48414385318756104	-0.31716684	Yes	
+row_54	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10079	-0.4891257584095001	-0.29875034	Yes	
+row_55	CTPS	CTPS	CTP synthase	10095	-0.4927113950252533	-0.27972296	Yes	
+row_56	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.2609833	Yes	
+row_57	PASK	PASK	PAS domain containing serine/threonine kinase	10231	-0.5253507494926453	-0.24975753	Yes	
+row_58	BCAS2	BCAS2	breast carcinoma amplified sequence 2	10260	-0.5317643284797668	-0.23031412	Yes	
+row_59	MSX1	MSX1	msh homeobox homolog 1 (Drosophila)	10285	-0.5383762717247009	-0.21022691	Yes	
+row_60	WDFY1	WDFY1	WD repeat and FYVE domain containing 1	10302	-0.5443727970123291	-0.18915153	Yes	
+row_61	AXIN2	AXIN2	axin 2 (conductin, axil)	10317	-0.5486176013946533	-0.16771534	Yes	
+row_62	IMPDH2	IMPDH2	IMP (inosine monophosphate) dehydrogenase 2	10382	-0.5645829439163208	-0.15024088	Yes	
+row_63	CLCN5	CLCN5	chloride channel 5 (nephrolithiasis 2, X-linked, Dent disease)	10390	-0.5667381286621094	-0.12740667	Yes	
+row_64	SOX17	SOX17	SRY (sex determining region Y)-box 17	10427	-0.5777775049209595	-0.10679652	Yes	
+row_65	EHF	EHF	ets homologous factor	10545	-0.6156404614448547	-0.092107214	Yes	
+row_66	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	-0.08257109	Yes	
+row_67	TNFRSF19	TNFRSF19	tumor necrosis factor receptor superfamily, member 19	10846	-0.8819776177406311	-0.050744087	Yes	
+row_68	PSAT1	PSAT1	phosphoserine aminotransferase 1	10882	-1.3050785064697266	9.253128E-5	Yes	

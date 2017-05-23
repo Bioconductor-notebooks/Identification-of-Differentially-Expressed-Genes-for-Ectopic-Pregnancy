@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC9A9	SLC9A9	solute carrier family 9 (sodium/hydrogen exchanger), member 9	115	0.836979866027832	0.034918014	Yes	
+row_1	PLD1	PLD1	phospholipase D1, phosphatidylcholine-specific	161	0.7901567220687866	0.07374884	Yes	
+row_2	MCOLN1	MCOLN1	mucolipin 1	235	0.7413685917854309	0.10734168	Yes	
+row_3	CHMP2B	CHMP2B	chromatin modifying protein 2B	267	0.7208751440048218	0.14369565	Yes	
+row_4	STARD3	STARD3	START domain containing 3	354	0.6767902374267578	0.17257579	Yes	
+row_5	VPS4B	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	425	0.6480343341827393	0.2013682	Yes	
+row_6	MARCH1	MARCH1	membrane-associated ring finger (C3HC4) 1	541	0.6112520098686218	0.22400686	Yes	
+row_7	HGS	HGS	hepatocyte growth factor-regulated tyrosine kinase substrate	699	0.557640016078949	0.23985313	Yes	
+row_8	HLA-DRB4	HLA-DRB4	major histocompatibility complex, class II, DR beta 4	716	0.5524282455444336	0.26842806	Yes	
+row_9	LAMP2	LAMP2	lysosomal-associated membrane protein 2	750	0.5465723872184753	0.2951156	Yes	
+row_10	GOSR2	GOSR2	golgi SNAP receptor complex member 2	786	0.5335584878921509	0.3209106	Yes	
+row_11	CYBASC3	CYBASC3	cytochrome b, ascorbate dependent 3	805	0.5291140675544739	0.3480327	Yes	
+row_12	VPS37A	VPS37A	vacuolar protein sorting 37 homolog A (S. cerevisiae)	811	0.5282949209213257	0.37630993	Yes	
+row_13	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.4030543	Yes	
+row_14	VPS41	VPS41	vacuolar protein sorting 41 (yeast)	1003	0.49079442024230957	0.41397223	Yes	
+row_15	FAM125B	FAM125B	family with sequence similarity 125, member B	1091	0.47231897711753845	0.43163708	Yes	
+row_16	NPC1	NPC1	Niemann-Pick disease, type C1	1370	0.41730397939682007	0.42868274	Yes	
+row_17	ANXA2	ANXA2	annexin A2	1376	0.41656655073165894	0.45088208	Yes	
+row_18	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.47333518	Yes	
+row_19	SLC30A3	SLC30A3	solute carrier family 30 (zinc transporter), member 3	1757	0.35470709204673767	0.45783943	Yes	
+row_20	NTRK1	NTRK1	neurotrophic tyrosine kinase, receptor, type 1	1799	0.34804853796958923	0.4729892	Yes	
+row_21	VPS33A	VPS33A	vacuolar protein sorting 33 homolog A (S. cerevisiae)	2007	0.3230300545692444	0.47145867	Yes	
+row_22	VPS11	VPS11	vacuolar protein sorting 11 (yeast)	2327	0.28822582960128784	0.45769894	Yes	
+row_23	OSBPL11	OSBPL11	oxysterol binding protein-like 11	2372	0.2827160954475403	0.46901786	Yes	
+row_24	VPS33B	VPS33B	vacuolar protein sorting 33B (yeast)	2416	0.2781223654747009	0.48017913	Yes	
+row_25	NDFIP2	NDFIP2	Nedd4 family interacting protein 2	2470	0.27216434478759766	0.49009347	Yes	
+row_26	VTI1A	VTI1A	vesicle transport through interaction with t-SNAREs homolog 1A (yeast)	2517	0.266541063785553	0.5003479	Yes	
+row_27	SLC30A4	SLC30A4	solute carrier family 30 (zinc transporter), member 4	2584	0.25862371921539307	0.50832593	Yes	
+row_28	RAB27B	RAB27B	RAB27B, member RAS oncogene family	2729	0.24181722104549408	0.5081915	No	
+row_29	CHMP2A	CHMP2A	chromatin modifying protein 2A	3108	0.20010757446289062	0.4841934	No	
+row_30	SNX16	SNX16	sorting nexin 16	3136	0.19802403450012207	0.49247402	No	
+row_31	SLC11A1	SLC11A1	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1	3195	0.19259488582611084	0.49759844	No	
+row_32	GALNTL5	GALNTL5	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 5	3866	0.1299908310174942	0.44283885	No	
+row_33	STARD3NL	STARD3NL	STARD3 N-terminal like	4692	0.06141618266701698	0.3700447	No	
+row_34	RAB27A	RAB27A	RAB27A, member RAS oncogene family	6500	-0.08275271952152252	0.20778741	No	
+row_35	VAMP8	VAMP8	vesicle-associated membrane protein 8 (endobrevin)	6800	-0.11007102578878403	0.18618195	No	
+row_36	VTI1B	VTI1B	vesicle transport through interaction with t-SNAREs homolog 1B (yeast)	7120	-0.1351262927055359	0.16409376	No	
+row_37	ABCA5	ABCA5	ATP-binding cassette, sub-family A (ABC1), member 5	7137	-0.1363544762134552	0.17003474	No	
+row_38	CHMP1B	CHMP1B	chromatin modifying protein 1B	7897	-0.20620611310005188	0.11120782	No	
+row_39	TICAM2	TICAM2	toll-like receptor adaptor molecule 2	7972	-0.21225127577781677	0.11592497	No	
+row_40	VAC14	VAC14	Vac14 homolog (S. cerevisiae)	8087	-0.22421802580356598	0.11760169	No	
+row_41	TMEM9	TMEM9	transmembrane protein 9	8343	-0.2506391108036041	0.107703514	No	
+row_42	TMEM165	TMEM165	transmembrane protein 165	8430	-0.2617477774620056	0.114005804	No	
+row_43	STX8	STX8	syntaxin 8	8678	-0.2905791997909546	0.1070186	No	
+row_44	CHMP6	CHMP6	chromatin modifying protein 6	9185	-0.3500502109527588	0.07936475	No	
+row_45	SLC11A2	SLC11A2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	9655	-0.4143681526184082	0.058624264	No	
+row_46	TMEM106B	TMEM106B	transmembrane protein 106B	9821	-0.4423271417617798	0.06745935	No	
+row_47	SNF8	SNF8	SNF8, ESCRT-II complex subunit, homolog (S. cerevisiae)	10366	-0.5598471164703369	0.04771139	No	

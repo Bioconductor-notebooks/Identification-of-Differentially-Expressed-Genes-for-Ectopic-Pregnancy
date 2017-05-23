@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL1RL1	IL1RL1	interleukin 1 receptor-like 1	122	0.8270478248596191	0.11149207	Yes	
+row_1	IL18R1	IL18R1	interleukin 18 receptor 1	158	0.7955359220504761	0.22631353	Yes	
+row_2	IL15RA	IL15RA	interleukin 15 receptor, alpha	167	0.7880962491035461	0.34251547	Yes	
+row_3	IL1R1	IL1R1	interleukin 1 receptor, type I	284	0.7123434543609619	0.43753973	Yes	
+row_4	TLR1	TLR1	toll-like receptor 1	670	0.5662912130355835	0.48614115	Yes	
+row_5	IL1RAP	IL1RAP	interleukin 1 receptor accessory protein	889	0.5134376287460327	0.5422663	Yes	
+row_6	IL13RA1	IL13RA1	interleukin 13 receptor, alpha 1	916	0.5062903165817261	0.61499757	Yes	
+row_7	IL4R	IL4R	interleukin 4 receptor	1322	0.4254031479358673	0.64085364	Yes	
+row_8	IFNGR1	IFNGR1	interferon gamma receptor 1	1550	0.3873807489871979	0.67744637	Yes	
+row_9	IL13RA2	IL13RA2	interleukin 13 receptor, alpha 2	1900	0.3343183100223541	0.69494003	Yes	
+row_10	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	3487	0.1646052598953247	0.5734312	No	
+row_11	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	3810	0.13557729125022888	0.56391996	No	
+row_12	LEPR	LEPR	leptin receptor	6321	-0.06920856982469559	0.34323588	No	
+row_13	IFNGR2	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)	6340	-0.07026460021734238	0.35200554	No	
+row_14	IL3RA	IL3RA	interleukin 3 receptor, alpha (low affinity)	6564	-0.08963263779878616	0.34478632	No	
+row_15	CXCR6	CXCR6	chemokine (C-X-C motif) receptor 6	9219	-0.35400116443634033	0.15310997	No	

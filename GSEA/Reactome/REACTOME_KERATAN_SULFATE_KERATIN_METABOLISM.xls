@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B3GNT1	B3GNT1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1	395	0.6601040363311768	0.08211358	Yes	
+row_1	HEXB	HEXB	hexosaminidase B (beta polypeptide)	588	0.5952228307723999	0.17126122	Yes	
+row_2	B4GALT4	B4GALT4	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 4	647	0.5751257538795471	0.2691311	Yes	
+row_3	B3GNT2	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2	691	0.5611932277679443	0.36588085	Yes	
+row_4	B4GALT3	B4GALT3	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 3	842	0.5221913456916809	0.4457872	Yes	
+row_5	ST3GAL1	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	992	0.492369681596756	0.5204341	Yes	
+row_6	ST3GAL6	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6	1695	0.3645269274711609	0.521261	Yes	
+row_7	OGN	OGN	osteoglycin (osteoinductive factor, mimecan)	1886	0.3360936939716339	0.564092	Yes	
+row_8	FMOD	FMOD	fibromodulin	1936	0.32993432879447937	0.6187904	Yes	
+row_9	B3GNT7	B3GNT7	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7	2130	0.3098989427089691	0.6566447	Yes	
+row_10	PRELP	PRELP	proline/arginine-rich end leucine-rich repeat protein	3664	0.1489841639995575	0.5423365	No	
+row_11	B4GALT6	B4GALT6	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 6	5838	-0.02832433022558689	0.34749293	No	
+row_12	B4GALT2	B4GALT2	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2	7367	-0.15805979073047638	0.23527342	No	
+row_13	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	8000	-0.2141714096069336	0.2155594	No	
+row_14	ST3GAL2	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	8568	-0.2763917148113251	0.21299109	No	

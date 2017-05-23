@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IGFBP3	IGFBP3	insulin-like growth factor binding protein 3	405	0.6546632647514343	0.12706263	Yes	
+row_1	UBE2D4	UBE2D4	ubiquitin-conjugating enzyme E2D 4 (putative)	806	0.5290800333023071	0.2230625	Yes	
+row_2	MYO1G	MYO1G	myosin IG	1749	0.3562125265598297	0.22579944	Yes	
+row_3	CCM2	CCM2	cerebral cavernous malformation 2	2084	0.3155350387096405	0.27426994	Yes	
+row_4	OGDH	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)	2170	0.3062439262866974	0.34331957	Yes	
+row_5	PSMA2	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	2447	0.2754203677177429	0.38705757	Yes	
+row_6	FLJ35390	FLJ35390	-	2656	0.25034216046333313	0.43075758	Yes	
+row_7	GLI3	GLI3	GLI-Kruppel family member GLI3 (Greig cephalopolysyndactyly syndrome)	2731	0.24142341315746307	0.48454863	Yes	
+row_8	IKZF1	IKZF1	IKAROS family zinc finger 1 (Ikaros)	3054	0.20589019358158112	0.50660115	Yes	
+row_9	IGFBP1	IGFBP1	insulin-like growth factor binding protein 1	3968	0.12170426547527313	0.45314226	No	
+row_10	LOC285954	LOC285954	-	5393	0.006904239766299725	0.32384843	No	
+row_11	PPIA	PPIA	peptidylprolyl isomerase A (cyclophilin A)	5708	-0.016138024628162384	0.2990071	No	
+row_12	HECW1	HECW1	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 1	6023	-0.04462772235274315	0.281317	No	
+row_13	NUDCD3	NUDCD3	NudC domain containing 3	6677	-0.09835778176784515	0.24592128	No	
+row_14	PURB	PURB	purine-rich element binding protein B	6968	-0.12399683892726898	0.25036207	No	
+row_15	TMED4	TMED4	transmembrane emp24 protein transport domain containing 4	9792	-0.4373416304588318	0.100386426	No	

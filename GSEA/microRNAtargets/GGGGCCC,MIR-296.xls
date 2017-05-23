@@ -1,0 +1,35 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARRB1	ARRB1	arrestin, beta 1	80	0.8759592175483704	0.080060475	Yes	
+row_1	IPO11	IPO11	importin 11	211	0.757561206817627	0.14369477	Yes	
+row_2	KCTD17	KCTD17	potassium channel tetramerisation domain containing 17	1226	0.4445854425430298	0.09461479	Yes	
+row_3	SOX10	SOX10	SRY (sex determining region Y)-box 10	1230	0.44364991784095764	0.13862115	Yes	
+row_4	ACE	ACE	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1	1339	0.42234063148498535	0.1708231	Yes	
+row_5	VKORC1L1	VKORC1L1	vitamin K epoxide reductase complex, subunit 1-like 1	1477	0.40049734711647034	0.19817196	Yes	
+row_6	ZNF219	ZNF219	zinc finger protein 219	1632	0.37482336163520813	0.22139135	Yes	
+row_7	LRCH4	LRCH4	leucine-rich repeats and calponin homology (CH) domain containing 4	1644	0.37337157130241394	0.25764555	Yes	
+row_8	SLC30A3	SLC30A3	solute carrier family 30 (zinc transporter), member 3	1757	0.35470709204673767	0.28272802	Yes	
+row_9	GPX3	GPX3	glutathione peroxidase 3 (plasma)	1762	0.3535904884338379	0.31765294	Yes	
+row_10	DRD3	DRD3	dopamine receptor D3	1953	0.328177809715271	0.33289844	Yes	
+row_11	PPP2R5B	PPP2R5B	protein phosphatase 2, regulatory subunit B (B56), beta isoform	2411	0.2785976529121399	0.31858683	No	
+row_12	CNTFR	CNTFR	ciliary neurotrophic factor receptor	2820	0.23065724968910217	0.30400616	No	
+row_13	ONECUT2	ONECUT2	one cut domain, family member 2	3357	0.17742080986499786	0.27231446	No	
+row_14	RTN2	RTN2	reticulon 2	3691	0.14643700420856476	0.2562398	No	
+row_15	KREMEN2	KREMEN2	kringle containing transmembrane protein 2	3883	0.12855792045593262	0.25146812	No	
+row_16	FOXP1	FOXP1	forkhead box P1	4585	0.06992007791996002	0.19383888	No	
+row_17	PTPN5	PTPN5	protein tyrosine phosphatase, non-receptor type 5 (striatum-enriched)	4654	0.06399700045585632	0.19395944	No	
+row_18	CACNB1	CACNB1	calcium channel, voltage-dependent, beta 1 subunit	4688	0.06158558279275894	0.19706513	No	
+row_19	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	0.18322973	No	
+row_20	SOX12	SOX12	SRY (sex determining region Y)-box 12	4905	0.04302087053656578	0.18595703	No	
+row_21	ADAMTSL1	ADAMTSL1	ADAMTS-like 1	5563	-0.005363583564758301	0.1259394	No	
+row_22	ZFP36L2	ZFP36L2	zinc finger protein 36, C3H type-like 2	6586	-0.09121311455965042	0.040850274	No	
+row_23	POU3F1	POU3F1	POU domain, class 3, transcription factor 1	6783	-0.1081257164478302	0.03357831	No	
+row_24	SOX21	SOX21	SRY (sex determining region Y)-box 21	6811	-0.1110052764415741	0.042169806	No	
+row_25	PPFIA3	PPFIA3	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 3	7891	-0.20509345829486847	-0.036805823	No	
+row_26	CPLX2	CPLX2	complexin 2	8141	-0.2291918694972992	-0.03687838	No	
+row_27	SYNGAP1	SYNGAP1	synaptic Ras GTPase activating protein 1 homolog (rat)	8936	-0.32002541422843933	-0.078114815	No	
+row_28	RNF44	RNF44	ring finger protein 44	9069	-0.3366246521472931	-0.056680568	No	
+row_29	PARP6	PARP6	poly (ADP-ribose) polymerase family, member 6	9284	-0.35940757393836975	-0.040529855	No	
+row_30	HOXD3	HOXD3	homeobox D3	9436	-0.3795124888420105	-0.016565919	No	
+row_31	ELK1	ELK1	ELK1, member of ETS oncogene family	9576	-0.4029989540576935	0.010848308	No	
+row_32	DBN1	DBN1	drebrin 1	9871	-0.4519551992416382	0.02886338	No	
+row_33	LRRC41	LRRC41	leucine rich repeat containing 41	10604	-0.6443553566932678	0.025714181	No	

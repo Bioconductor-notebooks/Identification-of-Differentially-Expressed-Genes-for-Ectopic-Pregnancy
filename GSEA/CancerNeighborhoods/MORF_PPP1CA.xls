@@ -1,0 +1,79 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TCEB1	TCEB1	transcription elongation factor B (SIII), polypeptide 1 (15kDa, elongin C)	559	0.6060299873352051	-0.028740084	No	
+row_1	ARHGDIA	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha	596	0.5934370160102844	-0.009558861	No	
+row_2	DNPEP	DNPEP	aspartyl aminopeptidase	693	0.5606647729873657	0.0028266392	No	
+row_3	ATP6AP1	ATP6AP1	ATPase, H+ transporting, lysosomal accessory protein 1	748	0.5469182729721069	0.01857738	No	
+row_4	CDIPT	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase (phosphatidylinositol synthase)	993	0.49229180812835693	0.014672981	No	
+row_5	RAD23B	RAD23B	RAD23 homolog B (S. cerevisiae)	1097	0.4710351228713989	0.02301049	No	
+row_6	BLOC1S1	BLOC1S1	biogenesis of lysosome-related organelles complex-1, subunit 1	1149	0.4612685441970825	0.035789635	No	
+row_7	PPP1R7	PPP1R7	protein phosphatase 1, regulatory subunit 7	1242	0.4407599866390228	0.043996576	No	
+row_8	BUD31	BUD31	BUD31 homolog (yeast)	1448	0.4042898416519165	0.040362827	No	
+row_9	YWHAB	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	1479	0.4000081717967987	0.052761357	No	
+row_10	ENSA	ENSA	endosulfine alpha	1501	0.39591020345687866	0.065837294	No	
+row_11	RNF6	RNF6	ring finger protein (C3H2C3 type) 6	1609	0.3792114555835724	0.0703212	No	
+row_12	FAM120A	FAM120A	family with sequence similarity 120A	1792	0.34905651211738586	0.06672057	No	
+row_13	COPE	COPE	coatomer protein complex, subunit epsilon	1920	0.3319127559661865	0.067559324	No	
+row_14	RPL36AL	RPL36AL	ribosomal protein L36a-like	2315	0.28984904289245605	0.042093847	No	
+row_15	ATP5H	ATP5H	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit d	2937	0.21802185475826263	-0.007103319	No	
+row_16	CSNK2B	CSNK2B	casein kinase 2, beta polypeptide	3032	0.20820662379264832	-0.0079036355	No	
+row_17	SYPL1	SYPL1	synaptophysin-like 1	3373	0.17549143731594086	-0.03271017	No	
+row_18	AP2S1	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	3548	0.1591176688671112	-0.042776026	No	
+row_19	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4525	0.07441273331642151	-0.13027328	No	
+row_20	ERP29	ERP29	endoplasmic reticulum protein 29	5219	0.02002866379916668	-0.19364451	No	
+row_21	TAF11	TAF11	TAF11 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 28kDa	5289	0.01483258418738842	-0.19946717	No	
+row_22	PDCD6	PDCD6	programmed cell death 6	5414	0.005462992005050182	-0.21073502	No	
+row_23	SUMO1	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	5504	-0.0014547808095812798	-0.218916	No	
+row_24	ETFA	ETFA	electron-transfer-flavoprotein, alpha polypeptide (glutaric aciduria II)	5526	-0.003315851790830493	-0.22073358	No	
+row_25	ARF3	ARF3	ADP-ribosylation factor 3	5590	-0.007727070711553097	-0.22627054	No	
+row_26	EEF1D	EEF1D	eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein)	5748	-0.02036411501467228	-0.24002697	No	
+row_27	PSMB2	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	5873	-0.031209440901875496	-0.2503181	No	
+row_28	PSMB4	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	5909	-0.03426709771156311	-0.25225708	No	
+row_29	SRP9	SRP9	signal recognition particle 9kDa	6173	-0.058061450719833374	-0.27439278	No	
+row_30	ATIC	ATIC	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase	6368	-0.07287269830703735	-0.28958127	No	
+row_31	COX4I1	COX4I1	cytochrome c oxidase subunit IV isoform 1	6426	-0.07731466740369797	-0.2919231	No	
+row_32	MRPL9	MRPL9	mitochondrial ribosomal protein L9	6617	-0.09345978498458862	-0.30596042	No	
+row_33	PSMC3	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	6647	-0.0963214784860611	-0.30499005	No	
+row_34	DCTN2	DCTN2	dynactin 2 (p50)	6821	-0.11168310046195984	-0.31676283	No	
+row_35	FIBP	FIBP	fibroblast growth factor (acidic) intracellular binding protein	7042	-0.12937062978744507	-0.3322141	No	
+row_36	ATP5J2	ATP5J2	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F2	7096	-0.1334868222475052	-0.3320548	No	
+row_37	CLTA	CLTA	clathrin, light chain (Lca)	7099	-0.13359393179416656	-0.32717183	No	
+row_38	VTI1B	VTI1B	vesicle transport through interaction with t-SNAREs homolog 1B (yeast)	7120	-0.1351262927055359	-0.3238965	No	
+row_39	NDUFS1	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)	7156	-0.13803349435329437	-0.32189897	No	
+row_40	CNBP	CNBP	CCHC-type zinc finger, nucleic acid binding protein	7168	-0.13888727128505707	-0.31764808	No	
+row_41	PSMD9	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	7427	-0.16232649981975555	-0.33536568	No	
+row_42	JTB	JTB	jumping translocation breakpoint	7437	-0.1628672182559967	-0.33001998	No	
+row_43	PSMD7	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	7486	-0.16814729571342468	-0.3280831	No	
+row_44	DDX49	DDX49	DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	8045	-0.21983741223812103	-0.3713813	No	
+row_45	CANX	CANX	calnexin	8156	-0.23046649992465973	-0.3728178	No	
+row_46	COX7A2L	COX7A2L	cytochrome c oxidase subunit VIIa polypeptide 2 like	8165	-0.23133666813373566	-0.36478212	No	
+row_47	PRMT1	PRMT1	protein arginine methyltransferase 1	8311	-0.24686232209205627	-0.3688356	No	
+row_48	EIF4E2	EIF4E2	eukaryotic translation initiation factor 4E member 2	8854	-0.31022536754608154	-0.40722418	No	
+row_49	UBAP2L	UBAP2L	ubiquitin associated protein 2-like	8871	-0.3123331069946289	-0.39685613	No	
+row_50	BANF1	BANF1	barrier to autointegration factor 1	8997	-0.32807374000549316	-0.3959779	No	
+row_51	TUFM	TUFM	Tu translation elongation factor, mitochondrial	9052	-0.33402687311172485	-0.38830346	No	
+row_52	NDUFA2	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa	9730	-0.4256703555583954	-0.43480554	Yes	
+row_53	MBD4	MBD4	methyl-CpG binding domain protein 4	9773	-0.43437761068344116	-0.42221367	Yes	
+row_54	PSMA3	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	9791	-0.43724092841148376	-0.40719965	Yes	
+row_55	TUG1	TUG1	-	9793	-0.4373549818992615	-0.3907006	Yes	
+row_56	NDUFV1	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa	9887	-0.4550378620624542	-0.38204458	Yes	
+row_57	KIAA0101	KIAA0101	KIAA0101	9894	-0.45578232407569885	-0.3653092	Yes	
+row_58	HARS2	HARS2	histidyl-tRNA synthetase 2	9943	-0.4616108238697052	-0.35223946	Yes	
+row_59	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.33993304	Yes	
+row_60	RALY	RALY	RNA binding protein, autoantigenic (hnRNP-associated with lethal yellow homolog (mouse))	10152	-0.5067469477653503	-0.33422002	Yes	
+row_61	ANP32B	ANP32B	acidic (leucine-rich) nuclear phosphoprotein 32 family, member B	10167	-0.5114414095878601	-0.3161135	Yes	
+row_62	VCP	VCP	valosin-containing protein	10178	-0.5139451026916504	-0.2975418	Yes	
+row_63	DRG1	DRG1	developmentally regulated GTP binding protein 1	10202	-0.5186378955841064	-0.27999514	Yes	
+row_64	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.2686711	Yes	
+row_65	SUMO2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10347	-0.5550322532653809	-0.25150204	Yes	
+row_66	ATP5C1	ATP5C1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	10387	-0.5656885504722595	-0.23365112	Yes	
+row_67	PPP6C	PPP6C	protein phosphatase 6, catalytic subunit	10449	-0.5842502117156982	-0.21713193	Yes	
+row_68	CFDP1	CFDP1	craniofacial development protein 1	10460	-0.5856122970581055	-0.19584148	Yes	
+row_69	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	-0.17506762	Yes	
+row_70	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.15608183	Yes	
+row_71	UBE4A	UBE4A	ubiquitination factor E4A (UFD2 homolog, yeast)	10542	-0.615145742893219	-0.13441132	Yes	
+row_72	SET	SET	SET translocation (myeloid leukemia-associated)	10597	-0.6403020024299622	-0.11511796	Yes	
+row_73	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	10645	-0.6610552668571472	-0.09438951	Yes	
+row_74	CCT2	CCT2	chaperonin containing TCP1, subunit 2 (beta)	10698	-0.6929426789283752	-0.072914094	Yes	
+row_75	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	-0.0493646	Yes	
+row_76	LYPLA1	LYPLA1	lysophospholipase I	10778	-0.7670669555664062	-0.023133822	Yes	
+row_77	COX5B	COX5B	cytochrome c oxidase subunit Vb	10835	-0.8635061979293823	0.0044419593	Yes	

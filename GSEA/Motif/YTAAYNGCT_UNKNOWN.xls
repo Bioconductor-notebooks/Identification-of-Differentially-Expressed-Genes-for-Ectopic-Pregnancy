@@ -1,0 +1,83 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CREM	CREM	cAMP responsive element modulator	99	0.8519414067268372	0.021923307	Yes	
+row_1	GATA3	GATA3	GATA binding protein 3	174	0.7816216945648193	0.04359496	Yes	
+row_2	HHEX	HHEX	homeobox, hematopoietically expressed	254	0.7295070886611938	0.06290201	Yes	
+row_3	CHMP2B	CHMP2B	chromatin modifying protein 2B	267	0.7208751440048218	0.08809663	Yes	
+row_4	CHRDL1	CHRDL1	chordin-like 1	294	0.7080586552619934	0.11152751	Yes	
+row_5	PI15	PI15	peptidase inhibitor 15	430	0.6465493440628052	0.122623116	Yes	
+row_6	VAMP3	VAMP3	vesicle-associated membrane protein 3 (cellubrevin)	441	0.6436527371406555	0.14518496	Yes	
+row_7	AMPD3	AMPD3	adenosine monophosphate deaminase (isoform E)	570	0.5993003845214844	0.15520443	Yes	
+row_8	EIF1	EIF1	eukaryotic translation initiation factor 1	669	0.5665778517723083	0.16680709	Yes	
+row_9	NDUFA4L2	NDUFA4L2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4-like 2	672	0.5656494498252869	0.1872631	Yes	
+row_10	EPSTI1	EPSTI1	epithelial stromal interaction 1 (breast)	745	0.5470795631408691	0.20056121	Yes	
+row_11	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	0.21746744	Yes	
+row_12	RAP2B	RAP2B	RAP2B, member of RAS oncogene family	923	0.5048971772193909	0.22228311	Yes	
+row_13	SYTL2	SYTL2	synaptotagmin-like 2	930	0.5042561292648315	0.24012852	Yes	
+row_14	LIMK2	LIMK2	LIM domain kinase 2	1006	0.4905107915401459	0.25108463	Yes	
+row_15	CD72	CD72	CD72 molecule	1051	0.4791179597377777	0.26449484	Yes	
+row_16	EFHD1	EFHD1	EF-hand domain family, member D1	1124	0.46709635853767395	0.27487427	Yes	
+row_17	PLA2R1	PLA2R1	phospholipase A2 receptor 1, 180kDa	1151	0.46116164326667786	0.2892956	Yes	
+row_18	PCBP1	PCBP1	poly(rC) binding protein 1	1394	0.413624107837677	0.28198594	Yes	
+row_19	CITED1	CITED1	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 1	1443	0.4054718613624573	0.29233843	Yes	
+row_20	ERO1LB	ERO1LB	ERO1-like beta (S. cerevisiae)	1768	0.3523648679256439	0.27520218	No	
+row_21	DOCK11	DOCK11	dedicator of cytokinesis 11	2038	0.31916138529777527	0.26194593	No	
+row_22	ZBTB47	ZBTB47	zinc finger and BTB domain containing 47	2384	0.2818358540534973	0.2402919	No	
+row_23	TRIM8	TRIM8	tripartite motif-containing 8	2423	0.27775081992149353	0.24690945	No	
+row_24	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	2588	0.2581649124622345	0.2411478	No	
+row_25	ZIC4	ZIC4	Zic family member 4	2774	0.23586063086986542	0.23262817	No	
+row_26	ATP13A4	ATP13A4	ATPase type 13A4	2926	0.21957796812057495	0.2266619	No	
+row_27	POFUT1	POFUT1	protein O-fucosyltransferase 1	3246	0.18799781799316406	0.2039906	No	
+row_28	RHBDL3	RHBDL3	rhomboid, veinlet-like 3 (Drosophila)	3316	0.18177267909049988	0.20423597	No	
+row_29	ONECUT2	ONECUT2	one cut domain, family member 2	3357	0.17742080986499786	0.20700723	No	
+row_30	PLAGL2	PLAGL2	pleiomorphic adenoma gene-like 2	3359	0.17704124748706818	0.21337509	No	
+row_31	ACCN3	ACCN3	amiloride-sensitive cation channel 3	3454	0.1676446497440338	0.21079053	No	
+row_32	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	3938	0.12421831488609314	0.17060944	No	
+row_33	ASAH1	ASAH1	N-acylsphingosine amidohydrolase (acid ceramidase) 1	4031	0.1173127070069313	0.16637337	No	
+row_34	PPP1R16B	PPP1R16B	protein phosphatase 1, regulatory (inhibitor) subunit 16B	4183	0.10412192344665527	0.156194	No	
+row_35	ZFPM2	ZFPM2	zinc finger protein, multitype 2	4710	0.05960775911808014	0.109674476	No	
+row_36	KLHL1	KLHL1	kelch-like 1 (Drosophila)	4741	0.0568314865231514	0.10897105	No	
+row_37	HOXC6	HOXC6	homeobox C6	4787	0.05286315083503723	0.106734194	No	
+row_38	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.10149471	No	
+row_39	ZNF238	ZNF238	zinc finger protein 238	4871	0.04574993625283241	0.102516145	No	
+row_40	ASB7	ASB7	ankyrin repeat and SOCS box-containing 7	5133	0.02715972438454628	0.07934504	No	
+row_41	APLN	APLN	apelin, AGTRL1 ligand	5182	0.023246437311172485	0.07574971	No	
+row_42	INA	INA	internexin neuronal intermediate filament protein, alpha	5195	0.02248171530663967	0.07545918	No	
+row_43	RUFY3	RUFY3	RUN and FYVE domain containing 3	5365	0.009338471107184887	0.060154706	No	
+row_44	PHEX	PHEX	phosphate regulating endopeptidase homolog, X-linked (hypophosphatemia, vitamin D resistant rickets)	5401	0.006502107251435518	0.05715183	No	
+row_45	BNC2	BNC2	basonuclin 2	5839	-0.02844930998980999	0.017734507	No	
+row_46	MEIS2	MEIS2	Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse)	6038	-0.04631497710943222	0.0010946532	No	
+row_47	LDB2	LDB2	LIM domain binding 2	6379	-0.0734785869717598	-0.027699687	No	
+row_48	RAB27A	RAB27A	RAB27A, member RAS oncogene family	6500	-0.08275271952152252	-0.035789	No	
+row_49	IL1RAPL1	IL1RAPL1	interleukin 1 receptor accessory protein-like 1	6568	-0.08987528085708618	-0.03871191	No	
+row_50	TRIM33	TRIM33	tripartite motif-containing 33	6729	-0.1034499928355217	-0.04974898	No	
+row_51	STIM2	STIM2	stromal interaction molecule 2	6807	-0.1107088103890419	-0.0528374	No	
+row_52	NR6A1	NR6A1	nuclear receptor subfamily 6, group A, member 1	6886	-0.1169094666838646	-0.05579213	No	
+row_53	PDE6D	PDE6D	phosphodiesterase 6D, cGMP-specific, rod, delta	7049	-0.13002906739711761	-0.06604445	No	
+row_54	DBP	DBP	D site of albumin promoter (albumin D-box) binding protein	7115	-0.13452212512493134	-0.067153	No	
+row_55	HRK	HRK	harakiri, BCL2 interacting protein (contains only BH3 domain)	7334	-0.15521655976772308	-0.08167042	No	
+row_56	PTGFR	PTGFR	prostaglandin F receptor (FP)	7460	-0.16541919112205505	-0.08720603	No	
+row_57	HOXC4	HOXC4	homeobox C4	7499	-0.16933570802211761	-0.084544644	No	
+row_58	HOXB7	HOXB7	homeobox B7	7754	-0.19350579380989075	-0.100997575	No	
+row_59	KCNIP4	KCNIP4	Kv channel interacting protein 4	8246	-0.24012580513954163	-0.13768966	No	
+row_60	WAPAL	WAPAL	wings apart-like homolog (Drosophila)	8262	-0.2417334020137787	-0.13025717	No	
+row_61	CTNND2	CTNND2	catenin (cadherin-associated protein), delta 2 (neural plakophilin-related arm-repeat protein)	8364	-0.252901166677475	-0.13037866	No	
+row_62	OTX2	OTX2	orthodenticle homolog 2 (Drosophila)	8722	-0.29534921050071716	-0.15265048	No	
+row_63	GAD1	GAD1	glutamate decarboxylase 1 (brain, 67kDa)	8983	-0.32616856694221497	-0.16481784	No	
+row_64	LMO4	LMO4	LIM domain only 4	9022	-0.3307003378868103	-0.15626809	No	
+row_65	OSR1	OSR1	odd-skipped related 1 (Drosophila)	9166	-0.3473791778087616	-0.15683013	No	
+row_66	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	-0.14819558	No	
+row_67	TYRO3	TYRO3	TYRO3 protein tyrosine kinase	9459	-0.3832162916660309	-0.15689258	No	
+row_68	FLRT3	FLRT3	fibronectin leucine rich transmembrane protein 3	9577	-0.4030933082103729	-0.15301459	No	
+row_69	HTR2C	HTR2C	5-hydroxytryptamine (serotonin) receptor 2C	9727	-0.425414115190506	-0.1512845	No	
+row_70	NRXN1	NRXN1	neurexin 1	9970	-0.4662874639034271	-0.15667242	No	
+row_71	SLC6A6	SLC6A6	solute carrier family 6 (neurotransmitter transporter, taurine), member 6	10084	-0.48985910415649414	-0.14925796	No	
+row_72	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	10342	-0.5542796850204468	-0.15282357	No	
+row_73	TSHZ1	TSHZ1	teashirt family zinc finger 1	10351	-0.5566075444221497	-0.13325295	No	
+row_74	PCBP2	PCBP2	poly(rC) binding protein 2	10360	-0.5586636662483215	-0.1136073	No	
+row_75	WWC1	WWC1	WW, C2 and coiled-coil domain containing 1	10363	-0.5592251420021057	-0.09338572	No	
+row_76	ATF3	ATF3	activating transcription factor 3	10444	-0.5828785300254822	-0.07952188	No	
+row_77	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	-0.061084602	No	
+row_78	ZADH2	ZADH2	zinc binding alcohol dehydrogenase, domain containing 2	10485	-0.5944041609764099	-0.03985702	No	
+row_79	DIO2	DIO2	deiodinase, iodothyronine, type II	10565	-0.6239538192749023	-0.024401719	No	
+row_80	VLDLR	VLDLR	very low density lipoprotein receptor	10664	-0.6690220832824707	-0.009060763	No	
+row_81	NUP54	NUP54	nucleoporin 54kDa	10806	-0.8013492226600647	0.007128212	No	

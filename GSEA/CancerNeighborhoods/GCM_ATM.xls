@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RENBP	RENBP	renin binding protein	530	0.6159930229187012	0.056053374	Yes	
+row_1	AANAT	AANAT	arylalkylamine N-acetyltransferase	536	0.6125356554985046	0.15983422	Yes	
+row_2	NR1H2	NR1H2	nuclear receptor subfamily 1, group H, member 2	807	0.5288107395172119	0.2249788	Yes	
+row_3	MICB	MICB	MHC class I polypeptide-related sequence B	843	0.5221877098083496	0.31062338	Yes	
+row_4	WAS	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	860	0.5181088447570801	0.3973224	Yes	
+row_5	ADRB3	ADRB3	adrenergic, beta-3-, receptor	1306	0.4282592236995697	0.42924988	Yes	
+row_6	AQP2	AQP2	aquaporin 2 (collecting duct)	1380	0.41613543033599854	0.4933494	Yes	
+row_7	MYBPC2	MYBPC2	myosin binding protein C, fast type	1651	0.37229278683662415	0.53185785	Yes	
+row_8	DRG2	DRG2	developmentally regulated GTP binding protein 2	2369	0.28318652510643005	0.5140647	No	
+row_9	KRT35	KRT35	keratin 35	4241	0.0990152508020401	0.35872662	No	
+row_10	HSF4	HSF4	heat shock transcription factor 4	5606	-0.00880516692996025	0.23469591	No	
+row_11	SCNN1G	SCNN1G	sodium channel, nonvoltage-gated 1, gamma	6474	-0.08057563006877899	0.16861807	No	
+row_12	TH	TH	tyrosine hydroxylase	6868	-0.11536454409360886	0.15208289	No	
+row_13	SIRPB1	SIRPB1	signal-regulatory protein beta 1	7539	-0.1724943220615387	0.11977766	No	
+row_14	MPP2	MPP2	membrane protein, palmitoylated 2 (MAGUK p55 subfamily member 2)	7907	-0.20713208615779877	0.12125221	No	
+row_15	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	8351	-0.2515755891799927	0.12329584	No	
+row_16	HSD17B3	HSD17B3	hydroxysteroid (17-beta) dehydrogenase 3	8781	-0.301859974861145	0.13518526	No	
+row_17	LTK	LTK	leukocyte tyrosine kinase	9113	-0.3418172001838684	0.16289355	No	

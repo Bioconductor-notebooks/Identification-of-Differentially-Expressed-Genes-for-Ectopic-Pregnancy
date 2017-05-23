@@ -1,0 +1,30 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	156	0.7956458926200867	0.068248816	Yes	
+row_1	HHEX	HHEX	homeobox, hematopoietically expressed	254	0.7295070886611938	0.13506505	Yes	
+row_2	PDLIM1	PDLIM1	PDZ and LIM domain 1 (elfin)	327	0.6935895085334778	0.20045468	Yes	
+row_3	GLRX	GLRX	glutaredoxin (thioltransferase)	432	0.6459597945213318	0.25795045	Yes	
+row_4	EGLN2	EGLN2	egl nine homolog 2 (C. elegans)	712	0.5531898736953735	0.2896914	Yes	
+row_5	MGST1	MGST1	microsomal glutathione S-transferase 1	743	0.5476391911506653	0.3437947	Yes	
+row_6	GLRX2	GLRX2	glutaredoxin 2	837	0.5226626992225647	0.38950065	Yes	
+row_7	SOD2	SOD2	superoxide dismutase 2, mitochondrial	1754	0.3548535704612732	0.34196365	Yes	
+row_8	GPX3	GPX3	glutathione peroxidase 3 (plasma)	1762	0.3535904884338379	0.37803572	Yes	
+row_9	PRDX4	PRDX4	peroxiredoxin 4	1907	0.3334672749042511	0.39939725	Yes	
+row_10	CDKN2D	CDKN2D	cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	1928	0.3309735059738159	0.43192318	Yes	
+row_11	SELS	SELS	-	2134	0.3096542954444885	0.44519246	Yes	
+row_12	STK25	STK25	serine/threonine kinase 25 (STE20 homolog, yeast)	2522	0.2657238841056824	0.43713352	Yes	
+row_13	OXSR1	OXSR1	oxidative-stress responsive 1	2958	0.21579371392726898	0.4194679	Yes	
+row_14	LSP1	LSP1	lymphocyte-specific protein 1	3002	0.2115272730588913	0.43747163	Yes	
+row_15	SBNO2	SBNO2	strawberry notch homolog 2 (Drosophila)	3078	0.20319637656211853	0.45166233	Yes	
+row_16	HMOX2	HMOX2	heme oxygenase (decycling) 2	3600	0.15409421920776367	0.41966718	No	
+row_17	ABCC1	ABCC1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	3925	0.12500882148742676	0.40280014	No	
+row_18	TXN	TXN	thioredoxin	3978	0.12093561887741089	0.4105677	No	
+row_19	NQO1	NQO1	NAD(P)H dehydrogenase, quinone 1	4784	0.05330262333154678	0.3419433	No	
+row_20	TXNRD2	TXNRD2	thioredoxin reductase 2	5792	-0.024394050240516663	0.25170806	No	
+row_21	MBP	MBP	myelin basic protein	6118	-0.05305278301239014	0.22727697	No	
+row_22	TXNRD1	TXNRD1	thioredoxin reductase 1	6315	-0.06891293078660965	0.2163767	No	
+row_23	NDUFA6	NDUFA6	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6, 14kDa	6420	-0.0770791545510292	0.21479979	No	
+row_24	GCLC	GCLC	glutamate-cysteine ligase, catalytic subunit	7319	-0.1535276472568512	0.14801528	No	
+row_25	NDUFS2	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)	7668	-0.1849483698606491	0.13516141	No	
+row_26	PRDX1	PRDX1	peroxiredoxin 1	9752	-0.42870858311653137	-0.012214521	No	
+row_27	PRDX2	PRDX2	peroxiredoxin 2	10058	-0.48414385318756104	0.009961451	No	
+row_28	PPP2R4	PPP2R4	protein phosphatase 2A, regulatory subunit B' (PR 53)	10584	-0.6350936889648438	0.027544934	No	

@@ -1,0 +1,39 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CORO2B	CORO2B	coronin, actin binding protein, 2B	1140	0.46340981125831604	-0.060577706	No	
+row_1	CILP	CILP	cartilage intermediate layer protein, nucleotide pyrophosphohydrolase	1220	0.44526755809783936	-0.025074665	No	
+row_2	ANXA2	ANXA2	annexin A2	1376	0.41656655073165894	6.632337E-4	No	
+row_3	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	-0.0013887244	No	
+row_4	MGC15885	MGC15885	-	2104	0.3134276866912842	-0.0022498663	No	
+row_5	RAB8B	RAB8B	RAB8B, member RAS oncogene family	2275	0.29522958397865295	0.010445474	No	
+row_6	PML	PML	promyelocytic leukemia	2604	0.2567673325538635	0.004877302	No	
+row_7	SEMA7A	SEMA7A	semaphorin 7A, GPI membrane anchor (John Milton Hagen blood group)	2789	0.2344762235879898	0.010443907	No	
+row_8	FAM96A	FAM96A	family with sequence similarity 96, member A	3018	0.21007074415683746	0.009608535	No	
+row_9	LOC283731	LOC283731	-	3532	0.16014453768730164	-0.022301333	No	
+row_10	ITGA11	ITGA11	integrin, alpha 11	3725	0.1427454799413681	-0.026286954	No	
+row_11	SLC24A1	SLC24A1	solute carrier family 24 (sodium/potassium/calcium exchanger), member 1	3795	0.13701406121253967	-0.019482736	No	
+row_12	ANKDD1A	ANKDD1A	ankyrin repeat and death domain containing 1A	4275	0.09641715884208679	-0.054381527	No	
+row_13	SENP8	SENP8	SUMO/sentrin specific peptidase family member 8	4490	0.07655241340398788	-0.0667562	No	
+row_14	HERC1	HERC1	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 1	4531	0.0740070566534996	-0.06333268	No	
+row_15	THAP10	THAP10	THAP domain containing 10	4652	0.06419762969017029	-0.06822775	No	
+row_16	SNX1	SNX1	sorting nexin 1	4739	0.05717242509126663	-0.07066311	No	
+row_17	OAZ2	OAZ2	ornithine decarboxylase antizyme 2	5183	0.02314506098628044	-0.1092836	No	
+row_18	DAPK2	DAPK2	death-associated protein kinase 2	5499	-0.0012592985294759274	-0.13820556	No	
+row_19	TLE3	TLE3	transducin-like enhancer of split 3 (E(sp1) homolog, Drosophila)	5774	-0.022872697561979294	-0.16127042	No	
+row_20	GCNT3	GCNT3	glucosaminyl (N-acetyl) transferase 3, mucin type	6583	-0.09110784530639648	-0.22701317	No	
+row_21	RBPMS2	RBPMS2	RNA binding protein with multiple splicing 2	7075	-0.1319730579853058	-0.2596017	No	
+row_22	CA12	CA12	carbonic anhydrase XII	7315	-0.15307144820690155	-0.26692846	No	
+row_23	SIN3A	SIN3A	SIN3 homolog A, transcription regulator (yeast)	7700	-0.18813608586788177	-0.2842548	No	
+row_24	CALML4	CALML4	calmodulin-like 4	7851	-0.20206524431705475	-0.27866784	No	
+row_25	PTPLAD1	PTPLAD1	protein tyrosine phosphatase-like A domain containing 1	8274	-0.2429254800081253	-0.29423288	No	
+row_26	TPM1	TPM1	tropomyosin 1 (alpha)	8952	-0.3222149908542633	-0.3256898	Yes	
+row_27	PKM2	PKM2	pyruvate kinase, muscle	9169	-0.347682923078537	-0.31219527	Yes	
+row_28	PARP6	PARP6	poly (ADP-ribose) polymerase family, member 6	9284	-0.35940757393836975	-0.28816974	Yes	
+row_29	MEGF11	MEGF11	multiple EGF-like-domains 11	9497	-0.3905259370803833	-0.27018952	Yes	
+row_30	LOC255177	LOC255177	-	9566	-0.4016173183917999	-0.23786674	Yes	
+row_31	NARG2	NARG2	NMDA receptor regulated 2	9810	-0.4405704140663147	-0.21793585	Yes	
+row_32	KIAA0101	KIAA0101	KIAA0101	9894	-0.45578232407569885	-0.18179122	Yes	
+row_33	MAP2K5	MAP2K5	mitogen-activated protein kinase kinase 5	9944	-0.4616936147212982	-0.14194375	Yes	
+row_34	FAM81A	FAM81A	family with sequence similarity 81, member A	10065	-0.48586997389793396	-0.10631933	Yes	
+row_35	UACA	UACA	uveal autoantigen with coiled-coil domains and ankyrin repeats	10267	-0.5339925289154053	-0.07353888	Yes	
+row_36	RPL4	RPL4	ribosomal protein L4	10303	-0.5446770191192627	-0.02442655	Yes	
+row_37	ZWILCH	ZWILCH	Zwilch, kinetochore associated, homolog (Drosophila)	10815	-0.8097435235977173	0.006269514	Yes	

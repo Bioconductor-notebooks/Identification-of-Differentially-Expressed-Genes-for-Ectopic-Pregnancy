@@ -1,0 +1,135 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FLOT1	FLOT1	flotillin 1	43	0.9407327771186829	0.017445415	Yes	
+row_1	ARRB1	ARRB1	arrestin, beta 1	80	0.8759592175483704	0.034065384	Yes	
+row_2	PLD1	PLD1	phospholipase D1, phosphatidylcholine-specific	161	0.7901567220687866	0.04463633	Yes	
+row_3	MCOLN1	MCOLN1	mucolipin 1	235	0.7413685917854309	0.054746244	Yes	
+row_4	HPSE	HPSE	heparanase	268	0.7203890681266785	0.068191856	Yes	
+row_5	PLEKHF1	PLEKHF1	pleckstrin homology domain containing, family F (with FYVE domain) member 1	291	0.7097420692443848	0.082324974	Yes	
+row_6	OSTM1	OSTM1	osteopetrosis associated transmembrane protein 1	312	0.7001681923866272	0.0964259	Yes	
+row_7	SLC44A2	SLC44A2	solute carrier family 44, member 2	343	0.6817582845687866	0.109176904	Yes	
+row_8	STARD3	STARD3	START domain containing 3	354	0.6767902374267578	0.12367512	Yes	
+row_9	ATP6V0C	ATP6V0C	ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c	396	0.6593964695930481	0.1348931	Yes	
+row_10	SCARB1	SCARB1	scavenger receptor class B, member 1	493	0.6286409497261047	0.14029369	Yes	
+row_11	MARCH1	MARCH1	membrane-associated ring finger (C3HC4) 1	541	0.6112520098686218	0.149856	Yes	
+row_12	AP1M1	AP1M1	adaptor-related protein complex 1, mu 1 subunit	656	0.5714406967163086	0.1522782	Yes	
+row_13	HLA-DRB4	HLA-DRB4	major histocompatibility complex, class II, DR beta 4	716	0.5524282455444336	0.15938325	Yes	
+row_14	CTNS	CTNS	cystinosis, nephropathic	722	0.5507973432540894	0.1714744	Yes	
+row_15	LAMP2	LAMP2	lysosomal-associated membrane protein 2	750	0.5465723872184753	0.1814227	Yes	
+row_16	TM6SF1	TM6SF1	transmembrane 6 superfamily member 1	756	0.5439197421073914	0.19335705	Yes	
+row_17	CYBASC3	CYBASC3	cytochrome b, ascorbate dependent 3	805	0.5291140675544739	0.20095389	Yes	
+row_18	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.21057063	Yes	
+row_19	GAA	GAA	glucosidase, alpha; acid (Pompe disease, glycogen storage disease type II)	874	0.5160138010978699	0.21842697	Yes	
+row_20	SLC15A3	SLC15A3	solute carrier family 15, member 3	888	0.5134684443473816	0.22892295	Yes	
+row_21	NCSTN	NCSTN	nicastrin	935	0.5030595064163208	0.23611188	Yes	
+row_22	VPS41	VPS41	vacuolar protein sorting 41 (yeast)	1003	0.49079442024230957	0.24106772	Yes	
+row_23	BLOC1S1	BLOC1S1	biogenesis of lysosome-related organelles complex-1, subunit 1	1149	0.4612685441970825	0.23809466	Yes	
+row_24	MYO7A	MYO7A	myosin VIIA	1217	0.4464915096759796	0.24204054	Yes	
+row_25	ANPEP	ANPEP	alanyl (membrane) aminopeptidase (aminopeptidase N, aminopeptidase M, microsomal aminopeptidase, CD13, p150)	1225	0.444934219121933	0.25153232	Yes	
+row_26	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	1231	0.4436311423778534	0.26118043	Yes	
+row_27	ATP6V1D	ATP6V1D	ATPase, H+ transporting, lysosomal 34kDa, V1 subunit D	1256	0.4374848008155823	0.26892102	Yes	
+row_28	DNAJC5	DNAJC5	DnaJ (Hsp40) homolog, subfamily C, member 5	1264	0.4355696737766266	0.27819932	Yes	
+row_29	NPC1	NPC1	Niemann-Pick disease, type C1	1370	0.41730397939682007	0.27794495	Yes	
+row_30	PNPLA7	PNPLA7	patatin-like phospholipase domain containing 7	1371	0.41723886132240295	0.2874565	Yes	
+row_31	ANXA2	ANXA2	annexin A2	1376	0.41656655073165894	0.2965807	Yes	
+row_32	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.30588123	Yes	
+row_33	ACP2	ACP2	acid phosphatase 2, lysosomal	1418	0.4097628593444824	0.3116875	Yes	
+row_34	ATP6V1C1	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1	1467	0.4014178216457367	0.31637332	Yes	
+row_35	HLA-DOA	HLA-DOA	major histocompatibility complex, class II, DO alpha	1484	0.399245947599411	0.32398635	Yes	
+row_36	RAB5C	RAB5C	RAB5C, member RAS oncogene family	1507	0.3940926790237427	0.33092377	Yes	
+row_37	ABCA2	ABCA2	ATP-binding cassette, sub-family A (ABC1), member 2	1508	0.39402011036872864	0.33990607	Yes	
+row_38	LMBRD1	LMBRD1	LMBR1 domain containing 1	1524	0.3920930027961731	0.34744906	Yes	
+row_39	NAPG	NAPG	N-ethylmaleimide-sensitive factor attachment protein, gamma	1572	0.3840009272098541	0.35183084	Yes	
+row_40	AP3D1	AP3D1	adaptor-related protein complex 3, delta 1 subunit	1607	0.37941962480545044	0.3573175	Yes	
+row_41	MARCH2	MARCH2	membrane-associated ring finger (C3HC4) 2	1638	0.37423405051231384	0.36305803	Yes	
+row_42	CUBN	CUBN	cubilin (intrinsic factor-cobalamin receptor)	1701	0.3638492524623871	0.36558506	Yes	
+row_43	SLC30A3	SLC30A3	solute carrier family 30 (zinc transporter), member 3	1757	0.35470709204673767	0.36855486	Yes	
+row_44	AHNAK	AHNAK	AHNAK nucleoprotein (desmoyokin)	1787	0.3501834571361542	0.37384015	Yes	
+row_45	RHEB	RHEB	Ras homolog enriched in brain	1790	0.3494910001754761	0.38162127	Yes	
+row_46	CD164	CD164	CD164 molecule, sialomucin	1873	0.3378320038318634	0.38169476	Yes	
+row_47	GNA11	GNA11	guanine nucleotide binding protein (G protein), alpha 11 (Gq class)	1929	0.3307911157608032	0.38411936	Yes	
+row_48	ATP6V1E1	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1	1943	0.32932180166244507	0.39041746	Yes	
+row_49	SLC12A4	SLC12A4	solute carrier family 12 (potassium/chloride transporters), member 4	1945	0.32914406061172485	0.39782774	Yes	
+row_50	TLR7	TLR7	toll-like receptor 7	1965	0.32696691155433655	0.40351403	Yes	
+row_51	VPS33A	VPS33A	vacuolar protein sorting 33 homolog A (S. cerevisiae)	2007	0.3230300545692444	0.40706402	Yes	
+row_52	ZFYVE26	ZFYVE26	zinc finger, FYVE domain containing 26	2010	0.3225022256374359	0.4142299	Yes	
+row_53	TMEM9B	TMEM9B	TMEM9 domain family, member B	2164	0.3065970838069916	0.40698668	Yes	
+row_54	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	2199	0.30352675914764404	0.41074324	Yes	
+row_55	CLCN7	CLCN7	chloride channel 7	2234	0.2991549074649811	0.41440013	Yes	
+row_56	VPS11	VPS11	vacuolar protein sorting 11 (yeast)	2327	0.28822582960128784	0.41241252	No	
+row_57	VPS33B	VPS33B	vacuolar protein sorting 33B (yeast)	2416	0.2781223654747009	0.41056672	No	
+row_58	GPR143	GPR143	G protein-coupled receptor 143	2559	0.2617691159248352	0.4033248	No	
+row_59	SLC30A4	SLC30A4	solute carrier family 30 (zinc transporter), member 4	2584	0.25862371921539307	0.40698797	No	
+row_60	HLA-DQB1	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	2737	0.24034389853477478	0.39832744	No	
+row_61	ANKFY1	ANKFY1	ankyrin repeat and FYVE domain containing 1	3139	0.19750532507896423	0.36552754	No	
+row_62	ATP6V1G1	ATP6V1G1	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1	3218	0.1904657930135727	0.36261368	No	
+row_63	HLA-DPB1	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	3405	0.17204107344150543	0.3492333	No	
+row_64	ACPP	ACPP	acid phosphatase, prostate	3439	0.16911627352237701	0.3500188	No	
+row_65	LRP1	LRP1	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)	3469	0.1665736883878708	0.35111842	No	
+row_66	AP2S1	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	3548	0.1591176688671112	0.34748992	No	
+row_67	ATP11A	ATP11A	ATPase, Class VI, type 11A	3856	0.1309472620487213	0.32191694	No	
+row_68	AP2A1	AP2A1	adaptor-related protein complex 2, alpha 1 subunit	4205	0.10185234248638153	0.29186672	No	
+row_69	SPHK2	SPHK2	sphingosine kinase 2	4251	0.09836146235466003	0.28992295	No	
+row_70	GPLD1	GPLD1	glycosylphosphatidylinositol specific phospholipase D1	4389	0.08577615022659302	0.27913418	No	
+row_71	OCA2	OCA2	oculocutaneous albinism II (pink-eye dilution homolog, mouse)	4450	0.08031222224235535	0.27538362	No	
+row_72	GDAP2	GDAP2	ganglioside induced differentiation associated protein 2	4469	0.07792384177446365	0.27548558	No	
+row_73	TPCN2	TPCN2	two pore segment channel 2	4534	0.07388833910226822	0.27121648	No	
+row_74	COL6A1	COL6A1	collagen, type VI, alpha 1	4559	0.07214480638504028	0.27062857	No	
+row_75	DAB2	DAB2	disabled homolog 2, mitogen-responsive phosphoprotein (Drosophila)	4690	0.061447981745004654	0.25993636	No	
+row_76	STARD3NL	STARD3NL	STARD3 N-terminal like	4692	0.06141618266701698	0.2612434	No	
+row_77	GNAI3	GNAI3	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3	4917	0.04211420938372612	0.24136625	No	
+row_78	CD1B	CD1B	CD1b molecule	4984	0.03736642375588417	0.23607855	No	
+row_79	IMP5	IMP5	-	5420	0.005030200816690922	0.19572811	No	
+row_80	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	5547	-0.004416901618242264	0.18410785	No	
+row_81	ATP6V1A	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A	5560	-0.005261389072984457	0.18311152	No	
+row_82	AP2A2	AP2A2	adaptor-related protein complex 2, alpha 2 subunit	5581	-0.006486812606453896	0.18139893	No	
+row_83	SLC7A14	SLC7A14	solute carrier family 7 (cationic amino acid transporter, y+ system), member 14	5704	-0.015766318887472153	0.17040952	No	
+row_84	EEF1A1	EEF1A1	eukaryotic translation elongation factor 1 alpha 1	5898	-0.03342108428478241	0.15321791	No	
+row_85	EEF1A2	EEF1A2	eukaryotic translation elongation factor 1 alpha 2	5937	-0.036779481917619705	0.15052147	No	
+row_86	HGSNAT	HGSNAT	heparan-alpha-glucosaminide N-acetyltransferase	5985	-0.04112767055630684	0.14708695	No	
+row_87	TMEM63A	TMEM63A	transmembrane protein 63A	6183	-0.05877567082643509	0.13010123	No	
+row_88	WDR41	WDR41	WD repeat domain 41	6216	-0.06083839759230614	0.1285114	No	
+row_89	IGF2R	IGF2R	insulin-like growth factor 2 receptor	6318	-0.06913866102695465	0.12069217	No	
+row_90	SLC15A4	SLC15A4	solute carrier family 15, member 4	6398	-0.0752381831407547	0.115058504	No	
+row_91	CLN3	CLN3	ceroid-lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	6540	-0.08642321825027466	0.10391237	No	
+row_92	HM13	HM13	histocompatibility (minor) 13	6605	-0.09265074878931046	0.10007099	No	
+row_93	TLR3	TLR3	toll-like receptor 3	6628	-0.09442276507616043	0.10017699	No	
+row_94	LNPEP	LNPEP	leucyl/cystinyl aminopeptidase	6706	-0.10073316842317581	0.09531056	No	
+row_95	VAMP8	VAMP8	vesicle-associated membrane protein 8 (endobrevin)	6800	-0.11007102578878403	0.08916864	No	
+row_96	AP3B1	AP3B1	adaptor-related protein complex 3, beta 1 subunit	6826	-0.11206495761871338	0.08939774	No	
+row_97	EGF	EGF	epidermal growth factor (beta-urogastrone)	6844	-0.11356203258037567	0.090405166	No	
+row_98	OSBPL1A	OSBPL1A	oxysterol binding protein-like 1A	6929	-0.12100094556808472	0.08534961	No	
+row_99	AP1S2	AP1S2	adaptor-related protein complex 1, sigma 2 subunit	6996	-0.12589934468269348	0.08208014	No	
+row_100	HLA-DQA1	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	7098	-0.13357144594192505	0.07572975	No	
+row_101	CLTA	CLTA	clathrin, light chain (Lca)	7099	-0.13359393179416656	0.07877523	No	
+row_102	VTI1B	VTI1B	vesicle transport through interaction with t-SNAREs homolog 1B (yeast)	7120	-0.1351262927055359	0.07999517	No	
+row_103	ABCA5	ABCA5	ATP-binding cassette, sub-family A (ABC1), member 5	7137	-0.1363544762134552	0.0816152	No	
+row_104	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	7505	-0.17001192271709442	0.051351342	No	
+row_105	ABCB9	ABCB9	ATP-binding cassette, sub-family B (MDR/TAP), member 9	7847	-0.20165061950683594	0.024227342	No	
+row_106	RAB14	RAB14	RAB14, member RAS oncogene family	8048	-0.22008655965328217	0.010639894	No	
+row_107	AP1S3	AP1S3	adaptor-related protein complex 1, sigma 3 subunit	8248	-0.24018698930740356	-0.0023963107	No	
+row_108	TMEM9	TMEM9	transmembrane protein 9	8343	-0.2506391108036041	-0.0054268017	No	
+row_109	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	8402	-0.2586412727832794	-0.0049260342	No	
+row_110	TMEM165	TMEM165	transmembrane protein 165	8430	-0.2617477774620056	-0.0014707284	No	
+row_111	SORT1	SORT1	sortilin 1	8547	-0.2743884027004242	-0.0060063303	No	
+row_112	NSF	NSF	N-ethylmaleimide-sensitive factor	8572	-0.2767719626426697	-0.001929456	No	
+row_113	DNAJC13	DNAJC13	DnaJ (Hsp40) homolog, subfamily C, member 13	8602	-0.28012385964393616	0.0017587137	No	
+row_114	STX8	STX8	syntaxin 8	8678	-0.2905791997909546	0.0014061587	No	
+row_115	SIDT2	SIDT2	SID1 transmembrane family, member 2	8764	-0.29969528317451477	3.3118596E-4	No	
+row_116	VAMP1	VAMP1	vesicle-associated membrane protein 1 (synaptobrevin 1)	8892	-0.3144291341304779	-0.004314883	No	
+row_117	VPS35	VPS35	vacuolar protein sorting 35 (yeast)	9027	-0.3313618302345276	-0.009226109	No	
+row_118	MYO6	MYO6	myosin VI	9311	-0.36247435212135315	-0.027288543	No	
+row_119	AP1S1	AP1S1	adaptor-related protein complex 1, sigma 1 subunit	9447	-0.38159942626953125	-0.03114755	No	
+row_120	AP1M2	AP1M2	adaptor-related protein complex 1, mu 2 subunit	9455	-0.3824905455112457	-0.023079267	No	
+row_121	ABCC10	ABCC10	ATP-binding cassette, sub-family C (CFTR/MRP), member 10	9590	-0.4053697884082794	-0.02630337	No	
+row_122	SPPL2B	SPPL2B	-	9601	-0.40656226873397827	-0.017965406	No	
+row_123	SLC11A2	SLC11A2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	9655	-0.4143681526184082	-0.013449494	No	
+row_124	TRIM23	TRIM23	tripartite motif-containing 23	9754	-0.42897525429725647	-0.012786637	No	
+row_125	TMEM106B	TMEM106B	transmembrane protein 106B	9821	-0.4423271417617798	-0.008842661	No	
+row_126	PSEN1	PSEN1	presenilin 1 (Alzheimer disease 3)	10207	-0.51967453956604	-0.032809854	No	
+row_127	KIAA1609	KIAA1609	KIAA1609	10214	-0.5213792324066162	-0.021482369	No	
+row_128	HSPA8	HSPA8	heat shock 70kDa protein 8	10216	-0.5218904614448547	-0.009678116	No	
+row_129	SCARB2	SCARB2	scavenger receptor class B, member 2	10374	-0.5625383853912354	-0.011458859	No	
+row_130	CLCN5	CLCN5	chloride channel 5 (nephrolithiasis 2, X-linked, Dent disease)	10390	-0.5667381286621094	6.543859E-5	No	
+row_131	GOPC	GOPC	golgi associated PDZ and coiled-coil motif containing	10591	-0.6371524333953857	-0.0040143654	No	
+row_132	CLTC	CLTC	clathrin, heavy chain (Hc)	10627	-0.6533210873603821	0.0076232566	No	
+row_133	STX17	STX17	syntaxin 17	10719	-0.7061404585838318	0.015255673	No	

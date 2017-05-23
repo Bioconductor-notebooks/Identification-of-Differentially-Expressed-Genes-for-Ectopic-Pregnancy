@@ -1,0 +1,112 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TIMP2	TIMP2	TIMP metallopeptidase inhibitor 2	47	0.9335247874259949	0.019093223	Yes	
+row_1	NLGN2	NLGN2	neuroligin 2	59	0.9147552847862244	0.041056525	Yes	
+row_2	PPAP2B	PPAP2B	phosphatidic acid phosphatase type 2B	70	0.8979034423828125	0.06268923	Yes	
+row_3	CRTAM	CRTAM	cytotoxic and regulatory T cell molecule	78	0.8803237676620483	0.084158696	Yes	
+row_4	FGG	FGG	fibrinogen gamma chain	120	0.8277233839035034	0.101150475	Yes	
+row_5	VTN	VTN	vitronectin	152	0.801798403263092	0.1184191	Yes	
+row_6	TSPAN4	TSPAN4	tetraspanin 4	193	0.769349992275238	0.134037	Yes	
+row_7	THY1	THY1	Thy-1 cell surface antigen	224	0.7483233213424683	0.15005483	Yes	
+row_8	MFGE8	MFGE8	milk fat globule-EGF factor 8 protein	306	0.7017759084701538	0.16016902	Yes	
+row_9	PVRL2	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	333	0.6898292303085327	0.1750884	Yes	
+row_10	ADAMTS5	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif, 5 (aggrecanase-2)	428	0.647803008556366	0.18263976	Yes	
+row_11	MMP14	MMP14	matrix metallopeptidase 14 (membrane-inserted)	444	0.6425198316574097	0.19739151	Yes	
+row_12	ILK	ILK	integrin-linked kinase	446	0.6421979665756226	0.21343471	Yes	
+row_13	NLGN4Y	NLGN4Y	neuroligin 4, Y-linked	469	0.6359021067619324	0.22737041	Yes	
+row_14	PVR	PVR	poliovirus receptor	479	0.6325870156288147	0.24242952	Yes	
+row_15	CD226	CD226	CD226 molecule	510	0.6227232217788696	0.2552915	Yes	
+row_16	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	0.24427529	Yes	
+row_17	ITGA5	ITGA5	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	783	0.5351638793945312	0.25707218	Yes	
+row_18	MMP24	MMP24	matrix metallopeptidase 24 (membrane-inserted)	808	0.5285928845405579	0.26812595	Yes	
+row_19	FXYD5	FXYD5	FXYD domain containing ion transport regulator 5	852	0.5198726058006287	0.27719694	Yes	
+row_20	WISP3	WISP3	WNT1 inducible signaling pathway protein 3	975	0.49572423100471497	0.27832803	Yes	
+row_21	NCR3	NCR3	natural cytotoxicity triggering receptor 3	990	0.4931564927101135	0.28941965	Yes	
+row_22	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1077	0.47552821040153503	0.29338497	Yes	
+row_23	FBLN5	FBLN5	fibulin 5	1087	0.4730991721153259	0.30443677	Yes	
+row_24	ANXA7	ANXA7	annexin A7	1133	0.4646455645561218	0.31193444	Yes	
+row_25	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1183	0.4526088535785675	0.3187584	Yes	
+row_26	PTPRM	PTPRM	protein tyrosine phosphatase, receptor type, M	1203	0.4487053155899048	0.32826903	Yes	
+row_27	P4HB	P4HB	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide	1268	0.43510115146636963	0.33326072	Yes	
+row_28	LAMB2	LAMB2	laminin, beta 2 (laminin S)	1563	0.3846903443336487	0.3156361	Yes	
+row_29	PVRL3	PVRL3	poliovirus receptor-related 3	1622	0.37650975584983826	0.31971255	Yes	
+row_30	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	1720	0.3604777157306671	0.319766	Yes	
+row_31	DMP1	DMP1	dentin matrix acidic phosphoprotein	1722	0.35995393991470337	0.32871747	Yes	
+row_32	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	0.3321578	Yes	
+row_33	CD46	CD46	CD46 molecule, complement regulatory protein	1841	0.3423885107040405	0.33528408	Yes	
+row_34	GPNMB	GPNMB	glycoprotein (transmembrane) nmb	1982	0.3254634439945221	0.3304663	Yes	
+row_35	FBN1	FBN1	fibrillin 1	2035	0.3194338381290436	0.3336656	Yes	
+row_36	ECM2	ECM2	extracellular matrix protein 2, female organ and adipocyte specific	2222	0.30079394578933716	0.32395804	Yes	
+row_37	FCER2	FCER2	Fc fragment of IgE, low affinity II, receptor for (CD23)	2244	0.2983380854129791	0.32950485	Yes	
+row_38	VWF	VWF	von Willebrand factor	2250	0.2976096272468567	0.33651856	Yes	
+row_39	ADAM11	ADAM11	ADAM metallopeptidase domain 11	2295	0.29260924458503723	0.33978644	Yes	
+row_40	POSTN	POSTN	periostin, osteoblast specific factor	2430	0.27725860476493835	0.3343144	No	
+row_41	TLN1	TLN1	talin 1	2635	0.2521447241306305	0.32171363	No	
+row_42	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2725	0.2422666698694229	0.3195395	No	
+row_43	LILRB2	LILRB2	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 2	2762	0.23737624287605286	0.32216218	No	
+row_44	SEMA7A	SEMA7A	semaphorin 7A, GPI membrane anchor (John Milton Hagen blood group)	2789	0.2344762235879898	0.32564023	No	
+row_45	SYK	SYK	spleen tyrosine kinase	2814	0.23133614659309387	0.32922506	No	
+row_46	EMP2	EMP2	epithelial membrane protein 2	2822	0.2304747849702835	0.33436626	No	
+row_47	ITGB1BP1	ITGB1BP1	integrin beta 1 binding protein 1	2870	0.22534169256687164	0.3356655	No	
+row_48	ADAM9	ADAM9	ADAM metallopeptidase domain 9 (meltrin gamma)	3034	0.2078825831413269	0.32575837	No	
+row_49	ICAM1	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	3264	0.1862606257200241	0.30918157	No	
+row_50	SFRP2	SFRP2	secreted frizzled-related protein 2	3353	0.17777056992053986	0.3054797	No	
+row_51	ACTN1	ACTN1	actinin, alpha 1	3452	0.1678929477930069	0.30060142	No	
+row_52	SELL	SELL	selectin L (lymphocyte adhesion molecule 1)	3527	0.1606404036283493	0.29776868	No	
+row_53	ADAM10	ADAM10	ADAM metallopeptidase domain 10	3563	0.15739504992961884	0.29847455	No	
+row_54	WISP1	WISP1	WNT1 inducible signaling pathway protein 1	3615	0.1531592160463333	0.29758883	No	
+row_55	FGB	FGB	fibrinogen beta chain	3702	0.14570169150829315	0.29326683	No	
+row_56	ITGB1BP2	ITGB1BP2	integrin beta 1 binding protein (melusin) 2	3890	0.12757878005504608	0.27911422	No	
+row_57	TNXB	TNXB	tenascin XB	3949	0.12347273528575897	0.2768328	No	
+row_58	NF2	NF2	neurofibromin 2 (bilateral acoustic neuroma)	3952	0.12319538742303848	0.27974257	No	
+row_59	PVRL1	PVRL1	poliovirus receptor-related 1 (herpesvirus entry mediator C; nectin)	3989	0.12018760293722153	0.27942076	No	
+row_60	ADAM2	ADAM2	ADAM metallopeptidase domain 2 (fertilin beta)	4084	0.1123618483543396	0.27351847	No	
+row_61	FBLN1	FBLN1	fibulin 1	4371	0.08800198137760162	0.24918178	No	
+row_62	CDH17	CDH17	cadherin 17, LI cadherin (liver-intestine)	4457	0.07968844473361969	0.24329396	No	
+row_63	ADAM22	ADAM22	ADAM metallopeptidase domain 22	4969	0.03864924982190132	0.19683167	No	
+row_64	PXN	PXN	paxillin	5058	0.03304290026426315	0.18949334	No	
+row_65	FN1	FN1	fibronectin 1	5175	0.023436052724719048	0.17931454	No	
+row_66	ADAM17	ADAM17	ADAM metallopeptidase domain 17 (tumor necrosis factor, alpha, converting enzyme)	5181	0.023289674893021584	0.1794356	No	
+row_67	DST	DST	dystonin	5224	0.01981372758746147	0.17603481	No	
+row_68	ITGA4	ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	5469	0.0010385802015662193	0.15341169	No	
+row_69	ACTN3	ACTN3	actinin, alpha 3	5507	-0.0016223107231780887	0.15001795	No	
+row_70	GFAP	GFAP	glial fibrillary acidic protein	5587	-0.007394535467028618	0.14287059	No	
+row_71	CTNND1	CTNND1	catenin (cadherin-associated protein), delta 1	5622	-0.009633040055632591	0.1399566	No	
+row_72	AMICA1	AMICA1	adhesion molecule, interacts with CXADR antigen 1	6505	-0.08292156457901001	0.06016876	No	
+row_73	EDIL3	EDIL3	EGF-like repeats and discoidin I-like domains 3	6676	-0.0983496829867363	0.04685973	No	
+row_74	MADCAM1	MADCAM1	mucosal vascular addressin cell adhesion molecule 1	6727	-0.10327232629060745	0.044813346	No	
+row_75	LPHN1	LPHN1	latrophilin 1	6849	-0.11387485265731812	0.03644281	No	
+row_76	NOV	NOV	nephroblastoma overexpressed gene	7309	-0.15258459746837616	-0.0023298252	No	
+row_77	SLC14A2	SLC14A2	solute carrier family 14 (urea transporter), member 2	7398	-0.16009388864040375	-0.0064758346	No	
+row_78	CYR61	CYR61	cysteine-rich, angiogenic inducer, 61	7399	-0.16017873585224152	-0.002451143	No	
+row_79	NUMB	NUMB	numb homolog (Drosophila)	7603	-0.17826925218105316	-0.016815308	No	
+row_80	AKAP5	AKAP5	A kinase (PRKA) anchor protein 5	7614	-0.17942102253437042	-0.013235377	No	
+row_81	NRXN2	NRXN2	neurexin 2	7706	-0.1889052391052246	-0.016935939	No	
+row_82	ERBB2IP	ERBB2IP	erbb2 interacting protein	7875	-0.20373761653900146	-0.027411317	No	
+row_83	FGFR1	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	7909	-0.2072267383337021	-0.0252677	No	
+row_84	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	7984	-0.21340517699718475	-0.02677465	No	
+row_85	COL4A3	COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)	8015	-0.2156892567873001	-0.024139926	No	
+row_86	ANGPTL3	ANGPTL3	angiopoietin-like 3	8321	-0.2479313462972641	-0.04622186	No	
+row_87	ICAM5	ICAM5	intercellular adhesion molecule 5, telencephalin	8362	-0.252573162317276	-0.043588627	No	
+row_88	THBS1	THBS1	thrombospondin 1	8752	-0.29891130328178406	-0.072186895	No	
+row_89	CTNNA1	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	8988	-0.3267988860607147	-0.08578946	No	
+row_90	LAMA5	LAMA5	laminin, alpha 5	9141	-0.34463492035865784	-0.09123942	No	
+row_91	CD9	CD9	CD9 molecule	9302	-0.36062124371528625	-0.097030304	No	
+row_92	PKP3	PKP3	plakophilin 3	9322	-0.36439722776412964	-0.08963803	No	
+row_93	PTPN2	PTPN2	protein tyrosine phosphatase, non-receptor type 2	9429	-0.3785429894924164	-0.08996608	No	
+row_94	ITGB6	ITGB6	integrin, beta 6	9612	-0.4078923761844635	-0.09661136	No	
+row_95	ESM1	ESM1	endothelial cell-specific molecule 1	9726	-0.4251060485839844	-0.09641922	No	
+row_96	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.08848811	No	
+row_97	COL5A1	COL5A1	collagen, type V, alpha 1	9759	-0.430505633354187	-0.07767111	No	
+row_98	CD200	CD200	CD200 molecule	9787	-0.4366647005081177	-0.06920563	No	
+row_99	NRXN1	NRXN1	neurexin 1	9970	-0.4662874639034271	-0.07438366	No	
+row_100	NLGN3	NLGN3	neuroligin 3	10072	-0.4875648617744446	-0.071508266	No	
+row_101	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	10096	-0.4928477704524994	-0.061259817	No	
+row_102	ANK3	ANK3	ankyrin 3, node of Ranvier (ankyrin G)	10163	-0.5103659629821777	-0.054562658	No	
+row_103	PSEN1	PSEN1	presenilin 1 (Alzheimer disease 3)	10207	-0.51967453956604	-0.045496643	No	
+row_104	CLDN7	CLDN7	claudin 7	10312	-0.5481394529342651	-0.041377716	No	
+row_105	LTBP4	LTBP4	latent transforming growth factor beta binding protein 4	10401	-0.5702211856842041	-0.035218764	No	
+row_106	ICAM4	ICAM4	intercellular adhesion molecule 4 (Landsteiner-Wiener blood group)	10441	-0.5816370844841003	-0.024224563	No	
+row_107	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.0113346595	No	
+row_108	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.006030095	No	
+row_109	PTPRD	PTPRD	protein tyrosine phosphatase, receptor type, D	10632	-0.6558500528335571	0.00543643	No	
+row_110	EGFL6	EGFL6	EGF-like-domain, multiple 6	10721	-0.7072186470031738	0.015037617	No	

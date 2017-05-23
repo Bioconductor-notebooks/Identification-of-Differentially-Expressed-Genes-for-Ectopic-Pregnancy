@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	245	0.7341944575309753	0.04877471	Yes	
+row_1	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.093704194	Yes	
+row_2	CD247	CD247	CD247 molecule	792	0.5319358706474304	0.11287668	Yes	
+row_3	VAV1	VAV1	vav 1 oncogene	859	0.5181168913841248	0.15714337	Yes	
+row_4	LAT	LAT	linker for activation of T cells	893	0.5127918124198914	0.20393239	Yes	
+row_5	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	946	0.5011234879493713	0.2478374	Yes	
+row_6	FYN	FYN	FYN oncogene related to SRC, FGR, YES	1346	0.4208412170410156	0.25197735	Yes	
+row_7	PPP3CC	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)	1399	0.4126199185848236	0.28728235	Yes	
+row_8	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.28776294	Yes	
+row_9	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1869	0.3382832407951355	0.31133088	Yes	
+row_10	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	0.3437803	Yes	
+row_11	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	1902	0.33409827947616577	0.37375808	Yes	
+row_12	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.39189714	Yes	
+row_13	TRA@	TRA@	T cell receptor alpha locus	2140	0.3091440796852112	0.413002	Yes	
+row_14	NFATC2	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	2714	0.24373674392700195	0.38390446	No	
+row_15	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	4190	0.10301537811756134	0.25804505	No	
+row_16	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	4385	0.08635181933641434	0.2485657	No	
+row_17	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	6080	-0.04925861209630966	0.09730949	No	
+row_18	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	0.10159654	No	
+row_19	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	-0.016601874	No	
+row_20	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	-0.014736322	No	
+row_21	PLCG1	PLCG1	phospholipase C, gamma 1	8440	-0.2628726661205292	-0.05385726	No	
+row_22	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	-0.09063735	No	
+row_23	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	9353	-0.36760300397872925	-0.06772074	No	
+row_24	ELK1	ELK1	ELK1, member of ETS oncogene family	9576	-0.4029989540576935	-0.049010202	No	
+row_25	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	9967	-0.4657366871833801	-0.03967864	No	
+row_26	NFATC3	NFATC3	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3	10173	-0.5132340788841248	-0.008690413	No	
+row_27	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	10771	-0.7615377902984619	0.010316828	No	

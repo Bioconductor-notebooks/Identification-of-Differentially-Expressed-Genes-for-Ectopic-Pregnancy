@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.18503489	Yes	
+row_1	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.24198611	Yes	
+row_2	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.32112843	Yes	
+row_3	STAT4	STAT4	signal transducer and activator of transcription 4	1095	0.47118377685546875	0.3433613	Yes	
+row_4	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1539	0.3899523913860321	0.3612828	Yes	
+row_5	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.3934983	Yes	
+row_6	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.41620928	Yes	
+row_7	STAT6	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	2098	0.3144935965538025	0.45848137	Yes	
+row_8	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	4385	0.08635181933641434	0.26109698	No	
+row_9	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	0.11204986	No	
+row_10	EGF	EGF	epidermal growth factor (beta-urogastrone)	6844	-0.11356203258037567	0.059567016	No	
+row_11	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	0.020404141	No	
+row_12	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	8.00523E-4	No	
+row_13	PLCG1	PLCG1	phospholipase C, gamma 1	8440	-0.2628726661205292	0.013123979	No	
+row_14	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	0.04020972	No	
+row_15	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	0.03752479	No	
+row_16	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	9353	-0.36760300397872925	0.080059715	No	
+row_17	ELK1	ELK1	ELK1, member of ETS oncogene family	9576	-0.4029989540576935	0.1202835	No	

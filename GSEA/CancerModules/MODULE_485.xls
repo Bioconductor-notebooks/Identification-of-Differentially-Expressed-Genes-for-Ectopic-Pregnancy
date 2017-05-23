@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACYP2	ACYP2	acylphosphatase 2, muscle type	69	0.9002652764320374	0.13947621	No	
+row_1	MAP1A	MAP1A	microtubule-associated protein 1A	1011	0.48947131633758545	0.13211514	No	
+row_2	PDK2	PDK2	pyruvate dehydrogenase kinase, isozyme 2	4000	0.11961841583251953	-0.12364656	No	
+row_3	GRIK2	GRIK2	glutamate receptor, ionotropic, kainate 2	4119	0.10950788110494614	-0.11677345	No	
+row_4	SLC40A1	SLC40A1	solute carrier family 40 (iron-regulated transporter), member 1	4396	0.08445235341787338	-0.12850776	No	
+row_5	SNRPB	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	4711	0.05949946492910385	-0.14778318	No	
+row_6	NQO1	NQO1	NAD(P)H dehydrogenase, quinone 1	4784	0.05330262333154678	-0.14577876	No	
+row_7	GPC5	GPC5	glypican 5	5048	0.033454082906246185	-0.164577	No	
+row_8	IPPK	IPPK	inositol 1,3,4,5,6-pentakisphosphate 2-kinase	5137	0.0270208939909935	-0.16830315	No	
+row_9	BDH1	BDH1	3-hydroxybutyrate dehydrogenase, type 1	6053	-0.04721396416425705	-0.24490932	No	
+row_10	ARHGEF16	ARHGEF16	Rho guanine exchange factor (GEF) 16	6073	-0.048834625631570816	-0.23874837	No	
+row_11	ARL2	ARL2	ADP-ribosylation factor-like 2	6355	-0.07197795063257217	-0.25296375	No	
+row_12	ZNF777	ZNF777	zinc finger protein 777	6436	-0.0777914822101593	-0.24772917	No	
+row_13	NT5DC2	NT5DC2	5'-nucleotidase domain containing 2	7304	-0.15232029557228088	-0.30288976	No	
+row_14	POLE	POLE	polymerase (DNA directed), epsilon	7558	-0.17363658547401428	-0.29805967	No	
+row_15	HOOK1	HOOK1	hook homolog 1 (Drosophila)	7768	-0.19457024335861206	-0.28578708	No	
+row_16	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	8092	-0.2246864289045334	-0.27913335	No	
+row_17	RRM2	RRM2	ribonucleotide reductase M2 polypeptide	8925	-0.3188234865665436	-0.30410004	No	
+row_18	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.30684653	Yes	
+row_19	KIAA0101	KIAA0101	KIAA0101	9894	-0.45578232407569885	-0.25106436	Yes	
+row_20	ELF3	ELF3	E74-like factor 3 (ets domain transcription factor, epithelial-specific )	9940	-0.4612160921096802	-0.18049775	Yes	
+row_21	CD24	CD24	CD24 molecule	10045	-0.4813879132270813	-0.11209639	Yes	
+row_22	AURKA	AURKA	aurora kinase A	10321	-0.5496861338615417	-0.04837757	Yes	
+row_23	MSX2	MSX2	msh homeobox homolog 2 (Drosophila)	10548	-0.617556095123291	0.030847158	Yes	

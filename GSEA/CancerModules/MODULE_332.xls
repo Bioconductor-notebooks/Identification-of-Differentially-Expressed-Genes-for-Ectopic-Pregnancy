@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	XPO4	XPO4	exportin 4	686	0.5629860162734985	0.017146314	No	
+row_1	GTF3A	GTF3A	general transcription factor IIIA	2606	0.25614893436431885	-0.12298849	No	
+row_2	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	-0.13847433	No	
+row_3	NUFIP2	NUFIP2	nuclear fragile X mental retardation protein interacting protein 2	3209	0.19148515164852142	-0.122117214	No	
+row_4	SUCLA2	SUCLA2	succinate-CoA ligase, ADP-forming, beta subunit	3486	0.16468869149684906	-0.124036305	No	
+row_5	DGCR5	DGCR5	DiGeorge syndrome critical region gene 5 (non-coding)	4342	0.0902319848537445	-0.18988073	No	
+row_6	NPPA	NPPA	natriuretic peptide precursor A	5098	0.02964436449110508	-0.25516075	No	
+row_7	TPP2	TPP2	tripeptidyl peptidase II	5485	-1.2681512453127652E-4	-0.2906794	No	
+row_8	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	-0.32275736	No	
+row_9	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	7609	-0.17886771261692047	-0.4559628	No	
+row_10	GTF2F2	GTF2F2	general transcription factor IIF, polypeptide 2, 30kDa	7675	-0.18552036583423615	-0.435485	No	
+row_11	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	-0.48673275	Yes	
+row_12	NR4A1	NR4A1	nuclear receptor subfamily 4, group A, member 1	8751	-0.2988564074039459	-0.45008916	Yes	
+row_13	USPL1	USPL1	ubiquitin specific peptidase like 1	8921	-0.3182390630245209	-0.4202555	Yes	
+row_14	RBM39	RBM39	RNA binding motif protein 39	9071	-0.33671748638153076	-0.3859449	Yes	
+row_15	PUM2	PUM2	pumilio homolog 2 (Drosophila)	9127	-0.3434589207172394	-0.3420187	Yes	
+row_16	EWSR1	EWSR1	Ewing sarcoma breakpoint region 1	9425	-0.3781188130378723	-0.31542826	Yes	
+row_17	CUL4A	CUL4A	cullin 4A	10066	-0.48593685030937195	-0.305037	Yes	
+row_18	FAM48A	FAM48A	family with sequence similarity 48, member A	10300	-0.5440313220024109	-0.24888928	Yes	
+row_19	PCBP2	PCBP2	poly(rC) binding protein 2	10360	-0.5586636662483215	-0.17463532	Yes	
+row_20	STK24	STK24	serine/threonine kinase 24 (STE20 homolog, yeast)	10492	-0.5963195562362671	-0.101638876	Yes	
+row_21	EML4	EML4	echinoderm microtubule associated protein like 4	10866	-0.9642980098724365	0.0015651733	Yes	

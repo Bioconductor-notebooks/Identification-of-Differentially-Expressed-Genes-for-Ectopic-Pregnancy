@@ -1,0 +1,41 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	-0.04482001	No	
+row_1	ITPR1	ITPR1	inositol 1,4,5-triphosphate receptor, type 1	1068	0.4766588807106018	-0.023813419	No	
+row_2	NDUFB1	NDUFB1	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 1, 7kDa	1098	0.4708869755268097	0.009113846	No	
+row_3	ELMO1	ELMO1	engulfment and cell motility 1	1325	0.4249025583267212	0.02039772	No	
+row_4	WNT4	WNT4	wingless-type MMTV integration site family, member 4	1364	0.4185129702091217	0.048535284	No	
+row_5	CYP26A1	CYP26A1	cytochrome P450, family 26, subfamily A, polypeptide 1	1672	0.36958223581314087	0.04816708	No	
+row_6	RGAG1	RGAG1	retrotransposon gag domain containing 1	2145	0.3085986375808716	0.027972402	No	
+row_7	WWP2	WWP2	WW domain containing E3 ubiquitin protein ligase 2	2165	0.3065822422504425	0.04939953	No	
+row_8	AGRP	AGRP	agouti related protein homolog (mouse)	2669	0.24903900921344757	0.021843106	No	
+row_9	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	2847	0.227557972073555	0.022725308	No	
+row_10	UBE2B	UBE2B	ubiquitin-conjugating enzyme E2B (RAD6 homolog)	4164	0.1057344377040863	-0.090638034	No	
+row_11	ABAT	ABAT	4-aminobutyrate aminotransferase	4247	0.0984756201505661	-0.09075454	No	
+row_12	GFER	GFER	growth factor, augmenter of liver regeneration (ERV1 homolog, S. cerevisiae)	4461	0.07925856113433838	-0.10440437	No	
+row_13	TFAP2D	TFAP2D	transcription factor AP-2 delta (activating enhancer binding protein 2 delta)	4866	0.046404480934143066	-0.13815157	No	
+row_14	POLR3D	POLR3D	polymerase (RNA) III (DNA directed) polypeptide D, 44kDa	4986	0.037343528121709824	-0.14630201	No	
+row_15	PBX3	PBX3	pre-B-cell leukemia transcription factor 3	5240	0.018340669572353363	-0.16824622	No	
+row_16	MRPL38	MRPL38	mitochondrial ribosomal protein L38	5350	0.01049395278096199	-0.17750448	No	
+row_17	RNF26	RNF26	ring finger protein 26	6041	-0.0465947762131691	-0.23761131	No	
+row_18	TMEM178	TMEM178	transmembrane protein 178	6417	-0.07682869583368301	-0.266384	No	
+row_19	ATP8B2	ATP8B2	ATPase, Class I, type 8B, member 2	7748	-0.19284968078136444	-0.374452	No	
+row_20	CHCHD5	CHCHD5	coiled-coil-helix-coiled-coil-helix domain containing 5	7775	-0.1951349377632141	-0.3620964	No	
+row_21	THRA	THRA	thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)	8075	-0.22333459556102753	-0.37278396	No	
+row_22	CSTF3	CSTF3	cleavage stimulation factor, 3' pre-RNA, subunit 3, 77kDa	8381	-0.2554212808609009	-0.38159892	No	
+row_23	TPM4	TPM4	tropomyosin 4	8576	-0.2770771086215973	-0.3785405	No	
+row_24	HOXA4	HOXA4	homeobox A4	8718	-0.29468291997909546	-0.36926347	No	
+row_25	GNPAT	GNPAT	glyceronephosphate O-acyltransferase	8807	-0.3049926459789276	-0.35431948	No	
+row_26	TSC1	TSC1	tuberous sclerosis 1	9461	-0.38334739208221436	-0.38555402	Yes	
+row_27	SMS	SMS	spermine synthase	9523	-0.3952122628688812	-0.3612991	Yes	
+row_28	FLRT3	FLRT3	fibronectin leucine rich transmembrane protein 3	9577	-0.4030933082103729	-0.33571061	Yes	
+row_29	NEUROG1	NEUROG1	neurogenin 1	9853	-0.4495883584022522	-0.327079	Yes	
+row_30	ZFP37	ZFP37	zinc finger protein 37 homolog (mouse)	9855	-0.4499755799770355	-0.29315066	Yes	
+row_31	WBSCR16	WBSCR16	Williams-Beuren syndrome chromosome region 16	9879	-0.4537566900253296	-0.26096523	Yes	
+row_32	CPSF2	CPSF2	cleavage and polyadenylation specific factor 2, 100kDa	10055	-0.48330944776535034	-0.24056242	Yes	
+row_33	ZFX	ZFX	zinc finger protein, X-linked	10099	-0.4934338927268982	-0.20722152	Yes	
+row_34	WHSC2	WHSC2	Wolf-Hirschhorn syndrome candidate 2	10145	-0.5053682327270508	-0.17316276	Yes	
+row_35	NDUFS8	NDUFS8	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)	10269	-0.5345879793167114	-0.14408775	Yes	
+row_36	CFDP1	CFDP1	craniofacial development protein 1	10460	-0.5856122970581055	-0.11733355	Yes	
+row_37	EHD3	EHD3	EH-domain containing 3	10643	-0.6596940159797668	-0.084240645	Yes	
+row_38	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	-0.03568268	Yes	
+row_39	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	0.012633718	Yes	

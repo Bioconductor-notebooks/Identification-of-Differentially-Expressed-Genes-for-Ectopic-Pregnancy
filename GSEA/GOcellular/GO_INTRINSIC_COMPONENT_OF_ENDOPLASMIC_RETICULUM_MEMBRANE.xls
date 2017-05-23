@@ -1,0 +1,73 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STIM1	STIM1	stromal interaction molecule 1	29	0.9937036633491516	0.041397985	Yes	
+row_1	INSIG2	INSIG2	insulin induced gene 2	350	0.6777254939079285	0.0418648	Yes	
+row_2	DHRS9	DHRS9	dehydrogenase/reductase (SDR family) member 9	365	0.6743113398551941	0.07048205	Yes	
+row_3	ELOVL1	ELOVL1	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 1	369	0.6727821230888367	0.100048855	Yes	
+row_4	RTN4	RTN4	reticulon 4	422	0.6489858031272888	0.12402807	Yes	
+row_5	SGPL1	SGPL1	sphingosine-1-phosphate lyase 1	465	0.6372098326683044	0.1484098	Yes	
+row_6	PIGK	PIGK	phosphatidylinositol glycan anchor biosynthesis, class K	504	0.6242178082466125	0.17258517	Yes	
+row_7	BFAR	BFAR	bifunctional apoptosis regulator	518	0.6203703284263611	0.19890212	Yes	
+row_8	DERL1	DERL1	Der1-like domain family, member 1	576	0.5979816913604736	0.22015636	Yes	
+row_9	TAP2	TAP2	transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)	615	0.5888063907623291	0.2427609	Yes	
+row_10	TMEM33	TMEM33	transmembrane protein 33	633	0.5812694430351257	0.2669734	Yes	
+row_11	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.29161078	Yes	
+row_12	HLA-DRB4	HLA-DRB4	major histocompatibility complex, class II, DR beta 4	716	0.5524282455444336	0.30954945	Yes	
+row_13	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.32224408	Yes	
+row_14	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.33422115	Yes	
+row_15	FKBP8	FKBP8	FK506 binding protein 8, 38kDa	958	0.4983239769935608	0.3550317	Yes	
+row_16	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.35369217	Yes	
+row_17	DERL2	DERL2	Der1-like domain family, member 2	1297	0.429466187953949	0.36293915	Yes	
+row_18	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.37390733	Yes	
+row_19	SACM1L	SACM1L	SAC1 suppressor of actin mutations 1-like (yeast)	1548	0.3876732289791107	0.37556604	Yes	
+row_20	WFS1	WFS1	Wolfram syndrome 1 (wolframin)	1705	0.36337578296661377	0.37725678	Yes	
+row_21	RTN1	RTN1	reticulon 1	1709	0.36302822828292847	0.39308307	Yes	
+row_22	DPM2	DPM2	dolichyl-phosphate mannosyltransferase polypeptide 2, regulatory subunit	1913	0.3326728045940399	0.38906482	Yes	
+row_23	PIGG	PIGG	phosphatidylinositol glycan anchor biosynthesis, class G	2065	0.3167541027069092	0.3891499	Yes	
+row_24	SELS	SELS	-	2134	0.3096542954444885	0.3965967	Yes	
+row_25	G6PC3	G6PC3	glucose 6 phosphatase, catalytic, 3	2142	0.3088669776916504	0.40965047	Yes	
+row_26	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	2199	0.30352675914764404	0.41793534	Yes	
+row_27	HLA-DQB1	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	2737	0.24034389853477478	0.37892982	No	
+row_28	SLC37A2	SLC37A2	solute carrier family 37 (glycerol-3-phosphate transporter), member 2	2876	0.22447022795677185	0.3761236	No	
+row_29	HLA-DPB1	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	3405	0.17204107344150543	0.33492064	No	
+row_30	RTN2	RTN2	reticulon 2	3691	0.14643700420856476	0.31505692	No	
+row_31	SAMD8	SAMD8	sterile alpha motif domain containing 8	3726	0.14265593886375427	0.3182404	No	
+row_32	BNIP1	BNIP1	BCL2/adenovirus E1B 19kDa interacting protein 1	4124	0.10907001793384552	0.28636023	No	
+row_33	EDEM1	EDEM1	ER degradation enhancer, mannosidase alpha-like 1	4338	0.09043677151203156	0.27067164	No	
+row_34	TMEM85	TMEM85	transmembrane protein 85	4778	0.053726453334093094	0.23245187	No	
+row_35	ELOVL6	ELOVL6	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	4847	0.04799878969788551	0.22829176	No	
+row_36	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	5184	0.023122919723391533	0.1982409	No	
+row_37	IMP5	IMP5	-	5420	0.005030200816690922	0.17672893	No	
+row_38	RRBP1	RRBP1	ribosome binding protein 1 homolog 180kDa (dog)	5789	-0.024152887985110283	0.14376408	No	
+row_39	SLC37A4	SLC37A4	solute carrier family 37 (glycerol-6-phosphate transporter), member 4	5965	-0.03939270228147507	0.1293258	No	
+row_40	ELOVL4	ELOVL4	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4	5979	-0.040529392659664154	0.1299213	No	
+row_41	ERN1	ERN1	endoplasmic reticulum to nucleus signalling 1	6112	-0.052495650947093964	0.120041326	No	
+row_42	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.087214015	No	
+row_43	CLN3	CLN3	ceroid-lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	6540	-0.08642321825027466	0.08818052	No	
+row_44	HM13	HM13	histocompatibility (minor) 13	6605	-0.09265074878931046	0.08637111	No	
+row_45	SLC37A1	SLC37A1	solute carrier family 37 (glycerol-3-phosphate transporter), member 1	6610	-0.09273871034383774	0.090114996	No	
+row_46	COX4NB	COX4NB	COX4 neighbor	6701	-0.10016608238220215	0.08623423	No	
+row_47	TAPBP	TAPBP	TAP binding protein (tapasin)	6739	-0.10429192334413528	0.08743844	No	
+row_48	SLC27A5	SLC27A5	solute carrier family 27 (fatty acid transporter), member 5	6745	-0.10479574650526047	0.09162468	No	
+row_49	CREB3	CREB3	cAMP responsive element binding protein 3	6850	-0.11387698352336884	0.08705726	No	
+row_50	DERL3	DERL3	Der1-like domain family, member 3	7017	-0.1274336725473404	0.077356845	No	
+row_51	SLC35B2	SLC35B2	solute carrier family 35, member B2	7051	-0.1303255259990692	0.08008585	No	
+row_52	HLA-DQA1	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	7098	-0.13357144594192505	0.08175648	No	
+row_53	SLC35B4	SLC35B4	solute carrier family 35, member B4	7191	-0.14106278121471405	0.07950489	No	
+row_54	PIGS	PIGS	phosphatidylinositol glycan anchor biosynthesis, class S	7484	-0.16795340180397034	0.05994819	No	
+row_55	CYP2E1	CYP2E1	cytochrome P450, family 2, subfamily E, polypeptide 1	7492	-0.16873280704021454	0.06678566	No	
+row_56	ABCB9	ABCB9	ATP-binding cassette, sub-family B (MDR/TAP), member 9	7847	-0.20165061950683594	0.042989384	No	
+row_57	GPAA1	GPAA1	glycosylphosphatidylinositol anchor attachment protein 1 homolog (yeast)	7914	-0.20778991281986237	0.04610251	No	
+row_58	CANX	CANX	calnexin	8156	-0.23046649992465973	0.03403584	No	
+row_59	KIAA0090	KIAA0090	KIAA0090	8176	-0.23227015137672424	0.04258192	No	
+row_60	ASPH	ASPH	aspartate beta-hydroxylase	8327	-0.24850846827030182	0.039732154	No	
+row_61	SLC35B3	SLC35B3	solute carrier family 35, member B3	8487	-0.2674688696861267	0.036891054	No	
+row_62	G6PC	G6PC	glucose-6-phosphatase, catalytic subunit	8774	-0.30079853534698486	0.023782237	No	
+row_63	EXT1	EXT1	exostoses (multiple) 1	8789	-0.302933007478714	0.035925332	No	
+row_64	PIGT	PIGT	phosphatidylinositol glycan anchor biosynthesis, class T	8911	-0.316650390625	0.038780514	No	
+row_65	TM7SF2	TM7SF2	transmembrane 7 superfamily member 2	9172	-0.3478337824344635	0.03016289	No	
+row_66	PORCN	PORCN	porcupine homolog (Drosophila)	9333	-0.36579808592796326	0.031591136	No	
+row_67	RNF180	RNF180	ring finger protein 180	9361	-0.36897140741348267	0.045461297	No	
+row_68	SPPL2B	SPPL2B	-	9601	-0.40656226873397827	0.041391123	No	
+row_69	UPK2	UPK2	uroplakin 2	9724	-0.4250020980834961	0.048960242	No	
+row_70	RHBDD1	RHBDD1	rhomboid domain containing 1	10443	-0.5828467607498169	0.008407334	No	
+row_71	DPAGT1	DPAGT1	dolichyl-phosphate (UDP-N-acetylglucosamine) N-acetylglucosaminephosphotransferase 1 (GlcNAc-1-P transferase)	10736	-0.7257945537567139	0.013596182	No	

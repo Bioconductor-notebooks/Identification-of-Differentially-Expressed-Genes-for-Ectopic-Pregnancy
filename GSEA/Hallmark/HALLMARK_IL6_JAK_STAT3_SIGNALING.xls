@@ -1,0 +1,61 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.060558364	Yes	
+row_1	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.11617629	Yes	
+row_2	IL18R1	IL18R1	interleukin 18 receptor 1	158	0.7955359220504761	0.14177024	Yes	
+row_3	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	164	0.7893309593200684	0.1802693	Yes	
+row_4	IL15RA	IL15RA	interleukin 15 receptor, alpha	167	0.7880962491035461	0.21898457	Yes	
+row_5	CSF1	CSF1	colony stimulating factor 1 (macrophage)	273	0.718683123588562	0.24475776	Yes	
+row_6	IL1R1	IL1R1	interleukin 1 receptor, type I	284	0.7123434543609619	0.2789948	Yes	
+row_7	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.31150112	Yes	
+row_8	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.28719625	Yes	
+row_9	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.3074635	Yes	
+row_10	IL13RA1	IL13RA1	interleukin 13 receptor, alpha 1	916	0.5062903165817261	0.3314375	Yes	
+row_11	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1077	0.47552821040153503	0.34012738	Yes	
+row_12	IL1B	IL1B	interleukin 1, beta	1178	0.4545525014400482	0.35332513	Yes	
+row_13	FAS	FAS	Fas (TNF receptor superfamily, member 6)	1213	0.4470568597316742	0.37225047	Yes	
+row_14	CRLF2	CRLF2	cytokine receptor-like factor 2	1216	0.446546733379364	0.394107	Yes	
+row_15	PIM1	PIM1	pim-1 oncogene	1300	0.42919424176216125	0.4076237	Yes	
+row_16	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	1311	0.4271478056907654	0.42778364	Yes	
+row_17	IL4R	IL4R	interleukin 4 receptor	1322	0.4254031479358673	0.44785744	Yes	
+row_18	REG1A	REG1A	regenerating islet-derived 1 alpha (pancreatic stone protein, pancreatic thread protein)	1430	0.40763962268829346	0.4580929	Yes	
+row_19	IL10RB	IL10RB	interleukin 10 receptor, beta	1481	0.3996853828430176	0.4732018	Yes	
+row_20	IFNGR1	IFNGR1	interferon gamma receptor 1	1550	0.3873807489871979	0.4860404	Yes	
+row_21	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	1629	0.3751145899295807	0.49734968	Yes	
+row_22	PIK3R5	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5, p101	1699	0.3640553057193756	0.5089445	Yes	
+row_23	ACVRL1	ACVRL1	activin A receptor type II-like 1	1938	0.32976365089416504	0.5032333	Yes	
+row_24	EBI3	EBI3	Epstein-Barr virus induced gene 3	1939	0.3296132981777191	0.5195029	Yes	
+row_25	SOCS3	SOCS3	suppressor of cytokine signaling 3	1985	0.3247014284133911	0.53137255	Yes	
+row_26	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.5419168	Yes	
+row_27	DNTT	DNTT	deoxynucleotidyltransferase, terminal	2184	0.30475953221321106	0.5439329	Yes	
+row_28	IL7	IL7	interleukin 7	2188	0.30445414781570435	0.5586835	Yes	
+row_29	IL9R	IL9R	interleukin 9 receptor	2326	0.2884211540222168	0.56026274	Yes	
+row_30	TNFRSF12A	TNFRSF12A	tumor necrosis factor receptor superfamily, member 12A	2340	0.2871865928173065	0.5732371	Yes	
+row_31	CNTFR	CNTFR	ciliary neurotrophic factor receptor	2820	0.23065724968910217	0.54036874	No	
+row_32	ACVR1B	ACVR1B	activin A receptor, type IB	2835	0.22922798991203308	0.5503899	No	
+row_33	CSF2	CSF2	colony stimulating factor 2 (granulocyte-macrophage)	2951	0.21648748219013214	0.5504511	No	
+row_34	STAM2	STAM2	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2	3085	0.20274627208709717	0.54817104	No	
+row_35	LTBR	LTBR	lymphotoxin beta receptor (TNFR superfamily, member 3)	3172	0.19428522884845734	0.54981554	No	
+row_36	CSF2RA	CSF2RA	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)	3636	0.15135309100151062	0.5145109	No	
+row_37	HAX1	HAX1	HCLS1 associated protein X-1	3637	0.15134461224079132	0.52198124	No	
+row_38	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	3810	0.13557729125022888	0.51278263	No	
+row_39	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	4177	0.10438903421163559	0.4841215	No	
+row_40	LTB	LTB	lymphotoxin beta (TNF superfamily, member 3)	4712	0.05941455811262131	0.43771935	No	
+row_41	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	5045	0.033715587109327316	0.40871096	No	
+row_42	CXCL11	CXCL11	chemokine (C-X-C motif) ligand 11	5136	0.027039935812354088	0.40173078	No	
+row_43	PTPN11	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	5407	0.006076879799365997	0.37708616	No	
+row_44	ITGA4	ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	5469	0.0010385802015662193	0.3715018	No	
+row_45	CD36	CD36	CD36 molecule (thrombospondin receptor)	5848	-0.029118184000253677	0.33801666	No	
+row_46	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	6008	-0.043398335576057434	0.32546923	No	
+row_47	INHBE	INHBE	inhibin, beta E	6228	-0.0618368498980999	0.30828863	No	
+row_48	LEPR	LEPR	leptin receptor	6321	-0.06920856982469559	0.3032051	No	
+row_49	IFNGR2	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)	6340	-0.07026460021734238	0.30501035	No	
+row_50	IRF1	IRF1	interferon regulatory factor 1	6401	-0.0753432959318161	0.30318603	No	
+row_51	IL3RA	IL3RA	interleukin 3 receptor, alpha (low affinity)	6564	-0.08963263779878616	0.29264352	No	
+row_52	CXCL1	CXCL1	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	6648	-0.09637056291103363	0.2897322	No	
+row_53	CCL7	CCL7	chemokine (C-C motif) ligand 7	6951	-0.12289208173751831	0.2678971	No	
+row_54	PF4	PF4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	6987	-0.12532223761081696	0.2708494	No	
+row_55	CXCL3	CXCL3	chemokine (C-X-C motif) ligand 3	7955	-0.21110931038856506	0.19193114	No	
+row_56	CD9	CD9	CD9 molecule	9302	-0.36062124371528625	0.08537795	No	
+row_57	PTPN2	PTPN2	protein tyrosine phosphatase, non-receptor type 2	9429	-0.3785429894924164	0.092421845	No	
+row_58	PDGFC	PDGFC	platelet derived growth factor C	9462	-0.3834275007247925	0.10839124	No	
+row_59	CD44	CD44	CD44 molecule (Indian blood group)	9946	-0.4618864953517914	0.08656667	No	

@@ -1,0 +1,42 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIST1H1C	HIST1H1C	histone cluster 1, H1c	581	0.5971025824546814	-0.007948987	No	
+row_1	HIST1H1E	HIST1H1E	histone cluster 1, H1e	1389	0.41485005617141724	-0.050669685	No	
+row_2	PER1	PER1	period homolog 1 (Drosophila)	1773	0.35150575637817383	-0.05912795	No	
+row_3	ACTB	ACTB	actin, beta	1930	0.33078357577323914	-0.04823475	No	
+row_4	SMARCB1	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	1996	0.32387420535087585	-0.029477099	No	
+row_5	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	2588	0.2581649124622345	-0.06425188	No	
+row_6	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	2766	0.23700666427612305	-0.062462382	No	
+row_7	HMGN3	HMGN3	high mobility group nucleosomal binding domain 3	2865	0.22631026804447174	-0.054204553	No	
+row_8	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	3380	0.17508181929588318	-0.08822766	No	
+row_9	HMGN4	HMGN4	high mobility group nucleosomal binding domain 4	4615	0.06712505221366882	-0.19690372	No	
+row_10	MBD3	MBD3	methyl-CpG binding domain protein 3	4658	0.06366045773029327	-0.1959119	No	
+row_11	THRB	THRB	thyroid hormone receptor, beta (erythroblastic leukemia viral (v-erb-a) oncogene homolog 2, avian)	4933	0.04098781943321228	-0.21804914	No	
+row_12	INSM1	INSM1	insulinoma-associated 1	5818	-0.02710164710879326	-0.2975051	No	
+row_13	MYOD1	MYOD1	myogenic differentiation 1	6150	-0.055831488221883774	-0.32376477	No	
+row_14	ACTL6A	ACTL6A	actin-like 6A	6210	-0.06066611781716347	-0.3245696	No	
+row_15	NEUROG3	NEUROG3	neurogenin 3	6424	-0.0773082822561264	-0.3383053	No	
+row_16	RARA	RARA	retinoic acid receptor, alpha	6930	-0.12100757658481598	-0.37563103	No	
+row_17	GATA1	GATA1	GATA binding protein 1 (globin transcription factor 1)	7041	-0.129303440451622	-0.3758937	No	
+row_18	GRHL3	GRHL3	grainyhead-like 3 (Drosophila)	7360	-0.1577325165271759	-0.39316657	No	
+row_19	GRHL1	GRHL1	grainyhead-like 1 (Drosophila)	7459	-0.16539528965950012	-0.38956422	No	
+row_20	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	-0.40045777	No	
+row_21	THRA	THRA	thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)	8075	-0.22333459556102753	-0.4144692	Yes	
+row_22	SMARCC2	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	8256	-0.24132594466209412	-0.4126263	Yes	
+row_23	PITX2	PITX2	paired-like homeodomain transcription factor 2	8400	-0.258428692817688	-0.40606394	Yes	
+row_24	HMGN2	HMGN2	high-mobility group nucleosomal binding domain 2	8708	-0.294057697057724	-0.41190356	Yes	
+row_25	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	8712	-0.29435455799102783	-0.389684	Yes	
+row_26	H1F0	H1F0	H1 histone family, member 0	9070	-0.33670878410339355	-0.39687526	Yes	
+row_27	SUZ12	SUZ12	suppressor of zeste 12 homolog (Drosophila)	9231	-0.3554827868938446	-0.38446334	Yes	
+row_28	H2AFY2	H2AFY2	H2A histone family, member Y2	9245	-0.35674309730529785	-0.35839793	Yes	
+row_29	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	9431	-0.378663033246994	-0.34652004	Yes	
+row_30	RCC1	RCC1	regulator of chromosome condensation 1	9457	-0.38301581144332886	-0.31955343	Yes	
+row_31	H3F3A	H3F3A	H3 histone, family 3A	9820	-0.4422759711742401	-0.31913778	Yes	
+row_32	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.29369968	Yes	
+row_33	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.2731524	Yes	
+row_34	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.24601372	Yes	
+row_35	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	-0.2204512	Yes	
+row_36	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.17815176	Yes	
+row_37	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.1334012	Yes	
+row_38	MYOG	MYOG	myogenin (myogenic factor 4)	10637	-0.657709002494812	-0.09088227	Yes	
+row_39	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	10699	-0.6934834122657776	-0.043508086	Yes	
+row_40	H2AFY	H2AFY	H2A histone family, member Y	10799	-0.7901180982589722	0.007746907	Yes	

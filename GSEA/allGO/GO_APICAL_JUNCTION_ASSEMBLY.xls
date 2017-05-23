@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TBCD	TBCD	tubulin-specific chaperone d	1538	0.3902484178543091	-0.091939576	No	
+row_1	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	-0.06954321	No	
+row_2	CLDN1	CLDN1	claudin 1	4978	0.03783503174781799	-0.3589401	No	
+row_3	ARL2	ARL2	ADP-ribosylation factor-like 2	6355	-0.07197795063257217	-0.47645256	No	
+row_4	FBF1	FBF1	Fas (TNFRSF6) binding factor 1	6796	-0.10988247394561768	-0.50297934	No	
+row_5	MPP7	MPP7	membrane protein, palmitoylated 7 (MAGUK p55 subfamily member 7)	8106	-0.2262599915266037	-0.5946985	Yes	
+row_6	MARVELD3	MARVELD3	MARVEL domain containing 3	8372	-0.253905713558197	-0.5867949	Yes	
+row_7	ECT2	ECT2	epithelial cell transforming sequence 2 oncogene	8421	-0.2611542046070099	-0.5579932	Yes	
+row_8	DLG5	DLG5	discs, large homolog 5 (Drosophila)	8498	-0.26816749572753906	-0.5308769	Yes	
+row_9	WNT11	WNT11	wingless-type MMTV integration site family, member 11	8865	-0.31117579340934753	-0.5249858	Yes	
+row_10	CTNNA1	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	8988	-0.3267988860607147	-0.4946458	Yes	
+row_11	RAMP2	RAMP2	receptor (calcitonin) activity modifying protein 2	9068	-0.33661389350891113	-0.4590989	Yes	
+row_12	PKN2	PKN2	protein kinase N2	9636	-0.4125291705131531	-0.45881823	Yes	
+row_13	F11R	F11R	F11 receptor	9743	-0.4273240864276886	-0.41421795	Yes	
+row_14	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.36078593	Yes	
+row_15	PARD6G	PARD6G	par-6 partitioning defective 6 homolog gamma (C. elegans)	9895	-0.45583537220954895	-0.3153205	Yes	
+row_16	CRB3	CRB3	crumbs homolog 3 (Drosophila)	10112	-0.4961272180080414	-0.27209413	Yes	
+row_17	DLG1	DLG1	discs, large homolog 1 (Drosophila)	10385	-0.5656057000160217	-0.22518483	Yes	
+row_18	PARD3	PARD3	par-3 partitioning defective 3 homolog (C. elegans)	10519	-0.6041291356086731	-0.16057937	Yes	
+row_19	STRN	STRN	striatin, calmodulin binding protein	10614	-0.6475511789321899	-0.0868602	Yes	
+row_20	PRKCI	PRKCI	protein kinase C, iota	10842	-0.8767752647399902	0.0037742576	Yes	

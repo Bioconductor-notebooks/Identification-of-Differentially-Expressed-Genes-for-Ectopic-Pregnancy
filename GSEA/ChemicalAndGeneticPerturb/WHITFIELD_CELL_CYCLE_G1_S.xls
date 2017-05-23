@@ -1,0 +1,71 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DNAJB9	DNAJB9	DnaJ (Hsp40) homolog, subfamily B, member 9	480	0.6324938535690308	-0.016193507	No	
+row_1	RNF113A	RNF113A	ring finger protein 113A	901	0.5104147791862488	-0.032280322	No	
+row_2	TREX1	TREX1	three prime repair exonuclease 1	1824	0.3440151512622833	-0.1022057	No	
+row_3	ATAD2	ATAD2	ATPase family, AAA domain containing 2	2132	0.30967050790786743	-0.11679127	No	
+row_4	ESD	ESD	esterase D/formylglutathione hydrolase	2260	0.2967883050441742	-0.115305975	No	
+row_5	SSR3	SSR3	signal sequence receptor, gamma (translocon-associated protein gamma)	2318	0.28951650857925415	-0.10767173	No	
+row_6	ABCA7	ABCA7	ATP-binding cassette, sub-family A (ABC1), member 7	2362	0.28420132398605347	-0.098979786	No	
+row_7	ZNF141	ZNF141	zinc finger protein 141	2499	0.26827484369277954	-0.09959773	No	
+row_8	INSR	INSR	insulin receptor	2661	0.2497958540916443	-0.10335119	No	
+row_9	FAM105B	FAM105B	family with sequence similarity 105, member B	3003	0.21115536987781525	-0.12547214	No	
+row_10	CTSD	CTSD	cathepsin D (lysosomal aspartyl peptidase)	3033	0.20806264877319336	-0.11887947	No	
+row_11	LENG8	LENG8	leukocyte receptor cluster (LRC) member 8	3126	0.19900770485401154	-0.11851619	No	
+row_12	RUNX1	RUNX1	runt-related transcription factor 1 (acute myeloid leukemia 1; aml1 oncogene)	3141	0.19742317497730255	-0.11101068	No	
+row_13	GMNN	GMNN	geminin, DNA replication inhibitor	3188	0.19310662150382996	-0.1066567	No	
+row_14	KCNC4	KCNC4	potassium voltage-gated channel, Shaw-related subfamily, member 4	3377	0.1752360612154007	-0.11623043	No	
+row_15	SNHG10	SNHG10	small nucleolar RNA host gene (non-protein coding) 10	3445	0.16871437430381775	-0.11490566	No	
+row_16	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	-0.15113382	No	
+row_17	HSPB8	HSPB8	heat shock 22kDa protein 8	4117	0.10973179340362549	-0.1663091	No	
+row_18	PDXP	PDXP	pyridoxal (pyridoxine, vitamin B6) phosphatase	4157	0.1061779260635376	-0.16518266	No	
+row_19	OSBPL6	OSBPL6	oxysterol binding protein-like 6	4189	0.10316833108663559	-0.1634506	No	
+row_20	BRD7	BRD7	bromodomain containing 7	4271	0.09673936665058136	-0.16662873	No	
+row_21	PCDH7	PCDH7	BH-protocadherin (brain-heart)	4646	0.06475390493869781	-0.19832712	No	
+row_22	EIF2A	EIF2A	eukaryotic translation initiation factor 2A, 65kDa	4868	0.04608107730746269	-0.21670954	No	
+row_23	SERPINB3	SERPINB3	serpin peptidase inhibitor, clade B (ovalbumin), member 3	4930	0.041229914873838425	-0.22051255	No	
+row_24	SDC1	SDC1	syndecan 1	4950	0.039749324321746826	-0.2204977	No	
+row_25	PLCXD1	PLCXD1	phosphatidylinositol-specific phospholipase C, X domain containing 1	5257	0.017788780853152275	-0.24800143	No	
+row_26	MED31	MED31	mediator of RNA polymerase II transcription, subunit 31 homolog (S. cerevisiae)	5280	0.015651406720280647	-0.24933816	No	
+row_27	MNT	MNT	MAX binding protein	5734	-0.018566180020570755	-0.2904007	No	
+row_28	ADCK2	ADCK2	aarF domain containing kinase 2	5784	-0.023587776347994804	-0.29388046	No	
+row_29	PNN	PNN	pinin, desmosome associated protein	6483	-0.08155263960361481	-0.3547912	No	
+row_30	LNPEP	LNPEP	leucyl/cystinyl aminopeptidase	6706	-0.10073316842317581	-0.37082997	No	
+row_31	IVNS1ABP	IVNS1ABP	influenza virus NS1A binding protein	6856	-0.11421762406826019	-0.37951717	No	
+row_32	E2F2	E2F2	E2F transcription factor 2	7282	-0.1501101404428482	-0.4121269	No	
+row_33	ADCY6	ADCY6	adenylate cyclase 6	7329	-0.15498970448970795	-0.409472	No	
+row_34	BAIAP2	BAIAP2	BAI1-associated protein 2	7553	-0.17330923676490784	-0.42236814	No	
+row_35	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	7765	-0.19411583244800568	-0.43322718	No	
+row_36	DNAJC3	DNAJC3	DnaJ (Hsp40) homolog, subfamily C, member 3	8085	-0.22418685257434845	-0.45273286	Yes	
+row_37	DTL	DTL	denticleless homolog (Drosophila)	8157	-0.2304813414812088	-0.44902474	Yes	
+row_38	PANK2	PANK2	pantothenate kinase 2 (Hallervorden-Spatz syndrome)	8232	-0.23886500298976898	-0.4452203	Yes	
+row_39	HSF2	HSF2	heat shock transcription factor 2	8265	-0.24223600327968597	-0.43738177	Yes	
+row_40	WDR90	WDR90	WD repeat domain 90	8328	-0.24878953397274017	-0.43202528	Yes	
+row_41	CCNE2	CCNE2	cyclin E2	8596	-0.27950018644332886	-0.44425678	Yes	
+row_42	NUP43	NUP43	nucleoporin 43kDa	8609	-0.2808064818382263	-0.43284953	Yes	
+row_43	CLSPN	CLSPN	claspin homolog (Xenopus laevis)	8679	-0.2908366024494171	-0.4262661	Yes	
+row_44	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	8794	-0.3033764660358429	-0.42328498	Yes	
+row_45	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.42214558	Yes	
+row_46	TRIM45	TRIM45	tripartite motif-containing 45	8964	-0.32384124398231506	-0.41011468	Yes	
+row_47	TRA2A	TRA2A	-	9145	-0.34488528966903687	-0.4113865	Yes	
+row_48	CCNE1	CCNE1	cyclin E1	9288	-0.3596876561641693	-0.40848455	Yes	
+row_49	NPAT	NPAT	nuclear protein, ataxia-telangiectasia locus	9586	-0.40448951721191406	-0.41791883	Yes	
+row_50	NKTR	NKTR	natural killer-tumor recognition sequence	9596	-0.40620413422584534	-0.40064457	Yes	
+row_51	MZF1	MZF1	myeloid zinc finger 1	9639	-0.4127705991268158	-0.38612917	Yes	
+row_52	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.3726197	Yes	
+row_53	ZRANB2	ZRANB2	zinc finger, RAN-binding domain containing 2	9700	-0.42149052023887634	-0.35401672	Yes	
+row_54	TOPBP1	TOPBP1	topoisomerase (DNA) II binding protein 1	9824	-0.4431001842021942	-0.34563968	Yes	
+row_55	MSH2	MSH2	mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)	10133	-0.5018706917762756	-0.3517504	Yes	
+row_56	GINS3	GINS3	GINS complex subunit 3 (Psf3 homolog)	10175	-0.5134662985801697	-0.33265403	Yes	
+row_57	NASP	NASP	nuclear autoantigenic sperm protein (histone-binding)	10217	-0.5220777988433838	-0.3131738	Yes	
+row_58	PASK	PASK	PAS domain containing serine/threonine kinase	10231	-0.5253507494926453	-0.29095846	Yes	
+row_59	ANKRD10	ANKRD10	ankyrin repeat domain 10	10354	-0.5578363537788391	-0.2773746	Yes	
+row_60	USP53	USP53	ubiquitin specific peptidase 53	10494	-0.5970816016197205	-0.2636134	Yes	
+row_61	CEP57	CEP57	centrosomal protein 57kDa	10530	-0.6086694598197937	-0.23971851	Yes	
+row_62	INTS8	INTS8	integrator complex subunit 8	10621	-0.6518702507019043	-0.21898395	Yes	
+row_63	KIAA1147	KIAA1147	KIAA1147	10671	-0.6729592084884644	-0.19351797	Yes	
+row_64	CASP8AP2	CASP8AP2	CASP8 associated protein 2	10731	-0.7190639972686768	-0.1669216	Yes	
+row_65	CASP2	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	10742	-0.7313997745513916	-0.13524419	Yes	
+row_66	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	-0.10503069	Yes	
+row_67	SLC25A36	SLC25A36	solute carrier family 25, member 36	10809	-0.8029656410217285	-0.070533134	Yes	
+row_68	HELLS	HELLS	helicase, lymphoid-specific	10829	-0.8519662618637085	-0.03431374	Yes	
+row_69	TAF15	TAF15	TAF15 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 68kDa	10844	-0.8797523975372314	0.003606585	Yes	

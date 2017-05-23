@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARCN1	ARCN1	archain 1	364	0.6743825674057007	0.01051493	Yes	
+row_1	HPS5	HPS5	Hermansky-Pudlak syndrome 5	401	0.6564507484436035	0.050126538	Yes	
+row_2	BBS2	BBS2	Bardet-Biedl syndrome 2	495	0.6285158395767212	0.08265087	Yes	
+row_3	PLDN	PLDN	pallidin homolog (mouse)	499	0.6273996829986572	0.123407856	Yes	
+row_4	AP1M1	AP1M1	adaptor-related protein complex 1, mu 1 subunit	656	0.5714406967163086	0.14638536	Yes	
+row_5	MYO5A	MYO5A	myosin VA (heavy chain 12, myoxin)	696	0.5592535138130188	0.17936312	Yes	
+row_6	BBS7	BBS7	Bardet-Biedl syndrome 7	1004	0.4907906651496887	0.18313082	Yes	
+row_7	BLOC1S1	BLOC1S1	biogenesis of lysosome-related organelles complex-1, subunit 1	1149	0.4612685441970825	0.20001014	Yes	
+row_8	MYO7A	MYO7A	myosin VIIA	1217	0.4464915096759796	0.22302894	Yes	
+row_9	SOX10	SOX10	SRY (sex determining region Y)-box 10	1230	0.44364991784095764	0.25093758	Yes	
+row_10	EDNRB	EDNRB	endothelin receptor type B	1419	0.40962016582489014	0.2603784	Yes	
+row_11	CITED1	CITED1	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 1	1443	0.4054718613624573	0.28477493	Yes	
+row_12	KIF13A	KIF13A	kinesin family member 13A	1555	0.38647958636283875	0.29980823	Yes	
+row_13	AP3D1	AP3D1	adaptor-related protein complex 3, delta 1 subunit	1607	0.37941962480545044	0.31991687	Yes	
+row_14	RAB1A	RAB1A	RAB1A, member RAS oncogene family	1723	0.35992899537086487	0.33284456	Yes	
+row_15	GNA11	GNA11	guanine nucleotide binding protein (G protein), alpha 11 (Gq class)	1929	0.3307911157608032	0.3355609	Yes	
+row_16	VPS33A	VPS33A	vacuolar protein sorting 33 homolog A (S. cerevisiae)	2007	0.3230300545692444	0.34958208	Yes	
+row_17	RAB38	RAB38	RAB38, member RAS oncogene family	2056	0.31751763820648193	0.36591902	Yes	
+row_18	HPS3	HPS3	Hermansky-Pudlak syndrome 3	2067	0.31648170948028564	0.38569504	Yes	
+row_19	RAB32	RAB32	RAB32, member RAS oncogene family	2401	0.2800276577472687	0.3732788	Yes	
+row_20	VPS33B	VPS33B	vacuolar protein sorting 33B (yeast)	2416	0.2781223654747009	0.39017683	Yes	
+row_21	DCT	DCT	dopachrome tautomerase (dopachrome delta-isomerase, tyrosine-related protein 2)	2500	0.26826003193855286	0.4000622	Yes	
+row_22	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	0.41392654	Yes	
+row_23	GPR143	GPR143	G protein-coupled receptor 143	2559	0.2617691159248352	0.42920133	Yes	
+row_24	RAB27B	RAB27B	RAB27B, member RAS oncogene family	2729	0.24181722104549408	0.42942074	Yes	
+row_25	GLI3	GLI3	GLI-Kruppel family member GLI3 (Greig cephalopolysyndactyly syndrome)	2731	0.24142341315746307	0.44511828	Yes	
+row_26	OCA2	OCA2	oculocutaneous albinism II (pink-eye dilution homolog, mouse)	4450	0.08031222224235535	0.29182535	No	
+row_27	RAB11B	RAB11B	RAB11B, member RAS oncogene family	4999	0.036751072853803635	0.24365681	No	
+row_28	DRD2	DRD2	dopamine receptor D2	5277	0.016019564121961594	0.2191416	No	
+row_29	TYR	TYR	tyrosinase (oculocutaneous albinism IA)	6149	-0.05576770380139351	0.14240876	No	
+row_30	RAB27A	RAB27A	RAB27A, member RAS oncogene family	6500	-0.08275271952152252	0.1155213	No	
+row_31	MKKS	MKKS	McKusick-Kaufman syndrome	6785	-0.10844538360834122	0.09640502	No	
+row_32	DCTN2	DCTN2	dynactin 2 (p50)	6821	-0.11168310046195984	0.10047946	No	
+row_33	AP3B1	AP3B1	adaptor-related protein complex 3, beta 1 subunit	6826	-0.11206495761871338	0.10743971	No	
+row_34	TH	TH	tyrosine hydroxylase	6868	-0.11536454409360886	0.11120121	No	
+row_35	RAB17	RAB17	RAB17, member RAS oncogene family	6963	-0.1236930638551712	0.11061633	No	
+row_36	BCL2	BCL2	B-cell CLL/lymphoma 2	7141	-0.13663285970687866	0.103218086	No	
+row_37	LEF1	LEF1	lymphoid enhancer-binding factor 1	7383	-0.1589733213186264	0.09137475	No	
+row_38	EDA	EDA	ectodysplasin A	7527	-0.17144563794136047	0.08939106	No	
+row_39	BCL2L11	BCL2L11	BCL2-like 11 (apoptosis facilitator)	7987	-0.21357543766498566	0.06100073	No	
+row_40	HPS4	HPS4	Hermansky-Pudlak syndrome 4	8003	-0.21440351009368896	0.073639095	No	
+row_41	DCTN1	DCTN1	dynactin 1 (p150, glued homolog, Drosophila)	8127	-0.22783243656158447	0.077188976	No	
+row_42	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	8402	-0.2586412727832794	0.068818815	No	
+row_43	LYST	LYST	lysosomal trafficking regulator	9024	-0.33098092675209045	0.033157	No	
+row_44	EDAR	EDAR	ectodysplasin A receptor	9675	-0.4182863235473633	5.2895315E-4	No	
+row_45	EDN3	EDN3	endothelin 3	9708	-0.42251551151275635	0.025209628	No	
+row_46	MITF	MITF	microphthalmia-associated transcription factor	9889	-0.455241858959198	0.038372528	No	
+row_47	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	10817	-0.8144341111183167	0.00609081	No	

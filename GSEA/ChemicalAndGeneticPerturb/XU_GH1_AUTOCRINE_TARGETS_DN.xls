@@ -1,0 +1,77 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HPSE	HPSE	heparanase	268	0.7203890681266785	0.0046530818	No	
+row_1	TIMP3	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	542	0.6111975908279419	0.0043797926	No	
+row_2	PRLR	PRLR	prolactin receptor	804	0.5291977524757385	0.0018646362	No	
+row_3	BAMBI	BAMBI	BMP and activin membrane-bound inhibitor homolog (Xenopus laevis)	1035	0.4831154942512512	3.338814E-4	No	
+row_4	DNAJC1	DNAJC1	DnaJ (Hsp40) homolog, subfamily C, member 1	1162	0.45823293924331665	0.0074084285	No	
+row_5	PREX1	PREX1	-	1222	0.4450170695781708	0.020141821	No	
+row_6	SLK	SLK	STE20-like kinase (yeast)	1282	0.43261265754699707	0.03236812	No	
+row_7	ADIPOR2	ADIPOR2	adiponectin receptor 2	1444	0.40535426139831543	0.034042645	No	
+row_8	TNNT3	TNNT3	troponin T type 3 (skeletal, fast)	1522	0.3923751711845398	0.042958602	No	
+row_9	ULK1	ULK1	unc-51-like kinase 1 (C. elegans)	1867	0.3384068012237549	0.024964409	No	
+row_10	SLC24A3	SLC24A3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 3	2813	0.23174667358398438	-0.052997008	No	
+row_11	GSTM3	GSTM3	glutathione S-transferase M3 (brain)	2860	0.2266966998577118	-0.047985747	No	
+row_12	EFNA5	EFNA5	ephrin-A5	3260	0.18665660917758942	-0.07727232	No	
+row_13	OLFM1	OLFM1	olfactomedin 1	3629	0.15197694301605225	-0.10510834	No	
+row_14	SULF2	SULF2	sulfatase 2	3662	0.149198979139328	-0.10196985	No	
+row_15	MCPH1	MCPH1	microcephaly, primary autosomal recessive 1	3850	0.13135883212089539	-0.1139019	No	
+row_16	GDF3	GDF3	growth differentiation factor 3	4181	0.10427603870630264	-0.14017203	No	
+row_17	MCF2L	MCF2L	MCF.2 cell line derived transforming sequence-like	4537	0.07367139309644699	-0.17000638	No	
+row_18	FOXP1	FOXP1	forkhead box P1	4585	0.06992007791996002	-0.17149667	No	
+row_19	COQ4	COQ4	coenzyme Q4 homolog (S. cerevisiae)	4703	0.06049443781375885	-0.17984897	No	
+row_20	FAM102A	FAM102A	family with sequence similarity 102, member A	4743	0.05651859939098358	-0.18114693	No	
+row_21	NUP50	NUP50	nucleoporin 50kDa	4806	0.051652941852808	-0.18477185	No	
+row_22	TNFRSF4	TNFRSF4	tumor necrosis factor receptor superfamily, member 4	4971	0.0385253019630909	-0.19837087	No	
+row_23	PLK2	PLK2	polo-like kinase 2 (Drosophila)	5145	0.026558849960565567	-0.21329181	No	
+row_24	GP9	GP9	glycoprotein IX (platelet)	5431	0.00424595782533288	-0.23948759	No	
+row_25	CA2	CA2	carbonic anhydrase II	5984	-0.041115280240774155	-0.28888008	No	
+row_26	AFF1	AFF1	AF4/FMR2 family, member 1	6191	-0.059353623539209366	-0.30551365	No	
+row_27	CACNG4	CACNG4	calcium channel, voltage-dependent, gamma subunit 4	6233	-0.0621490553021431	-0.30676648	No	
+row_28	ELOVL2	ELOVL2	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 2	6441	-0.07793830335140228	-0.32273284	No	
+row_29	NR2F2	NR2F2	nuclear receptor subfamily 2, group F, member 2	6944	-0.12247516959905624	-0.3641731	No	
+row_30	EXOC3	EXOC3	exocyst complex component 3	7475	-0.16740822792053223	-0.4063672	No	
+row_31	NRCAM	NRCAM	neuronal cell adhesion molecule	7536	-0.17221462726593018	-0.40487853	No	
+row_32	GPC3	GPC3	glypican 3	7740	-0.1920977234840393	-0.41580796	Yes	
+row_33	RBPMS	RBPMS	RNA binding protein with multiple splicing	7742	-0.192231684923172	-0.40804204	Yes	
+row_34	HOOK1	HOOK1	hook homolog 1 (Drosophila)	7768	-0.19457024335861206	-0.4024011	Yes	
+row_35	RPL37	RPL37	ribosomal protein L37	7802	-0.19759535789489746	-0.3973767	Yes	
+row_36	POMT1	POMT1	protein-O-mannosyltransferase 1	7814	-0.19863452017307281	-0.39027426	Yes	
+row_37	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	8000	-0.2141714096069336	-0.3986359	Yes	
+row_38	MAGED2	MAGED2	melanoma antigen family D, 2	8034	-0.21829462051391602	-0.39276528	Yes	
+row_39	HDLBP	HDLBP	high density lipoprotein binding protein (vigilin)	8086	-0.2241990864276886	-0.38831875	Yes	
+row_40	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	-0.38412666	Yes	
+row_41	CTNND2	CTNND2	catenin (cadherin-associated protein), delta 2 (neural plakophilin-related arm-repeat protein)	8364	-0.252901166677475	-0.39414334	Yes	
+row_42	DSCAM	DSCAM	Down syndrome cell adhesion molecule	8473	-0.26632794737815857	-0.39324844	Yes	
+row_43	EIF5	EIF5	eukaryotic translation initiation factor 5	8505	-0.2691045105457306	-0.38511568	Yes	
+row_44	KCNK2	KCNK2	potassium channel, subfamily K, member 2	8558	-0.2750793695449829	-0.3786817	Yes	
+row_45	ST3GAL2	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	8568	-0.2763917148113251	-0.3682155	Yes	
+row_46	SLC38A1	SLC38A1	solute carrier family 38, member 1	8633	-0.2839852273464203	-0.36252773	Yes	
+row_47	GPR180	GPR180	G protein-coupled receptor 180	8669	-0.28863903880119324	-0.35396647	Yes	
+row_48	RBM7	RBM7	RNA binding motif protein 7	8696	-0.2929128408432007	-0.3443978	Yes	
+row_49	THBS1	THBS1	thrombospondin 1	8752	-0.29891130328178406	-0.33726713	Yes	
+row_50	CHD6	CHD6	chromodomain helicase DNA binding protein 6	8800	-0.30409666895866394	-0.3291843	Yes	
+row_51	NDUFB8	NDUFB8	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa	8809	-0.3051130771636963	-0.31745145	Yes	
+row_52	TJP1	TJP1	tight junction protein 1 (zona occludens 1)	8872	-0.3125503361225128	-0.3104109	Yes	
+row_53	TPM1	TPM1	tropomyosin 1 (alpha)	8952	-0.3222149908542633	-0.3045481	Yes	
+row_54	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	9132	-0.34381791949272156	-0.30705464	Yes	
+row_55	LAMA5	LAMA5	laminin, alpha 5	9141	-0.34463492035865784	-0.29370615	Yes	
+row_56	ROD1	ROD1	ROD1 regulator of differentiation 1 (S. pombe)	9335	-0.36601346731185913	-0.29660064	Yes	
+row_57	AGR2	AGR2	anterior gradient 2 homolog (Xenopus laevis)	9452	-0.3817349970340729	-0.29172808	Yes	
+row_58	ISOC1	ISOC1	isochorismatase domain containing 1	9582	-0.4036470651626587	-0.2871626	Yes	
+row_59	NFYC	NFYC	nuclear transcription factor Y, gamma	9747	-0.4278102517127991	-0.28484765	Yes	
+row_60	PTPN3	PTPN3	protein tyrosine phosphatase, non-receptor type 3	9870	-0.4518466889858246	-0.27766407	Yes	
+row_61	DBN1	DBN1	drebrin 1	9871	-0.4519551992416382	-0.25918812	Yes	
+row_62	KIAA0101	KIAA0101	KIAA0101	9894	-0.45578232407569885	-0.24259126	Yes	
+row_63	HSPA1B	HSPA1B	heat shock 70kDa protein 1B	9911	-0.4573933184146881	-0.22537339	Yes	
+row_64	CD44	CD44	CD44 molecule (Indian blood group)	9946	-0.4618864953517914	-0.20963727	Yes	
+row_65	ESPN	ESPN	espin	9982	-0.4691375494003296	-0.19369726	Yes	
+row_66	COL12A1	COL12A1	collagen, type XII, alpha 1	10148	-0.505803108215332	-0.18828648	Yes	
+row_67	UNC5C	UNC5C	unc-5 homolog C (C. elegans)	10268	-0.5343234539031982	-0.17745368	Yes	
+row_68	XIST	XIST	X (inactive)-specific transcript	10329	-0.5509815216064453	-0.16048099	Yes	
+row_69	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	10342	-0.5542796850204468	-0.1389323	Yes	
+row_70	TGIF2	TGIF2	TGFB-induced factor 2 (TALE family homeobox)	10527	-0.6072518825531006	-0.13113225	Yes	
+row_71	NETO2	NETO2	neuropilin (NRP) and tolloid (TLL)-like 2	10573	-0.6301319003105164	-0.10953602	Yes	
+row_72	HSPH1	HSPH1	heat shock 105kDa/110kDa protein 1	10650	-0.664974570274353	-0.08938367	Yes	
+row_73	SERPINA5	SERPINA5	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	10782	-0.7690367102622986	-0.07006607	Yes	
+row_74	EFNB2	EFNB2	ephrin-B2	10786	-0.7746605277061462	-0.038675502	Yes	
+row_75	PTPRK	PTPRK	protein tyrosine phosphatase, receptor type, K	10878	-1.1633549928665161	4.6279797E-4	Yes	

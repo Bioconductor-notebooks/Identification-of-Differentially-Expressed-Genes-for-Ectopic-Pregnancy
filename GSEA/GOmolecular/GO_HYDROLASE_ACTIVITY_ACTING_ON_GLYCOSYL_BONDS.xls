@@ -1,0 +1,58 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GLB1L	GLB1L	galactosidase, beta 1-like	149	0.803321361541748	0.029660689	Yes	
+row_1	SMPD1	SMPD1	sphingomyelin phosphodiesterase 1, acid lysosomal (acid sphingomyelinase)	189	0.7704732418060303	0.067705594	Yes	
+row_2	MAN1A1	MAN1A1	mannosidase, alpha, class 1A, member 1	252	0.7308487296104431	0.10148433	Yes	
+row_3	HPSE	HPSE	heparanase	268	0.7203890681266785	0.13903868	Yes	
+row_4	MAN1C1	MAN1C1	mannosidase, alpha, class 1C, member 1	307	0.7017564177513123	0.17346154	Yes	
+row_5	GM2A	GM2A	GM2 ganglioside activator	544	0.6106191277503967	0.18467046	Yes	
+row_6	CTBS	CTBS	chitobiase, di-N-acetyl-	583	0.5965626239776611	0.2134072	Yes	
+row_7	HEXB	HEXB	hexosaminidase B (beta polypeptide)	588	0.5952228307723999	0.24521182	Yes	
+row_8	ADPRHL2	ADPRHL2	ADP-ribosylhydrolase like 2	591	0.5944890975952148	0.2771615	Yes	
+row_9	FUCA2	FUCA2	fucosidase, alpha-L- 2, plasma	666	0.567932665348053	0.30102566	Yes	
+row_10	GAA	GAA	glucosidase, alpha; acid (Pompe disease, glycogen storage disease type II)	874	0.5160138010978699	0.30979928	Yes	
+row_11	LYZL6	LYZL6	lysozyme-like 6	900	0.5106855034828186	0.33509475	Yes	
+row_12	CHIT1	CHIT1	chitinase 1 (chitotriosidase)	1052	0.4789383113384247	0.34703657	Yes	
+row_13	TREH	TREH	trehalase (brush-border membrane glycoprotein)	1172	0.4563627541065216	0.3607137	Yes	
+row_14	ADPRH	ADPRH	ADP-ribosylarginine hydrolase	1219	0.44611239433288574	0.3805791	Yes	
+row_15	MANEA	MANEA	mannosidase, endo-alpha	1435	0.40701332688331604	0.38272196	Yes	
+row_16	GBE1	GBE1	glucan (1,4-alpha-), branching enzyme 1 (glycogen branching enzyme, Andersen disease, glycogen storage disease type IV)	1561	0.3851246237754822	0.3919942	Yes	
+row_17	CHI3L1	CHI3L1	chitinase 3-like 1 (cartilage glycoprotein-39)	1628	0.3753003478050232	0.40618476	Yes	
+row_18	MAN2B1	MAN2B1	mannosidase, alpha, class 2B, member 1	1780	0.35126712918281555	0.41122547	Yes	
+row_19	HYAL1	HYAL1	hyaluronoglucosaminidase 1	1917	0.33226802945137024	0.41662464	Yes	
+row_20	LYG2	LYG2	-	1960	0.32744622230529785	0.43044516	Yes	
+row_21	GALC	GALC	galactosylceramidase	2476	0.2709352970123291	0.39752397	No	
+row_22	EDEM2	EDEM2	ER degradation enhancer, mannosidase alpha-like 2	2851	0.2274516373872757	0.3752753	No	
+row_23	ADPRHL1	ADPRHL1	ADP-ribosylhydrolase like 1	3282	0.18436802923679352	0.3455256	No	
+row_24	NAGA	NAGA	N-acetylgalactosaminidase, alpha-	3540	0.1594860553741455	0.33040947	No	
+row_25	LYZ	LYZ	lysozyme (renal amyloidosis)	3626	0.15211838483810425	0.3307813	No	
+row_26	FUCA1	FUCA1	fucosidase, alpha-L- 1, tissue	3876	0.12915121018886566	0.31476435	No	
+row_27	KIAA1161	KIAA1161	KIAA1161	4070	0.11373534053564072	0.30308637	No	
+row_28	MUTYH	MUTYH	mutY homolog (E. coli)	4277	0.09636534005403519	0.2892688	No	
+row_29	MAN2C1	MAN2C1	mannosidase, alpha, class 2C, member 1	4286	0.09589960426092148	0.29371363	No	
+row_30	LCT	LCT	lactase	4304	0.09383074939250946	0.2972154	No	
+row_31	EDEM1	EDEM1	ER degradation enhancer, mannosidase alpha-like 1	4338	0.09043677151203156	0.2990559	No	
+row_32	CHID1	CHID1	chitinase domain containing 1	4500	0.07620630413293839	0.28830492	No	
+row_33	LCTL	LCTL	lactase-like	4665	0.06324855238199234	0.27657643	No	
+row_34	SPAM1	SPAM1	sperm adhesion molecule 1 (PH-20 hyaluronidase, zona pellucida binding)	5572	-0.005692509934306145	0.19320443	No	
+row_35	GUSB	GUSB	glucuronidase, beta	5744	-0.020071133971214294	0.17849551	No	
+row_36	HEXDC	HEXDC	hexosaminidase (glycosyl hydrolase family 20, catalytic domain) containing	5771	-0.022211428731679916	0.17729472	No	
+row_37	NEU4	NEU4	sialidase 4	5944	-0.03766212612390518	0.16344428	No	
+row_38	HYAL2	HYAL2	hyaluronoglucosaminidase 2	5962	-0.03923065587878227	0.1639947	No	
+row_39	HYAL3	HYAL3	hyaluronoglucosaminidase 3	6264	-0.06491050124168396	0.1397025	No	
+row_40	SMUG1	SMUG1	single-strand-selective monofunctional uracil-DNA glycosylase 1	6523	-0.08495640754699707	0.1204654	No	
+row_41	NEU3	NEU3	sialidase 3 (membrane sialidase)	7074	-0.13196930289268494	0.07679991	No	
+row_42	SI	SI	sucrase-isomaltase (alpha-glucosidase)	7836	-0.2005743831396103	0.017354472	No	
+row_43	GBA3	GBA3	glucosidase, beta, acid 3 (cytosolic)	7859	-0.2026491016149521	0.02627647	No	
+row_44	MAN2A2	MAN2A2	mannosidase, alpha, class 2A, member 2	7956	-0.21111316978931427	0.028821219	No	
+row_45	AMY2B	AMY2B	amylase, alpha 2B (pancreatic)	8155	-0.2304145097732544	0.022988386	No	
+row_46	NTHL1	NTHL1	nth endonuclease III-like 1 (E. coli)	8401	-0.2586374878883362	0.014340113	No	
+row_47	GBA2	GBA2	glucosidase, beta (bile acid) 2	8647	-0.28523778915405273	0.0071296874	No	
+row_48	ABHD10	ABHD10	abhydrolase domain containing 10	8652	-0.2857203185558319	0.022204513	No	
+row_49	NAGLU	NAGLU	N-acetylglucosaminidase, alpha- (Sanfilippo disease IIIB)	8663	-0.28812772035598755	0.036855295	No	
+row_50	RPS3	RPS3	ribosomal protein S3	9062	-0.33552804589271545	0.018231912	No	
+row_51	NEIL1	NEIL1	nei endonuclease VIII-like 1 (E. coli)	9154	-0.34625884890556335	0.028543606	No	
+row_52	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	0.0012576224	No	
+row_53	MBD4	MBD4	methyl-CpG binding domain protein 4	9773	-0.43437761068344116	0.017810259	No	
+row_54	CD44	CD44	CD44 molecule (Indian blood group)	9946	-0.4618864953517914	0.026890773	No	
+row_55	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	0.038142372	No	
+row_56	NEIL3	NEIL3	nei endonuclease VIII-like 3 (E. coli)	10517	-0.6032275557518005	0.033804443	No	

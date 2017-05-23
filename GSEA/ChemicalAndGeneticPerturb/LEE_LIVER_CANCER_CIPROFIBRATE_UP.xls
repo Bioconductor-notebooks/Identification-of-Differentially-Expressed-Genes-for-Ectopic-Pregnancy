@@ -1,0 +1,32 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GATM	GATM	glycine amidinotransferase (L-arginine:glycine amidinotransferase)	57	0.9176197052001953	0.09237539	Yes	
+row_1	PLA2G7	PLA2G7	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)	269	0.7201087474822998	0.14954756	Yes	
+row_2	MFGE8	MFGE8	milk fat globule-EGF factor 8 protein	306	0.7017759084701538	0.22089386	Yes	
+row_3	NT5E	NT5E	5'-nucleotidase, ecto (CD73)	412	0.6516246795654297	0.28054675	Yes	
+row_4	PLTP	PLTP	phospholipid transfer protein	551	0.6088070869445801	0.33260357	Yes	
+row_5	TGM2	TGM2	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)	685	0.5631316900253296	0.38026163	Yes	
+row_6	SLC16A1	SLC16A1	solute carrier family 16, member 1 (monocarboxylic acid transporter 1)	994	0.49217087030410767	0.4042454	Yes	
+row_7	CIDEC	CIDEC	cell death-inducing DFFA-like effector c	1078	0.47551652789115906	0.4471889	Yes	
+row_8	IGFBP2	IGFBP2	insulin-like growth factor binding protein 2, 36kDa	1198	0.4496512711048126	0.48406348	Yes	
+row_9	APCS	APCS	amyloid P component, serum	1210	0.4480482041835785	0.5307187	Yes	
+row_10	BSG	BSG	basigin (Ok blood group)	1565	0.3846375644207001	0.53902334	Yes	
+row_11	ABHD2	ABHD2	abhydrolase domain containing 2	2365	0.28368642926216125	0.4955851	No	
+row_12	SLC24A3	SLC24A3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 3	2813	0.23174667358398438	0.47905433	No	
+row_13	RAB30	RAB30	RAB30, member RAS oncogene family	3028	0.20834581553936005	0.4815026	No	
+row_14	IGFBP1	IGFBP1	insulin-like growth factor binding protein 1	3968	0.12170426547527313	0.40793112	No	
+row_15	KIFAP3	KIFAP3	kinesin-associated protein 3	4226	0.1001800149679184	0.39490938	No	
+row_16	HOXC6	HOXC6	homeobox C6	4787	0.05286315083503723	0.34893495	No	
+row_17	MLYCD	MLYCD	malonyl-CoA decarboxylase	4885	0.04437587037682533	0.34471858	No	
+row_18	LY6D	LY6D	lymphocyte antigen 6 complex, locus D	4927	0.04142448678612709	0.34534806	No	
+row_19	TM4SF4	TM4SF4	transmembrane 4 L six family member 4	5496	-9.10505885258317E-4	0.29310915	No	
+row_20	CD36	CD36	CD36 molecule (thrombospondin receptor)	5848	-0.029118184000253677	0.2638658	No	
+row_21	CBFA2T3	CBFA2T3	core-binding factor, runt domain, alpha subunit 2; translocated to, 3	6179	-0.05844169855117798	0.2396772	No	
+row_22	PDK4	PDK4	pyruvate dehydrogenase kinase, isozyme 4	6313	-0.06883484870195389	0.23474601	No	
+row_23	LEPR	LEPR	leptin receptor	6321	-0.06920856982469559	0.24146426	No	
+row_24	BRCA1	BRCA1	breast cancer 1, early onset	6554	-0.08838730305433273	0.22949138	No	
+row_25	SPON2	SPON2	spondin 2, extracellular matrix protein	6812	-0.1110154390335083	0.21762244	No	
+row_26	GIPC2	GIPC2	GIPC PDZ domain containing family, member 2	6875	-0.11614175140857697	0.22426629	No	
+row_27	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	7617	-0.17962267994880676	0.17510065	No	
+row_28	TES	TES	testis derived transcript (3 LIM domains)	9177	-0.3486197292804718	0.06854409	No	
+row_29	ALDH3A2	ALDH3A2	aldehyde dehydrogenase 3 family, member A2	9186	-0.3500959873199463	0.10505438	No	
+row_30	CD24	CD24	CD24 molecule	10045	-0.4813879132270813	0.07721372	No	

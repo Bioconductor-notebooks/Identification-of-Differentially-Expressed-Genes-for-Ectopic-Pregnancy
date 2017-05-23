@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LAT	LAT	linker for activation of T cells	893	0.5127918124198914	0.024199074	No	
+row_1	SLC12A3	SLC12A3	solute carrier family 12 (sodium/chloride transporters), member 3	1026	0.4850200414657593	0.11268376	No	
+row_2	CCL17	CCL17	chemokine (C-C motif) ligand 17	2577	0.2597356140613556	0.023902228	No	
+row_3	CIAPIN1	CIAPIN1	cytokine induced apoptosis inhibitor 1	3327	0.17982718348503113	-0.007729436	No	
+row_4	DOK4	DOK4	docking protein 4	3514	0.16139455139636993	0.008636921	No	
+row_5	KIFC3	KIFC3	kinesin family member C3	3834	0.13327853381633759	0.006927326	No	
+row_6	POLR2C	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	4202	0.10199275612831116	-0.0056918943	No	
+row_7	MT1X	MT1X	metallothionein 1X	4745	0.056366290897130966	-0.04388622	No	
+row_8	MT1H	MT1H	metallothionein 1H	4797	0.05213416367769241	-0.03776351	No	
+row_9	CNGB1	CNGB1	cyclic nucleotide gated channel beta 1	4923	0.04164811968803406	-0.040627994	No	
+row_10	LOC283856	LOC283856	-	4947	0.039919402450323105	-0.03446236	No	
+row_11	GNAO1	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	5348	0.01069079153239727	-0.06906302	No	
+row_12	GPR56	GPR56	G protein-coupled receptor 56	5967	-0.039529718458652496	-0.11774628	No	
+row_13	CCL22	CCL22	chemokine (C-C motif) ligand 22	6297	-0.0671687200665474	-0.13409321	No	
+row_14	CETP	CETP	cholesteryl ester transfer protein, plasma	6965	-0.1238422691822052	-0.1697931	No	
+row_15	NUDT21	NUDT21	nudix (nucleoside diphosphate linked moiety X)-type motif 21	8004	-0.21467837691307068	-0.22079524	No	
+row_16	ARL2BP	ARL2BP	ADP-ribosylation factor-like 2 binding protein	9865	-0.45146092772483826	-0.29833105	Yes	
+row_17	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	10024	-0.47733598947525024	-0.21383393	Yes	
+row_18	PLLP	PLLP	plasma membrane proteolipid (plasmolipin)	10651	-0.6653702855110168	-0.13340035	Yes	
+row_19	NUP93	NUP93	nucleoporin 93kDa	10753	-0.7454150319099426	0.011966121	Yes	

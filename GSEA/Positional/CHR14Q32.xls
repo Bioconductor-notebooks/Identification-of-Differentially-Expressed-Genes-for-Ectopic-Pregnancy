@@ -1,0 +1,54 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ITPK1	ITPK1	inositol 1,3,4-triphosphate 5/6 kinase	40	0.9537004232406616	0.055545576	No	
+row_1	LGMN	LGMN	legumain	265	0.7221225500106812	0.07971852	No	
+row_2	DIO3	DIO3	deiodinase, iodothyronine, type III	456	0.6395745277404785	0.10190317	No	
+row_3	PACS2	PACS2	phosphofurin acidic cluster sorting protein 2	730	0.549237847328186	0.11081341	No	
+row_4	CINP	CINP	-	1144	0.4622447192668915	0.10139425	No	
+row_5	ZFYVE21	ZFYVE21	zinc finger, FYVE domain containing 21	1304	0.4283880293369293	0.1133233	No	
+row_6	PLD4	PLD4	phospholipase D family, member 4	1820	0.3445031940937042	0.08717326	No	
+row_7	KIAA0125	KIAA0125	KIAA0125	2408	0.2793334126472473	0.05032764	No	
+row_8	TDRD9	TDRD9	tudor domain containing 9	2452	0.2748580276966095	0.06343024	No	
+row_9	SNHG10	SNHG10	small nucleolar RNA host gene (non-protein coding) 10	3445	0.16871437430381775	-0.017679103	No	
+row_10	JAG2	JAG2	jagged 2	3481	0.16516228020191193	-0.010651586	No	
+row_11	LOC400236	LOC400236	-	3564	0.15725651383399963	-0.008454528	No	
+row_12	IGHV1-69	IGHV1-69	immunoglobulin heavy variable 1-69	3836	0.13312943279743195	-0.025206026	No	
+row_13	PAPOLA	PAPOLA	poly(A) polymerase alpha	4083	0.11244435608386993	-0.04093418	No	
+row_14	RIN3	RIN3	Ras and Rab interactor 3	4128	0.10865841805934906	-0.038247325	No	
+row_15	AK7	AK7	adenylate kinase 7	4347	0.08984095603227615	-0.052794304	No	
+row_16	TMEM121	TMEM121	transmembrane protein 121	4590	0.06938774138689041	-0.07082759	No	
+row_17	BDKRB1	BDKRB1	bradykinin receptor B1	4934	0.040816228836774826	-0.09996067	No	
+row_18	XRCC3	XRCC3	X-ray repair complementing defective repair in Chinese hamster cells 3	4974	0.03825006261467934	-0.10118556	No	
+row_19	WDR25	WDR25	WD repeat domain 25	5949	-0.03807178884744644	-0.18874781	No	
+row_20	DYNC1H1	DYNC1H1	dynein, cytoplasmic 1, heavy chain 1	6172	-0.05798368155956268	-0.2056429	No	
+row_21	TCL1A	TCL1A	T-cell leukemia/lymphoma 1A	6244	-0.06286421418190002	-0.20829338	No	
+row_22	SERPINA2	SERPINA2	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 2	6354	-0.07192938774824142	-0.21388923	No	
+row_23	DLK1	DLK1	delta-like 1 homolog (Drosophila)	6480	-0.08131706714630127	-0.22037919	No	
+row_24	BCL11B	BCL11B	B-cell CLL/lymphoma 11B (zinc finger protein)	6577	-0.09048980474472046	-0.2236219	No	
+row_25	AGER	AGER	advanced glycosylation end product-specific receptor	6589	-0.09174855798482895	-0.21893859	No	
+row_26	TRAF3	TRAF3	TNF receptor-associated factor 3	6661	-0.09713748097419739	-0.21946019	No	
+row_27	TCL1B	TCL1B	T-cell leukemia/lymphoma 1B	6707	-0.1008111983537674	-0.21735309	No	
+row_28	ADSSL1	ADSSL1	adenylosuccinate synthase like 1	6767	-0.10662037134170532	-0.21617775	No	
+row_29	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	-0.2325669	No	
+row_30	IGHG1	IGHG1	immunoglobulin heavy constant gamma 1 (G1m marker)	7364	-0.1577819138765335	-0.25332677	No	
+row_31	IGHM	IGHM	immunoglobulin heavy constant mu	7625	-0.1806088089942932	-0.2661135	No	
+row_32	SLC24A4	SLC24A4	solute carrier family 24 (sodium/potassium/calcium exchanger), member 4	7679	-0.18605391681194305	-0.2594502	No	
+row_33	WDR20	WDR20	WD repeat domain 20	7902	-0.2064182609319687	-0.26712534	No	
+row_34	SLC25A29	SLC25A29	solute carrier family 25, member 29	8097	-0.22507496178150177	-0.27105647	No	
+row_35	CDCA4	CDCA4	cell division cycle associated 4	8283	-0.24339410662651062	-0.27301875	No	
+row_36	EIF5	EIF5	eukaryotic translation initiation factor 5	8505	-0.2691045105457306	-0.27670783	No	
+row_37	ADAM6	ADAM6	ADAM metallopeptidase domain 6	8792	-0.30324822664260864	-0.28427738	Yes	
+row_38	TCL6	TCL6	T-cell leukemia/lymphoma 6	8876	-0.3130000829696655	-0.27249873	Yes	
+row_39	MTA1	MTA1	metastasis associated 1	9003	-0.3289088010787964	-0.26370198	Yes	
+row_40	TDP1	TDP1	tyrosyl-DNA phosphodiesterase 1	9044	-0.3332534730434418	-0.24669518	Yes	
+row_41	SERPINA1	SERPINA1	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	9270	-0.3589801788330078	-0.245171	Yes	
+row_42	OTUB2	OTUB2	OTU domain, ubiquitin aldehyde binding 2	9629	-0.4111156463623047	-0.252688	Yes	
+row_43	SNORA28	SNORA28	small nucleolar RNA, H/ACA box 28	9653	-0.4138960540294647	-0.22910255	Yes	
+row_44	RCOR1	RCOR1	REST corepressor 1	9815	-0.44140368700027466	-0.21654971	Yes	
+row_45	MARK3	MARK3	MAP/microtubule affinity-regulating kinase 3	10037	-0.48027798533439636	-0.20712185	Yes	
+row_46	DICER1	DICER1	Dicer1, Dcr-1 homolog (Drosophila)	10349	-0.5557109713554382	-0.20131798	Yes	
+row_47	BAG5	BAG5	BCL2-associated athanogene 5	10505	-0.6002366542816162	-0.17834532	Yes	
+row_48	KIF26A	KIF26A	kinesin family member 26A	10549	-0.6179808974266052	-0.1439298	Yes	
+row_49	PPP1R13B	PPP1R13B	protein phosphatase 1, regulatory (inhibitor) subunit 13B	10563	-0.6234185695648193	-0.10640668	Yes	
+row_50	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	10645	-0.6610552668571472	-0.07282406	Yes	
+row_51	BTBD7	BTBD7	BTB (POZ) domain containing 7	10763	-0.7541695833206177	-0.03678148	Yes	
+row_52	SERPINA5	SERPINA5	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	10782	-0.7690367102622986	0.009325001	Yes	

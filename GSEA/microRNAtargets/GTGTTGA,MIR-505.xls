@@ -1,0 +1,57 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CITED2	CITED2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	10	1.128342628479004	0.062469717	Yes	
+row_1	MAFB	MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)	393	0.6609540581703186	0.064324945	Yes	
+row_2	MAPK14	MAPK14	mitogen-activated protein kinase 14	426	0.647968590259552	0.09777422	Yes	
+row_3	USP32	USP32	ubiquitin specific peptidase 32	636	0.5797380208969116	0.11104362	Yes	
+row_4	NDUFA4L2	NDUFA4L2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4-like 2	672	0.5656494498252869	0.13959092	Yes	
+row_5	GPR85	GPR85	G protein-coupled receptor 85	829	0.5245487689971924	0.15465435	Yes	
+row_6	ALS2	ALS2	amyotrophic lateral sclerosis 2 (juvenile)	922	0.5050987601280212	0.17453565	Yes	
+row_7	SRGAP2	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	1187	0.45156872272491455	0.17552473	Yes	
+row_8	CYFIP2	CYFIP2	cytoplasmic FMR1 interacting protein 2	1218	0.44626322388648987	0.19782637	Yes	
+row_9	PMP22	PMP22	peripheral myelin protein 22	1354	0.4203561544418335	0.2089754	Yes	
+row_10	MBNL1	MBNL1	muscleblind-like (Drosophila)	1373	0.41678547859191895	0.23072916	Yes	
+row_11	STRN3	STRN3	striatin, calmodulin binding protein 3	2160	0.3069521486759186	0.17538495	No	
+row_12	SIRPA	SIRPA	signal-regulatory protein alpha	2902	0.22191600501537323	0.11941909	No	
+row_13	FAM19A5	FAM19A5	family with sequence similarity 19 (chemokine (C-C motif)-like), member A5	2984	0.2130303829908371	0.12390709	No	
+row_14	BICD2	BICD2	bicaudal D homolog 2 (Drosophila)	3063	0.20537912845611572	0.12824228	No	
+row_15	RUNX1	RUNX1	runt-related transcription factor 1 (acute myeloid leukemia 1; aml1 oncogene)	3141	0.19742317497730255	0.13222285	No	
+row_16	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	3380	0.17508181929588318	0.120079346	No	
+row_17	MYCN	MYCN	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)	3437	0.16936437785625458	0.12442291	No	
+row_18	KCNJ2	KCNJ2	potassium inwardly-rectifying channel, subfamily J, member 2	4115	0.10975831001996994	0.06806633	No	
+row_19	AKAP1	AKAP1	A kinase (PRKA) anchor protein 1	4441	0.08098949491977692	0.042601757	No	
+row_20	ZNF238	ZNF238	zinc finger protein 238	4871	0.04574993625283241	0.005552605	No	
+row_21	FIGN	FIGN	fidgetin	5068	0.031928956508636475	-0.010754761	No	
+row_22	PCDH9	PCDH9	protocadherin 9	5225	0.019681449979543686	-0.024056097	No	
+row_23	USP6	USP6	ubiquitin specific peptidase 6 (Tre-2 oncogene)	5281	0.01564972847700119	-0.028256278	No	
+row_24	SIRT3	SIRT3	sirtuin (silent mating type information regulation 2 homolog) 3 (S. cerevisiae)	5346	0.010701983235776424	-0.033565614	No	
+row_25	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	6160	-0.05696864798665047	-0.10544808	No	
+row_26	CTDSPL	CTDSPL	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase-like	6290	-0.0667087510228157	-0.11361377	No	
+row_27	CAMK2D	CAMK2D	calcium/calmodulin-dependent protein kinase (CaM kinase) II delta	6443	-0.07809430360794067	-0.1232639	No	
+row_28	CBX6	CBX6	chromobox homolog 6	6461	-0.07963603734970093	-0.12035974	No	
+row_29	BCL11B	BCL11B	B-cell CLL/lymphoma 11B (zinc finger protein)	6577	-0.09048980474472046	-0.12589641	No	
+row_30	ARHGAP26	ARHGAP26	Rho GTPase activating protein 26	6831	-0.11230309307575226	-0.14295226	No	
+row_31	VEZT	VEZT	vezatin, adherens junctions transmembrane protein	7023	-0.12791936099529266	-0.15340488	No	
+row_32	OTUD5	OTUD5	OTU domain containing 5	7551	-0.17311295866966248	-0.19234905	No	
+row_33	GLP1R	GLP1R	glucagon-like peptide 1 receptor	7611	-0.17926396429538727	-0.18772636	No	
+row_34	GCC1	GCC1	GRIP and coiled-coil domain containing 1	7747	-0.19278620183467865	-0.18936281	No	
+row_35	RANBP9	RANBP9	RAN binding protein 9	7842	-0.20111201703548431	-0.186745	No	
+row_36	ELAVL2	ELAVL2	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 2 (Hu antigen B)	7867	-0.20322869718074799	-0.17754355	No	
+row_37	FZD8	FZD8	frizzled homolog 8 (Drosophila)	7900	-0.2063004970550537	-0.16890836	No	
+row_38	DDX3X	DDX3X	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	7974	-0.21226392686367035	-0.16372459	No	
+row_39	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	8000	-0.2141714096069336	-0.1540007	No	
+row_40	ARNTL	ARNTL	aryl hydrocarbon receptor nuclear translocator-like	8113	-0.22684833407402039	-0.15159932	No	
+row_41	CANX	CANX	calnexin	8156	-0.23046649992465973	-0.14252995	No	
+row_42	TBL1XR1	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	8294	-0.2445785403251648	-0.14144126	No	
+row_43	PDE4D	PDE4D	phosphodiesterase 4D, cAMP-specific (phosphodiesterase E3 dunce homolog, Drosophila)	8599	-0.2799553871154785	-0.15378799	No	
+row_44	GPBP1	GPBP1	GC-rich promoter binding protein 1	8841	-0.30847445130348206	-0.15871419	No	
+row_45	USP47	USP47	ubiquitin specific peptidase 47	8947	-0.32168081402778625	-0.15033841	No	
+row_46	RNF44	RNF44	ring finger protein 44	9069	-0.3366246521472931	-0.14260069	No	
+row_47	MKRN1	MKRN1	makorin, ring finger protein, 1	9103	-0.34063056111335754	-0.12651081	No	
+row_48	DDX3Y	DDX3Y	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked	9272	-0.3590067923069	-0.1218562	No	
+row_49	HUWE1	HUWE1	HECT, UBA and WWE domain containing 1	9867	-0.451631635427475	-0.15134013	No	
+row_50	ZMYND11	ZMYND11	zinc finger, MYND domain containing 11	10248	-0.529198944568634	-0.15670253	No	
+row_51	ATP2B2	ATP2B2	ATPase, Ca++ transporting, plasma membrane 2	10500	-0.5986771583557129	-0.14624792	No	
+row_52	ATP2B1	ATP2B1	ATPase, Ca++ transporting, plasma membrane 1	10744	-0.7324709892272949	-0.1275376	No	
+row_53	DHX15	DHX15	DEAH (Asp-Glu-Ala-His) box polypeptide 15	10779	-0.7672808170318604	-0.08756976	No	
+row_54	CGGBP1	CGGBP1	CGG triplet repeat binding protein 1	10830	-0.8524208664894104	-0.04429617	No	
+row_55	GDA	GDA	guanine deaminase	10840	-0.8739134073257446	0.003971398	No	

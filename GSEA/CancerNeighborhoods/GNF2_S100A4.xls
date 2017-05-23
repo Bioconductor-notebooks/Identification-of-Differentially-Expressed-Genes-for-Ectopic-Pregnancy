@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GLRX	GLRX	glutaredoxin (thioltransferase)	432	0.6459597945213318	0.053434942	Yes	
+row_1	S100A4	S100A4	S100 calcium binding protein A4	871	0.5162599682807922	0.08759975	Yes	
+row_2	PILRA	PILRA	paired immunoglobin-like type 2 receptor alpha	887	0.5136489272117615	0.1603452	Yes	
+row_3	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1183	0.4526088535785675	0.19849426	Yes	
+row_4	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.25456193	Yes	
+row_5	CPVL	CPVL	carboxypeptidase, vitellogenic-like	1598	0.38126274943351746	0.2785466	Yes	
+row_6	AIF1	AIF1	allograft inflammatory factor 1	1618	0.37762677669525146	0.3312937	Yes	
+row_7	IGSF6	IGSF6	immunoglobulin superfamily, member 6	1741	0.3573460876941681	0.37162793	Yes	
+row_8	TBXAS1	TBXAS1	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)	1776	0.35147902369499207	0.41922006	Yes	
+row_9	FGR	FGR	Gardner-Rasheed feline sarcoma viral (v-fgr) oncogene homolog	1893	0.3355385959148407	0.45695972	Yes	
+row_10	HCK	HCK	hemopoietic cell kinase	1901	0.33418676257133484	0.504543	Yes	
+row_11	CLEC4A	CLEC4A	C-type lectin domain family 4, member A	2096	0.31483158469200134	0.5321107	Yes	
+row_12	LILRA2	LILRA2	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 2	2449	0.2753489911556244	0.539429	Yes	
+row_13	COTL1	COTL1	coactosin-like 1 (Dictyostelium)	2658	0.2500203251838684	0.55635417	Yes	
+row_14	LILRB2	LILRB2	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 2	2762	0.23737624287605286	0.5811249	Yes	
+row_15	DPEP2	DPEP2	dipeptidase 2	2792	0.2341819703578949	0.61224985	Yes	
+row_16	STXBP2	STXBP2	syntaxin binding protein 2	2887	0.22368963062763214	0.6358743	Yes	
+row_17	NCF2	NCF2	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)	3066	0.20484659075737	0.64904314	Yes	
+row_18	GMIP	GMIP	GEM interacting protein	3467	0.16683240234851837	0.63628024	No	
+row_19	RIN3	RIN3	Ras and Rab interactor 3	4128	0.10865841805934906	0.59117657	No	
+row_20	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.53031427	No	
+row_21	LILRA1	LILRA1	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 1	4932	0.041040629148483276	0.52997434	No	
+row_22	LST1	LST1	leukocyte specific transcript 1	5090	0.030134279280900955	0.5198638	No	
+row_23	APOBEC3A	APOBEC3A	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3A	5571	-0.005691090133041143	0.47647807	No	
+row_24	TMEM127	TMEM127	transmembrane protein 127	5612	-0.00914919376373291	0.4741145	No	
+row_25	CFP	CFP	complement factor properdin	6440	-0.07789922505617142	0.40919143	No	

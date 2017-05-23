@@ -1,0 +1,55 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPRN2	PTPRN2	protein tyrosine phosphatase, receptor type, N polypeptide 2	106	0.8452804088592529	0.03478456	No	
+row_1	MTM1	MTM1	myotubularin 1	630	0.5828036665916443	0.017224396	No	
+row_2	EPM2A	EPM2A	epilepsy, progressive myoclonus type 2A, Lafora disease (laforin)	858	0.5192333459854126	0.023643613	No	
+row_3	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.0463709	No	
+row_4	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1165	0.4581811726093292	0.04652371	No	
+row_5	PTPRM	PTPRM	protein tyrosine phosphatase, receptor type, M	1203	0.4487053155899048	0.0667678	No	
+row_6	PTPRR	PTPRR	protein tyrosine phosphatase, receptor type, R	1387	0.4151409864425659	0.071760945	No	
+row_7	DUSP22	DUSP22	dual specificity phosphatase 22	1429	0.40766969323158264	0.089471854	No	
+row_8	PTPN22	PTPN22	protein tyrosine phosphatase, non-receptor type 22 (lymphoid)	1690	0.36598241329193115	0.08476296	No	
+row_9	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.09635131	No	
+row_10	PTPN23	PTPN23	protein tyrosine phosphatase, non-receptor type 23	1997	0.32382485270500183	0.09228184	No	
+row_11	PTPN21	PTPN21	protein tyrosine phosphatase, non-receptor type 21	2644	0.2508208453655243	0.045858666	No	
+row_12	RNGTT	RNGTT	RNA guanylyltransferase and 5'-phosphatase	2671	0.24887551367282867	0.056581296	No	
+row_13	MTMR7	MTMR7	myotubularin related protein 7	2748	0.23912115395069122	0.062172767	No	
+row_14	PTPRZ1	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1	2756	0.23814047873020172	0.074083716	No	
+row_15	PTPRO	PTPRO	protein tyrosine phosphatase, receptor type, O	2790	0.2342745065689087	0.08339007	No	
+row_16	DUSP6	DUSP6	dual specificity phosphatase 6	2828	0.23005008697509766	0.09210432	No	
+row_17	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	3071	0.20460627973079681	0.08054801	No	
+row_18	MTMR3	MTMR3	myotubularin related protein 3	3349	0.17797426879405975	0.06435561	No	
+row_19	PTPN5	PTPN5	protein tyrosine phosphatase, non-receptor type 5 (striatum-enriched)	4654	0.06399700045585632	-0.05267606	No	
+row_20	MTMR1	MTMR1	myotubularin related protein 1	4716	0.05863351374864578	-0.055216778	No	
+row_21	PTPRJ	PTPRJ	protein tyrosine phosphatase, receptor type, J	4780	0.053559716790914536	-0.058209714	No	
+row_22	PTP4A2	PTP4A2	protein tyrosine phosphatase type IVA, member 2	5052	0.03331146016716957	-0.08147626	No	
+row_23	EYA4	EYA4	eyes absent homolog 4 (Drosophila)	5176	0.023434869945049286	-0.09159786	No	
+row_24	PTPRH	PTPRH	protein tyrosine phosphatase, receptor type, H	5226	0.019656796008348465	-0.09508582	No	
+row_25	PTPN12	PTPN12	protein tyrosine phosphatase, non-receptor type 12	5278	0.016001634299755096	-0.09895118	No	
+row_26	CDC25C	CDC25C	cell division cycle 25C	5284	0.01528681255877018	-0.09860678	No	
+row_27	PTPN11	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	5407	0.006076879799365997	-0.10955135	No	
+row_28	PTPRE	PTPRE	protein tyrosine phosphatase, receptor type, E	6096	-0.05037948489189148	-0.17042205	No	
+row_29	DUSP11	DUSP11	dual specificity phosphatase 11 (RNA/RNP complex 1-interacting)	7126	-0.1353692263364792	-0.25829777	No	
+row_30	SSH3	SSH3	slingshot homolog 3 (Drosophila)	7188	-0.14056742191314697	-0.25651807	No	
+row_31	PTP4A3	PTP4A3	protein tyrosine phosphatase type IVA, member 3	7618	-0.1797301322221756	-0.28665298	No	
+row_32	PTPN18	PTPN18	protein tyrosine phosphatase, non-receptor type 18 (brain-derived)	8429	-0.26163792610168457	-0.3476489	Yes	
+row_33	DUSP13	DUSP13	dual specificity phosphatase 13	8433	-0.2620234489440918	-0.33410922	Yes	
+row_34	CDC14A	CDC14A	CDC14 cell division cycle 14 homolog A (S. cerevisiae)	8437	-0.26238325238227844	-0.3205506	Yes	
+row_35	DUSP5	DUSP5	dual specificity phosphatase 5	8815	-0.3057057857513428	-0.33924124	Yes	
+row_36	DUSP8	DUSP8	dual specificity phosphatase 8	8857	-0.31045040488243103	-0.32665676	Yes	
+row_37	EYA2	EYA2	eyes absent homolog 2 (Drosophila)	8933	-0.3199464678764343	-0.31671098	Yes	
+row_38	CDKN3	CDKN3	cyclin-dependent kinase inhibitor 3 (CDK2-associated dual specificity phosphatase)	8948	-0.32175129652023315	-0.30103752	Yes	
+row_39	PTPRA	PTPRA	protein tyrosine phosphatase, receptor type, A	8976	-0.32544106245040894	-0.2863699	Yes	
+row_40	PTPN2	PTPN2	protein tyrosine phosphatase, non-receptor type 2	9429	-0.3785429894924164	-0.308145	Yes	
+row_41	DUSP16	DUSP16	dual specificity phosphatase 16	9599	-0.4063287377357483	-0.30232382	Yes	
+row_42	PTPRS	PTPRS	protein tyrosine phosphatase, receptor type, S	9723	-0.4249228239059448	-0.2912747	Yes	
+row_43	PTPN3	PTPN3	protein tyrosine phosphatase, non-receptor type 3	9870	-0.4518466889858246	-0.2809296	Yes	
+row_44	EYA3	EYA3	eyes absent homolog 3 (Drosophila)	10075	-0.48857027292251587	-0.27400354	Yes	
+row_45	PTPRG	PTPRG	protein tyrosine phosphatase, receptor type, G	10350	-0.5558363199234009	-0.26999402	Yes	
+row_46	PTPN9	PTPN9	protein tyrosine phosphatase, non-receptor type 9	10355	-0.5578576922416687	-0.24094716	Yes	
+row_47	MTMR2	MTMR2	myotubularin related protein 2	10470	-0.58921217918396	-0.22040392	Yes	
+row_48	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	10592	-0.6375507116317749	-0.19795813	Yes	
+row_49	PTPRD	PTPRD	protein tyrosine phosphatase, receptor type, D	10632	-0.6558500528335571	-0.16697584	Yes	
+row_50	TIMM50	TIMM50	translocase of inner mitochondrial membrane 50 homolog (S. cerevisiae)	10659	-0.6679176688194275	-0.13415684	Yes	
+row_51	PTPLB	PTPLB	protein tyrosine phosphatase-like (proline instead of catalytic arginine), member b	10804	-0.7989468574523926	-0.10532425	Yes	
+row_52	CDC14B	CDC14B	CDC14 cell division cycle 14 homolog B (S. cerevisiae)	10867	-0.9688862562179565	-0.059959088	Yes	
+row_53	PTPRK	PTPRK	protein tyrosine phosphatase, receptor type, K	10878	-1.1633549928665161	4.620182E-4	Yes	

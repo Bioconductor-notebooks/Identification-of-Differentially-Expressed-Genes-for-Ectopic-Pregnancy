@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OXTR	OXTR	oxytocin receptor	73	0.8907396793365479	0.09778015	Yes	
+row_1	CRYAB	CRYAB	crystallin, alpha B	300	0.703855574131012	0.15954086	Yes	
+row_2	ROCK2	ROCK2	Rho-associated, coiled-coil containing protein kinase 2	451	0.6409268379211426	0.22091928	Yes	
+row_3	FKBP1B	FKBP1B	FK506 binding protein 1B, 12.6 kDa	622	0.5859147906303406	0.2740012	Yes	
+row_4	PLN	PLN	phospholamban	1125	0.46708863973617554	0.2825599	Yes	
+row_5	HRC	HRC	histidine rich calcium binding protein	1208	0.44816553592681885	0.32758674	Yes	
+row_6	KCNH2	KCNH2	potassium voltage-gated channel, subfamily H (eag-related), member 2	1362	0.41878825426101685	0.3626268	Yes	
+row_7	TNNI2	TNNI2	troponin I type 2 (skeletal, fast)	1400	0.41249099373817444	0.40761337	Yes	
+row_8	TNNT3	TNNT3	troponin T type 3 (skeletal, fast)	1522	0.3923751711845398	0.4425022	Yes	
+row_9	MYH7	MYH7	myosin, heavy chain 7, cardiac muscle, beta	1551	0.3872138261795044	0.48535222	Yes	
+row_10	MYL1	MYL1	myosin, light chain 1, alkali; skeletal, fast	1567	0.38452938199043274	0.52908474	Yes	
+row_11	MYBPC2	MYBPC2	myosin binding protein C, fast type	1651	0.37229278683662415	0.56511784	Yes	
+row_12	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	1744	0.35679522156715393	0.59850365	Yes	
+row_13	KCNMB1	KCNMB1	potassium large conductance calcium-activated channel, subfamily M, beta member 1	2241	0.2985292077064514	0.58783907	No	
+row_14	CHRNB1	CHRNB1	cholinergic receptor, nicotinic, beta 1 (muscle)	3515	0.1612788289785385	0.48949853	No	
+row_15	SSPN	SSPN	sarcospan (Kras oncogene-associated gene)	3869	0.1296795904636383	0.47219637	No	
+row_16	PPP1R12B	PPP1R12B	protein phosphatase 1, regulatory (inhibitor) subunit 12B	4108	0.11008480191230774	0.46318853	No	
+row_17	PRKG1	PRKG1	protein kinase, cGMP-dependent, type I	5191	0.02273969165980816	0.36618805	No	
+row_18	CASQ2	CASQ2	calsequestrin 2 (cardiac muscle)	5236	0.01879289746284485	0.36433983	No	
+row_19	GNAO1	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	5348	0.01069079153239727	0.35536933	No	
+row_20	ACTN3	ACTN3	actinin, alpha 3	5507	-0.0016223107231780887	0.3410055	No	
+row_21	CACNG1	CACNG1	calcium channel, voltage-dependent, gamma subunit 1	6317	-0.06907682120800018	0.27458882	No	
+row_22	NOS1	NOS1	nitric oxide synthase 1 (neuronal)	6367	-0.0728147029876709	0.27861807	No	
+row_23	KCNA1	KCNA1	potassium voltage-gated channel, shaker-related subfamily, member 1 (episodic ataxia with myokymia)	6636	-0.09523818641901016	0.26510492	No	
+row_24	MYL7	MYL7	myosin, light chain 7, regulatory	6693	-0.09987682104110718	0.27166435	No	
+row_25	SCN7A	SCN7A	sodium channel, voltage-gated, type VII, alpha	7026	-0.1280752718448639	0.2561084	No	
+row_26	SCN5A	SCN5A	sodium channel, voltage-gated, type V, alpha (long QT syndrome 3)	8821	-0.3060227632522583	0.12675777	No	
+row_27	EDNRA	EDNRA	endothelin receptor type A	10279	-0.5377547144889832	0.05563745	No	

@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	671	0.5660825967788696	0.027435733	No	
+row_1	ACAA1	ACAA1	acetyl-Coenzyme A acyltransferase 1 (peroxisomal 3-oxoacyl-Coenzyme A thiolase)	1583	0.3831918239593506	0.0039537624	No	
+row_2	ADH1B	ADH1B	alcohol dehydrogenase IB (class I), beta polypeptide	1674	0.3686155080795288	0.053759266	No	
+row_3	ADH1A	ADH1A	alcohol dehydrogenase 1A (class I), alpha polypeptide	2284	0.2940541207790375	0.044033155	No	
+row_4	CPT1B	CPT1B	carnitine palmitoyltransferase 1B (muscle)	2460	0.2736642062664032	0.07104954	No	
+row_5	GCDH	GCDH	glutaryl-Coenzyme A dehydrogenase	3606	0.15362367033958435	-0.010153787	No	
+row_6	ACSL6	ACSL6	acyl-CoA synthetase long-chain family member 6	4335	0.09074710309505463	-0.062875316	No	
+row_7	ALDH1B1	ALDH1B1	aldehyde dehydrogenase 1 family, member B1	4372	0.08796904236078262	-0.052326303	No	
+row_8	CYP4A11	CYP4A11	cytochrome P450, family 4, subfamily A, polypeptide 11	4993	0.037087976932525635	-0.103561215	No	
+row_9	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	5243	0.018273575231432915	-0.123605385	No	
+row_10	ADH5	ADH5	alcohol dehydrogenase 5 (class III), chi polypeptide	6494	-0.08239209651947021	-0.22570105	No	
+row_11	ACAT2	ACAT2	acetyl-Coenzyme A acetyltransferase 2 (acetoacetyl Coenzyme A thiolase)	7262	-0.14896300435066223	-0.27283865	Yes	
+row_12	ADH6	ADH6	alcohol dehydrogenase 6 (class V)	7316	-0.1531934291124344	-0.2535758	Yes	
+row_13	ADH7	ADH7	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide	7326	-0.15423624217510223	-0.23009782	Yes	
+row_14	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	7357	-0.15762832760810852	-0.2080186	Yes	
+row_15	ACAA2	ACAA2	acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase)	7582	-0.17625704407691956	-0.20086405	Yes	
+row_16	ACADL	ACADL	acyl-Coenzyme A dehydrogenase, long chain	8520	-0.27046531438827515	-0.24450462	Yes	
+row_17	ALDH3A2	ALDH3A2	aldehyde dehydrogenase 3 family, member A2	9186	-0.3500959873199463	-0.2505545	Yes	
+row_18	ACSL5	ACSL5	acyl-CoA synthetase long-chain family member 5	10247	-0.5290493965148926	-0.26476786	Yes	
+row_19	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	10623	-0.6521291136741638	-0.19652082	Yes	
+row_20	HADH	HADH	hydroxyacyl-Coenzyme A dehydrogenase	10628	-0.653465747833252	-0.09390736	Yes	
+row_21	CPT1A	CPT1A	carnitine palmitoyltransferase 1A (liver)	10751	-0.7442686557769775	0.012152448	Yes	

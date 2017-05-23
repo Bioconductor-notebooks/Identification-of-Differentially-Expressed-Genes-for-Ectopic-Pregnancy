@@ -1,0 +1,35 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NAPA	NAPA	N-ethylmaleimide-sensitive factor attachment protein, alpha	1	1.2397955656051636	0.11009575	Yes	
+row_1	PTPRN2	PTPRN2	protein tyrosine phosphatase, receptor type, N polypeptide 2	106	0.8452804088592529	0.17563552	Yes	
+row_2	OXT	OXT	oxytocin, prepro- (neurophysin I)	125	0.8241628408432007	0.24722473	Yes	
+row_3	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	303	0.702338695526123	0.29333234	Yes	
+row_4	ILK	ILK	integrin-linked kinase	446	0.6421979665756226	0.3373207	Yes	
+row_5	SYNGR1	SYNGR1	synaptogyrin 1	524	0.6189231872558594	0.38523123	Yes	
+row_6	DNAJC5	DNAJC5	DnaJ (Hsp40) homolog, subfamily C, member 5	1264	0.4355696737766266	0.35583228	Yes	
+row_7	SNCB	SNCB	synuclein, beta	1336	0.4225723445415497	0.38684496	Yes	
+row_8	NTSR1	NTSR1	neurotensin receptor 1 (high affinity)	1397	0.4128698706626892	0.4180092	Yes	
+row_9	AP3D1	AP3D1	adaptor-related protein complex 3, delta 1 subunit	1607	0.37941962480545044	0.43246776	Yes	
+row_10	AAK1	AAK1	AP2 associated kinase 1	3208	0.19148775935173035	0.30202097	No	
+row_11	GRIK3	GRIK3	glutamate receptor, ionotropic, kainate 3	3215	0.19090726971626282	0.318435	No	
+row_12	P2RX3	P2RX3	purinergic receptor P2X, ligand-gated ion channel, 3	3622	0.15249840915203094	0.2945691	No	
+row_13	GRIK2	GRIK2	glutamate receptor, ionotropic, kainate 2	4119	0.10950788110494614	0.25858742	No	
+row_14	NTRK2	NTRK2	neurotrophic tyrosine kinase, receptor, type 2	4254	0.09804289042949677	0.25495082	No	
+row_15	DRD4	DRD4	dopamine receptor D4	4873	0.04544418677687645	0.2020312	No	
+row_16	GRIN1	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	4998	0.03678501769900322	0.19387192	No	
+row_17	GRIA4	GRIA4	glutamate receptor, ionotrophic, AMPA 4	5673	-0.01372776459902525	0.13297217	No	
+row_18	UNC13B	UNC13B	unc-13 homolog B (C. elegans)	6347	-0.07077600806951523	0.0772348	No	
+row_19	OPHN1	OPHN1	oligophrenin 1	6524	-0.08497966080904007	0.06856624	No	
+row_20	TH	TH	tyrosine hydroxylase	6868	-0.11536454409360886	0.04720646	No	
+row_21	SNCA	SNCA	synuclein, alpha (non A4 component of amyloid precursor)	6890	-0.11697226762771606	0.05566699	No	
+row_22	GRIA3	GRIA3	glutamate receptor, ionotrophic, AMPA 3	6995	-0.1258743405342102	0.05726893	No	
+row_23	CALCA	CALCA	calcitonin/calcitonin-related polypeptide, alpha	7013	-0.12724360823631287	0.06701099	No	
+row_24	ADCYAP1	ADCYAP1	adenylate cyclase activating polypeptide 1 (pituitary)	7222	-0.14407391846179962	0.06064518	No	
+row_25	CPLX2	CPLX2	complexin 2	8141	-0.2291918694972992	-0.0035934907	No	
+row_26	RAB5A	RAB5A	RAB5A, member RAS oncogene family	8499	-0.26836058497428894	-0.0126459375	No	
+row_27	TBC1D24	TBC1D24	TBC1 domain family, member 24	8507	-0.26941895484924316	0.010653745	No	
+row_28	CAD	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	8684	-0.2917642891407013	0.020363351	No	
+row_29	VAMP1	VAMP1	vesicle-associated membrane protein 1 (synaptobrevin 1)	8892	-0.3144291341304779	0.029230172	No	
+row_30	SV2A	SV2A	synaptic vesicle glycoprotein 2A	9305	-0.3611074388027191	0.02335156	No	
+row_31	AP1S1	AP1S1	adaptor-related protein complex 1, sigma 1 subunit	9447	-0.38159942626953125	0.044271145	No	
+row_32	ADORA1	ADORA1	adenosine A1 receptor	9985	-0.46959275007247925	0.03651352	No	
+row_33	ESR1	ESR1	estrogen receptor 1	10205	-0.5193678140640259	0.062488455	No	

@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MFSD1	MFSD1	major facilitator superfamily domain containing 1	554	0.6070277690887451	-0.0016668423	Yes	
+row_1	ADCY9	ADCY9	adenylate cyclase 9	560	0.6048184633255005	0.047132127	Yes	
+row_2	HEXB	HEXB	hexosaminidase B (beta polypeptide)	588	0.5952228307723999	0.09312005	Yes	
+row_3	CCL23	CCL23	chemokine (C-C motif) ligand 23	612	0.5894759297370911	0.13900891	Yes	
+row_4	APOC2	APOC2	apolipoprotein C-II	659	0.5707862973213196	0.1812538	Yes	
+row_5	SNX10	SNX10	sorting nexin 10	739	0.5480499863624573	0.21860263	Yes	
+row_6	SCPEP1	SCPEP1	serine carboxypeptidase 1	746	0.5470680594444275	0.2626058	Yes	
+row_7	TDRD7	TDRD7	tudor domain containing 7	1014	0.488777220249176	0.2777839	Yes	
+row_8	BLOC1S1	BLOC1S1	biogenesis of lysosome-related organelles complex-1, subunit 1	1149	0.4612685441970825	0.30299088	Yes	
+row_9	MICAL1	MICAL1	microtubule associated monoxygenase, calponin and LIM domain containing 1	1206	0.44846412539482117	0.3343506	Yes	
+row_10	RMND5B	RMND5B	required for meiotic nuclear division 5 homolog B (S. cerevisiae)	1298	0.42925217747688293	0.36091673	Yes	
+row_11	MBNL1	MBNL1	muscleblind-like (Drosophila)	1373	0.41678547859191895	0.3880358	Yes	
+row_12	LRMP	LRMP	lymphoid-restricted membrane protein	1422	0.40918198227882385	0.41693413	Yes	
+row_13	CES1	CES1	carboxylesterase 1 (monocyte/macrophage serine esterase 1)	1653	0.37222015857696533	0.42603236	Yes	
+row_14	ALDH3B1	ALDH3B1	aldehyde dehydrogenase 3 family, member B1	2005	0.32314959168434143	0.41997164	Yes	
+row_15	ITGAX	ITGAX	integrin, alpha X (complement component 3 receptor 4 subunit)	2406	0.2796320617198944	0.40584627	Yes	
+row_16	C2	C2	complement component 2	2445	0.2755146026611328	0.42478037	Yes	
+row_17	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	0.43781063	Yes	
+row_18	RNASE2	RNASE2	ribonuclease, RNase A family, 2 (liver, eosinophil-derived neurotoxin)	2710	0.2443426549434662	0.44193655	Yes	
+row_19	STXBP2	STXBP2	syntaxin binding protein 2	2887	0.22368963062763214	0.44391906	Yes	
+row_20	SIRPA	SIRPA	signal-regulatory protein alpha	2902	0.22191600501537323	0.4607018	Yes	
+row_21	FBP1	FBP1	fructose-1,6-bisphosphatase 1	3399	0.17336496710777283	0.4290653	No	
+row_22	KCNE1L	KCNE1L	KCNE1-like	3880	0.1287652552127838	0.39527228	No	
+row_23	RNASE3	RNASE3	ribonuclease, RNase A family, 3 (eosinophil cationic protein)	4196	0.10238330066204071	0.37455198	No	
+row_24	MVP	MVP	major vault protein	4292	0.09531255066394806	0.373551	No	
+row_25	GGA2	GGA2	golgi associated, gamma adaptin ear containing, ARF binding protein 2	4555	0.07236401736736298	0.35527503	No	
+row_26	ITGA7	ITGA7	integrin, alpha 7	4594	0.06901773065328598	0.35739076	No	
+row_27	COL9A2	COL9A2	collagen, type IX, alpha 2	4869	0.04608011245727539	0.33586705	No	
+row_28	PBX3	PBX3	pre-B-cell leukemia transcription factor 3	5240	0.018340669572353363	0.303228	No	
+row_29	GAS7	GAS7	growth arrest-specific 7	5706	-0.015881100669503212	0.26162478	No	
+row_30	GUSB	GUSB	glucuronidase, beta	5744	-0.020071133971214294	0.2598462	No	
+row_31	CUL1	CUL1	cullin 1	5946	-0.03780459612607956	0.24438281	No	
+row_32	SYT17	SYT17	synaptotagmin XVII	6095	-0.050257761031389236	0.23482299	No	
+row_33	MAGEF1	MAGEF1	melanoma antigen family F, 1	6300	-0.06738114356994629	0.22149174	No	
+row_34	MLL	MLL	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila)	6455	-0.07908690720796585	0.21372643	No	
+row_35	RPL22	RPL22	ribosomal protein L22	6939	-0.12176656723022461	0.17908669	No	
+row_36	HOXA9	HOXA9	homeobox A9	7612	-0.17927643656730652	0.13169546	No	
+row_37	AKR7A2	AKR7A2	aldo-keto reductase family 7, member A2 (aflatoxin aldehyde reductase)	7944	-0.2103029042482376	0.1182888	No	
+row_38	RNPEP	RNPEP	arginyl aminopeptidase (aminopeptidase B)	8254	-0.2411220818758011	0.10942177	No	
+row_39	CPM	CPM	carboxypeptidase M	8292	-0.24454441666603088	0.12592572	No	
+row_40	PHKA2	PHKA2	phosphorylase kinase, alpha 2 (liver)	8770	-0.30056333541870117	0.10640181	No	
+row_41	GLG1	GLG1	golgi apparatus protein 1	8999	-0.32837551832199097	0.112113565	No	
+row_42	ALDH3A2	ALDH3A2	aldehyde dehydrogenase 3 family, member A2	9186	-0.3500959873199463	0.12346892	No	
+row_43	DACH1	DACH1	dachshund homolog 1 (Drosophila)	9589	-0.40503573417663574	0.11937271	No	

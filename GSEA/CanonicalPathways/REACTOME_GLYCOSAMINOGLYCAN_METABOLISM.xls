@@ -1,0 +1,62 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHST7	CHST7	carbohydrate (N-acetylglucosamine 6-O) sulfotransferase 7	58	0.9149240255355835	0.040958777	Yes	
+row_1	SGSH	SGSH	N-sulfoglucosamine sulfohydrolase (sulfamidase)	100	0.851408064365387	0.08027281	Yes	
+row_2	HPSE	HPSE	heparanase	268	0.7203890681266785	0.10131217	Yes	
+row_3	DCN	DCN	decorin	289	0.7102755904197693	0.13542172	Yes	
+row_4	B3GNT1	B3GNT1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1	395	0.6601040363311768	0.15913773	Yes	
+row_5	HEXB	HEXB	hexosaminidase B (beta polypeptide)	588	0.5952228307723999	0.17153068	Yes	
+row_6	CHPF	CHPF	-	627	0.5833183526992798	0.19754995	Yes	
+row_7	B4GALT4	B4GALT4	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 4	647	0.5751257538795471	0.22490998	Yes	
+row_8	B3GNT2	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2	691	0.5611932277679443	0.2493472	Yes	
+row_9	HS3ST2	HS3ST2	heparan sulfate (glucosamine) 3-O-sulfotransferase 2	754	0.5448114275932312	0.27119955	Yes	
+row_10	B4GALT3	B4GALT3	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 3	842	0.5221913456916809	0.2895969	Yes	
+row_11	EXT2	EXT2	exostoses (multiple) 2	899	0.5110620260238647	0.31029508	Yes	
+row_12	CHSY1	CHSY1	carbohydrate (chondroitin) synthase 1	989	0.4932289719581604	0.3270414	Yes	
+row_13	ST3GAL1	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	992	0.492369681596756	0.35178265	Yes	
+row_14	CHST3	CHST3	carbohydrate (chondroitin 6) sulfotransferase 3	1061	0.47727274894714355	0.36966154	Yes	
+row_15	SDC4	SDC4	syndecan 4 (amphiglycan, ryudocan)	1234	0.44265270233154297	0.3761786	Yes	
+row_16	SDC3	SDC3	syndecan 3 (N-syndecan)	1447	0.40450936555862427	0.37706885	Yes	
+row_17	ST3GAL6	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6	1695	0.3645269274711609	0.37270114	Yes	
+row_18	HAS3	HAS3	hyaluronan synthase 3	1731	0.3586439788341522	0.38762352	Yes	
+row_19	OGN	OGN	osteoglycin (osteoinductive factor, mimecan)	1886	0.3360936939716339	0.3904092	Yes	
+row_20	CHST11	CHST11	carbohydrate (chondroitin 4) sulfotransferase 11	1903	0.3339635133743286	0.40583766	Yes	
+row_21	HYAL1	HYAL1	hyaluronoglucosaminidase 1	1917	0.33226802945137024	0.42145747	Yes	
+row_22	FMOD	FMOD	fibromodulin	1936	0.32993432879447937	0.43649715	Yes	
+row_23	B3GNT7	B3GNT7	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7	2130	0.3098989427089691	0.4343533	Yes	
+row_24	HAS1	HAS1	hyaluronan synthase 1	2200	0.3035176694393158	0.4433435	Yes	
+row_25	IDS	IDS	iduronate 2-sulfatase (Hunter syndrome)	2357	0.2845359146595001	0.44333428	Yes	
+row_26	B3GAT3	B3GAT3	beta-1,3-glucuronyltransferase 3 (glucuronosyltransferase I)	2376	0.2824167311191559	0.4559684	Yes	
+row_27	NDST1	NDST1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1	2600	0.25706568360328674	0.448378	No	
+row_28	HS2ST1	HS2ST1	heparan sulfate 2-O-sulfotransferase 1	3058	0.2056897133588791	0.41656607	No	
+row_29	ARSB	ARSB	arylsulfatase B	3128	0.19876037538051605	0.42025295	No	
+row_30	SLC9A1	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	3383	0.17461244761943817	0.40562412	No	
+row_31	PRELP	PRELP	proline/arginine-rich end leucine-rich repeat protein	3664	0.1489841639995575	0.38729554	No	
+row_32	CHST12	CHST12	carbohydrate (chondroitin 4) sulfotransferase 12	3789	0.13762927055358887	0.3828059	No	
+row_33	B4GALT7	B4GALT7	xylosylprotein beta 1,4-galactosyltransferase, polypeptide 7 (galactosyltransferase I)	3805	0.13609081506729126	0.38830954	No	
+row_34	SDC1	SDC1	syndecan 1	4950	0.039749324321746826	0.284621	No	
+row_35	HS6ST3	HS6ST3	heparan sulfate 6-O-sulfotransferase 3	4976	0.03789139539003372	0.28422934	No	
+row_36	GPC5	GPC5	glypican 5	5048	0.033454082906246185	0.27936286	No	
+row_37	NDST4	NDST4	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 4	5476	5.424956907518208E-4	0.2399373	No	
+row_38	ABCC5	ABCC5	ATP-binding cassette, sub-family C (CFTR/MRP), member 5	5591	-0.007733445148915052	0.22979568	No	
+row_39	GUSB	GUSB	glucuronidase, beta	5744	-0.020071133971214294	0.21676761	No	
+row_40	B4GALT6	B4GALT6	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 6	5838	-0.02832433022558689	0.2096087	No	
+row_41	HYAL2	HYAL2	hyaluronoglucosaminidase 2	5962	-0.03923065587878227	0.20023006	No	
+row_42	HS3ST4	HS3ST4	heparan sulfate (glucosamine) 3-O-sulfotransferase 4	6138	-0.05521252006292343	0.18685591	No	
+row_43	STAB2	STAB2	stabilin 2	6569	-0.08993571996688843	0.15167867	No	
+row_44	B4GALT2	B4GALT2	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2	7367	-0.15805979073047638	0.08604093	No	
+row_45	HS6ST1	HS6ST1	heparan sulfate 6-O-sulfotransferase 1	7373	-0.15840943157672882	0.09359837	No	
+row_46	HAS2	HAS2	hyaluronan synthase 2	7552	-0.17327770590782166	0.085924044	No	
+row_47	GPC3	GPC3	glypican 3	7740	-0.1920977234840393	0.078370914	No	
+row_48	HS3ST3B1	HS3ST3B1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	7962	-0.21153149008750916	0.06866015	No	
+row_49	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	8000	-0.2141714096069336	0.07608386	No	
+row_50	HS3ST3A1	HS3ST3A1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3A1	8549	-0.27444988489151	0.039344892	No	
+row_51	UST	UST	uronyl-2-sulfotransferase	8555	-0.2749444246292114	0.052801885	No	
+row_52	ST3GAL2	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	8568	-0.2763917148113251	0.06568538	No	
+row_53	NAGLU	NAGLU	N-acetylglucosaminidase, alpha- (Sanfilippo disease IIIB)	8663	-0.28812772035598755	0.07158654	No	
+row_54	B3GAT1	B3GAT1	beta-1,3-glucuronyltransferase 1 (glucuronosyltransferase P)	8730	-0.2961079180240631	0.08047879	No	
+row_55	CHST9	CHST9	carbohydrate (N-acetylgalactosamine 4-0) sulfotransferase 9	8731	-0.29613059759140015	0.0954703	No	
+row_56	EXT1	EXT1	exostoses (multiple) 1	8789	-0.302933007478714	0.10553963	No	
+row_57	BGN	BGN	biglycan	9046	-0.33342134952545166	0.09876564	No	
+row_58	GPC1	GPC1	glypican 1	9935	-0.46093812584877014	0.040053	No	
+row_59	CD44	CD44	CD44 molecule (Indian blood group)	9946	-0.4618864953517914	0.0625119	No	
+row_60	HMMR	HMMR	hyaluronan-mediated motility receptor (RHAMM)	10008	-0.47349947690963745	0.08084651	No	

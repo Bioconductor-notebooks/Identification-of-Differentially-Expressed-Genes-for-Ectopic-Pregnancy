@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLR2K	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	302	0.7031364440917969	0.09424898	No	
+row_1	POLR2L	POLR2L	polymerase (RNA) II (DNA directed) polypeptide L, 7.6kDa	834	0.523287832736969	0.13621223	No	
+row_2	POLR2C	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	4202	0.10199275612831116	-0.15589443	No	
+row_3	POLR2A	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	4773	0.054010964930057526	-0.1989678	No	
+row_4	EIF2C4	EIF2C4	eukaryotic translation initiation factor 2C, 4	8102	-0.22615356743335724	-0.46593648	Yes	
+row_5	TNRC6C	TNRC6C	trinucleotide repeat containing 6C	8297	-0.24467015266418457	-0.44132188	Yes	
+row_6	DGCR8	DGCR8	DiGeorge syndrome critical region gene 8	8769	-0.2999967336654663	-0.43259245	Yes	
+row_7	EIF2C1	EIF2C1	eukaryotic translation initiation factor 2C, 1	8831	-0.30711251497268677	-0.38490254	Yes	
+row_8	XPO5	XPO5	exportin 5	9049	-0.33377188444137573	-0.34693968	Yes	
+row_9	EIF2C2	EIF2C2	eukaryotic translation initiation factor 2C, 2	9171	-0.34775954484939575	-0.2977158	Yes	
+row_10	TNRC6A	TNRC6A	trinucleotide repeat containing 6A	9247	-0.3569495677947998	-0.24266434	Yes	
+row_11	TNRC6B	TNRC6B	trinucleotide repeat containing 6B	9261	-0.35786107182502747	-0.18174982	Yes	
+row_12	POLR2F	POLR2F	polymerase (RNA) II (DNA directed) polypeptide F	9506	-0.39237406849861145	-0.13610028	Yes	
+row_13	EIF2C3	EIF2C3	eukaryotic translation initiation factor 2C, 3	9672	-0.41787102818489075	-0.0787564	Yes	
+row_14	POLR2H	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	10287	-0.5390080809593201	-0.041701823	Yes	
+row_15	DICER1	DICER1	Dicer1, Dcr-1 homolog (Drosophila)	10349	-0.5557109713554382	0.049135048	Yes	

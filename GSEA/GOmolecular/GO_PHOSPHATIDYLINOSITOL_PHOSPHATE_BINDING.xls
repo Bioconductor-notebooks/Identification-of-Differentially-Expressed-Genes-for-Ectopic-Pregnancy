@@ -1,0 +1,50 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLEKHF1	PLEKHF1	pleckstrin homology domain containing, family F (with FYVE domain) member 1	291	0.7097420692443848	0.03540575	Yes	
+row_1	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	603	0.5916893482208252	0.058609284	Yes	
+row_2	SNX11	SNX11	sorting nexin 11	917	0.5061836242675781	0.074127115	Yes	
+row_3	SYTL2	SYTL2	synaptotagmin-like 2	930	0.5042561292648315	0.1172562	Yes	
+row_4	DENND1A	DENND1A	DENN/MADD domain containing 1A	1252	0.4377802312374115	0.1260349	Yes	
+row_5	WDR45	WDR45	WD repeat domain 45	1358	0.41921570897102356	0.15312038	Yes	
+row_6	KRIT1	KRIT1	KRIT1, ankyrin repeat containing	1359	0.41904765367507935	0.18988195	Yes	
+row_7	ANXA2	ANXA2	annexin A2	1376	0.41656655073165894	0.22494917	Yes	
+row_8	NCF4	NCF4	neutrophil cytosolic factor 4, 40kDa	1625	0.3759497404098511	0.23504111	Yes	
+row_9	MYO10	MYO10	myosin X	1646	0.37334898114204407	0.26594782	Yes	
+row_10	MYO1G	MYO1G	myosin IG	1749	0.3562125265598297	0.28778315	Yes	
+row_11	SH3PXD2B	SH3PXD2B	SH3 and PX domains 2B	1895	0.33513882756233215	0.30380115	Yes	
+row_12	ZFYVE26	ZFYVE26	zinc finger, FYVE domain containing 26	2010	0.3225022256374359	0.32157168	Yes	
+row_13	ARHGAP9	ARHGAP9	Rho GTPase activating protein 9	2095	0.31489306688308716	0.34144345	Yes	
+row_14	RS1	RS1	retinoschisis (X-linked, juvenile) 1	2368	0.28327685594558716	0.34119052	Yes	
+row_15	SNX13	SNX13	sorting nexin 13	2551	0.263215035200119	0.34748402	Yes	
+row_16	FCHO2	FCHO2	FCH domain only 2	2638	0.2519069015979767	0.36164567	Yes	
+row_17	DAPP1	DAPP1	dual adaptor of phosphotyrosine and 3-phosphoinositides	2827	0.2300952523946762	0.36447993	Yes	
+row_18	ANKFY1	ANKFY1	ankyrin repeat and FYVE domain containing 1	3139	0.19750532507896423	0.3531031	Yes	
+row_19	SLC9A1	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	3383	0.17461244761943817	0.3459939	Yes	
+row_20	OSBPL8	OSBPL8	oxysterol binding protein-like 8	3390	0.17401844263076782	0.36070618	Yes	
+row_21	SNX3	SNX3	sorting nexin 3	3546	0.15928983688354492	0.36037463	Yes	
+row_22	DAB2IP	DAB2IP	DAB2 interacting protein	3618	0.15288253128528595	0.36723363	Yes	
+row_23	ARFIP1	ARFIP1	ADP-ribosylation factor interacting protein 1 (arfaptin 1)	3749	0.1405181735754013	0.36756262	Yes	
+row_24	SNX24	SNX24	sorting nexing 24	3944	0.12376264482736588	0.36051497	Yes	
+row_25	TULP1	TULP1	tubby like protein 1	3966	0.12199058383703232	0.36927858	Yes	
+row_26	KCNJ2	KCNJ2	potassium inwardly-rectifying channel, subfamily J, member 2	4115	0.10975831001996994	0.36524788	Yes	
+row_27	ALOX15	ALOX15	arachidonate 15-lipoxygenase	4138	0.10765205323696136	0.37266135	Yes	
+row_28	ZFYVE28	ZFYVE28	zinc finger, FYVE domain containing 28	4424	0.08236730843782425	0.35358348	No	
+row_29	PLEKHA5	PLEKHA5	pleckstrin homology domain containing, family A member 5	4529	0.07424330711364746	0.35049805	No	
+row_30	APBA1	APBA1	amyloid beta (A4) precursor protein-binding, family A, member 1 (X11)	4643	0.0648396760225296	0.34575707	No	
+row_31	IQGAP1	IQGAP1	IQ motif containing GTPase activating protein 1	4726	0.057692281901836395	0.34325013	No	
+row_32	MARK1	MARK1	MAP/microtubule affinity-regulating kinase 1	4897	0.043590277433395386	0.33138424	No	
+row_33	GAP43	GAP43	growth associated protein 43	5079	0.031057560816407204	0.3174037	No	
+row_34	KCNJ1	KCNJ1	potassium inwardly-rectifying channel, subfamily J, member 1	5106	0.028746511787176132	0.3175259	No	
+row_35	KCNQ1	KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1	5196	0.02247987687587738	0.31128386	No	
+row_36	OSBPL5	OSBPL5	oxysterol binding protein-like 5	5454	0.00221214909106493	0.2877585	No	
+row_37	WIPI2	WIPI2	WD repeat domain, phosphoinositide interacting 2	5501	-0.0012676510959863663	0.2836242	No	
+row_38	LANCL2	LANCL2	LanC lantibiotic synthetase component C-like 2 (bacterial)	5536	-0.0038882961962372065	0.28082734	No	
+row_39	PLEKHA8	PLEKHA8	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 8	5565	-0.005422553513199091	0.27871883	No	
+row_40	COL4A3BP	COL4A3BP	collagen, type IV, alpha 3 (Goodpasture antigen) binding protein	6324	-0.06935648620128632	0.21484475	No	
+row_41	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	0.16087121	No	
+row_42	ARFIP2	ARFIP2	ADP-ribosylation factor interacting protein 2 (arfaptin 2)	7306	-0.15244516730308533	0.14904855	No	
+row_43	OSBP	OSBP	oxysterol binding protein	7591	-0.17731286585330963	0.13839224	No	
+row_44	FGD2	FGD2	FYVE, RhoGEF and PH domain containing 2	7662	-0.18442970514297485	0.14811106	No	
+row_45	SNX19	SNX19	sorting nexin 19	7750	-0.1930120289325714	0.15701377	No	
+row_46	GOLPH3L	GOLPH3L	golgi phosphoprotein 3-like	8579	-0.27796047925949097	0.104979254	No	
+row_47	PARD3	PARD3	par-3 partitioning defective 3 homolog (C. elegans)	10519	-0.6041291356086731	-0.020979717	No	
+row_48	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10557	-0.6210469007492065	0.030087667	No	

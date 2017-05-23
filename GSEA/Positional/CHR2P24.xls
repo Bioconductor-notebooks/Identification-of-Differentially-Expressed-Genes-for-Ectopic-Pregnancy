@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NAGK	NAGK	N-acetylglucosamine kinase	272	0.7189009189605713	0.0901555	Yes	
+row_1	ROCK2	ROCK2	Rho-associated, coiled-coil containing protein kinase 2	451	0.6409268379211426	0.17647098	Yes	
+row_2	HS1BP3	HS1BP3	HCLS1 binding protein 3	483	0.6320222020149231	0.2748942	Yes	
+row_3	FKBP1B	FKBP1B	FK506 binding protein 1B, 12.6 kDa	622	0.5859147906303406	0.35607725	Yes	
+row_4	FAM49A	FAM49A	family with sequence similarity 49, member A	934	0.5036348700523376	0.40814692	Yes	
+row_5	MRPL44	MRPL44	mitochondrial ribosomal protein L44	1706	0.3633756935596466	0.3953876	Yes	
+row_6	MATN3	MATN3	matrilin 3	2228	0.30010947585105896	0.3955084	Yes	
+row_7	ADCY3	ADCY3	adenylate cyclase 3	2576	0.2600231170654297	0.40522626	Yes	
+row_8	FAHD2A	FAHD2A	fumarylacetoacetate hydrolase domain containing 2A	2765	0.23712033033370972	0.42591363	Yes	
+row_9	AAK1	AAK1	AP2 associated kinase 1	3208	0.19148775935173035	0.41590223	No	
+row_10	MYCN	MYCN	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)	3437	0.16936437785625458	0.42204922	No	
+row_11	IL18RAP	IL18RAP	interleukin 18 receptor accessory protein	4994	0.03698050603270531	0.28471023	No	
+row_12	CENPA	CENPA	centromere protein A	5514	-0.002135344548150897	0.23726676	No	
+row_13	RAB10	RAB10	RAB10, member RAS oncogene family	5566	-0.0054242294281721115	0.23344025	No	
+row_14	MYCNOS	MYCNOS	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian) opposite strand	5585	-0.006718666758388281	0.23285957	No	
+row_15	SPAST	SPAST	spastin	5950	-0.03811728581786156	0.20545322	No	
+row_16	DDX1	DDX1	DEAD (Asp-Glu-Ala-Asp) box polypeptide 1	6986	-0.12523433566093445	0.13022612	No	
+row_17	STAMBP	STAMBP	STAM binding protein	6990	-0.12549448013305664	0.15005958	No	
+row_18	FLJ12334	FLJ12334	-	7433	-0.16273191571235657	0.13544026	No	
+row_19	FAM84A	FAM84A	family with sequence similarity 84, member A	7578	-0.17577208578586578	0.15034814	No	
+row_20	ASXL2	ASXL2	additional sex combs like 2 (Drosophila)	8461	-0.2648788392543793	0.11158528	No	
+row_21	GORASP2	GORASP2	golgi reassembly stacking protein 2, 55kDa	9161	-0.34675347805023193	0.10279158	No	
+row_22	OSR1	OSR1	odd-skipped related 1 (Drosophila)	9166	-0.3473791778087616	0.15808856	No	

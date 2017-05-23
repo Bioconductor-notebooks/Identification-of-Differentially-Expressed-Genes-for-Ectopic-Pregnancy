@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAFB	MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)	393	0.6609540581703186	0.052855108	Yes	
+row_1	STX11	STX11	syntaxin 11	394	0.6607995629310608	0.14188059	Yes	
+row_2	CD33	CD33	CD33 molecule	814	0.5277246832847595	0.1743922	Yes	
+row_3	LILRA6	LILRA6	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 6	1008	0.4901025593280792	0.22264743	Yes	
+row_4	CD86	CD86	CD86 molecule	1191	0.45085471868515015	0.26662803	Yes	
+row_5	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.31924188	Yes	
+row_6	CTSS	CTSS	cathepsin S	1506	0.3941039443016052	0.34977517	Yes	
+row_7	CPVL	CPVL	carboxypeptidase, vitellogenic-like	1598	0.38126274943351746	0.39276022	Yes	
+row_8	AIF1	AIF1	allograft inflammatory factor 1	1618	0.37762677669525146	0.44188586	Yes	
+row_9	IGSF6	IGSF6	immunoglobulin superfamily, member 6	1741	0.3573460876941681	0.47879398	Yes	
+row_10	TBXAS1	TBXAS1	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)	1776	0.35147902369499207	0.52301556	Yes	
+row_11	HCK	HCK	hemopoietic cell kinase	1901	0.33418676257133484	0.5566194	Yes	
+row_12	CLEC4A	CLEC4A	C-type lectin domain family 4, member A	2096	0.31483158469200134	0.58116937	Yes	
+row_13	COTL1	COTL1	coactosin-like 1 (Dictyostelium)	2658	0.2500203251838684	0.5631908	Yes	
+row_14	MS4A6A	MS4A6A	membrane-spanning 4-domains, subfamily A, member 6A	2749	0.2390880286693573	0.5871137	Yes	
+row_15	LILRB2	LILRB2	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 2	2762	0.23737624287605286	0.6179888	Yes	
+row_16	SLC7A7	SLC7A7	solute carrier family 7 (cationic amino acid transporter, y+ system), member 7	2779	0.23556073009967804	0.64825106	Yes	
+row_17	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	4619	0.066714346408844	0.48788646	No	
+row_18	LILRA1	LILRA1	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 1	4932	0.041040629148483276	0.46468368	No	
+row_19	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	0.36512244	No	
+row_20	CFP	CFP	complement factor properdin	6440	-0.07789922505617142	0.34320182	No	
+row_21	RNF130	RNF130	ring finger protein 130	6490	-0.08215498179197311	0.34975767	No	
+row_22	CECR1	CECR1	cat eye syndrome chromosome region, candidate 1	6845	-0.1136077344417572	0.33246365	No	
+row_23	AP1S2	AP1S2	adaptor-related protein complex 1, sigma 2 subunit	6996	-0.12589934468269348	0.33561188	No	
+row_24	LILRA3	LILRA3	leukocyte immunoglobulin-like receptor, subfamily A (without TM domain), member 3	7457	-0.165137380361557	0.31549865	No	

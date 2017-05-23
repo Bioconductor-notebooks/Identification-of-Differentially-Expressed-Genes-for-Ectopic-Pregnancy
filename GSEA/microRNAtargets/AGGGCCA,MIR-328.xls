@@ -1,0 +1,41 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LGR4	LGR4	leucine-rich repeat-containing G protein-coupled receptor 4	7	1.1450462341308594	0.0929581	Yes	
+row_1	CHST7	CHST7	carbohydrate (N-acetylglucosamine 6-O) sulfotransferase 7	58	0.9149240255355835	0.16313916	Yes	
+row_2	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	477	0.6339552998542786	0.17641619	Yes	
+row_3	ITGA5	ITGA5	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	783	0.5351638793945312	0.19203787	Yes	
+row_4	SERTAD2	SERTAD2	SERTA domain containing 2	866	0.5172665119171143	0.22676083	Yes	
+row_5	PIM1	PIM1	pim-1 oncogene	1300	0.42919424176216125	0.2219161	Yes	
+row_6	NR3C1	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	1452	0.4038057327270508	0.24100108	Yes	
+row_7	ASB15	ASB15	ankyrin repeat and SOCS box-containing 15	2264	0.29639917612075806	0.1904428	No	
+row_8	GPM6A	GPM6A	glycoprotein M6A	2336	0.2875578701496124	0.20740227	No	
+row_9	WDTC1	WDTC1	WD and tetratricopeptide repeats 1	2450	0.2752401530742645	0.2194817	No	
+row_10	AGPAT1	AGPAT1	1-acylglycerol-3-phosphate O-acyltransferase 1 (lysophosphatidic acid acyltransferase, alpha)	3270	0.18557263910770416	0.159126	No	
+row_11	TTYH3	TTYH3	tweety homolog 3 (Drosophila)	3307	0.18267931044101715	0.1707396	No	
+row_12	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	3380	0.17508181929588318	0.17841232	No	
+row_13	SLITRK3	SLITRK3	SLIT and NTRK-like family, member 3	3761	0.1397135704755783	0.15479101	No	
+row_14	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	3827	0.13370884954929352	0.15972716	No	
+row_15	MAX	MAX	MYC associated factor X	3942	0.12387663871049881	0.15934092	No	
+row_16	PSME3	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	5138	0.0268996711820364	0.051340695	No	
+row_17	ZC3H12B	ZC3H12B	zinc finger CCCH-type containing 12B	5479	3.35213408106938E-4	0.020014355	No	
+row_18	RSBN1L	RSBN1L	round spermatid basic protein 1-like	5519	-0.0028493953868746758	0.016650824	No	
+row_19	DYNC1I1	DYNC1I1	dynein, cytoplasmic 1, intermediate chain 1	5689	-0.014355218969285488	0.0022396592	No	
+row_20	NRP2	NRP2	neuropilin 2	5732	-0.01843959651887417	-1.2607625E-4	No	
+row_21	SCN2B	SCN2B	sodium channel, voltage-gated, type II, beta	6223	-0.06119968742132187	-0.04030949	No	
+row_22	KCNA7	KCNA7	potassium voltage-gated channel, shaker-related subfamily, member 7	6366	-0.07276128232479095	-0.0474563	No	
+row_23	AFF2	AFF2	AF4/FMR2 family, member 2	6378	-0.07344859838485718	-0.042466514	No	
+row_24	PHF15	PHF15	PHD finger protein 15	7090	-0.13306781649589539	-0.097154886	No	
+row_25	H2AFX	H2AFX	H2A histone family, member X	7435	-0.16274268925189972	-0.11557384	No	
+row_26	HIST1H4D	HIST1H4D	histone cluster 1, H4d	7574	-0.1753627061843872	-0.11396447	No	
+row_27	ATXN2L	ATXN2L	ataxin 2-like	7749	-0.19292356073856354	-0.114239365	No	
+row_28	PAK6	PAK6	p21(CDKN1A)-activated kinase 6	7961	-0.21136300265789032	-0.11641892	No	
+row_29	PRX	PRX	periaxin	8024	-0.21671120822429657	-0.10442097	No	
+row_30	ZNF704	ZNF704	zinc finger protein 704	9116	-0.3419974744319916	-0.17707248	No	
+row_31	DPH2	DPH2	DPH2 homolog (S. cerevisiae)	9297	-0.3604000210762024	-0.16421005	No	
+row_32	ESRRA	ESRRA	estrogen-related receptor alpha	9341	-0.3668981194496155	-0.1381827	No	
+row_33	GSTCD	GSTCD	glutathione S-transferase, C-terminal domain containing	9545	-0.39874064922332764	-0.124307044	No	
+row_34	HAP1	HAP1	huntingtin-associated protein 1 (neuroan 1)	9691	-0.4203493595123291	-0.103316374	No	
+row_35	NRIP1	NRIP1	nuclear receptor interacting protein 1	10086	-0.4913164973258972	-0.09948638	No	
+row_36	DNMT3A	DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	10161	-0.5086221694946289	-0.064732306	No	
+row_37	SNRK	SNRK	SNF related kinase	10197	-0.5179421305656433	-0.025619898	No	
+row_38	ARID4B	ARID4B	AT rich interactive domain 4B (RBP1- like)	10240	-0.5271574854850769	0.013600317	No	
+row_39	PTPN9	PTPN9	protein tyrosine phosphatase, non-receptor type 9	10355	-0.5578576922416687	0.04869055	No	

@@ -1,0 +1,37 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SETD7	SETD7	SET domain containing (lysine methyltransferase) 7	564	0.6031267046928406	8.4311096E-4	No	
+row_1	TRIM29	TRIM29	tripartite motif-containing 29	851	0.52004075050354	0.020034686	No	
+row_2	TEP1	TEP1	telomerase-associated protein 1	1732	0.3585837781429291	-0.029674103	No	
+row_3	NUAK1	NUAK1	NUAK family, SNF1-like kinase, 1	1884	0.33625227212905884	-0.014137819	No	
+row_4	SMARCB1	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	1996	0.32387420535087585	0.0040014545	No	
+row_5	TAF9	TAF9	TAF9 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 32kDa	2818	0.2307073175907135	-0.0514706	No	
+row_6	ZMAT4	ZMAT4	zinc finger, matrin type 4	2848	0.22749097645282745	-0.03421556	No	
+row_7	DAXX	DAXX	death-associated protein 6	3152	0.19639824330806732	-0.04494237	No	
+row_8	ZMAT3	ZMAT3	zinc finger, matrin type 3	3203	0.1921006292104721	-0.032723386	No	
+row_9	STK11	STK11	serine/threonine kinase 11	4101	0.11084139347076416	-0.10570167	No	
+row_10	BRD7	BRD7	bromodomain containing 7	4271	0.09673936665058136	-0.11280615	No	
+row_11	PSME3	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	5138	0.0268996711820364	-0.19028011	No	
+row_12	RNF20	RNF20	ring finger protein 20	6188	-0.05903568118810654	-0.2818084	No	
+row_13	RFFL	RFFL	ring finger and FYVE-like domain containing 1	6205	-0.06032227352261543	-0.27799904	No	
+row_14	TP73	TP73	tumor protein p73	6434	-0.07772886008024216	-0.29220766	No	
+row_15	EHMT2	EHMT2	euchromatic histone-lysine N-methyltransferase 2	6755	-0.10582619160413742	-0.31243575	No	
+row_16	GATA1	GATA1	GATA binding protein 1 (globin transcription factor 1)	7041	-0.129303440451622	-0.3273808	No	
+row_17	BCL2L12	BCL2L12	BCL2-like 12 (proline rich)	7055	-0.1306528002023697	-0.31713393	No	
+row_18	SIRT1	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	7530	-0.17174309492111206	-0.34578383	No	
+row_19	BRD4	BRD4	bromodomain containing 4	8089	-0.22451478242874146	-0.37755424	No	
+row_20	TP53BP1	TP53BP1	tumor protein p53 binding protein, 1	8634	-0.28407642245292664	-0.40281647	Yes	
+row_21	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	8690	-0.2921338379383087	-0.38229543	Yes	
+row_22	BANP	BANP	BTG3 associated nuclear protein	8883	-0.31385403871536255	-0.37250075	Yes	
+row_23	EHMT1	EHMT1	euchromatic histone-lysine N-methyltransferase 1	8922	-0.3183416724205017	-0.34811676	Yes	
+row_24	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.33959708	Yes	
+row_25	NTRK3	NTRK3	neurotrophic tyrosine kinase, receptor, type 3	9304	-0.36074939370155334	-0.32117736	Yes	
+row_26	TRIAP1	TRIAP1	TP53 regulated inhibitor of apoptosis 1	9396	-0.37407881021499634	-0.29679647	Yes	
+row_27	ZNF346	ZNF346	zinc finger protein 346	9448	-0.38161176443099976	-0.2680684	Yes	
+row_28	MUC1	MUC1	mucin 1, cell surface associated	9635	-0.4123084843158722	-0.24909593	Yes	
+row_29	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9772	-0.43414849042892456	-0.22360115	Yes	
+row_30	MSX1	MSX1	msh homeobox homolog 1 (Drosophila)	10285	-0.5383762717247009	-0.2236367	Yes	
+row_31	TP53BP2	TP53BP2	tumor protein p53 binding protein, 2	10531	-0.6090003848075867	-0.1928727	Yes	
+row_32	TAF1	TAF1	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa	10551	-0.6187596917152405	-0.14042047	Yes	
+row_33	PPP1R13B	PPP1R13B	protein phosphatase 1, regulatory (inhibitor) subunit 13B	10563	-0.6234185695648193	-0.08682264	Yes	
+row_34	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.032633793	Yes	
+row_35	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	10699	-0.6934834122657776	0.016961638	Yes	

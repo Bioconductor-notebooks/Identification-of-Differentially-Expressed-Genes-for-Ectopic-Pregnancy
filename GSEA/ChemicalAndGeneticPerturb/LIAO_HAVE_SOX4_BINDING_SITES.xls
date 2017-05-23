@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DKK1	DKK1	dickkopf homolog 1 (Xenopus laevis)	146	0.806253969669342	0.073820055	No	
+row_1	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	477	0.6339552998542786	0.11205232	No	
+row_2	SLC22A15	SLC22A15	solute carrier family 22 (organic cation transporter), member 15	996	0.49188530445098877	0.1176002	No	
+row_3	CHFR	CHFR	checkpoint with forkhead and ring finger domains	3762	0.1394830346107483	-0.121860616	No	
+row_4	SERPINE2	SERPINE2	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 2	5402	0.006422759033739567	-0.2720585	No	
+row_5	SMG5	SMG5	Smg-5 homolog, nonsense mediated mRNA decay factor (C. elegans)	5505	-0.0014635303523391485	-0.28129062	No	
+row_6	PFKFB4	PFKFB4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4	6132	-0.05433671548962593	-0.33304185	No	
+row_7	LAMB1	LAMB1	laminin, beta 1	7181	-0.1397501677274704	-0.41439974	No	
+row_8	AKR1B10	AKR1B10	aldo-keto reductase family 1, member B10 (aldose reductase)	7630	-0.1809341013431549	-0.43606183	No	
+row_9	HIC2	HIC2	hypermethylated in cancer 2	7912	-0.2075183242559433	-0.439472	No	
+row_10	UBAP2L	UBAP2L	ubiquitin associated protein 2-like	8871	-0.3123331069946289	-0.49386534	No	
+row_11	NAV3	NAV3	neuron navigator 3	8887	-0.31391456723213196	-0.4612711	No	
+row_12	POU2AF1	POU2AF1	POU domain, class 2, associating factor 1	9868	-0.4517838656902313	-0.50259703	Yes	
+row_13	HUNK	HUNK	hormonally upregulated Neu-associated kinase	9873	-0.4528951644897461	-0.45394814	Yes	
+row_14	NRP1	NRP1	neuropilin 1	9984	-0.46927016973495483	-0.41328576	Yes	
+row_15	GPRC5B	GPRC5B	G protein-coupled receptor, family C, group 5, member B	10057	-0.4834980070590973	-0.36758506	Yes	
+row_16	MAP4	MAP4	microtubule-associated protein 4	10296	-0.5427369475364685	-0.33075553	Yes	
+row_17	NEIL3	NEIL3	nei endonuclease VIII-like 3 (E. coli)	10517	-0.6032275557518005	-0.2857219	Yes	
+row_18	INTS8	INTS8	integrator complex subunit 8	10621	-0.6518702507019043	-0.22465214	Yes	
+row_19	TEAD2	TEAD2	TEA domain family member 2	10667	-0.6694819927215576	-0.15633653	Yes	
+row_20	MYEF2	MYEF2	myelin expression factor 2	10711	-0.7032253742218018	-0.08418473	Yes	
+row_21	RCC2	RCC2	regulator of chromosome condensation 2	10856	-0.9232836365699768	0.0024856539	Yes	

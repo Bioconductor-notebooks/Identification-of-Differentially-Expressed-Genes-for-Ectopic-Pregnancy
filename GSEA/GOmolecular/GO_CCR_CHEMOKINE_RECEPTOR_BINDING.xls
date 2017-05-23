@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	XCL2	XCL2	chemokine (C motif) ligand 2	337	0.6874046325683594	0.07815133	Yes	
+row_1	XCL1	XCL1	chemokine (C motif) ligand 1	390	0.662642776966095	0.17860119	Yes	
+row_2	CNIH4	CNIH4	cornichon homolog 4 (Drosophila)	466	0.6369699835777283	0.272857	Yes	
+row_3	CCL13	CCL13	chemokine (C-C motif) ligand 13	513	0.6219096183776855	0.3673902	Yes	
+row_4	CCL23	CCL23	chemokine (C-C motif) ligand 23	612	0.5894759297370911	0.45198646	Yes	
+row_5	CCL18	CCL18	chemokine (C-C motif) ligand 18 (pulmonary and activation-regulated)	715	0.55266934633255	0.5303692	Yes	
+row_6	CCL21	CCL21	chemokine (C-C motif) ligand 21	787	0.5334680080413818	0.6085558	Yes	
+row_7	CCL1	CCL1	chemokine (C-C motif) ligand 1	1738	0.35776108503341675	0.577936	No	
+row_8	CCL19	CCL19	chemokine (C-C motif) ligand 19	2453	0.27475112676620483	0.55585426	No	
+row_9	CCL17	CCL17	chemokine (C-C motif) ligand 17	2577	0.2597356140613556	0.5857827	No	
+row_10	CCL25	CCL25	chemokine (C-C motif) ligand 25	3231	0.18916253745555878	0.55572283	No	
+row_11	CCL11	CCL11	chemokine (C-C motif) ligand 11	3410	0.1717332899570465	0.5666133	No	
+row_12	CCL16	CCL16	chemokine (C-C motif) ligand 16	4160	0.10606376826763153	0.5145206	No	
+row_13	CCR2	CCR2	chemokine (C-C motif) receptor 2	4207	0.10180412977933884	0.52645457	No	
+row_14	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	0.43349424	No	
+row_15	CCL22	CCL22	chemokine (C-C motif) ligand 22	6297	-0.0671687200665474	0.34779698	No	
+row_16	CREB3	CREB3	cAMP responsive element binding protein 3	6850	-0.11387698352336884	0.3150767	No	
+row_17	CCL7	CCL7	chemokine (C-C motif) ligand 7	6951	-0.12289208173751831	0.32538962	No	
+row_18	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	0.25218588	No	

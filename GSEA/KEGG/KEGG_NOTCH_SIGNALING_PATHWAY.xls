@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NCSTN	NCSTN	nicastrin	935	0.5030595064163208	-0.004629636	No	
+row_1	DVL1	DVL1	dishevelled, dsh homolog 1 (Drosophila)	3025	0.20884709060192108	-0.16316594	No	
+row_2	LFNG	LFNG	lunatic fringe homolog (Drosophila)	3077	0.2032138556241989	-0.13495335	No	
+row_3	DLL1	DLL1	delta-like 1 (Drosophila)	3242	0.1882266402244568	-0.11957297	No	
+row_4	JAG2	JAG2	jagged 2	3481	0.16516228020191193	-0.114741646	No	
+row_5	NOTCH3	NOTCH3	Notch homolog 3 (Drosophila)	3779	0.13813191652297974	-0.11972045	No	
+row_6	MAML3	MAML3	mastermind-like 3 (Drosophila)	3958	0.12300931662321091	-0.11619058	No	
+row_7	ADAM17	ADAM17	ADAM metallopeptidase domain 17 (tumor necrosis factor, alpha, converting enzyme)	5181	0.023289674893021584	-0.22494204	No	
+row_8	DTX2	DTX2	deltex homolog 2 (Drosophila)	6209	-0.060661084949970245	-0.30968574	No	
+row_9	NCOR2	NCOR2	nuclear receptor co-repressor 2	6345	-0.07070150971412659	-0.31066716	No	
+row_10	APH1A	APH1A	anterior pharynx defective 1 homolog A (C. elegans)	6773	-0.10721548646688461	-0.33262315	No	
+row_11	DTX3	DTX3	deltex 3 homolog (Drosophila)	6784	-0.10835874825716019	-0.3159962	No	
+row_12	DLL3	DLL3	delta-like 3 (Drosophila)	7179	-0.1396058052778244	-0.3296682	No	
+row_13	NUMB	NUMB	numb homolog (Drosophila)	7603	-0.17826925218105316	-0.3397493	Yes	
+row_14	DVL2	DVL2	dishevelled, dsh homolog 2 (Drosophila)	7796	-0.19719325006008148	-0.32549512	Yes	
+row_15	JAG1	JAG1	jagged 1 (Alagille syndrome)	8258	-0.2414504587650299	-0.32884365	Yes	
+row_16	PTCRA	PTCRA	pre T-cell antigen receptor alpha	8337	-0.2501220405101776	-0.29552087	Yes	
+row_17	CTBP2	CTBP2	C-terminal binding protein 2	8826	-0.30660831928253174	-0.29080388	Yes	
+row_18	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.26532933	Yes	
+row_19	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	9431	-0.378663033246994	-0.22887002	Yes	
+row_20	PSEN1	PSEN1	presenilin 1 (Alzheimer disease 3)	10207	-0.51967453956604	-0.21607603	Yes	
+row_21	DVL3	DVL3	dishevelled, dsh homolog 3 (Drosophila)	10225	-0.5246871113777161	-0.13267288	Yes	
+row_22	NOTCH2	NOTCH2	Notch homolog 2 (Drosophila)	10463	-0.5869107842445374	-0.059450954	Yes	
+row_23	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	0.03314926	Yes	

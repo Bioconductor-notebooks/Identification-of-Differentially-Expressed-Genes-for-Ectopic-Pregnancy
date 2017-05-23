@@ -1,0 +1,44 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.058184825	Yes	
+row_1	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.113945484	Yes	
+row_2	IRF7	IRF7	interferon regulatory factor 7	30	0.9863246083259583	0.16699	Yes	
+row_3	HERC5	HERC5	hect domain and RLD 5	66	0.9037300944328308	0.21304023	Yes	
+row_4	OAS3	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	92	0.8597618341445923	0.2576154	Yes	
+row_5	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	94	0.8560484647750854	0.3042019	Yes	
+row_6	P2RY14	P2RY14	purinergic receptor P2Y, G-protein coupled, 14	109	0.8425033688545227	0.34885064	Yes	
+row_7	TMEM176A	TMEM176A	transmembrane protein 176A	160	0.792553722858429	0.38745502	Yes	
+row_8	TRAFD1	TRAFD1	TRAF-type zinc finger domain containing 1	361	0.6747831702232361	0.4058012	Yes	
+row_9	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	514	0.6212735772132874	0.42565724	Yes	
+row_10	OASL	OASL	2'-5'-oligoadenylate synthetase-like	539	0.6115098595619202	0.4567879	Yes	
+row_11	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.48660043	Yes	
+row_12	EPSTI1	EPSTI1	epithelial stromal interaction 1 (breast)	745	0.5470795631408691	0.50047374	Yes	
+row_13	LAT	LAT	linker for activation of T cells	893	0.5127918124198914	0.51487565	Yes	
+row_14	ST3GAL5	ST3GAL5	ST3 beta-galactoside alpha-2,3-sialyltransferase 5	952	0.4994044601917267	0.53675723	Yes	
+row_15	LILRB1	LILRB1	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 1	1001	0.4909232258796692	0.5590987	Yes	
+row_16	TDRD7	TDRD7	tudor domain containing 7	1014	0.488777220249176	0.5846439	Yes	
+row_17	APOL6	APOL6	apolipoprotein L, 6	1184	0.4522603154182434	0.59371585	Yes	
+row_18	RIN2	RIN2	Ras and Rab interactor 2	1310	0.42718979716300964	0.6054794	Yes	
+row_19	SDC3	SDC3	syndecan 3 (N-syndecan)	1447	0.40450936555862427	0.6149916	Yes	
+row_20	ZBP1	ZBP1	Z-DNA binding protein 1	1614	0.3786381781101227	0.6203258	Yes	
+row_21	MYO1G	MYO1G	myosin IG	1749	0.3562125265598297	0.6273889	Yes	
+row_22	CD80	CD80	CD80 molecule	1918	0.33194929361343384	0.6299928	Yes	
+row_23	MOV10	MOV10	Mov10, Moloney leukemia virus 10, homolog (mouse)	2061	0.3170791268348694	0.63418406	Yes	
+row_24	PML	PML	promyelocytic leukemia	2604	0.2567673325538635	0.5981897	No	
+row_25	MS4A6A	MS4A6A	membrane-spanning 4-domains, subfamily A, member 6A	2749	0.2390880286693573	0.59794384	No	
+row_26	AVPR2	AVPR2	arginine vasopressin receptor 2 (nephrogenic diabetes insipidus)	2783	0.23510612547397614	0.6077198	No	
+row_27	SLAMF7	SLAMF7	SLAM family member 7	4184	0.10404933243989944	0.484254	No	
+row_28	CYP24A1	CYP24A1	cytochrome P450, family 24, subfamily A, polypeptide 1	4332	0.0913311019539833	0.47567448	No	
+row_29	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.42933178	No	
+row_30	IFIH1	IFIH1	interferon induced with helicase C domain 1	4876	0.04537920653820038	0.43069932	No	
+row_31	SLC25A28	SLC25A28	solute carrier family 25, member 28	4895	0.0437307246029377	0.43142352	No	
+row_32	NCOA7	NCOA7	nuclear receptor coactivator 7	4949	0.03976825252175331	0.42870313	No	
+row_33	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	0.40210184	No	
+row_34	ITGA4	ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	5469	0.0010385802015662193	0.3819574	No	
+row_35	NUB1	NUB1	negative regulator of ubiquitin-like proteins 1	6016	-0.044067494571208954	0.33399597	No	
+row_36	LOC648987	LOC648987	-	6115	-0.052706122398376465	0.32783017	No	
+row_37	MIA3	MIA3	melanoma inhibitory activity family, member 3	7061	-0.1309768259525299	0.247803	No	
+row_38	TMEM106A	TMEM106A	transmembrane protein 106A	7712	-0.189796581864357	0.1981947	No	
+row_39	PANK2	PANK2	pantothenate kinase 2 (Hallervorden-Spatz syndrome)	8232	-0.23886500298976898	0.16334575	No	
+row_40	PTPN2	PTPN2	protein tyrosine phosphatase, non-receptor type 2	9429	-0.3785429894924164	0.07366507	No	
+row_41	SLC39A8	SLC39A8	solute carrier family 39 (zinc transporter), member 8	9721	-0.42472052574157715	0.06998175	No	
+row_42	APOL1	APOL1	apolipoprotein L, 1	10682	-0.6805948615074158	0.018540604	No	

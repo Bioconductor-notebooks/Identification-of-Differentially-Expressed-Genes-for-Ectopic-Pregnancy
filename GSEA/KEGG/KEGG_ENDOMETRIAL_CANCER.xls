@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TCF7L2	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	278	0.7168463468551636	0.043033615	No	
+row_1	ILK	ILK	integrin-linked kinase	446	0.6421979665756226	0.08914683	No	
+row_2	AKT3	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	1166	0.4578343629837036	0.0667377	No	
+row_3	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1539	0.3899523913860321	0.0698033	No	
+row_4	PIK3R5	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5, p101	1699	0.3640553057193756	0.090016514	No	
+row_5	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.1176341	No	
+row_6	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1869	0.3382832407951355	0.14072381	No	
+row_7	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.15537031	No	
+row_8	MLH1	MLH1	mutL homolog 1, colon cancer, nonpolyposis type 2 (E. coli)	2608	0.25565528869628906	0.1277898	No	
+row_9	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.007283122	No	
+row_10	ARAF	ARAF	v-raf murine sarcoma 3611 viral oncogene homolog	4221	0.10072316229343414	1.5808626E-4	No	
+row_11	ERBB2	ERBB2	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	4401	0.08406318724155426	-0.0082859965	No	
+row_12	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	6160	-0.05696864798665047	-0.164828	No	
+row_13	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	6469	-0.08030635863542557	-0.18551908	No	
+row_14	EGF	EGF	epidermal growth factor (beta-urogastrone)	6844	-0.11356203258037567	-0.20910716	No	
+row_15	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	-0.21402723	No	
+row_16	LEF1	LEF1	lymphoid enhancer-binding factor 1	7383	-0.1589733213186264	-0.23105477	No	
+row_17	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	-0.23012123	No	
+row_18	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	7943	-0.21029451489448547	-0.2457355	No	
+row_19	AKT2	AKT2	v-akt murine thymoma viral oncogene homolog 2	8081	-0.22389857470989227	-0.23691756	No	
+row_20	BAD	BAD	BCL2-antagonist of cell death	8222	-0.2376699149608612	-0.2270572	No	
+row_21	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	8828	-0.30668458342552185	-0.25343668	Yes	
+row_22	CTNNA1	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	8988	-0.3267988860607147	-0.23679146	Yes	
+row_23	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.21351913	Yes	
+row_24	PIK3R2	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (p85 beta)	9119	-0.34236544370651245	-0.18340376	Yes	
+row_25	SOS2	SOS2	son of sevenless homolog 2 (Drosophila)	9345	-0.3671788275241852	-0.16897325	Yes	
+row_26	ELK1	ELK1	ELK1, member of ETS oncogene family	9576	-0.4029989540576935	-0.15157305	Yes	
+row_27	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.12705499	Yes	
+row_28	AXIN2	AXIN2	axin 2 (conductin, axil)	10317	-0.5486176013946533	-0.12593402	Yes	
+row_29	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.082997926	Yes	
+row_30	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.032951612	Yes	
+row_31	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	10592	-0.6375507116317749	0.026815327	Yes	

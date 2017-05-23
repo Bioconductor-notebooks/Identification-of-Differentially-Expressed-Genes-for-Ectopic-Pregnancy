@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGG	FGG	fibrinogen gamma chain	120	0.8277233839035034	0.10952243	Yes	
+row_1	RASGRP2	RASGRP2	RAS guanyl releasing protein 2 (calcium and DAG-regulated)	182	0.7762497663497925	0.2169805	Yes	
+row_2	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	303	0.702338695526123	0.30823818	Yes	
+row_3	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.3272427	Yes	
+row_4	PTK2	PTK2	PTK2 protein tyrosine kinase 2	938	0.5018228888511658	0.39730382	Yes	
+row_5	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1077	0.47552821040153503	0.45386434	Yes	
+row_6	THPO	THPO	thrombopoietin (myeloproliferative leukemia virus oncogene ligand, megakaryocyte growth and development factor)	1476	0.4005192816257477	0.47555286	Yes	
+row_7	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.4699041	Yes	
+row_8	VWF	VWF	von Willebrand factor	2250	0.2976096272468567	0.4941925	Yes	
+row_9	TLN1	TLN1	talin 1	2635	0.2521447241306305	0.4955567	Yes	
+row_10	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2725	0.2422666698694229	0.5226509	Yes	
+row_11	SYK	SYK	spleen tyrosine kinase	2814	0.23133614659309387	0.54824495	Yes	
+row_12	APBB1IP	APBB1IP	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein	2905	0.22168824076652527	0.57224935	Yes	
+row_13	ADRA2B	ADRA2B	adrenergic, alpha-2B-, receptor	3134	0.19806908071041107	0.5801037	Yes	
+row_14	FGB	FGB	fibrinogen beta chain	3702	0.14570169150829315	0.54910845	No	
+row_15	GP1BA	GP1BA	glycoprotein Ib (platelet), alpha polypeptide	4046	0.11611324548721313	0.534433	No	
+row_16	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	4625	0.0662061870098114	0.4908446	No	
+row_17	MPL	MPL	myeloproliferative leukemia virus oncogene	5009	0.0362028032541275	0.46084473	No	
+row_18	FN1	FN1	fibronectin 1	5175	0.023436052724719048	0.44906247	No	
+row_19	GP9	GP9	glycoprotein IX (platelet)	5431	0.00424595782533288	0.42619598	No	
+row_20	GP5	GP5	glycoprotein V (platelet)	5475	5.774860619567335E-4	0.4223199	No	
+row_21	ADRA2A	ADRA2A	adrenergic, alpha-2A-, receptor	6045	-0.04667619988322258	0.37671545	No	
+row_22	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	6160	-0.05696864798665047	0.37451488	No	
+row_23	ITGA2B	ITGA2B	integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	6827	-0.11218418180942535	0.32951945	No	
+row_24	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	0.32945848	No	
+row_25	GP1BB	GP1BB	glycoprotein Ib (platelet), beta polypeptide	7538	-0.1724364310503006	0.30806774	No	

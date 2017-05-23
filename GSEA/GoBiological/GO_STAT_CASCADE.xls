@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.12050904	Yes	
+row_1	CSH1	CSH1	chorionic somatomammotropin hormone 1 (placental lactogen)	136	0.8141359090805054	0.18810496	Yes	
+row_2	GH2	GH2	growth hormone 2	162	0.7897409796714783	0.26325583	Yes	
+row_3	F2R	F2R	coagulation factor II (thrombin) receptor	377	0.6705260872840881	0.30930665	Yes	
+row_4	GH1	GH1	growth hormone 1	487	0.6311387419700623	0.36116573	Yes	
+row_5	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.41320074	Yes	
+row_6	PKD1	PKD1	polycystic kidney disease 1 (autosomal dominant)	634	0.5801225304603577	0.4638328	Yes	
+row_7	PRLR	PRLR	prolactin receptor	804	0.5291977524757385	0.50016767	Yes	
+row_8	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.54704094	Yes	
+row_9	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.5921584	Yes	
+row_10	STAT4	STAT4	signal transducer and activator of transcription 4	1095	0.47118377685546875	0.6208693	Yes	
+row_11	SOCS5	SOCS5	suppressor of cytokine signaling 5	1712	0.3622431457042694	0.59965855	Yes	
+row_12	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	1720	0.3604777157306671	0.6343675	Yes	
+row_13	SOCS3	SOCS3	suppressor of cytokine signaling 3	1985	0.3247014284133911	0.6418964	Yes	
+row_14	CTR9	CTR9	Ctr9, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)	2750	0.23887115716934204	0.59495425	No	
+row_15	JAK3	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	3311	0.18217116594314575	0.561241	No	
+row_16	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.5058149	No	
+row_17	CCR2	CCR2	chemokine (C-C motif) receptor 2	4207	0.10180412977933884	0.50032544	No	
+row_18	CLCF1	CLCF1	cardiotrophin-like cytokine factor 1	4503	0.07603812962770462	0.48061144	No	
+row_19	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	0.4137533	No	
+row_20	FER	FER	fer (fps/fes related) tyrosine kinase (phosphoprotein NCP94)	5347	0.010697826743125916	0.40586817	No	
+row_21	LEP	LEP	leptin (obesity homolog, mouse)	6097	-0.0506816990673542	0.341851	No	
+row_22	AGER	AGER	advanced glycosylation end product-specific receptor	6589	-0.09174855798482895	0.30562493	No	
+row_23	EGF	EGF	epidermal growth factor (beta-urogastrone)	6844	-0.11356203258037567	0.29336742	No	
+row_24	STAMBP	STAMBP	STAM binding protein	6990	-0.12549448013305664	0.2923198	No	
+row_25	PTK6	PTK6	PTK6 protein tyrosine kinase 6	8486	-0.2673285901546478	0.18083878	No	
+row_26	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.118356764	No	

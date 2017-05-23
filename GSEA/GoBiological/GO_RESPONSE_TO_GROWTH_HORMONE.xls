@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CSH1	CSH1	chorionic somatomammotropin hormone 1 (placental lactogen)	136	0.8141359090805054	0.101362735	Yes	
+row_1	GH2	GH2	growth hormone 2	162	0.7897409796714783	0.20953034	Yes	
+row_2	GH1	GH1	growth hormone 1	487	0.6311387419700623	0.26799062	Yes	
+row_3	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.34523365	Yes	
+row_4	PRLR	PRLR	prolactin receptor	804	0.5291977524757385	0.3973505	Yes	
+row_5	STAR	STAR	steroidogenic acute regulator	895	0.5125011205673218	0.46075478	Yes	
+row_6	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.53133	Yes	
+row_7	PTK2	PTK2	PTK2 protein tyrosine kinase 2	938	0.5018228888511658	0.5984873	Yes	
+row_8	ASS1	ASS1	argininosuccinate synthetase 1	1293	0.4297357499599457	0.62601393	Yes	
+row_9	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	1720	0.3604777157306671	0.6372254	Yes	
+row_10	JAK3	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	3311	0.18217116594314575	0.51635253	No	
+row_11	SRD5A1	SRD5A1	steroid-5-alpha-reductase, alpha polypeptide 1 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 1)	3961	0.12264782190322876	0.4737699	No	
+row_12	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.48309535	No	
+row_13	PXN	PXN	paxillin	5058	0.03304290026426315	0.39392135	No	
+row_14	BDH1	BDH1	3-hydroxybutyrate dehydrogenase, type 1	6053	-0.04721396416425705	0.3090308	No	
+row_15	HMGCS2	HMGCS2	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial)	6421	-0.07724013179540634	0.28605384	No	
+row_16	F7	F7	coagulation factor VII (serum prothrombin conversion accelerator)	6931	-0.12101176381111145	0.25612894	No	
+row_17	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	0.2649069	No	
+row_18	SLC34A1	SLC34A1	solute carrier family 34 (sodium phosphate), member 1	8179	-0.2326889932155609	0.1919694	No	
+row_19	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.11828052	No	

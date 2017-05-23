@@ -1,0 +1,41 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RAD17	RAD17	RAD17 homolog (S. pombe)	761	0.5427535772323608	-0.030110205	No	
+row_1	DHX36	DHX36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	1254	0.4376438856124878	-0.043173414	No	
+row_2	NBN	NBN	nibrin	1276	0.4336807131767273	-0.013095035	No	
+row_3	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	1640	0.3740386664867401	-0.018957695	No	
+row_4	ANXA1	ANXA1	annexin A1	2270	0.29581737518310547	-0.055124458	No	
+row_5	RECQL	RECQL	RecQ protein-like (DNA helicase Q1-like)	2686	0.24681781232357025	-0.07517402	No	
+row_6	TOP1MT	TOP1MT	topoisomerase (DNA) I, mitochondrial	3763	0.13944107294082642	-0.16410565	No	
+row_7	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	3827	0.13370884954929352	-0.16004474	No	
+row_8	SMARCAL1	SMARCAL1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a-like 1	4497	0.07628480345010757	-0.21610638	No	
+row_9	IGHMBP2	IGHMBP2	immunoglobulin mu binding protein 2	4952	0.03957049921154976	-0.2550517	No	
+row_10	ERCC6	ERCC6	excision repair cross-complementing rodent repair deficiency, complementation group 6	4956	0.03944680094718933	-0.25241634	No	
+row_11	XRCC3	XRCC3	X-ray repair complementing defective repair in Chinese hamster cells 3	4974	0.03825006261467934	-0.25116035	No	
+row_12	RAD51C	RAD51C	RAD51 homolog C (S. cerevisiae)	5070	0.0317765511572361	-0.25757515	No	
+row_13	RTEL1	RTEL1	regulator of telomere elongation helicase 1	5438	0.0034883737098425627	-0.29116124	No	
+row_14	RFC1	RFC1	replication factor C (activator 1) 1, 145kDa	5779	-0.023348888382315636	-0.32079133	No	
+row_15	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	6219	-0.06098038703203201	-0.3567729	No	
+row_16	CHD2	CHD2	chromodomain helicase DNA binding protein 2	7710	-0.18942928314208984	-0.48019212	No	
+row_17	DDX3X	DDX3X	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	7974	-0.21226392686367035	-0.48877552	No	
+row_18	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	8199	-0.23534591495990753	-0.49205855	Yes	
+row_19	POLQ	POLQ	polymerase (DNA directed), theta	8223	-0.23803840577602386	-0.4766072	Yes	
+row_20	DMC1	DMC1	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	8452	-0.2641143798828125	-0.47813535	Yes	
+row_21	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	8463	-0.26516327261924744	-0.4594828	Yes	
+row_22	CHD3	CHD3	chromodomain helicase DNA binding protein 3	8728	-0.29590532183647156	-0.4619839	Yes	
+row_23	CHD6	CHD6	chromodomain helicase DNA binding protein 6	8800	-0.30409666895866394	-0.44608244	Yes	
+row_24	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.43499026	Yes	
+row_25	HELB	HELB	helicase (DNA) B	9006	-0.3291548192501068	-0.41696233	Yes	
+row_26	XRCC2	XRCC2	X-ray repair complementing defective repair in Chinese hamster cells 2	9187	-0.3503323793411255	-0.40769932	Yes	
+row_27	SMARCA2	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	9208	-0.3525012135505676	-0.3835215	Yes	
+row_28	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	9756	-0.4295186996459961	-0.40225646	Yes	
+row_29	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.3839161	Yes	
+row_30	RECQL5	RECQL5	RecQ protein-like 5	10047	-0.4818982183933258	-0.35940772	Yes	
+row_31	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10079	-0.4891257584095001	-0.3261585	Yes	
+row_32	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	10473	-0.5902814269065857	-0.3188243	Yes	
+row_33	TOP1	TOP1	topoisomerase (DNA) I	10541	-0.6150469183921814	-0.2795992	Yes	
+row_34	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.23480138	Yes	
+row_35	RAD54B	RAD54B	RAD54 homolog B (S. cerevisiae)	10620	-0.6505220532417297	-0.19295745	Yes	
+row_36	CHD1L	CHD1L	chromodomain helicase DNA binding protein 1-like	10635	-0.6569351553916931	-0.14575258	Yes	
+row_37	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	10699	-0.6934834122657776	-0.100368306	Yes	
+row_38	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	-0.05084775	Yes	
+row_39	FBXO18	FBXO18	F-box protein, helicase, 18	10825	-0.8299521207809448	0.0053485804	Yes	

@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RET	RET	ret proto-oncogene (multiple endocrine neoplasia and medullary thyroid carcinoma 1, Hirschsprung disease)	8	1.1422606706619263	0.1644529	Yes	
+row_1	BRE	BRE	brain and reproductive organ-expressed (TNFRSF1A modulator)	341	0.6826044917106628	0.23261993	Yes	
+row_2	UVRAG	UVRAG	UV radiation resistance associated gene	371	0.6718257665634155	0.3271082	Yes	
+row_3	CLSTN2	CLSTN2	calsyntenin 2	534	0.6145341396331787	0.40107343	Yes	
+row_4	ADCY9	ADCY9	adenylate cyclase 9	560	0.6048184633255005	0.48623943	Yes	
+row_5	APOC2	APOC2	apolipoprotein C-II	659	0.5707862973213196	0.5597669	Yes	
+row_6	TDRD7	TDRD7	tudor domain containing 7	1014	0.488777220249176	0.5978791	Yes	
+row_7	MBNL1	MBNL1	muscleblind-like (Drosophila)	1373	0.41678547859191895	0.6252122	Yes	
+row_8	CACNA2D3	CACNA2D3	calcium channel, voltage-dependent, alpha 2/delta 3 subunit	1734	0.35830527544021606	0.64390403	Yes	
+row_9	TKTL1	TKTL1	transketolase-like 1	2377	0.28219807147979736	0.6256418	No	
+row_10	TGM5	TGM5	transglutaminase 5	3151	0.19648990035057068	0.58293116	No	
+row_11	KCNE1L	KCNE1L	KCNE1-like	3880	0.1287652552127838	0.534567	No	
+row_12	GGA2	GGA2	golgi associated, gamma adaptin ear containing, ARF binding protein 2	4555	0.07236401736736298	0.48301503	No	
+row_13	ITGA7	ITGA7	integrin, alpha 7	4594	0.06901773065328598	0.4894996	No	
+row_14	AKR7A2	AKR7A2	aldo-keto reductase family 7, member A2 (aflatoxin aldehyde reductase)	7944	-0.2103029042482376	0.21176036	No	
+row_15	DACH1	DACH1	dachshund homolog 1 (Drosophila)	9589	-0.40503573417663574	0.11906515	No	

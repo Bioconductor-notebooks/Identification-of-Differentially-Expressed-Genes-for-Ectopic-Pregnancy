@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SETD7	SETD7	SET domain containing (lysine methyltransferase) 7	564	0.6031267046928406	0.02713653	No	
+row_1	PLOD3	PLOD3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	1139	0.4635339081287384	0.035049178	No	
+row_2	OGDH	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)	2170	0.3062439262866974	-0.019658156	No	
+row_3	GCDH	GCDH	glutaryl-Coenzyme A dehydrogenase	3606	0.15362367033958435	-0.1316762	No	
+row_4	ALDH1B1	ALDH1B1	aldehyde dehydrogenase 1 family, member B1	4372	0.08796904236078262	-0.19059698	No	
+row_5	TMLHE	TMLHE	trimethyllysine hydroxylase, epsilon	4496	0.07630082219839096	-0.19192074	No	
+row_6	AASDHPPT	AASDHPPT	aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase	4981	0.037639159709215164	-0.23156106	No	
+row_7	AASS	AASS	aminoadipate-semialdehyde synthase	5130	0.027595581486821175	-0.24157333	No	
+row_8	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	5243	0.018273575231432915	-0.24949233	No	
+row_9	ASH1L	ASH1L	ash1 (absent, small, or homeotic)-like (Drosophila)	5945	-0.037800807505846024	-0.30909672	No	
+row_10	WHSC1	WHSC1	Wolf-Hirschhorn syndrome candidate 1	6408	-0.0760808065533638	-0.34167057	No	
+row_11	EHMT2	EHMT2	euchromatic histone-lysine N-methyltransferase 2	6755	-0.10582619160413742	-0.35966092	No	
+row_12	SETDB2	SETDB2	SET domain, bifurcated 2	7187	-0.14031408727169037	-0.38095766	No	
+row_13	ACAT2	ACAT2	acetyl-Coenzyme A acetyltransferase 2 (acetoacetyl Coenzyme A thiolase)	7262	-0.14896300435066223	-0.36824143	No	
+row_14	SETMAR	SETMAR	SET domain and mariner transposase fusion gene	8278	-0.243170827627182	-0.42983723	Yes	
+row_15	PLOD2	PLOD2	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2	8369	-0.25365445017814636	-0.40486777	Yes	
+row_16	EHMT1	EHMT1	euchromatic histone-lysine N-methyltransferase 1	8922	-0.3183416724205017	-0.41396606	Yes	
+row_17	SUV420H2	SUV420H2	suppressor of variegation 4-20 homolog 2 (Drosophila)	9007	-0.3292907178401947	-0.37852687	Yes	
+row_18	ALDH3A2	ALDH3A2	aldehyde dehydrogenase 3 family, member A2	9186	-0.3500959873199463	-0.349017	Yes	
+row_19	WHSC1L1	WHSC1L1	Wolf-Hirschhorn syndrome candidate 1-like 1	9438	-0.3799578547477722	-0.3223149	Yes	
+row_20	AASDH	AASDH	-	9503	-0.39154988527297974	-0.27687055	Yes	
+row_21	SETDB1	SETDB1	SET domain, bifurcated 1	9786	-0.43663543462753296	-0.2455921	Yes	
+row_22	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	10623	-0.6521291136741638	-0.23708121	Yes	
+row_23	HADH	HADH	hydroxyacyl-Coenzyme A dehydrogenase	10628	-0.653465747833252	-0.15176953	Yes	
+row_24	SUV39H2	SUV39H2	suppressor of variegation 3-9 homolog 2 (Drosophila)	10658	-0.6670581102371216	-0.06697811	Yes	
+row_25	SUV420H1	SUV420H1	suppressor of variegation 4-20 homolog 1 (Drosophila)	10661	-0.6681699156761169	0.020445721	Yes	

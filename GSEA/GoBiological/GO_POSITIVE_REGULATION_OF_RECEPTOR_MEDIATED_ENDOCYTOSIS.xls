@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	50	0.9310548901557922	0.096136175	Yes	
+row_1	ARRB1	ARRB1	arrestin, beta 1	80	0.8759592175483704	0.18824531	Yes	
+row_2	VTN	VTN	vitronectin	152	0.801798403263092	0.26846126	Yes	
+row_3	HFE	HFE	hemochromatosis	234	0.7415509223937988	0.3412372	Yes	
+row_4	GH1	GH1	growth hormone 1	487	0.6311387419700623	0.38631463	Yes	
+row_5	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	603	0.5916893482208252	0.43974334	Yes	
+row_6	CCL21	CCL21	chemokine (C-C motif) ligand 21	787	0.5334680080413818	0.48060855	Yes	
+row_7	NTF3	NTF3	neurotrophin 3	1424	0.408786416053772	0.46625492	Yes	
+row_8	BICD1	BICD1	bicaudal D homolog 1 (Drosophila)	1465	0.4015215039253235	0.5060157	Yes	
+row_9	ATAD1	ATAD1	ATPase family, AAA domain containing 1	1898	0.3348030745983124	0.5024484	Yes	
+row_10	WASL	WASL	Wiskott-Aldrich syndrome-like	2033	0.31958624720573425	0.52468485	Yes	
+row_11	CAV3	CAV3	caveolin 3	2257	0.29708796739578247	0.5362887	Yes	
+row_12	PLCG2	PLCG2	phospholipase C, gamma 2 (phosphatidylinositol-specific)	2258	0.2969112694263458	0.56841505	Yes	
+row_13	CCL19	CCL19	chemokine (C-C motif) ligand 19	2453	0.27475112676620483	0.58027333	Yes	
+row_14	SYK	SYK	spleen tyrosine kinase	2814	0.23133614659309387	0.57214296	No	
+row_15	PTPN5	PTPN5	protein tyrosine phosphatase, non-receptor type 5 (striatum-enriched)	4654	0.06399700045585632	0.40966815	No	
+row_16	DAB2	DAB2	disabled homolog 2, mitogen-responsive phosphoprotein (Drosophila)	4690	0.061447981745004654	0.4130929	No	
+row_17	SYNJ1	SYNJ1	synaptojanin 1	4882	0.04444819688796997	0.40030834	No	
+row_18	DRD2	DRD2	dopamine receptor D2	5277	0.016019564121961594	0.3657484	No	
+row_19	SCYL2	SCYL2	SCY1-like 2 (S. cerevisiae)	5460	0.001540950033813715	0.3491502	No	
+row_20	HIP1	HIP1	huntingtin interacting protein 1	5464	0.0012425753520801663	0.34900832	No	
+row_21	GREM1	GREM1	gremlin 1, cysteine knot superfamily, homolog (Xenopus laevis)	5714	-0.01702759973704815	0.3279141	No	
+row_22	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	6008	-0.043398335576057434	0.3056202	No	
+row_23	PCSK9	PCSK9	proprotein convertase subtilisin/kexin type 9	6691	-0.09983067214488983	0.25359967	No	
+row_24	MAGI2	MAGI2	membrane associated guanylate kinase, WW and PDZ domain containing 2	6884	-0.11684754490852356	0.24855672	No	
+row_25	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.1502477	No	
+row_26	AHI1	AHI1	Abelson helper integration site 1	9330	-0.36559468507766724	0.088847734	No	
+row_27	SELE	SELE	selectin E (endothelial adhesion molecule 1)	10127	-0.5001264810562134	0.06963886	No	

@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RRAGC	RRAGC	Ras-related GTP binding C	55	0.9227952361106873	0.10038807	No	
+row_1	PPP2R2A	PPP2R2A	protein phosphatase 2 (formerly 2A), regulatory subunit B (PR 52), alpha isoform	2077	0.3160279095172882	-0.04959357	No	
+row_2	CD52	CD52	CD52 molecule	2410	0.2788981795310974	-0.048293352	No	
+row_3	ATP5A1	ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	2811	0.2319898009300232	-0.058615103	No	
+row_4	TSPO	TSPO	translocator protein (18kDa)	2932	0.21879862248897552	-0.044661593	No	
+row_5	SEC23B	SEC23B	Sec23 homolog B (S. cerevisiae)	2950	0.2165423482656479	-0.021481568	No	
+row_6	GMFB	GMFB	glia maturation factor, beta	3252	0.18749406933784485	-0.027772052	No	
+row_7	RALA	RALA	v-ral simian leukemia viral oncogene homolog A (ras related)	3290	0.18360310792922974	-0.010197784	No	
+row_8	ST13	ST13	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein)	3604	0.15381447970867157	-0.021441981	No	
+row_9	PLEKHA5	PLEKHA5	pleckstrin homology domain containing, family A member 5	4529	0.07424330711364746	-0.09804069	No	
+row_10	PLEKHJ1	PLEKHJ1	pleckstrin homology domain containing, family J member 1	4982	0.03758557140827179	-0.13536623	No	
+row_11	SRPRB	SRPRB	signal recognition particle receptor, B subunit	6517	-0.08410678058862686	-0.26700723	No	
+row_12	HSPA4	HSPA4	heat shock 70kDa protein 4	8136	-0.2286710888147354	-0.38986292	No	
+row_13	PUM2	PUM2	pumilio homolog 2 (Drosophila)	9127	-0.3434589207172394	-0.44177434	Yes	
+row_14	GORASP2	GORASP2	golgi reassembly stacking protein 2, 55kDa	9161	-0.34675347805023193	-0.40518773	Yes	
+row_15	NAP1L1	NAP1L1	nucleosome assembly protein 1-like 1	9271	-0.35899606347084045	-0.37420022	Yes	
+row_16	PRPF4B	PRPF4B	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	9385	-0.3723583519458771	-0.3420541	Yes	
+row_17	SNORA28	SNORA28	small nucleolar RNA, H/ACA box 28	9653	-0.4138960540294647	-0.31934172	Yes	
+row_18	DUT	DUT	dUTP pyrophosphatase	9701	-0.42160773277282715	-0.27549025	Yes	
+row_19	CMTM6	CMTM6	CKLF-like MARVEL transmembrane domain containing 6	10271	-0.5351582169532776	-0.2667291	Yes	
+row_20	RAPGEF2	RAPGEF2	Rap guanine nucleotide exchange factor (GEF) 2	10499	-0.5984556078910828	-0.2192429	Yes	
+row_21	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.15325688	Yes	
+row_22	FAM60A	FAM60A	family with sequence similarity 60, member A	10669	-0.6701781153678894	-0.0873536	Yes	
+row_23	R3HDM1	R3HDM1	R3H domain containing 1	10861	-0.9360464215278625	0.0020257395	Yes	

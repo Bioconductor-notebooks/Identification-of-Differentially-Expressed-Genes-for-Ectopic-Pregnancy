@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BCL9L	BCL9L	B-cell CLL/lymphoma 9-like	791	0.5321990847587585	-0.013375244	No	
+row_1	ACVR2A	ACVR2A	activin A receptor, type IIA	1342	0.4222390949726105	-0.016846398	No	
+row_2	APLP2	APLP2	amyloid beta (A4) precursor-like protein 2	2177	0.30532315373420715	-0.05951956	No	
+row_3	GPM6A	GPM6A	glycoprotein M6A	2336	0.2875578701496124	-0.041947316	No	
+row_4	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	2831	0.22965100407600403	-0.06177331	No	
+row_5	KIF1B	KIF1B	kinesin family member 1B	2873	0.2247096598148346	-0.04045001	No	
+row_6	ZIC3	ZIC3	Zic family member 3 heterotaxy 1 (odd-paired homolog, Drosophila)	3044	0.2068297266960144	-0.032998875	No	
+row_7	ADAM10	ADAM10	ADAM metallopeptidase domain 10	3563	0.15739504992961884	-0.0631044	No	
+row_8	SAMD4B	SAMD4B	sterile alpha motif domain containing 4B	3889	0.12762072682380676	-0.07876865	No	
+row_9	ZIC1	ZIC1	Zic family member 1 (odd-paired homolog, Drosophila)	7079	-0.13215400278568268	-0.35757384	No	
+row_10	SCAMP1	SCAMP1	secretory carrier membrane protein 1	8723	-0.29544490575790405	-0.47582328	Yes	
+row_11	EIF2C1	EIF2C1	eukaryotic translation initiation factor 2C, 1	8831	-0.30711251497268677	-0.45137215	Yes	
+row_12	MKRN1	MKRN1	makorin, ring finger protein, 1	9103	-0.34063056111335754	-0.43827456	Yes	
+row_13	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	9313	-0.36291271448135376	-0.41698086	Yes	
+row_14	STAG2	STAG2	stromal antigen 2	9767	-0.43336570262908936	-0.4102799	Yes	
+row_15	ARID4B	ARID4B	AT rich interactive domain 4B (RBP1- like)	10240	-0.5271574854850769	-0.3948525	Yes	
+row_16	SUV420H1	SUV420H1	suppressor of variegation 4-20 homolog 1 (Drosophila)	10661	-0.6681699156761169	-0.3588887	Yes	
+row_17	MACF1	MACF1	microtubule-actin crosslinking factor 1	10676	-0.6741573810577393	-0.28488153	Yes	
+row_18	KLF12	KLF12	Kruppel-like factor 12	10725	-0.7112607955932617	-0.20986027	Yes	
+row_19	TRPS1	TRPS1	trichorhinophalangeal syndrome I	10818	-0.8186187148094177	-0.12689874	Yes	
+row_20	TRIM9	TRIM9	tripartite motif-containing 9	10880	-1.1889296770095825	2.7613534E-4	Yes	

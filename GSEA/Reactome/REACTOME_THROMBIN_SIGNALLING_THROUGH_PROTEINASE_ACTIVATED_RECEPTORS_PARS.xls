@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARRB1	ARRB1	arrestin, beta 1	80	0.8759592175483704	0.15016496	Yes	
+row_1	F2R	F2R	coagulation factor II (thrombin) receptor	377	0.6705260872840881	0.24351148	Yes	
+row_2	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	508	0.6233882308006287	0.3436553	Yes	
+row_3	GNA12	GNA12	guanine nucleotide binding protein (G protein) alpha 12	548	0.609991192817688	0.44976306	Yes	
+row_4	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1269	0.4350684881210327	0.461753	Yes	
+row_5	GNA11	GNA11	guanine nucleotide binding protein (G protein), alpha 11 (Gq class)	1929	0.3307911157608032	0.4606033	Yes	
+row_6	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2725	0.2422666698694229	0.43102023	Yes	
+row_7	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	2831	0.22965100407600403	0.46265757	Yes	
+row_8	GNA13	GNA13	guanine nucleotide binding protein (G protein), alpha 13	2852	0.22743289172649384	0.50171715	Yes	
+row_9	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	3501	0.1632448434829712	0.47144932	No	
+row_10	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	3660	0.1493718922138214	0.48377314	No	
+row_11	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.47006685	No	
+row_12	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6675	-0.09823323041200638	0.24518543	No	
+row_13	GNB5	GNB5	guanine nucleotide binding protein (G protein), beta 5	6818	-0.11158939450979233	0.25218695	No	
+row_14	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	8402	-0.2586412727832794	0.15304212	No	
+row_15	F2RL2	F2RL2	coagulation factor II (thrombin) receptor-like 2	9673	-0.4178920090198517	0.1113359	No	

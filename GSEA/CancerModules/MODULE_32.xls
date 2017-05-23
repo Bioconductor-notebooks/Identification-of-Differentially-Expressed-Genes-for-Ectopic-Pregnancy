@@ -1,0 +1,104 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CARS	CARS	cysteinyl-tRNA synthetase	290	0.7098674774169922	-0.0036290323	No	
+row_1	RNASE4	RNASE4	ribonuclease, RNase A family, 4	391	0.6619633436203003	0.008795189	No	
+row_2	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.021270623	No	
+row_3	GNA12	GNA12	guanine nucleotide binding protein (G protein) alpha 12	548	0.609991192817688	0.035144843	No	
+row_4	TCEB1	TCEB1	transcription elongation factor B (SIII), polypeptide 1 (15kDa, elongin C)	559	0.6060299873352051	0.054083534	No	
+row_5	EIF1	EIF1	eukaryotic translation initiation factor 1	669	0.5665778517723083	0.06254613	No	
+row_6	PCBP1	PCBP1	poly(rC) binding protein 1	1394	0.413624107837677	0.008949938	No	
+row_7	CBX4	CBX4	chromobox homolog 4 (Pc class homolog, Drosophila)	1489	0.39806249737739563	0.013279769	No	
+row_8	RAB5C	RAB5C	RAB5C, member RAS oncogene family	1507	0.3940926790237427	0.02462166	No	
+row_9	GNL2	GNL2	guanine nucleotide binding protein-like 2 (nucleolar)	1545	0.3884710371494293	0.03392415	No	
+row_10	RPLP0	RPLP0	ribosomal protein, large, P0	1849	0.34153109788894653	0.01701487	No	
+row_11	IGF2BP3	IGF2BP3	insulin-like growth factor 2 mRNA binding protein 3	2141	0.3091023564338684	1.556127E-4	No	
+row_12	RPS23	RPS23	ribosomal protein S23	2554	0.2623004913330078	-0.029461304	No	
+row_13	CSTF2	CSTF2	cleavage stimulation factor, 3' pre-RNA, subunit 2, 64kDa	2821	0.23065228760242462	-0.046573337	No	
+row_14	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	2956	0.2159496247768402	-0.051923573	No	
+row_15	RALA	RALA	v-ral simian leukemia viral oncogene homolog A (ras related)	3290	0.18360310792922974	-0.07679256	No	
+row_16	RBM3	RBM3	RNA binding motif (RNP1, RRM) protein 3	3778	0.13816335797309875	-0.11743549	No	
+row_17	SNRPC	SNRPC	small nuclear ribonucleoprotein polypeptide C	3792	0.13729222118854523	-0.11414075	No	
+row_18	CIRBP	CIRBP	cold inducible RNA binding protein	3833	0.13332970440387726	-0.1134803	No	
+row_19	PSMA1	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	3852	0.13128387928009033	-0.110846296	No	
+row_20	CSDA	CSDA	cold shock domain protein A	4281	0.09607602655887604	-0.1473963	No	
+row_21	RIT1	RIT1	Ras-like without CAAX 1	4319	0.09209231287240982	-0.14780939	No	
+row_22	RNMT	RNMT	RNA (guanine-7-) methyltransferase	4510	0.07558292150497437	-0.16295531	No	
+row_23	MSI1	MSI1	musashi homolog 1 (Drosophila)	4682	0.06202375143766403	-0.17678335	No	
+row_24	RALB	RALB	v-ral simian leukemia viral oncogene homolog B (ras related; GTP binding protein)	4696	0.061024345457553864	-0.17598873	No	
+row_25	RPS4Y1	RPS4Y1	ribosomal protein S4, Y-linked 1	4828	0.049229543656110764	-0.18652596	No	
+row_26	EIF4EBP2	EIF4EBP2	eukaryotic translation initiation factor 4E binding protein 2	5132	0.02728210762143135	-0.21373661	No	
+row_27	GTPBP6	GTPBP6	GTP binding protein 6 (putative)	5190	0.02279745414853096	-0.21827637	No	
+row_28	RPA3	RPA3	replication protein A3, 14kDa	5331	0.011692625470459461	-0.23087889	No	
+row_29	RPS15	RPS15	ribosomal protein S15	5545	-0.004365439526736736	-0.25049275	No	
+row_30	RAB10	RAB10	RAB10, member RAS oncogene family	5566	-0.0054242294281721115	-0.25217006	No	
+row_31	RPS10	RPS10	ribosomal protein S10	5616	-0.009348688647150993	-0.25640863	No	
+row_32	TROVE2	TROVE2	TROVE domain family, member 2	5738	-0.019290873780846596	-0.26699972	No	
+row_33	EEF1D	EEF1D	eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein)	5748	-0.02036411501467228	-0.26716697	No	
+row_34	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	-0.26767138	No	
+row_35	EEF1A1	EEF1A1	eukaryotic translation elongation factor 1 alpha 1	5898	-0.03342108428478241	-0.27909786	No	
+row_36	EEF1A2	EEF1A2	eukaryotic translation elongation factor 1 alpha 2	5937	-0.036779481917619705	-0.2814169	No	
+row_37	RPS17	RPS17	ribosomal protein S17	5951	-0.03812408819794655	-0.28137296	No	
+row_38	RPL7A	RPL7A	ribosomal protein L7a	5980	-0.04084232449531555	-0.28263128	No	
+row_39	RPL3	RPL3	ribosomal protein L3	6018	-0.044217102229595184	-0.28461376	No	
+row_40	SRP9	SRP9	signal recognition particle 9kDa	6173	-0.058061450719833374	-0.29699486	No	
+row_41	ACTL6A	ACTL6A	actin-like 6A	6210	-0.06066611781716347	-0.29834536	No	
+row_42	SUB1	SUB1	SUB1 homolog (S. cerevisiae)	6322	-0.06921462714672089	-0.30637234	No	
+row_43	MRPL23	MRPL23	mitochondrial ribosomal protein L23	6419	-0.07703962922096252	-0.31275144	No	
+row_44	CBX6	CBX6	chromobox homolog 6	6461	-0.07963603734970093	-0.3139439	No	
+row_45	DHX30	DHX30	DEAH (Asp-Glu-Ala-His) box polypeptide 30	6705	-0.1004565879702568	-0.3331905	No	
+row_46	RPL22	RPL22	ribosomal protein L22	6939	-0.12176656723022461	-0.35081095	No	
+row_47	RPL38	RPL38	ribosomal protein L38	7220	-0.14368200302124023	-0.37207255	No	
+row_48	ARFIP2	ARFIP2	ADP-ribosylation factor interacting protein 2 (arfaptin 2)	7306	-0.15244516730308533	-0.37495947	No	
+row_49	RPL23A	RPL23A	ribosomal protein L23a	7387	-0.15907961130142212	-0.37716517	No	
+row_50	RNASEH2A	RNASEH2A	ribonuclease H2, subunit A	7616	-0.17962220311164856	-0.3924253	No	
+row_51	RPS19	RPS19	ribosomal protein S19	7745	-0.19242416322231293	-0.39799017	No	
+row_52	GEM	GEM	GTP binding protein overexpressed in skeletal muscle	7770	-0.1946248710155487	-0.39383632	No	
+row_53	SSB	SSB	Sjogren syndrome antigen B (autoantigen La)	7773	-0.1947857141494751	-0.38763657	No	
+row_54	RPL37	RPL37	ribosomal protein L37	7802	-0.19759535789489746	-0.38375637	No	
+row_55	RAB14	RAB14	RAB14, member RAS oncogene family	8048	-0.22008655965328217	-0.39926687	No	
+row_56	HDLBP	HDLBP	high density lipoprotein binding protein (vigilin)	8086	-0.2241990864276886	-0.39534938	No	
+row_57	MRPL12	MRPL12	mitochondrial ribosomal protein L12	8264	-0.24215474724769592	-0.4038291	Yes	
+row_58	EIF2S3	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa	8335	-0.24989567697048187	-0.4021302	Yes	
+row_59	RPS6	RPS6	ribosomal protein S6	8404	-0.25866106152534485	-0.3999584	Yes	
+row_60	RAB5A	RAB5A	RAB5A, member RAS oncogene family	8499	-0.26836058497428894	-0.39988032	Yes	
+row_61	EIF5	EIF5	eukaryotic translation initiation factor 5	8505	-0.2691045105457306	-0.39152262	Yes	
+row_62	RNASET2	RNASET2	ribonuclease T2	8630	-0.283791720867157	-0.39372134	Yes	
+row_63	RBMS1	RBMS1	RNA binding motif, single stranded interacting protein 1	8659	-0.28714466094970703	-0.38690564	Yes	
+row_64	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	-0.3796536	Yes	
+row_65	SNRPD1	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide 16kDa	8724	-0.29552337527275085	-0.37349078	Yes	
+row_66	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	8737	-0.29685360193252563	-0.36487272	Yes	
+row_67	GNAS	GNAS	GNAS complex locus	8768	-0.2999297082424164	-0.3578234	Yes	
+row_68	RBM5	RBM5	RNA binding motif protein 5	8967	-0.3242822289466858	-0.36555877	Yes	
+row_69	RPS28	RPS28	ribosomal protein S28	9018	-0.33038902282714844	-0.3593661	Yes	
+row_70	TUFM	TUFM	Tu translation elongation factor, mitochondrial	9052	-0.33402687311172485	-0.3514773	Yes	
+row_71	RPS3	RPS3	ribosomal protein S3	9062	-0.33552804589271545	-0.34131315	Yes	
+row_72	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.33939397	Yes	
+row_73	DDX3Y	DDX3Y	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked	9272	-0.3590067923069	-0.3374575	Yes	
+row_74	YBX1	YBX1	Y box binding protein 1	9293	-0.3600674867630005	-0.32750925	Yes	
+row_75	FBL	FBL	fibrillarin	9343	-0.3670318126678467	-0.32002264	Yes	
+row_76	SNRPN	SNRPN	small nuclear ribonucleoprotein polypeptide N	9383	-0.37221992015838623	-0.31143838	Yes	
+row_77	EWSR1	EWSR1	Ewing sarcoma breakpoint region 1	9425	-0.3781188130378723	-0.30284625	Yes	
+row_78	RPS4X	RPS4X	ribosomal protein S4, X-linked	9440	-0.3803887665271759	-0.29167533	Yes	
+row_79	RPS2	RPS2	ribosomal protein S2	9549	-0.39906904101371765	-0.28861108	Yes	
+row_80	RPS11	RPS11	ribosomal protein S11	9619	-0.4086839556694031	-0.28161418	Yes	
+row_81	EIF2S1	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	9662	-0.4157504141330719	-0.27188122	Yes	
+row_82	TMPO	TMPO	thymopoietin	9718	-0.42455562949180603	-0.26306546	Yes	
+row_83	SNRPB2	SNRPB2	small nuclear ribonucleoprotein polypeptide B''	9736	-0.42636385560035706	-0.25066566	Yes	
+row_84	MBD4	MBD4	methyl-CpG binding domain protein 4	9773	-0.43437761068344116	-0.23976557	Yes	
+row_85	TUBB3	TUBB3	tubulin, beta 3	9861	-0.45088711380958557	-0.2330548	Yes	
+row_86	SEPT2	SEPT2	septin 2	9903	-0.45646530389785767	-0.22189441	Yes	
+row_87	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.2088704	Yes	
+row_88	SSBP1	SSBP1	single-stranded DNA binding protein 1	9983	-0.4691582918167114	-0.19868526	Yes	
+row_89	RPS16	RPS16	ribosomal protein S16	10014	-0.4747117757797241	-0.18590643	Yes	
+row_90	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.17898504	Yes	
+row_91	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	10129	-0.5016360878944397	-0.163654	Yes	
+row_92	GSPT1	GSPT1	G1 to S phase transition 1	10208	-0.5198054909706116	-0.15384923	Yes	
+row_93	FUS	FUS	fusion (involved in t(12;16) in malignant liposarcoma)	10281	-0.5379582643508911	-0.14289285	Yes	
+row_94	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.12707172	Yes	
+row_95	MRPL3	MRPL3	mitochondrial ribosomal protein L3	10337	-0.5532355904579163	-0.111904316	Yes	
+row_96	PCBP2	PCBP2	poly(rC) binding protein 2	10360	-0.5586636662483215	-0.095631406	Yes	
+row_97	PUM1	PUM1	pumilio homolog 1 (Drosophila)	10405	-0.5711675882339478	-0.080989234	Yes	
+row_98	SNRPA1	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	10504	-0.6001255512237549	-0.07040661	Yes	
+row_99	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.06719481	Yes	
+row_100	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	-0.04683159	Yes	
+row_101	FUBP1	FUBP1	far upstream element (FUSE) binding protein 1	10813	-0.8094899654388428	-0.024284223	Yes	
+row_102	R3HDM1	R3HDM1	R3H domain containing 1	10861	-0.9360464215278625	0.0020407615	Yes	

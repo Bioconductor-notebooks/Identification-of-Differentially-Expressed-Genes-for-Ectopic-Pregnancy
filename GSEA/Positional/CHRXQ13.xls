@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CITED1	CITED1	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 1	1443	0.4054718613624573	-0.08892369	No	
+row_1	ITM2A	ITM2A	integral membrane protein 2A	1590	0.38209769129753113	-0.06093123	No	
+row_2	IL13RA2	IL13RA2	interleukin 13 receptor, alpha 2	1900	0.3343183100223541	-0.053132456	No	
+row_3	CXCR3	CXCR3	chemokine (C-X-C motif) receptor 3	2034	0.3195161819458008	-0.030729733	No	
+row_4	SH3BGRL	SH3BGRL	SH3 domain binding glutamic acid-rich protein like	2560	0.2616827189922333	-0.050701503	No	
+row_5	CHIC1	CHIC1	cysteine-rich hydrophobic domain 1	3929	0.12489503622055054	-0.1631466	No	
+row_6	STARD8	STARD8	START domain containing 8	4109	0.11006709188222885	-0.16769528	No	
+row_7	SNX12	SNX12	sorting nexin 12	5265	0.01681993342936039	-0.27224433	No	
+row_8	TAF9B	TAF9B	TAF9B RNA polymerase II, TATA box binding protein (TBP)-associated factor, 31kDa	6444	-0.07815385609865189	-0.37225994	No	
+row_9	PDZD11	PDZD11	PDZ domain containing 11	7105	-0.13385309278964996	-0.41852814	No	
+row_10	PIN4	PIN4	protein (peptidylprolyl cis/trans isomerase) NIMA-interacting, 4 (parvulin)	7133	-0.13577015697956085	-0.4062904	No	
+row_11	DLG3	DLG3	discs, large homolog 3 (neuroendocrine-dlg, Drosophila)	8881	-0.31350597739219666	-0.53318566	Yes	
+row_12	CYSLTR1	CYSLTR1	cysteinyl leukotriene receptor 1	9058	-0.33484959602355957	-0.51308024	Yes	
+row_13	RGAG4	RGAG4	retrotransposon gag domain containing 4	9110	-0.34127673506736755	-0.48076555	Yes	
+row_14	ZMYM3	ZMYM3	zinc finger, MYM-type 3	9400	-0.3742421269416809	-0.46679503	Yes	
+row_15	RPS4X	RPS4X	ribosomal protein S4, X-linked	9440	-0.3803887665271759	-0.42913342	Yes	
+row_16	SLC16A2	SLC16A2	solute carrier family 16, member 2 (monocarboxylic acid transporter 8)	9685	-0.4194488227367401	-0.4061158	Yes	
+row_17	KIF4A	KIF4A	kinesin family member 4A	9846	-0.44815680384635925	-0.37224856	Yes	
+row_18	IGBP1	IGBP1	immunoglobulin (CD79A) binding protein 1	9884	-0.4547334909439087	-0.32634002	Yes	
+row_19	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.28607276	Yes	
+row_20	NLGN3	NLGN3	neuroligin 3	10072	-0.4875648617744446	-0.23927447	Yes	
+row_21	MAGEE1	MAGEE1	melanoma antigen family E, 1	10320	-0.5496305227279663	-0.20241486	Yes	
+row_22	MED12	MED12	mediator of RNA polymerase II transcription, subunit 12 homolog (S. cerevisiae)	10327	-0.5503443479537964	-0.1432822	Yes	
+row_23	XIST	XIST	X (inactive)-specific transcript	10329	-0.5509815216064453	-0.08361997	Yes	
+row_24	TAF1	TAF1	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa	10551	-0.6187596917152405	-0.0368687	Yes	
+row_25	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10557	-0.6210469007492065	0.030023793	Yes	

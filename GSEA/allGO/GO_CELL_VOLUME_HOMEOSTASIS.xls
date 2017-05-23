@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP1	AQP1	aquaporin 1 (Colton blood group)	118	0.8312647938728333	0.13365752	Yes	
+row_1	LRRC8A	LRRC8A	leucine rich repeat containing 8 family, member A	145	0.8075057864189148	0.27165127	Yes	
+row_2	ADD1	ADD1	adducin 1 (alpha)	520	0.6201579570770264	0.3450477	Yes	
+row_3	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	642	0.5770642161369324	0.43423584	Yes	
+row_4	ANXA7	ANXA7	annexin A7	1133	0.4646455645561218	0.46992064	Yes	
+row_5	AQP2	AQP2	aquaporin 2 (collecting duct)	1380	0.41613543033599854	0.5196272	Yes	
+row_6	E2F4	E2F4	E2F transcription factor 4, p107/p130-binding	1786	0.35037288069725037	0.543268	Yes	
+row_7	SLC6A12	SLC6A12	solute carrier family 6 (neurotransmitter transporter, betaine/GABA), member 12	1940	0.32948538661003113	0.5864691	Yes	
+row_8	SLC12A4	SLC12A4	solute carrier family 12 (potassium/chloride transporters), member 4	1945	0.32914406061172485	0.64332336	Yes	
+row_9	AQP6	AQP6	aquaporin 6, kidney specific	3372	0.17576190829277039	0.5426449	No	
+row_10	KCNMA1	KCNMA1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	4734	0.057430244982242584	0.42737618	No	
+row_11	AQP7	AQP7	aquaporin 7	4988	0.03729190304875374	0.4105758	No	
+row_12	AQP3	AQP3	aquaporin 3 (Gill blood group)	5206	0.021398717537522316	0.39432546	No	
+row_13	SHANK3	SHANK3	SH3 and multiple ankyrin repeat domains 3	5408	0.006051003932952881	0.3768794	No	
+row_14	AQP4	AQP4	aquaporin 4	5790	-0.02423577755689621	0.34602934	No	
+row_15	AQP8	AQP8	aquaporin 8	7577	-0.1754358857870102	0.21216331	No	
+row_16	TRPV4	TRPV4	transient receptor potential cation channel, subfamily V, member 4	8447	-0.26349279284477234	0.17799784	No	
+row_17	SLC12A7	SLC12A7	solute carrier family 12 (potassium/chloride transporters), member 7	8462	-0.2651434540748596	0.22280516	No	

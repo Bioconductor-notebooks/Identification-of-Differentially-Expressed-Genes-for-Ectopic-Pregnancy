@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	F2R	F2R	coagulation factor II (thrombin) receptor	377	0.6705260872840881	0.02475855	No	
+row_1	HEXB	HEXB	hexosaminidase B (beta polypeptide)	588	0.5952228307723999	0.05821975	No	
+row_2	RASGRF2	RASGRF2	Ras protein-specific guanine nucleotide-releasing factor 2	751	0.5458683371543884	0.09172397	No	
+row_3	RAD17	RAD17	RAD17 homolog (S. pombe)	761	0.5427535772323608	0.13904545	No	
+row_4	RGNEF	RGNEF	-	908	0.5091569423675537	0.17076665	No	
+row_5	BHMT2	BHMT2	betaine-homocysteine methyltransferase 2	1566	0.38462311029434204	0.14436905	No	
+row_6	POLK	POLK	polymerase (DNA directed) kappa	1834	0.34278225898742676	0.15018438	No	
+row_7	FCHO2	FCHO2	FCH domain only 2	2638	0.2519069015979767	0.09856404	No	
+row_8	ZBED3	ZBED3	zinc finger, BED-type containing 3	2675	0.24832725524902344	0.117278315	No	
+row_9	BTF3	BTF3	basic transcription factor 3	3045	0.20682337880134583	0.10163628	No	
+row_10	ANKRD31	ANKRD31	ankyrin repeat domain 31	3696	0.14621169865131378	0.054732766	No	
+row_11	F2RL1	F2RL1	coagulation factor II (thrombin) receptor-like 1	4025	0.11767076700925827	0.03495825	No	
+row_12	UTP15	UTP15	UTP15, U3 small nucleolar ribonucleoprotein, homolog (S. cerevisiae)	4074	0.11344830691814423	0.040601324	No	
+row_13	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	4385	0.08635181933641434	0.019706411	No	
+row_14	BHMT	BHMT	betaine-homocysteine methyltransferase	5296	0.014343108050525188	-0.06284575	No	
+row_15	COL4A3BP	COL4A3BP	collagen, type IV, alpha 3 (Goodpasture antigen) binding protein	6324	-0.06935648620128632	-0.15129484	No	
+row_16	ADAMTS6	ADAMTS6	ADAM metallopeptidase with thrombospondin type 1 motif, 6	8342	-0.2506149709224701	-0.31485736	No	
+row_17	SCAMP1	SCAMP1	secretory carrier membrane protein 1	8723	-0.29544490575790405	-0.32365057	No	
+row_18	CARTPT	CARTPT	CART prepropeptide	9082	-0.338410884141922	-0.32660553	Yes	
+row_19	RAB3C	RAB3C	RAB3C, member RAS oncogene family	9375	-0.37112921476364136	-0.32057828	Yes	
+row_20	CCDC125	CCDC125	coiled-coil domain containing 125	9513	-0.39309045672416687	-0.2983249	Yes	
+row_21	F2RL2	F2RL2	coagulation factor II (thrombin) receptor-like 2	9673	-0.4178920090198517	-0.2758978	Yes	
+row_22	ENC1	ENC1	ectodermal-neural cortex (with BTB-like domain)	10125	-0.4996429681777954	-0.2731157	Yes	
+row_23	TNPO1	TNPO1	transportin 1	10566	-0.624232292175293	-0.25826734	Yes	
+row_24	AGGF1	AGGF1	angiogenic factor with G patch and FHA domains 1	10700	-0.69401615858078	-0.20894882	Yes	
+row_25	SV2C	SV2C	synaptic vesicle glycoprotein 2C	10756	-0.7466111779212952	-0.14777935	Yes	
+row_26	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	10790	-0.7787976861000061	-0.08172791	Yes	
+row_27	PTCD2	PTCD2	pentatricopeptide repeat domain 2	10870	-1.016764760017395	0.0011975488	Yes	

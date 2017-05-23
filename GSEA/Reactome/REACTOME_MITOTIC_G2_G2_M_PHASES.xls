@@ -1,0 +1,40 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CSNK1D	CSNK1D	casein kinase 1, delta	1755	0.3547552227973938	-0.1292941	No	
+row_1	CEP76	CEP76	centrosomal protein 76kDa	1933	0.3302200436592102	-0.11533327	No	
+row_2	CEP72	CEP72	centrosomal protein 72kDa	2629	0.25267884135246277	-0.15624703	No	
+row_3	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	2847	0.227557972073555	-0.15538882	No	
+row_4	CEP63	CEP63	centrosomal protein 63kDa	3163	0.19552110135555267	-0.16650486	No	
+row_5	YWHAE	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide	3263	0.18632839620113373	-0.15854686	No	
+row_6	TUBGCP6	TUBGCP6	tubulin, gamma complex associated protein 6	3611	0.15348398685455322	-0.17646845	No	
+row_7	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	-0.19128418	No	
+row_8	PCNT	PCNT	pericentrin (kendrin)	4257	0.0976104810833931	-0.21525154	No	
+row_9	DYNC1I2	DYNC1I2	dynein, cytoplasmic 1, intermediate chain 2	4283	0.09596813470125198	-0.20875631	No	
+row_10	SSNA1	SSNA1	Sjogren's syndrome nuclear autoantigen 1	4547	0.07305353879928589	-0.22630799	No	
+row_11	SDCCAG8	SDCCAG8	serologically defined colon cancer antigen 8	4783	0.05331999436020851	-0.24308743	No	
+row_12	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	-0.24853018	No	
+row_13	PLK4	PLK4	polo-like kinase 4 (Drosophila)	4936	0.040739960968494415	-0.24922027	No	
+row_14	TUBGCP5	TUBGCP5	tubulin, gamma complex associated protein 5	5015	0.03571881353855133	-0.25313705	No	
+row_15	CDC25C	CDC25C	cell division cycle 25C	5284	0.01528681255877018	-0.27644706	No	
+row_16	DYNC1H1	DYNC1H1	dynein, cytoplasmic 1, heavy chain 1	6172	-0.05798368155956268	-0.3529187	No	
+row_17	AKAP9	AKAP9	A kinase (PRKA) anchor protein (yotiao) 9	6337	-0.07009787112474442	-0.3616128	No	
+row_18	DCTN2	DCTN2	dynactin 2 (p50)	6821	-0.11168310046195984	-0.39590794	No	
+row_19	TUBGCP3	TUBGCP3	tubulin, gamma complex associated protein 3	7145	-0.13676683604717255	-0.4131495	No	
+row_20	CENPJ	CENPJ	centromere protein J	7250	-0.14691586792469025	-0.40926674	No	
+row_21	CEP135	CEP135	centrosomal protein 135kDa	7474	-0.16724561154842377	-0.41449252	No	
+row_22	CEP192	CEP192	centrosomal protein 192kDa	7636	-0.18146276473999023	-0.41269764	No	
+row_23	DCTN1	DCTN1	dynactin 1 (p150, glued homolog, Drosophila)	8127	-0.22783243656158447	-0.43698716	No	
+row_24	CEP70	CEP70	centrosomal protein 70kDa	8552	-0.27466344833374023	-0.4508964	No	
+row_25	CEP250	CEP250	centrosomal protein 250kDa	9090	-0.33942845463752747	-0.46928617	Yes	
+row_26	PCM1	PCM1	pericentriolar material 1	9292	-0.36004796624183655	-0.45480308	Yes	
+row_27	TUBB	TUBB	tubulin, beta	9578	-0.4032236635684967	-0.44410622	Yes	
+row_28	CCNB1	CCNB1	cyclin B1	9777	-0.4353015720844269	-0.4224456	Yes	
+row_29	CETN2	CETN2	centrin, EF-hand protein, 2	9828	-0.4434190094470978	-0.3863938	Yes	
+row_30	CDK5RAP2	CDK5RAP2	CDK5 regulatory subunit associated protein 2	9860	-0.4508604109287262	-0.3479076	Yes	
+row_31	YWHAG	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide	9876	-0.4533332586288452	-0.30771932	Yes	
+row_32	NEK2	NEK2	NIMA (never in mitosis gene a)-related kinase 2	10140	-0.5047721266746521	-0.2856817	Yes	
+row_33	FGFR1OP	FGFR1OP	FGFR1 oncogene partner	10510	-0.6015211343765259	-0.26454613	Yes	
+row_34	CEP57	CEP57	centrosomal protein 57kDa	10530	-0.6086694598197937	-0.2104821	Yes	
+row_35	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.15480278	Yes	
+row_36	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	10645	-0.6610552668571472	-0.104233645	Yes	
+row_37	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	-0.044721194	Yes	
+row_38	CCNB2	CCNB2	cyclin B2	10716	-0.7048726081848145	0.015398563	Yes	

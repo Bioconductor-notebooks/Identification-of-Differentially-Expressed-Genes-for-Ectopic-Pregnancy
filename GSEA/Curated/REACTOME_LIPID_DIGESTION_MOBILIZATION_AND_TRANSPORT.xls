@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.066813864	Yes	
+row_1	MGLL	MGLL	monoglyceride lipase	367	0.6736915111541748	0.13536128	Yes	
+row_2	SCARB1	SCARB1	scavenger receptor class B, member 1	493	0.6286409497261047	0.19898471	Yes	
+row_3	PLTP	PLTP	phospholipid transfer protein	551	0.6088070869445801	0.26650026	Yes	
+row_4	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	603	0.5916893482208252	0.33252245	Yes	
+row_5	APOC2	APOC2	apolipoprotein C-II	659	0.5707862973213196	0.3956779	Yes	
+row_6	SAR1B	SAR1B	SAR1 gene homolog B (S. cerevisiae)	662	0.5693963170051575	0.46354842	Yes	
+row_7	APOA2	APOA2	apolipoprotein A-II	1250	0.43804821372032166	0.46184278	Yes	
+row_8	P4HB	P4HB	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide	1268	0.43510115146636963	0.51228076	Yes	
+row_9	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	1313	0.42639338970184326	0.55919135	Yes	
+row_10	LCAT	LCAT	lecithin-cholesterol acyltransferase	1573	0.38383859395980835	0.58121467	Yes	
+row_11	CUBN	CUBN	cubilin (intrinsic factor-cobalamin receptor)	1701	0.3638492524623871	0.61300576	Yes	
+row_12	BMP1	BMP1	bone morphogenetic protein 1	1837	0.3426437973976135	0.6415256	Yes	
+row_13	PRKACG	PRKACG	protein kinase, cAMP-dependent, catalytic, gamma	2654	0.25039905309677124	0.59630156	No	
+row_14	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	3014	0.21034978330135345	0.58837956	No	
+row_15	ABHD5	ABHD5	abhydrolase domain containing 5	3326	0.1800764948129654	0.58125997	No	
+row_16	LIPE	LIPE	lipase, hormone-sensitive	3508	0.16252125799655914	0.5840149	No	
+row_17	ABCG1	ABCG1	ATP-binding cassette, sub-family G (WHITE), member 1	4158	0.10612069070339203	0.5369269	No	
+row_18	LPA	LPA	lipoprotein, Lp(a)	4380	0.08720764517784119	0.52699643	No	
+row_19	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	0.4856796	No	
+row_20	SDC1	SDC1	syndecan 1	4950	0.039749324321746826	0.4847204	No	
+row_21	CLPS	CLPS	colipase, pancreatic	5515	-0.002207827754318714	0.433041	No	
+row_22	LIPC	LIPC	lipase, hepatic	6304	-0.06805260479450226	0.3686015	No	
+row_23	CETP	CETP	cholesteryl ester transfer protein, plasma	6965	-0.1238422691822052	0.32261854	No	
+row_24	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	7147	-0.1369704306125641	0.32231963	No	
+row_25	PNLIPRP2	PNLIPRP2	pancreatic lipase-related protein 2	7633	-0.18127714097499847	0.2993185	No	

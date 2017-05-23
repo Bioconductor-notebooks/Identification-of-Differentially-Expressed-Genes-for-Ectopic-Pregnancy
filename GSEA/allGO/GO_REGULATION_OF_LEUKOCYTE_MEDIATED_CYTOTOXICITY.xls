@@ -1,0 +1,34 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRTAM	CRTAM	cytotoxic and regulatory T cell molecule	78	0.8803237676620483	0.064957716	Yes	
+row_1	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	245	0.7341944575309753	0.1098297	Yes	
+row_2	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.1616158	Yes	
+row_3	PVRL2	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	333	0.6898292303085327	0.21593824	Yes	
+row_4	XCL1	XCL1	chemokine (C motif) ligand 1	390	0.662642776966095	0.2650836	Yes	
+row_5	PVR	PVR	poliovirus receptor	479	0.6325870156288147	0.30881676	Yes	
+row_6	CD226	CD226	CD226 molecule	510	0.6227232217788696	0.35708663	Yes	
+row_7	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	642	0.5770642161369324	0.39230672	Yes	
+row_8	VAV1	VAV1	vav 1 oncogene	859	0.5181168913841248	0.41486242	Yes	
+row_9	NCR3	NCR3	natural cytotoxicity triggering receptor 3	990	0.4931564927101135	0.44329807	Yes	
+row_10	LILRB1	LILRB1	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 1	1001	0.4909232258796692	0.48260957	Yes	
+row_11	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1165	0.4581811726093292	0.5051377	Yes	
+row_12	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.53992313	Yes	
+row_13	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.57334787	Yes	
+row_14	LGALS9	LGALS9	lectin, galactoside-binding, soluble, 9 (galectin 9)	1338	0.42240673303604126	0.59755194	Yes	
+row_15	SERPINB4	SERPINB4	serpin peptidase inhibitor, clade B (ovalbumin), member 4	2330	0.28802451491355896	0.5298287	No	
+row_16	LAG3	LAG3	lymphocyte-activation gene 3	2392	0.28076326847076416	0.5472168	No	
+row_17	FADD	FADD	Fas (TNFRSF6)-associated via death domain	2618	0.25387781858444214	0.54728764	No	
+row_18	RIPK3	RIPK3	receptor-interacting serine-threonine kinase 3	3083	0.2028730809688568	0.52115285	No	
+row_19	ICAM1	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	3264	0.1862606257200241	0.5198293	No	
+row_20	NCR1	NCR1	natural cytotoxicity triggering receptor 1	3760	0.13979192078113556	0.48566788	No	
+row_21	F2RL1	F2RL1	coagulation factor II (thrombin) receptor-like 1	4025	0.11767076700925827	0.4709819	No	
+row_22	IGF2	IGF2	insulin-like growth factor 2 (somatomedin A)	4737	0.05732639506459236	0.4101561	No	
+row_23	SH2D1A	SH2D1A	SH2 domain protein 1A, Duncan's disease (lymphoproliferative syndrome)	5029	0.034609124064445496	0.38617465	No	
+row_24	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	0.3674639	No	
+row_25	LEP	LEP	leptin (obesity homolog, mouse)	6097	-0.0506816990673542	0.29356012	No	
+row_26	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.2626227	No	
+row_27	AGER	AGER	advanced glycosylation end product-specific receptor	6589	-0.09174855798482895	0.26276928	No	
+row_28	IL23A	IL23A	interleukin 23, alpha subunit p19	8025	-0.2167479395866394	0.14828676	No	
+row_29	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.14879844	No	
+row_30	SERPINB9	SERPINB9	serpin peptidase inhibitor, clade B (ovalbumin), member 9	8622	-0.2821281850337982	0.13616288	No	
+row_31	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	0.073822044	No	
+row_32	CEACAM1	CEACAM1	carcinoembryonic antigen-related cell adhesion molecule 1 (biliary glycoprotein)	9936	-0.4609989821910858	0.087273166	No	

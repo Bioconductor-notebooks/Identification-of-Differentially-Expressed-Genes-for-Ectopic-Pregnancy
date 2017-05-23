@@ -1,0 +1,41 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALKBH1	ALKBH1	alkB, alkylation repair homolog 1 (E. coli)	246	0.7335550785064697	0.035042822	No	
+row_1	ALAD	ALAD	aminolevulinate, delta-, dehydratase	314	0.6988970637321472	0.08386501	No	
+row_2	ACO1	ACO1	aconitase 1, soluble	575	0.5983815789222717	0.10697912	No	
+row_3	PTS	PTS	6-pyruvoyltetrahydropterin synthase	1137	0.46385860443115234	0.09174947	No	
+row_4	CA7	CA7	carbonic anhydrase VII	2094	0.3149196207523346	0.028373173	No	
+row_5	CA5B	CA5B	carbonic anhydrase VB, mitochondrial	2998	0.21212658286094666	-0.038205072	No	
+row_6	CA14	CA14	carbonic anhydrase XIV	3213	0.19108600914478302	-0.042901695	No	
+row_7	ENO2	ENO2	enolase 2 (gamma, neuronal)	3986	0.12046215683221817	-0.10461319	No	
+row_8	CA5A	CA5A	carbonic anhydrase VA, mitochondrial	4021	0.11804328113794327	-0.098458976	No	
+row_9	PTPLA	PTPLA	protein tyrosine phosphatase-like (proline instead of catalytic arginine), member A	4055	0.11500030010938644	-0.09245202	No	
+row_10	UROS	UROS	uroporphyrinogen III synthase (congenital erythropoietic porphyria)	5084	0.03072214312851429	-0.18483326	No	
+row_11	CA6	CA6	carbonic anhydrase VI	5140	0.026853974908590317	-0.18779188	No	
+row_12	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	5243	0.018273575231432915	-0.19575994	No	
+row_13	HIBCH	HIBCH	3-hydroxyisobutyryl-Coenzyme A hydrolase	5959	-0.038832858204841614	-0.258639	No	
+row_14	CA2	CA2	carbonic anhydrase II	5984	-0.041115280240774155	-0.25761658	No	
+row_15	TGDS	TGDS	TDP-glucose 4,6-dehydratase	6182	-0.058774251490831375	-0.27115798	No	
+row_16	PDDC1	PDDC1	Parkinson disease 7 domain containing 1	6352	-0.07147935032844543	-0.28111747	No	
+row_17	SMUG1	SMUG1	single-strand-selective monofunctional uracil-DNA glycosylase 1	6523	-0.08495640754699707	-0.29010856	No	
+row_18	FH	FH	fumarate hydratase	7219	-0.14350272715091705	-0.34290615	No	
+row_19	CA4	CA4	carbonic anhydrase IV	7278	-0.1499512940645218	-0.3364541	No	
+row_20	CA12	CA12	carbonic anhydrase XII	7315	-0.15307144820690155	-0.32772774	No	
+row_21	ENO3	ENO3	enolase 3 (beta, muscle)	8014	-0.21557453274726868	-0.37513018	No	
+row_22	POLQ	POLQ	polymerase (DNA directed), theta	8223	-0.23803840577602386	-0.37557852	Yes	
+row_23	PTPLAD1	PTPLAD1	protein tyrosine phosphatase-like A domain containing 1	8274	-0.2429254800081253	-0.36107197	Yes	
+row_24	NTHL1	NTHL1	nth endonuclease III-like 1 (E. coli)	8401	-0.2586374878883362	-0.35233745	Yes	
+row_25	THNSL1	THNSL1	threonine synthase-like 1 (bacterial)	8743	-0.29815009236335754	-0.36032006	Yes	
+row_26	RPS3	RPS3	ribosomal protein S3	9062	-0.33552804589271545	-0.36324018	Yes	
+row_27	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	9132	-0.34381791949272156	-0.3425459	Yes	
+row_28	NEIL1	NEIL1	nei endonuclease VIII-like 1 (E. coli)	9154	-0.34625884890556335	-0.31723312	Yes	
+row_29	ENO1	ENO1	enolase 1, (alpha)	9360	-0.3689485192298889	-0.30710262	Yes	
+row_30	APIP	APIP	APAF1 interacting protein	9362	-0.36913424730300903	-0.27814528	Yes	
+row_31	HMGA1	HMGA1	high mobility group AT-hook 1	9646	-0.4132329225540161	-0.2717227	Yes	
+row_32	CA11	CA11	carbonic anhydrase XI	10070	-0.4867417514324188	-0.27242562	Yes	
+row_33	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.23746909	Yes	
+row_34	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.20911723	Yes	
+row_35	HMBS	HMBS	hydroxymethylbilane synthase	10379	-0.5642672777175903	-0.17513192	Yes	
+row_36	NEIL3	NEIL3	nei endonuclease VIII-like 3 (E. coli)	10517	-0.6032275557518005	-0.14029376	Yes	
+row_37	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	10623	-0.6521291136741638	-0.0986563	Yes	
+row_38	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	-0.052453797	Yes	
+row_39	PTPLB	PTPLB	protein tyrosine phosphatase-like (proline instead of catalytic arginine), member b	10804	-0.7989468574523926	0.0072851074	Yes	

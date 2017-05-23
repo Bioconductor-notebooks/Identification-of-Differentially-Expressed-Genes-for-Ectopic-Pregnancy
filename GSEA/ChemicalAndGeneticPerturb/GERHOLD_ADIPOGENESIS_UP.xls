@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.17824265	Yes	
+row_1	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.2139228	Yes	
+row_2	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	671	0.5660825967788696	0.28633332	Yes	
+row_3	PC	PC	pyruvate carboxylase	713	0.5531569719314575	0.36276078	Yes	
+row_4	CIDEC	CIDEC	cell death-inducing DFFA-like effector c	1078	0.47551652789115906	0.39820006	Yes	
+row_5	ADRB3	ADRB3	adrenergic, beta-3-, receptor	1306	0.4282592236995697	0.43939802	Yes	
+row_6	PMP22	PMP22	peripheral myelin protein 22	1354	0.4203561544418335	0.49601862	Yes	
+row_7	AGT	AGT	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	1582	0.3832041621208191	0.5306841	Yes	
+row_8	DDIT3	DDIT3	DNA-damage-inducible transcript 3	1595	0.3817373812198639	0.5849271	Yes	
+row_9	CRAT	CRAT	carnitine acetyltransferase	1952	0.3283141851425171	0.5997601	Yes	
+row_10	LIPE	LIPE	lipase, hormone-sensitive	3508	0.16252125799655914	0.48019052	No	
+row_11	SCP2	SCP2	sterol carrier protein 2	3541	0.15943990647792816	0.500362	No	
+row_12	ITGA7	ITGA7	integrin, alpha 7	4594	0.06901773065328598	0.41353518	No	
+row_13	PPARG	PPARG	peroxisome proliferative activated receptor, gamma	5124	0.02783171646296978	0.36887753	No	
+row_14	MNT	MNT	MAX binding protein	5734	-0.018566180020570755	0.31551272	No	
+row_15	CD36	CD36	CD36 molecule (thrombospondin receptor)	5848	-0.029118184000253677	0.30933318	No	
+row_16	SCD	SCD	stearoyl-CoA desaturase (delta-9-desaturase)	5857	-0.03030245378613472	0.3129903	No	
+row_17	ADIPOQ	ADIPOQ	adiponectin, C1Q and collagen domain containing	7253	-0.14774087071418762	0.20600529	No	
+row_18	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	7984	-0.21340517699718475	0.1697522	No	
+row_19	VLDLR	VLDLR	very low density lipoprotein receptor	10664	-0.6690220832824707	0.020158442	No	

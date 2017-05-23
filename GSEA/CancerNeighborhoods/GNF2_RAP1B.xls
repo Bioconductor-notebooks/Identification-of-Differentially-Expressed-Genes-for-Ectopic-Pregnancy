@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLEC2B	CLEC2B	C-type lectin domain family 2, member B	505	0.6240211725234985	0.071024604	Yes	
+row_1	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.166827	Yes	
+row_2	STK10	STK10	serine/threonine kinase 10	760	0.5427902936935425	0.2584453	Yes	
+row_3	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	863	0.5175926685333252	0.34651545	Yes	
+row_4	RAP2B	RAP2B	RAP2B, member of RAS oncogene family	923	0.5048971772193909	0.43615213	Yes	
+row_5	CD97	CD97	CD97 molecule	1064	0.4769692122936249	0.5130766	Yes	
+row_6	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1165	0.4581811726093292	0.59014434	Yes	
+row_7	MBNL1	MBNL1	muscleblind-like (Drosophila)	1373	0.41678547859191895	0.6495714	Yes	
+row_8	OSTF1	OSTF1	osteoclast stimulating factor 1	2772	0.23642760515213013	0.56544155	No	
+row_9	ADAM10	ADAM10	ADAM metallopeptidase domain 10	3563	0.15739504992961884	0.52237993	No	
+row_10	STK38	STK38	serine/threonine kinase 38	4321	0.09199352562427521	0.47004074	No	
+row_11	IQGAP1	IQGAP1	IQ motif containing GTPase activating protein 1	4726	0.057692281901836395	0.44372672	No	
+row_12	INPP5D	INPP5D	inositol polyphosphate-5-phosphatase, 145kDa	5434	0.004028508439660072	0.3794259	No	
+row_13	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.29641777	No	
+row_14	BTN3A3	BTN3A3	butyrophilin, subfamily 3, member A3	7339	-0.15573769807815552	0.24936326	No	
+row_15	ZCCHC6	ZCCHC6	zinc finger, CCHC domain containing 6	7592	-0.1774139702320099	0.25957868	No	
+row_16	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	0.25213948	No	

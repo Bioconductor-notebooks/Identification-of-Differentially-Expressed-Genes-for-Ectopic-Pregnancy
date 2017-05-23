@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SCARB1	SCARB1	scavenger receptor class B, member 1	493	0.6286409497261047	0.06080226	Yes	
+row_1	PLTP	PLTP	phospholipid transfer protein	551	0.6088070869445801	0.1583763	Yes	
+row_2	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	603	0.5916893482208252	0.25361153	Yes	
+row_3	APOC2	APOC2	apolipoprotein C-II	659	0.5707862973213196	0.34494844	Yes	
+row_4	SAR1B	SAR1B	SAR1 gene homolog B (S. cerevisiae)	662	0.5693963170051575	0.4409277	Yes	
+row_5	APOA2	APOA2	apolipoprotein A-II	1250	0.43804821372032166	0.4608914	Yes	
+row_6	P4HB	P4HB	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide	1268	0.43510115146636963	0.53280973	Yes	
+row_7	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	1313	0.42639338970184326	0.60077286	Yes	
+row_8	LCAT	LCAT	lecithin-cholesterol acyltransferase	1573	0.38383859395980835	0.6417644	Yes	
+row_9	CUBN	CUBN	cubilin (intrinsic factor-cobalamin receptor)	1701	0.3638492524623871	0.6915269	Yes	
+row_10	BMP1	BMP1	bone morphogenetic protein 1	1837	0.3426437973976135	0.73697186	Yes	
+row_11	ABCG1	ABCG1	ATP-binding cassette, sub-family G (WHITE), member 1	4158	0.10612069070339203	0.54140383	No	
+row_12	LPA	LPA	lipoprotein, Lp(a)	4380	0.08720764517784119	0.5357952	No	
+row_13	SDC1	SDC1	syndecan 1	4950	0.039749324321746826	0.49014798	No	
+row_14	LIPC	LIPC	lipase, hepatic	6304	-0.06805260479450226	0.37713575	No	
+row_15	CETP	CETP	cholesteryl ester transfer protein, plasma	6965	-0.1238422691822052	0.33731672	No	
+row_16	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	7147	-0.1369704306125641	0.34379324	No	

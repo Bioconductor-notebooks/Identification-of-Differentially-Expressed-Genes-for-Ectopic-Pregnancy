@@ -1,0 +1,74 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GATM	GATM	glycine amidinotransferase (L-arginine:glycine amidinotransferase)	57	0.9176197052001953	0.032526623	No	
+row_1	CRTAM	CRTAM	cytotoxic and regulatory T cell molecule	78	0.8803237676620483	0.06693938	No	
+row_2	PLSCR4	PLSCR4	phospholipid scramblase 4	138	0.813706636428833	0.095000565	No	
+row_3	GABRA1	GABRA1	gamma-aminobutyric acid (GABA) A receptor, alpha 1	253	0.7301503419876099	0.114532456	No	
+row_4	CRYAB	CRYAB	crystallin, alpha B	300	0.703855574131012	0.13927108	No	
+row_5	MAFB	MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)	393	0.6609540581703186	0.15798756	No	
+row_6	VIPR2	VIPR2	vasoactive intestinal peptide receptor 2	506	0.6239373087882996	0.17332928	No	
+row_7	SORBS1	SORBS1	sorbin and SH3 domain containing 1	507	0.623578667640686	0.19901602	No	
+row_8	SLC12A3	SLC12A3	solute carrier family 12 (sodium/chloride transporters), member 3	1026	0.4850200414657593	0.17108104	No	
+row_9	GABRR2	GABRR2	gamma-aminobutyric acid (GABA) receptor, rho 2	1331	0.4235195517539978	0.16040735	No	
+row_10	PNMA2	PNMA2	paraneoplastic antigen MA2	1647	0.37313780188560486	0.14664084	No	
+row_11	NDN	NDN	necdin homolog (mouse)	1686	0.3668576776981354	0.15823768	No	
+row_12	ST3GAL6	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6	1695	0.3645269274711609	0.17251346	No	
+row_13	RTN1	RTN1	reticulon 1	1709	0.36302822828292847	0.186265	No	
+row_14	SLC1A3	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3	1785	0.3504142463207245	0.19376206	No	
+row_15	GPNMB	GPNMB	glycoprotein (transmembrane) nmb	1982	0.3254634439945221	0.18903902	No	
+row_16	GPR37	GPR37	G protein-coupled receptor 37 (endothelin receptor type B-like)	2110	0.3129073977470398	0.19018117	No	
+row_17	GPM6A	GPM6A	glycoprotein M6A	2336	0.2875578701496124	0.18121424	No	
+row_18	NEBL	NEBL	nebulette	2443	0.2756173014640808	0.18276279	No	
+row_19	OCLM	OCLM	oculomedin	2506	0.26785871386528015	0.18806164	No	
+row_20	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	0.19607687	No	
+row_21	NMNAT2	NMNAT2	nicotinamide nucleotide adenylyltransferase 2	2696	0.24542351067066193	0.19166422	No	
+row_22	SLC12A5	SLC12A5	solute carrier family 12, (potassium-chloride transporter) member 5	2741	0.24007052183151245	0.19748339	No	
+row_23	DUSP6	DUSP6	dual specificity phosphatase 6	2828	0.23005008697509766	0.19900487	No	
+row_24	GCGR	GCGR	glucagon receptor	3074	0.20408344268798828	0.18474947	No	
+row_25	RIT2	RIT2	Ras-like without CAAX 2	3081	0.20300212502479553	0.19255663	No	
+row_26	EPB41L3	EPB41L3	erythrocyte membrane protein band 4.1-like 3	3183	0.19343958795070648	0.19118255	No	
+row_27	GRIK2	GRIK2	glutamate receptor, ionotropic, kainate 2	4119	0.10950788110494614	0.10920747	No	
+row_28	SLC6A15	SLC6A15	solute carrier family 6, member 15	4664	0.06326640397310257	0.06149445	No	
+row_29	GAP43	GAP43	growth associated protein 43	5079	0.031057560816407204	0.024479458	No	
+row_30	PCDH9	PCDH9	protocadherin 9	5225	0.019681449979543686	0.0118779205	No	
+row_31	GABRB1	GABRB1	gamma-aminobutyric acid (GABA) A receptor, beta 1	5301	0.013918450102210045	0.0055138776	No	
+row_32	D4S234E	D4S234E	-	5473	7.294068927876651E-4	-0.0102733	No	
+row_33	CDR1	CDR1	cerebellar degeneration-related protein 1, 34kDa	5559	-0.00523504288867116	-0.017920017	No	
+row_34	DYNC1I1	DYNC1I1	dynein, cytoplasmic 1, intermediate chain 1	5689	-0.014355218969285488	-0.029260982	No	
+row_35	METTL7A	METTL7A	methyltransferase like 7A	5742	-0.019680080935359	-0.033260226	No	
+row_36	AQP4	AQP4	aquaporin 4	5790	-0.02423577755689621	-0.036609318	No	
+row_37	PLP1	PLP1	proteolipid protein 1 (Pelizaeus-Merzbacher disease, spastic paraplegia 2, uncomplicated)	5800	-0.025269990786910057	-0.03640087	No	
+row_38	CA2	CA2	carbonic anhydrase II	5984	-0.041115280240774155	-0.051634435	No	
+row_39	DLGAP2	DLGAP2	discs, large (Drosophila) homolog-associated protein 2	6019	-0.044252634048461914	-0.052956503	No	
+row_40	HPCAL4	HPCAL4	hippocalcin like 4	6166	-0.05769656226038933	-0.064084604	No	
+row_41	GRM5	GRM5	glutamate receptor, metabotropic 5	6507	-0.0834270641207695	-0.09209748	No	
+row_42	GABRA5	GABRA5	gamma-aminobutyric acid (GABA) A receptor, alpha 5	6575	-0.0904398262500763	-0.09456944	No	
+row_43	EMP1	EMP1	epithelial membrane protein 1	6934	-0.12110865861177444	-0.122695096	No	
+row_44	AK5	AK5	adenylate kinase 5	7236	-0.14578618109226227	-0.14453182	No	
+row_45	FZD3	FZD3	frizzled homolog 3 (Drosophila)	7273	-0.14973542094230652	-0.14169379	No	
+row_46	KIF5C	KIF5C	kinesin family member 5C	7464	-0.16601762175559998	-0.15242979	No	
+row_47	NRCAM	NRCAM	neuronal cell adhesion molecule	7536	-0.17221462726593018	-0.15190323	No	
+row_48	DNM3	DNM3	dynamin 3	7583	-0.1762765347957611	-0.14889689	No	
+row_49	ANK2	ANK2	ankyrin 2, neuronal	7769	-0.19460435211658478	-0.15799285	No	
+row_50	LMO3	LMO3	LIM domain only 3 (rhombotin-like 2)	7800	-0.19754084944725037	-0.15263061	No	
+row_51	ESRRG	ESRRG	estrogen-related receptor gamma	7890	-0.20501823723316193	-0.15241776	No	
+row_52	GPR19	GPR19	G protein-coupled receptor 19	7959	-0.21127581596374512	-0.15000467	No	
+row_53	MAP7	MAP7	microtubule-associated protein 7	8395	-0.25732243061065674	-0.17964172	No	
+row_54	NME5	NME5	non-metastatic cells 5, protein expressed in (nucleoside-diphosphate kinase)	8428	-0.26154813170433044	-0.17182785	No	
+row_55	PMP2	PMP2	peripheral myelin protein 2	8457	-0.26443779468536377	-0.16352496	No	
+row_56	GAD1	GAD1	glutamate decarboxylase 1 (brain, 67kDa)	8983	-0.32616856694221497	-0.19865091	No	
+row_57	SEPP1	SEPP1	selenoprotein P, plasma, 1	9167	-0.3475307822227478	-0.20126246	No	
+row_58	TRIM2	TRIM2	tripartite motif-containing 2	9206	-0.3524317145347595	-0.19025987	No	
+row_59	ZNF536	ZNF536	zinc finger protein 536	9286	-0.35961949825286865	-0.18275362	No	
+row_60	SFRP1	SFRP1	secreted frizzled-related protein 1	9957	-0.46403640508651733	-0.22561273	Yes	
+row_61	NRXN1	NRXN1	neurexin 1	9970	-0.4662874639034271	-0.20751517	Yes	
+row_62	GPRC5B	GPRC5B	G protein-coupled receptor, family C, group 5, member B	10057	-0.4834980070590973	-0.19555356	Yes	
+row_63	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	10085	-0.49116864800453186	-0.17781855	Yes	
+row_64	KCNA5	KCNA5	potassium voltage-gated channel, shaker-related subfamily, member 5	10089	-0.4915582239627838	-0.15784754	Yes	
+row_65	ANK3	ANK3	ankyrin 3, node of Ranvier (ankyrin G)	10163	-0.5103659629821777	-0.14357668	Yes	
+row_66	PEG3	PEG3	paternally expressed 3	10176	-0.5135236978530884	-0.12353335	Yes	
+row_67	NUDT11	NUDT11	nudix (nucleoside diphosphate linked moiety X)-type motif 11	10579	-0.6329054832458496	-0.13464676	Yes	
+row_68	XK	XK	X-linked Kx blood group (McLeod syndrome)	10617	-0.6488521099090576	-0.11134137	Yes	
+row_69	FGF9	FGF9	fibroblast growth factor 9 (glia-activating factor)	10644	-0.6608180403709412	-0.0865256	Yes	
+row_70	HEY1	HEY1	hairy/enhancer-of-split related with YRPW motif 1	10691	-0.6892940402030945	-0.06238679	Yes	
+row_71	ETV1	ETV1	ets variant gene 1	10760	-0.7522334456443787	-0.03769032	Yes	
+row_72	TRIM9	TRIM9	tripartite motif-containing 9	10880	-1.1889296770095825	2.7733517E-4	Yes	

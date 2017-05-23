@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FLOT1	FLOT1	flotillin 1	43	0.9407327771186829	0.15639643	Yes	
+row_1	MOCS2	MOCS2	molybdenum cofactor synthesis 2	287	0.7115734219551086	0.2553252	Yes	
+row_2	CYP4B1	CYP4B1	cytochrome P450, family 4, subfamily B, polypeptide 1	882	0.5140520930290222	0.28828263	Yes	
+row_3	CDIPT	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase (phosphatidylinositol synthase)	993	0.49229180812835693	0.3620735	Yes	
+row_4	RPN2	RPN2	ribophorin II	1235	0.44221407175064087	0.41527238	Yes	
+row_5	KIAA1033	KIAA1033	KIAA1033	1514	0.3934532105922699	0.45675454	Yes	
+row_6	PRKACG	PRKACG	protein kinase, cAMP-dependent, catalytic, gamma	2654	0.25039905309677124	0.39461422	No	
+row_7	SAMSN1	SAMSN1	SAM domain, SH3 domain and nuclear localisation signals, 1	2957	0.21581324934959412	0.40360782	No	
+row_8	FAM45A	FAM45A	family with sequence similarity 45, member A	3425	0.17014813423156738	0.38963252	No	
+row_9	GLTSCR1	GLTSCR1	glioma tumor suppressor candidate region gene 1	3675	0.1481829434633255	0.3919757	No	
+row_10	CNP	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase	3718	0.14358709752559662	0.41258577	No	
+row_11	LLGL1	LLGL1	lethal giant larvae homolog 1 (Drosophila)	3979	0.12070821225643158	0.40923336	No	
+row_12	MYLK	MYLK	myosin, light chain kinase	4231	0.09968674182891846	0.40312603	No	
+row_13	ARHGEF10	ARHGEF10	Rho guanine nucleotide exchange factor (GEF) 10	5532	-0.0036471134517341852	0.28410846	No	
+row_14	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	6469	-0.08030635863542557	0.21165693	No	
+row_15	CAMK4	CAMK4	calcium/calmodulin-dependent protein kinase IV	7092	-0.1330816149711609	0.17709874	No	
+row_16	RAB40C	RAB40C	RAB40C, member RAS oncogene family	9260	-0.3578585088253021	0.038668536	No	
+row_17	TEAD1	TEAD1	TEA domain family member 1 (SV40 transcriptional enhancer factor)	10618	-0.6488728523254395	0.024387984	No	

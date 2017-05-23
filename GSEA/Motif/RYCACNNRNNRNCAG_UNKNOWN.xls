@@ -1,0 +1,40 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TSC22D3	TSC22D3	TSC22 domain family, member 3	0	1.2732816934585571	0.09081242	Yes	
+row_1	SEMA3A	SEMA3A	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5	1.1696295738220215	0.17386338	Yes	
+row_2	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	245	0.7341944575309753	0.20418946	Yes	
+row_3	CHRDL1	CHRDL1	chordin-like 1	294	0.7080586552619934	0.2502633	Yes	
+row_4	FLYWCH1	FLYWCH1	FLYWCH-type zinc finger 1	706	0.5542598962783813	0.25189632	Yes	
+row_5	KRT73	KRT73	keratin 73	711	0.5532039999961853	0.29098284	Yes	
+row_6	FYB	FYB	FYN binding protein (FYB-120/130)	728	0.5495132207870483	0.32869965	Yes	
+row_7	PBXIP1	PBXIP1	pre-B-cell leukemia transcription factor interacting protein 1	894	0.51259845495224	0.35004458	Yes	
+row_8	BLOC1S1	BLOC1S1	biogenesis of lysosome-related organelles complex-1, subunit 1	1149	0.4612685441970825	0.359522	Yes	
+row_9	NEUROD2	NEUROD2	neurogenic differentiation 2	1806	0.3465253710746765	0.32374805	No	
+row_10	WNT10B	WNT10B	wingless-type MMTV integration site family, member 10B	1866	0.33862656354904175	0.3424591	No	
+row_11	SP8	SP8	Sp8 transcription factor	2225	0.30045074224472046	0.33087713	No	
+row_12	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	0.3209506	No	
+row_13	ACCN2	ACCN2	amiloride-sensitive cation channel 2, neuronal	3344	0.17858287692070007	0.25945964	No	
+row_14	PHLDB1	PHLDB1	pleckstrin homology-like domain, family B, member 1	3757	0.1398499459028244	0.2314441	No	
+row_15	LEMD2	LEMD2	LEM domain containing 2	4399	0.08418542146682739	0.17834276	No	
+row_16	PLXNA2	PLXNA2	plexin A2	4706	0.06012961268424988	0.15441553	No	
+row_17	SOX12	SOX12	SRY (sex determining region Y)-box 12	4905	0.04302087053656578	0.13922659	No	
+row_18	PLEKHA6	PLEKHA6	pleckstrin homology domain containing, family A member 6	4954	0.039517734199762344	0.13761905	No	
+row_19	STARD13	STARD13	START domain containing 13	5316	0.012723112478852272	0.10523925	No	
+row_20	NR5A1	NR5A1	nuclear receptor subfamily 5, group A, member 1	5439	0.003458710154518485	0.09423651	No	
+row_21	TLE3	TLE3	transducin-like enhancer of split 3 (E(sp1) homolog, Drosophila)	5774	-0.022872697561979294	0.06507022	No	
+row_22	RHOF	RHOF	ras homolog gene family, member F (in filopodia)	6260	-0.06482724845409393	0.024972731	No	
+row_23	LDB2	LDB2	LIM domain binding 2	6379	-0.0734785869717598	0.019332748	No	
+row_24	ARTN	ARTN	artemin	6606	-0.09267784655094147	0.005103578	No	
+row_25	SLC25A4	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	6644	-0.09614712744951248	0.008549229	No	
+row_26	PDZD2	PDZD2	PDZ domain containing 2	7005	-0.12661509215831757	-0.015615408	No	
+row_27	FRMD4A	FRMD4A	FERM domain containing 4A	7652	-0.1832592934370041	-0.062111694	No	
+row_28	ITSN2	ITSN2	intersectin 2	7741	-0.19218721985816956	-0.056518942	No	
+row_29	NPFF	NPFF	neuropeptide FF-amide peptide precursor	8514	-0.270222008228302	-0.10843117	No	
+row_30	DLGAP4	DLGAP4	discs, large (Drosophila) homolog-associated protein 4	8861	-0.31098225712776184	-0.11815554	No	
+row_31	TPM3	TPM3	tropomyosin 3	9623	-0.41010966897010803	-0.15907647	No	
+row_32	EGR3	EGR3	early growth response 3	9717	-0.4243769645690918	-0.13738462	No	
+row_33	UPK2	UPK2	uroplakin 2	9724	-0.4250020980834961	-0.10762607	No	
+row_34	NIPBL	NIPBL	Nipped-B homolog (Drosophila)	9728	-0.4256017804145813	-0.077548124	No	
+row_35	CPNE1	CPNE1	copine I	10077	-0.4887596368789673	-0.07477755	No	
+row_36	ELMO3	ELMO3	engulfment and cell motility 3	10408	-0.572888970375061	-0.06434699	No	
+row_37	FBXO11	FBXO11	F-box protein 11	10733	-0.7236104607582092	-0.0426135	No	
+row_38	H2AFY	H2AFY	H2A histone family, member Y	10799	-0.7901180982589722	0.0077454015	No	

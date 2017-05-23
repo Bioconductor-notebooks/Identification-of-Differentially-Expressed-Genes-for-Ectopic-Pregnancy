@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HK2	HK2	hexokinase 2	1842	0.3422086834907532	-0.09776155	No	
+row_1	EXOSC5	EXOSC5	exosome component 5	1977	0.3257485032081604	-0.041814517	No	
+row_2	PRMT3	PRMT3	protein arginine methyltransferase 3	2136	0.3095373809337616	0.008526343	No	
+row_3	NOC4L	NOC4L	nucleolar complex associated 4 homolog (S. cerevisiae)	2274	0.29523375630378723	0.05780145	No	
+row_4	PLK4	PLK4	polo-like kinase 4 (Drosophila)	4936	0.040739960968494415	-0.17850673	No	
+row_5	PA2G4	PA2G4	proliferation-associated 2G4, 38kDa	4972	0.038445692509412766	-0.17366898	No	
+row_6	RABEPK	RABEPK	Rab9 effector protein with kelch motifs	5893	-0.0329306535422802	-0.25141892	No	
+row_7	TFB2M	TFB2M	transcription factor B2, mitochondrial	6056	-0.047420255839824677	-0.2563858	No	
+row_8	RCL1	RCL1	RNA terminal phosphate cyclase-like 1	6416	-0.07664832472801208	-0.27335307	No	
+row_9	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	7765	-0.19411583244800568	-0.3567003	No	
+row_10	WDR74	WDR74	WD repeat domain 74	9055	-0.3343343436717987	-0.405229	Yes	
+row_11	MYBBP1A	MYBBP1A	MYB binding protein (P160) 1a	9789	-0.4369986355304718	-0.3810799	Yes	
+row_12	LAS1L	LAS1L	LAS1-like (S. cerevisiae)	10118	-0.49705958366394043	-0.3070767	Yes	
+row_13	SLC19A1	SLC19A1	solute carrier family 19 (folate transporter), member 1	10156	-0.5076992511749268	-0.20406753	Yes	
+row_14	IPO4	IPO4	importin 4	10607	-0.6447045207023621	-0.11034358	Yes	
+row_15	DDX18	DDX18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	10613	-0.6471725106239319	0.024843544	Yes	

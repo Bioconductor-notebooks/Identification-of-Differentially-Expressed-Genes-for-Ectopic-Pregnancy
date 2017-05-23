@@ -1,0 +1,70 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HGS	HGS	hepatocyte growth factor-regulated tyrosine kinase substrate	699	0.557640016078949	-0.03834052	No	
+row_1	PACS2	PACS2	phosphofurin acidic cluster sorting protein 2	730	0.549237847328186	-0.015218659	No	
+row_2	EXOC5	EXOC5	exocyst complex component 5	1041	0.48084452748298645	-0.021211414	No	
+row_3	RABGEF1	RABGEF1	RAB guanine nucleotide exchange factor (GEF) 1	1079	0.47551077604293823	-0.0022129284	No	
+row_4	ANKRD12	ANKRD12	ankyrin repeat domain 12	1093	0.4717977046966553	0.01882963	No	
+row_5	DHX36	DHX36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	1254	0.4376438856124878	0.024669653	No	
+row_6	AAAS	AAAS	achalasia, adrenocortical insufficiency, alacrimia (Allgrove, triple-A)	2659	0.2499682754278183	-0.093364395	No	
+row_7	MTMR7	MTMR7	myotubularin related protein 7	2748	0.23912115395069122	-0.090227015	No	
+row_8	MTMR3	MTMR3	myotubularin related protein 3	3349	0.17797426879405975	-0.13731429	No	
+row_9	ASB3	ASB3	ankyrin repeat and SOCS box-containing 3	3818	0.13460664451122284	-0.174241	No	
+row_10	NF2	NF2	neurofibromin 2 (bilateral acoustic neuroma)	3952	0.12319538742303848	-0.18073025	No	
+row_11	ZBED1	ZBED1	zinc finger, BED-type containing 1	4020	0.1180584579706192	-0.18135907	No	
+row_12	DYNC1I2	DYNC1I2	dynein, cytoplasmic 1, intermediate chain 2	4283	0.09596813470125198	-0.20105991	No	
+row_13	ZFAND5	ZFAND5	zinc finger, AN1-type domain 5	4382	0.08694957196712494	-0.20602186	No	
+row_14	SLC41A3	SLC41A3	solute carrier family 41, member 3	4445	0.08068840950727463	-0.2079503	No	
+row_15	CLK4	CLK4	CDC-like kinase 4	4635	0.06580311059951782	-0.22232349	No	
+row_16	OTUD6B	OTUD6B	OTU domain containing 6B	4812	0.051041703671216965	-0.23619065	No	
+row_17	COMMD9	COMMD9	COMM domain containing 9	4979	0.037829264998435974	-0.2497561	No	
+row_18	PHF2	PHF2	PHD finger protein 2	5174	0.023453999310731888	-0.26658833	No	
+row_19	TBC1D22B	TBC1D22B	TBC1 domain family, member 22B	5255	0.017856460064649582	-0.27314356	No	
+row_20	ZNF292	ZNF292	zinc finger protein 292	6234	-0.06226149946451187	-0.36063796	No	
+row_21	TAF9B	TAF9B	TAF9B RNA polymerase II, TATA box binding protein (TBP)-associated factor, 31kDa	6444	-0.07815385609865189	-0.37627813	No	
+row_22	MLL	MLL	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila)	6455	-0.07908690720796585	-0.37347394	No	
+row_23	NUP133	NUP133	nucleoporin 133kDa	6487	-0.08183037489652634	-0.37248215	No	
+row_24	WDR19	WDR19	WD repeat domain 19	6496	-0.08246926218271255	-0.36933357	No	
+row_25	ZNF529	ZNF529	zinc finger protein 529	6685	-0.0994117483496666	-0.38202968	No	
+row_26	TNPO2	TNPO2	transportin 2 (importin 3, karyopherin beta 2b)	6744	-0.10472019016742706	-0.3824552	No	
+row_27	SUFU	SUFU	suppressor of fused homolog (Drosophila)	7186	-0.1402892917394638	-0.41661745	No	
+row_28	RPL7L1	RPL7L1	ribosomal protein L7-like 1	7395	-0.1595582365989685	-0.42832708	No	
+row_29	MAEA	MAEA	macrophage erythroblast attacher	7631	-0.18119171261787415	-0.4415132	No	
+row_30	SIN3A	SIN3A	SIN3 homolog A, transcription regulator (yeast)	7700	-0.18813608586788177	-0.43893042	No	
+row_31	PAFAH1B2	PAFAH1B2	platelet-activating factor acetylhydrolase, isoform Ib, beta subunit 30kDa	7777	-0.19530731439590454	-0.43674925	No	
+row_32	OCIAD1	OCIAD1	OCIA domain containing 1	7911	-0.2074609249830246	-0.4392655	No	
+row_33	PCF11	PCF11	PCF11, cleavage and polyadenylation factor subunit, homolog (S. cerevisiae)	7915	-0.20784445106983185	-0.42974332	No	
+row_34	SH2B1	SH2B1	SH2B adaptor protein 1	8031	-0.2177485078573227	-0.43011016	No	
+row_35	SLC25A29	SLC25A29	solute carrier family 25, member 29	8097	-0.22507496178150177	-0.42550835	No	
+row_36	IQCK	IQCK	IQ motif containing K	8291	-0.24409984052181244	-0.43184498	No	
+row_37	ING4	ING4	inhibitor of growth family, member 4	8574	-0.27693459391593933	-0.4448628	Yes	
+row_38	PRDM4	PRDM4	PR domain containing 4	8601	-0.2800599932670593	-0.43406245	Yes	
+row_39	SMG1	SMG1	-	8604	-0.2802102565765381	-0.42103586	Yes	
+row_40	INTS5	INTS5	integrator complex subunit 5	8619	-0.28175732493400574	-0.4090459	Yes	
+row_41	PKNOX1	PKNOX1	PBX/knotted 1 homeobox 1	8639	-0.2844325602054596	-0.39739212	Yes	
+row_42	VPS53	VPS53	vacuolar protein sorting 53 (S. cerevisiae)	8670	-0.28898873925209045	-0.38654065	Yes	
+row_43	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	8737	-0.29685360193252563	-0.37864706	Yes	
+row_44	LOC92249	LOC92249	-	8750	-0.2987731695175171	-0.36566988	Yes	
+row_45	GPBP1	GPBP1	GC-rich promoter binding protein 1	8841	-0.30847445130348206	-0.35944754	Yes	
+row_46	MORF4L1	MORF4L1	mortality factor 4 like 1	8862	-0.31103456020355225	-0.34663197	Yes	
+row_47	RBM4B	RBM4B	RNA binding motif protein 4B	9039	-0.3327674865722656	-0.34721616	Yes	
+row_48	PTCD3	PTCD3	Pentatricopeptide repeat domain 3	9218	-0.35400035977363586	-0.34698415	Yes	
+row_49	MARCH7	MARCH7	membrane-associated ring finger (C3HC4) 7	9394	-0.3740195333957672	-0.3455309	Yes	
+row_50	FNTB	FNTB	farnesyltransferase, CAAX box, beta	9705	-0.4220741391181946	-0.3542946	Yes	
+row_51	PRKRA	PRKRA	protein kinase, interferon-inducible double stranded RNA dependent activator	9814	-0.44132739305496216	-0.34347278	Yes	
+row_52	TMEM106B	TMEM106B	transmembrane protein 106B	9821	-0.4423271417617798	-0.32317245	Yes	
+row_53	ZNF274	ZNF274	zinc finger protein 274	9841	-0.44686955213546753	-0.30386	Yes	
+row_54	RNF8	RNF8	ring finger protein 8	9975	-0.4678509533405304	-0.29409924	Yes	
+row_55	CS	CS	citrate synthase	9995	-0.4717693328857422	-0.2736128	Yes	
+row_56	UPF3A	UPF3A	UPF3 regulator of nonsense transcripts homolog A (yeast)	10029	-0.4785469174385071	-0.2541013	Yes	
+row_57	EPM2AIP1	EPM2AIP1	EPM2A (laforin) interacting protein 1	10091	-0.4919567406177521	-0.23654656	Yes	
+row_58	GSPT1	GSPT1	G1 to S phase transition 1	10208	-0.5198054909706116	-0.22276431	Yes	
+row_59	NCOA5	NCOA5	nuclear receptor coactivator 5	10213	-0.5210487842559814	-0.19856745	Yes	
+row_60	TTC17	TTC17	tetratricopeptide repeat domain 17	10244	-0.5280519127845764	-0.17644449	Yes	
+row_61	ZNF84	ZNF84	zinc finger protein 84	10261	-0.5318869948387146	-0.15284619	Yes	
+row_62	ANKRD10	ANKRD10	ankyrin repeat domain 10	10354	-0.5578363537788391	-0.1350517	Yes	
+row_63	THUMPD1	THUMPD1	THUMP domain containing 1	10365	-0.5594815611839294	-0.10959758	Yes	
+row_64	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	10414	-0.57424396276474	-0.08696107	Yes	
+row_65	BAHD1	BAHD1	bromo adjacent homology domain containing 1	10525	-0.6054478883743286	-0.06858612	Yes	
+row_66	TNPO1	TNPO1	transportin 1	10566	-0.624232292175293	-0.042853016	Yes	
+row_67	CASP2	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	10742	-0.7313997745513916	-0.024549782	Yes	
+row_68	MTPN	MTPN	myotrophin	10802	-0.7952473759651184	0.007489617	Yes	

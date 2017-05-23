@@ -1,0 +1,51 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LY96	LY96	lymphocyte antigen 96	264	0.7224982976913452	0.024851073	Yes	
+row_1	NAGK	NAGK	N-acetylglucosamine kinase	272	0.7189009189605713	0.0731787	Yes	
+row_2	STX11	STX11	syntaxin 11	394	0.6607995629310608	0.10702585	Yes	
+row_3	S100A4	S100A4	S100 calcium binding protein A4	871	0.5162599682807922	0.09825931	Yes	
+row_4	PILRA	PILRA	paired immunoglobin-like type 2 receptor alpha	887	0.5136489272117615	0.13186611	Yes	
+row_5	LILRB1	LILRB1	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 1	1001	0.4909232258796692	0.15487918	Yes	
+row_6	LILRA6	LILRA6	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 6	1008	0.4901025593280792	0.18771267	Yes	
+row_7	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1183	0.4526088535785675	0.20248522	Yes	
+row_8	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.22524087	Yes	
+row_9	UBE2D1	UBE2D1	ubiquitin-conjugating enzyme E2D 1 (UBC4/5 homolog, yeast)	1393	0.4137573540210724	0.24124344	Yes	
+row_10	RHOG	RHOG	ras homolog gene family, member G (rho G)	1417	0.4097974896430969	0.26703715	Yes	
+row_11	EVI2B	EVI2B	ecotropic viral integration site 2B	1425	0.4087713956832886	0.2942378	Yes	
+row_12	CTSS	CTSS	cathepsin S	1506	0.3941039443016052	0.3137012	Yes	
+row_13	IFNGR1	IFNGR1	interferon gamma receptor 1	1550	0.3873807489871979	0.3361218	Yes	
+row_14	CPVL	CPVL	carboxypeptidase, vitellogenic-like	1598	0.38126274943351746	0.35775638	Yes	
+row_15	AIF1	AIF1	allograft inflammatory factor 1	1618	0.37762677669525146	0.38172776	Yes	
+row_16	CD93	CD93	CD93 molecule	1664	0.3711540997028351	0.40285832	Yes	
+row_17	IGSF6	IGSF6	immunoglobulin superfamily, member 6	1741	0.3573460876941681	0.42018688	Yes	
+row_18	TBXAS1	TBXAS1	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)	1776	0.35147902369499207	0.44099244	Yes	
+row_19	DPYD	DPYD	dihydropyrimidine dehydrogenase	1861	0.33891215920448303	0.4563268	Yes	
+row_20	FGR	FGR	Gardner-Rasheed feline sarcoma viral (v-fgr) oncogene homolog	1893	0.3355385959148407	0.47632337	Yes	
+row_21	HCK	HCK	hemopoietic cell kinase	1901	0.33418676257133484	0.49844307	Yes	
+row_22	CLEC4A	CLEC4A	C-type lectin domain family 4, member A	2096	0.31483158469200134	0.50198376	Yes	
+row_23	ITGAX	ITGAX	integrin, alpha X (complement component 3 receptor 4 subunit)	2406	0.2796320617198944	0.49251184	Yes	
+row_24	LILRA2	LILRA2	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 2	2449	0.2753489911556244	0.50739276	Yes	
+row_25	TREM1	TREM1	triggering receptor expressed on myeloid cells 1	2475	0.2709709107875824	0.5235446	Yes	
+row_26	COTL1	COTL1	coactosin-like 1 (Dictyostelium)	2658	0.2500203251838684	0.5237778	Yes	
+row_27	MS4A6A	MS4A6A	membrane-spanning 4-domains, subfamily A, member 6A	2749	0.2390880286693573	0.531758	Yes	
+row_28	LILRB2	LILRB2	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 2	2762	0.23737624287605286	0.5468212	Yes	
+row_29	SLC7A7	SLC7A7	solute carrier family 7 (cationic amino acid transporter, y+ system), member 7	2779	0.23556073009967804	0.5613915	Yes	
+row_30	DPEP2	DPEP2	dipeptidase 2	2792	0.2341819703578949	0.576237	Yes	
+row_31	STXBP2	STXBP2	syntaxin binding protein 2	2887	0.22368963062763214	0.5827991	Yes	
+row_32	NCF2	NCF2	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)	3066	0.20484659075737	0.5803241	No	
+row_33	GMIP	GMIP	GEM interacting protein	3467	0.16683240234851837	0.55476844	No	
+row_34	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	4619	0.066714346408844	0.45307362	No	
+row_35	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.43382472	No	
+row_36	LILRA1	LILRA1	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 1	4932	0.041040629148483276	0.430344	No	
+row_37	LST1	LST1	leukocyte specific transcript 1	5090	0.030134279280900955	0.41790542	No	
+row_38	APOBEC3A	APOBEC3A	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3A	5571	-0.005691090133041143	0.37398815	No	
+row_39	TMEM127	TMEM127	transmembrane protein 127	5612	-0.00914919376373291	0.37091932	No	
+row_40	CLEC7A	CLEC7A	C-type lectin domain family 7, member A	5868	-0.030917491763830185	0.3494885	No	
+row_41	FCGR2A	FCGR2A	Fc fragment of IgG, low affinity IIa, receptor (CD32)	6081	-0.04930669814348221	0.3332794	No	
+row_42	LILRA5	LILRA5	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 5	6267	-0.06506279110908508	0.32063583	No	
+row_43	CFP	CFP	complement factor properdin	6440	-0.07789922505617142	0.3100666	No	
+row_44	RNF130	RNF130	ring finger protein 130	6490	-0.08215498179197311	0.31114045	No	
+row_45	CECR1	CECR1	cat eye syndrome chromosome region, candidate 1	6845	-0.1136077344417572	0.28620484	No	
+row_46	AP1S2	AP1S2	adaptor-related protein complex 1, sigma 2 subunit	6996	-0.12589934468269348	0.28093618	No	
+row_47	LILRA3	LILRA3	leukocyte immunoglobulin-like receptor, subfamily A (without TM domain), member 3	7457	-0.165137380361557	0.24972694	No	
+row_48	FRAT1	FRAT1	frequently rearranged in advanced T-cell lymphomas	9797	-0.4383038580417633	0.06369113	No	
+row_49	CMTM6	CMTM6	CKLF-like MARVEL transmembrane domain containing 6	10271	-0.5351582169532776	0.056488905	No	

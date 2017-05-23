@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HDAC4	HDAC4	histone deacetylase 4	631	0.5815766453742981	0.014214818	No	
+row_1	SOX4	SOX4	SRY (sex determining region Y)-box 4	1436	0.406953901052475	-0.00921746	No	
+row_2	ATG5	ATG5	ATG5 autophagy related 5 homolog (S. cerevisiae)	1879	0.3368379473686218	-0.008032768	No	
+row_3	PPP2R5A	PPP2R5A	protein phosphatase 2, regulatory subunit B (B56), alpha isoform	2536	0.2642098069190979	-0.035587072	No	
+row_4	RAP2C	RAP2C	RAP2C, member of RAS oncogene family	2983	0.2132733166217804	-0.0501369	No	
+row_5	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	3380	0.17508181929588318	-0.064831644	No	
+row_6	INPP5A	INPP5A	inositol polyphosphate-5-phosphatase, 40kDa	3612	0.1532718390226364	-0.06704385	No	
+row_7	HSPA2	HSPA2	heat shock 70kDa protein 2	3902	0.12668485939502716	-0.07790353	No	
+row_8	TCEAL8	TCEAL8	transcription elongation factor A (SII)-like 8	4791	0.05243595317006111	-0.15315822	No	
+row_9	MYF6	MYF6	myogenic factor 6 (herculin)	4872	0.045716989785432816	-0.15484014	No	
+row_10	CNOT3	CNOT3	CCR4-NOT transcription complex, subunit 3	6163	-0.0571303591132164	-0.26653102	No	
+row_11	DLX2	DLX2	distal-less homeobox 2	6774	-0.10730090737342834	-0.309362	No	
+row_12	PURB	PURB	purine-rich element binding protein B	6968	-0.12399683892726898	-0.31171536	No	
+row_13	GOLGA1	GOLGA1	golgi autoantigen, golgin subfamily a, 1	7293	-0.1511877477169037	-0.32275105	No	
+row_14	NAV3	NAV3	neuron navigator 3	8887	-0.31391456723213196	-0.43041208	Yes	
+row_15	PUM2	PUM2	pumilio homolog 2 (Drosophila)	9127	-0.3434589207172394	-0.40970984	Yes	
+row_16	RSBN1	RSBN1	round spermatid basic protein 1	9352	-0.36747539043426514	-0.38463965	Yes	
+row_17	PATZ1	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	9424	-0.3778258264064789	-0.3441926	Yes	
+row_18	ABCD3	ABCD3	ATP-binding cassette, sub-family D (ALD), member 3	9922	-0.4588797390460968	-0.33289605	Yes	
+row_19	CS	CS	citrate synthase	9995	-0.4717693328857422	-0.28085855	Yes	
+row_20	ZFX	ZFX	zinc finger protein, X-linked	10099	-0.4934338927268982	-0.22898164	Yes	
+row_21	SIAH1	SIAH1	seven in absentia homolog 1 (Drosophila)	10343	-0.5543144941329956	-0.18242635	Yes	
+row_22	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	-0.12129988	Yes	
+row_23	TNPO1	TNPO1	transportin 1	10566	-0.624232292175293	-0.051591735	Yes	
+row_24	TEAD1	TEAD1	TEA domain family member 1 (SV40 transcriptional enhancer factor)	10618	-0.6488728523254395	0.024403775	Yes	

@@ -1,0 +1,40 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WDR1	WDR1	WD repeat domain 1	447	0.6416806578636169	0.0083296755	No	
+row_1	ARPC3	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	632	0.5814533233642578	0.036259755	No	
+row_2	DDOST	DDOST	dolichyl-diphosphooligosaccharide-protein glycosyltransferase	2373	0.2826474905014038	-0.10235846	No	
+row_3	ATP5A1	ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	2811	0.2319898009300232	-0.12474064	No	
+row_4	BTF3	BTF3	basic transcription factor 3	3045	0.20682337880134583	-0.1302555	No	
+row_5	HINT1	HINT1	histidine triad nucleotide binding protein 1	3365	0.17649602890014648	-0.14604199	No	
+row_6	SNX3	SNX3	sorting nexin 3	3546	0.15928983688354492	-0.15034007	No	
+row_7	PTP4A2	PTP4A2	protein tyrosine phosphatase type IVA, member 2	5052	0.03331146016716957	-0.28654158	No	
+row_8	ERP29	ERP29	endoplasmic reticulum protein 29	5219	0.02002866379916668	-0.30030167	No	
+row_9	TROVE2	TROVE2	TROVE domain family, member 2	5738	-0.019290873780846596	-0.3465761	No	
+row_10	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	-0.34704477	No	
+row_11	BRD2	BRD2	bromodomain containing 2	5922	-0.03574179485440254	-0.35894614	No	
+row_12	RNPS1	RNPS1	RNA binding protein S1, serine-rich domain	6599	-0.09238248318433762	-0.41414577	No	
+row_13	MRPL9	MRPL9	mitochondrial ribosomal protein L9	6617	-0.09345978498458862	-0.40849692	No	
+row_14	NACA	NACA	nascent-polypeptide-associated complex alpha polypeptide	6699	-0.10015479475259781	-0.40823242	No	
+row_15	RPL22	RPL22	ribosomal protein L22	6939	-0.12176656723022461	-0.42086813	No	
+row_16	JTB	JTB	jumping translocation breakpoint	7437	-0.1628672182559967	-0.45412004	No	
+row_17	CCNI	CCNI	cyclin I	7850	-0.20202131569385529	-0.476511	No	
+row_18	DDX49	DDX49	DEAD (Asp-Glu-Ala-Asp) box polypeptide 49	8045	-0.21983741223812103	-0.47742486	No	
+row_19	RPS6	RPS6	ribosomal protein S6	8404	-0.25866106152534485	-0.49046317	Yes	
+row_20	ANAPC5	ANAPC5	anaphase promoting complex subunit 5	8506	-0.2691396474838257	-0.47899485	Yes	
+row_21	GNAS	GNAS	GNAS complex locus	8768	-0.2999297082424164	-0.47990242	Yes	
+row_22	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.48961118	Yes	
+row_23	NAP1L1	NAP1L1	nucleosome assembly protein 1-like 1	9271	-0.35899606347084045	-0.4715735	Yes	
+row_24	YBX1	YBX1	Y box binding protein 1	9293	-0.3600674867630005	-0.44570756	Yes	
+row_25	DAZAP2	DAZAP2	DAZ associated protein 2	9650	-0.4134434759616852	-0.44661006	Yes	
+row_26	USP22	USP22	ubiquitin specific peptidase 22	9746	-0.42780858278274536	-0.422337	Yes	
+row_27	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.40335816	Yes	
+row_28	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.3740126	Yes	
+row_29	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	10129	-0.5016360878944397	-0.34662083	Yes	
+row_30	ANP32B	ANP32B	acidic (leucine-rich) nuclear phosphoprotein 32 family, member B	10167	-0.5114414095878601	-0.31054202	Yes	
+row_31	DPF2	DPF2	D4, zinc and double PHD fingers family 2	10192	-0.5161388516426086	-0.2729018	Yes	
+row_32	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.23972669	Yes	
+row_33	SUMO2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10347	-0.5550322532653809	-0.20258728	Yes	
+row_34	PCBP2	PCBP2	poly(rC) binding protein 2	10360	-0.5586636662483215	-0.16055703	Yes	
+row_35	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	10414	-0.57424396276474	-0.12110432	Yes	
+row_36	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.08432038	Yes	
+row_37	RAB8A	RAB8A	RAB8A, member RAS oncogene family	10740	-0.7294350266456604	-0.047914688	Yes	
+row_38	H2AFY	H2AFY	H2A histone family, member Y	10799	-0.7901180982589722	0.007745522	Yes	

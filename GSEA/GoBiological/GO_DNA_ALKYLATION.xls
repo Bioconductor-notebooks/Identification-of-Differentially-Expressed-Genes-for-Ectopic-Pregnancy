@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HEMK1	HEMK1	HemK methyltransferase family member 1	568	0.6001912355422974	0.059479024	No	
+row_1	TDRD9	TDRD9	tudor domain containing 9	2452	0.2748580276966095	-0.06263682	No	
+row_2	MTRR	MTRR	5-methyltetrahydrofolate-homocysteine methyltransferase reductase	4748	0.05627953261137009	-0.26336718	No	
+row_3	GATAD2A	GATAD2A	GATA zinc finger domain containing 2A	6079	-0.04918317869305611	-0.37660968	No	
+row_4	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	-0.3679803	No	
+row_5	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	6219	-0.06098038703203201	-0.36868206	No	
+row_6	MLL	MLL	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila)	6455	-0.07908690720796585	-0.37558362	No	
+row_7	EHMT2	EHMT2	euchromatic histone-lysine N-methyltransferase 2	6755	-0.10582619160413742	-0.38339642	No	
+row_8	DNMT1	DNMT1	DNA (cytosine-5-)-methyltransferase 1	7560	-0.1738724261522293	-0.42501462	No	
+row_9	FKBP6	FKBP6	FK506 binding protein 6, 36kDa	8592	-0.27925586700439453	-0.4679019	Yes	
+row_10	GNAS	GNAS	GNAS complex locus	8768	-0.2999297082424164	-0.42816198	Yes	
+row_11	EHMT1	EHMT1	euchromatic histone-lysine N-methyltransferase 1	8922	-0.3183416724205017	-0.3829692	Yes	
+row_12	PRMT7	PRMT7	protein arginine methyltransferase 7	9644	-0.4131019115447998	-0.37240577	Yes	
+row_13	ATF7IP	ATF7IP	activating transcription factor 7 interacting protein	9951	-0.4625280201435089	-0.31444696	Yes	
+row_14	MLL5	MLL5	myeloid/lymphoid or mixed-lineage leukemia 5 (trithorax homolog, Drosophila)	10004	-0.4731179177761078	-0.23114067	Yes	
+row_15	DNMT3A	DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	10161	-0.5086221694946289	-0.15079485	Yes	
+row_16	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	10414	-0.57424396276474	-0.067065515	Yes	
+row_17	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	0.037180282	Yes	

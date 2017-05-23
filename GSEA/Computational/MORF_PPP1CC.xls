@@ -1,0 +1,89 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	508	0.6233882308006287	-0.024915129	No	
+row_1	DCTD	DCTD	dCMP deaminase	1377	0.4165244996547699	-0.09052261	No	
+row_2	IFRD1	IFRD1	interferon-related developmental regulator 1	1426	0.40863287448883057	-0.0804563	No	
+row_3	CLPP	CLPP	ClpP caseinolytic peptidase, ATP-dependent, proteolytic subunit homolog (E. coli)	1805	0.34656572341918945	-0.10316115	No	
+row_4	ESD	ESD	esterase D/formylglutathione hydrolase	2260	0.2967883050441742	-0.13467346	No	
+row_5	CCT5	CCT5	chaperonin containing TCP1, subunit 5 (epsilon)	2297	0.29237592220306396	-0.12762445	No	
+row_6	TREX2	TREX2	three prime repair exonuclease 2	2532	0.2644258439540863	-0.13990818	No	
+row_7	MYCBP2	MYCBP2	MYC binding protein 2	3046	0.20681580901145935	-0.18008082	No	
+row_8	GTF2A2	GTF2A2	general transcription factor IIA, 2, 12kDa	3458	0.1674680858850479	-0.21220292	No	
+row_9	DGUOK	DGUOK	deoxyguanosine kinase	3500	0.16326028108596802	-0.21020252	No	
+row_10	ESPL1	ESPL1	extra spindle poles like 1 (S. cerevisiae)	3634	0.1515258103609085	-0.21714053	No	
+row_11	PPIE	PPIE	peptidylprolyl isomerase E (cyclophilin E)	3816	0.13486802577972412	-0.22911622	No	
+row_12	G3BP2	G3BP2	-	4122	0.1091872826218605	-0.2534897	No	
+row_13	GARS	GARS	glycyl-tRNA synthetase	4417	0.08315463364124298	-0.2777688	No	
+row_14	KHSRP	KHSRP	KH-type splicing regulatory protein (FUSE binding protein 2)	4447	0.08061003684997559	-0.27759215	No	
+row_15	VDAC3	VDAC3	voltage-dependent anion channel 3	4451	0.08029729872941971	-0.2750183	No	
+row_16	DEAF1	DEAF1	deformed epidermal autoregulatory factor 1 (Drosophila)	4793	0.05225800722837448	-0.30474818	No	
+row_17	AASDHPPT	AASDHPPT	aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase	4981	0.037639159709215164	-0.32073265	No	
+row_18	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	5033	0.03432447090744972	-0.3242376	No	
+row_19	EIF4EBP2	EIF4EBP2	eukaryotic translation initiation factor 4E binding protein 2	5132	0.02728210762143135	-0.33234614	No	
+row_20	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	5184	0.023122919723391533	-0.3362489	No	
+row_21	ERP29	ERP29	endoplasmic reticulum protein 29	5219	0.02002866379916668	-0.3386869	No	
+row_22	CDC16	CDC16	CDC16 cell division cycle 16 homolog (S. cerevisiae)	5235	0.018935298547148705	-0.33940384	No	
+row_23	TROVE2	TROVE2	TROVE domain family, member 2	5738	-0.019290873780846596	-0.38521746	No	
+row_24	VDAC2	VDAC2	voltage-dependent anion channel 2	5794	-0.024561291560530663	-0.38943964	No	
+row_25	TARS	TARS	threonyl-tRNA synthetase	5920	-0.03556858375668526	-0.3997548	No	
+row_26	TGDS	TGDS	TDP-glucose 4,6-dehydratase	6182	-0.058774251490831375	-0.42184308	No	
+row_27	DDX21	DDX21	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21	6231	-0.06205291673541069	-0.4240854	No	
+row_28	WHSC1	WHSC1	Wolf-Hirschhorn syndrome candidate 1	6408	-0.0760808065533638	-0.43768576	No	
+row_29	SMC3	SMC3	structural maintenance of chromosomes 3	6654	-0.09657962620258331	-0.45694935	No	
+row_30	TCEA1	TCEA1	transcription elongation factor A (SII), 1	6788	-0.10891035199165344	-0.46540084	No	
+row_31	ABCB7	ABCB7	ATP-binding cassette, sub-family B (MDR/TAP), member 7	6829	-0.11227481067180634	-0.46511853	No	
+row_32	SDHB	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip)	6866	-0.11515005677938461	-0.4643636	No	
+row_33	FH	FH	fumarate hydratase	7219	-0.14350272715091705	-0.49187183	No	
+row_34	PDIA6	PDIA6	protein disulfide isomerase family A, member 6	7274	-0.1497727483510971	-0.4915546	No	
+row_35	DKC1	DKC1	dyskeratosis congenita 1, dyskerin	7431	-0.1626778393983841	-0.500227	No	
+row_36	DNMT1	DNMT1	DNA (cytosine-5-)-methyltransferase 1	7560	-0.1738724261522293	-0.5059082	No	
+row_37	ATXN10	ATXN10	ataxin 10	7573	-0.17504556477069855	-0.50080305	No	
+row_38	TCP1	TCP1	t-complex 1	7649	-0.1830902397632599	-0.5012477	No	
+row_39	XPO7	XPO7	exportin 7	7738	-0.19173051416873932	-0.50258964	No	
+row_40	HDDC2	HDDC2	HD domain containing 2	7789	-0.19635240733623505	-0.50024766	No	
+row_41	MDC1	MDC1	mediator of DNA damage checkpoint 1	7810	-0.19843578338623047	-0.49505284	No	
+row_42	AKR7A2	AKR7A2	aldo-keto reductase family 7, member A2 (aflatoxin aldehyde reductase)	7944	-0.2103029042482376	-0.4999034	No	
+row_43	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	8092	-0.2246864289045334	-0.50553995	No	
+row_44	ATP5O	ATP5O	ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit (oligomycin sensitivity conferring protein)	8212	-0.23695097863674164	-0.50814736	No	
+row_45	CCT8	CCT8	chaperonin containing TCP1, subunit 8 (theta)	8300	-0.24517850577831268	-0.5074985	No	
+row_46	ANAPC5	ANAPC5	anaphase promoting complex subunit 5	8506	-0.2691396474838257	-0.5169286	Yes	
+row_47	NDUFC1	NDUFC1	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 1, 6kDa	8590	-0.27901598811149597	-0.51470757	Yes	
+row_48	SEC63	SEC63	SEC63 homolog (S. cerevisiae)	8655	-0.28630155324935913	-0.51046777	Yes	
+row_49	KIFC1	KIFC1	kinesin family member C1	8754	-0.29907527565956116	-0.5089237	Yes	
+row_50	SRP72	SRP72	signal recognition particle 72kDa	8803	-0.3044942319393158	-0.50255585	Yes	
+row_51	ELOVL5	ELOVL5	ELOVL family member 5, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	8864	-0.3111656904220581	-0.49706256	Yes	
+row_52	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.49236184	Yes	
+row_53	ATP5G3	ATP5G3	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C3 (subunit 9)	8989	-0.32681161165237427	-0.48547924	Yes	
+row_54	TUFM	TUFM	Tu translation elongation factor, mitochondrial	9052	-0.33402687311172485	-0.4793593	Yes	
+row_55	RNF44	RNF44	ring finger protein 44	9069	-0.3366246521472931	-0.4688863	Yes	
+row_56	UBE2D2	UBE2D2	ubiquitin-conjugating enzyme E2D 2 (UBC4/5 homolog, yeast)	9397	-0.3741128742694855	-0.48588884	Yes	
+row_57	NUDC	NUDC	nuclear distribution gene C homolog (A. nidulans)	9409	-0.375210165977478	-0.47358233	Yes	
+row_58	TYMS	TYMS	thymidylate synthetase	9474	-0.38597366213798523	-0.46580276	Yes	
+row_59	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	9553	-0.3993682563304901	-0.4588443	Yes	
+row_60	DUT	DUT	dUTP pyrophosphatase	9701	-0.42160773277282715	-0.45748726	Yes	
+row_61	NDUFV1	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa	9887	-0.4550378620624542	-0.45846277	Yes	
+row_62	SSBP1	SSBP1	single-stranded DNA binding protein 1	9983	-0.4691582918167114	-0.4506004	Yes	
+row_63	PRKDC	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	9989	-0.4702838063240051	-0.43436164	Yes	
+row_64	CS	CS	citrate synthase	9995	-0.4717693328857422	-0.4180701	Yes	
+row_65	AFG3L2	AFG3L2	AFG3 ATPase family gene 3-like 2 (yeast)	9999	-0.4725126028060913	-0.40156692	Yes	
+row_66	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.38522455	Yes	
+row_67	UPF3A	UPF3A	UPF3 regulator of nonsense transcripts homolog A (yeast)	10029	-0.4785469174385071	-0.3703596	Yes	
+row_68	CBFB	CBFB	core-binding factor, beta subunit	10189	-0.5156906843185425	-0.36677277	Yes	
+row_69	NASP	NASP	nuclear autoantigenic sperm protein (histone-binding)	10217	-0.5220777988433838	-0.35073236	Yes	
+row_70	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.3377275	Yes	
+row_71	NNT	NNT	nicotinamide nucleotide transhydrogenase	10293	-0.5420446395874023	-0.31921804	Yes	
+row_72	SKIV2L2	SKIV2L2	superkiller viralicidic activity 2-like 2 (S. cerevisiae)	10294	-0.542285144329071	-0.29995903	Yes	
+row_73	IMPDH2	IMPDH2	IMP (inosine monophosphate) dehydrogenase 2	10382	-0.5645829439163208	-0.28796667	Yes	
+row_74	LSM2	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10420	-0.5757595300674438	-0.27094606	Yes	
+row_75	LMNB2	LMNB2	lamin B2	10432	-0.5790160298347473	-0.25140148	Yes	
+row_76	STK24	STK24	serine/threonine kinase 24 (STE20 homolog, yeast)	10492	-0.5963195562362671	-0.23568845	Yes	
+row_77	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.21696815	Yes	
+row_78	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.19756642	Yes	
+row_79	UQCRC1	UQCRC1	ubiquinol-cytochrome c reductase core protein I	10606	-0.6445335745811462	-0.17958535	Yes	
+row_80	SERBP1	SERBP1	SERPINE1 mRNA binding protein 1	10615	-0.6476704478263855	-0.15732466	Yes	
+row_81	HADH	HADH	hydroxyacyl-Coenzyme A dehydrogenase	10628	-0.653465747833252	-0.13522865	Yes	
+row_82	YARS	YARS	tyrosyl-tRNA synthetase	10630	-0.654425859451294	-0.11207966	Yes	
+row_83	BAZ1B	BAZ1B	bromodomain adjacent to zinc finger domain, 1B	10636	-0.6569410562515259	-0.089211844	Yes	
+row_84	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	-0.06813563	Yes	
+row_85	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	-0.050698742	Yes	
+row_86	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	-0.02509208	Yes	
+row_87	R3HDM1	R3HDM1	R3H domain containing 1	10861	-0.9360464215278625	0.0020377866	Yes	

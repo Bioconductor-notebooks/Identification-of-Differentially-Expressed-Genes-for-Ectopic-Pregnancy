@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL10	IL10	interleukin 10	1246	0.44008180499076843	-0.029579794	No	
+row_1	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1539	0.3899523913860321	0.018930934	No	
+row_2	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	2588	0.2581649124622345	-0.027595144	No	
+row_3	SRD5A1	SRD5A1	steroid-5-alpha-reductase, alpha polypeptide 1 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 1)	3961	0.12264782190322876	-0.13012925	No	
+row_4	SSTR1	SSTR1	somatostatin receptor 1	4898	0.043519873172044754	-0.20784117	No	
+row_5	MYOD1	MYOD1	myogenic differentiation 1	6150	-0.055831488221883774	-0.3121574	No	
+row_6	NCOA3	NCOA3	nuclear receptor coactivator 3	6305	-0.06805751472711563	-0.31317177	No	
+row_7	NEFH	NEFH	neurofilament, heavy polypeptide 200kDa	6815	-0.11129995435476303	-0.33849204	No	
+row_8	ESR2	ESR2	estrogen receptor 2 (ER beta)	7144	-0.13676334917545319	-0.34223574	No	
+row_9	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	7984	-0.21340517699718475	-0.3781832	No	
+row_10	SFRP1	SFRP1	secreted frizzled-related protein 1	9957	-0.46403640508651733	-0.46993414	Yes	
+row_11	NRIP1	NRIP1	nuclear receptor interacting protein 1	10086	-0.4913164973258972	-0.38673934	Yes	
+row_12	ESR1	ESR1	estrogen receptor 1	10205	-0.5193678140640259	-0.29720202	Yes	
+row_13	ZNF703	ZNF703	zinc finger protein 703	10445	-0.5835409760475159	-0.20639353	Yes	
+row_14	MSX2	MSX2	msh homeobox homolog 2 (Drosophila)	10548	-0.617556095123291	-0.096404016	Yes	
+row_15	MYOG	MYOG	myogenin (myogenic factor 4)	10637	-0.657709002494812	0.02263532	Yes	

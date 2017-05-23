@@ -1,0 +1,44 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TCF7L2	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	278	0.7168463468551636	0.0220522	No	
+row_1	BCL9L	BCL9L	B-cell CLL/lymphoma 9-like	791	0.5321990847587585	0.010234112	No	
+row_2	PARK2	PARK2	Parkinson disease (autosomal recessive, juvenile) 2, parkin	977	0.49561065435409546	0.026144871	No	
+row_3	RORA	RORA	RAR-related orphan receptor A	1150	0.46121135354042053	0.040966015	No	
+row_4	MED12L	MED12L	mediator of RNA polymerase II transcription, subunit 12 homolog (S. cerevisiae)-like	1948	0.3286608159542084	-0.010683643	No	
+row_5	PIN1	PIN1	protein (peptidylprolyl cis/trans isomerase) NIMA-interacting 1	1973	0.3261585533618927	0.008803598	No	
+row_6	TBL1X	TBL1X	transducin (beta)-like 1X-linked	2619	0.25385332107543945	-0.03380255	No	
+row_7	GLI3	GLI3	GLI-Kruppel family member GLI3 (Greig cephalopolysyndactyly syndrome)	2731	0.24142341315746307	-0.027978279	No	
+row_8	DVL1	DVL1	dishevelled, dsh homolog 1 (Drosophila)	3025	0.20884709060192108	-0.041109603	No	
+row_9	NF2	NF2	neurofibromin 2 (bilateral acoustic neuroma)	3952	0.12319538742303848	-0.118329234	No	
+row_10	PTPRJ	PTPRJ	protein tyrosine phosphatase, receptor type, J	4780	0.053559716790914536	-0.1910501	No	
+row_11	PXN	PXN	paxillin	5058	0.03304290026426315	-0.21440274	No	
+row_12	BTRC	BTRC	beta-transducin repeat containing	5961	-0.03904975950717926	-0.2950072	No	
+row_13	RGS20	RGS20	regulator of G-protein signalling 20	7083	-0.1324453204870224	-0.38959867	No	
+row_14	SOX9	SOX9	SRY (sex determining region Y)-box 9 (campomelic dysplasia, autosomal sex-reversal)	7178	-0.13957490026950836	-0.38898277	No	
+row_15	SUFU	SUFU	suppressor of fused homolog (Drosophila)	7186	-0.1402892917394638	-0.3802943	No	
+row_16	SLC9A3R1	SLC9A3R1	solute carrier family 9 (sodium/hydrogen exchanger), member 3 regulator 1	7289	-0.15071509778499603	-0.37967515	No	
+row_17	LEF1	LEF1	lymphoid enhancer-binding factor 1	7383	-0.1589733213186264	-0.37767634	No	
+row_18	NUMB	NUMB	numb homolog (Drosophila)	7603	-0.17826925218105316	-0.38601625	No	
+row_19	SLC9A3R2	SLC9A3R2	solute carrier family 9 (sodium/hydrogen exchanger), member 3 regulator 2	7746	-0.19266581535339355	-0.3862956	No	
+row_20	HDAC6	HDAC6	histone deacetylase 6	7846	-0.20142142474651337	-0.38202596	No	
+row_21	TBL1XR1	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	8294	-0.2445785403251648	-0.4069852	Yes	
+row_22	CTNND2	CTNND2	catenin (cadherin-associated protein), delta 2 (neural plakophilin-related arm-repeat protein)	8364	-0.252901166677475	-0.39652306	Yes	
+row_23	DLG5	DLG5	discs, large homolog 5 (Drosophila)	8498	-0.26816749572753906	-0.3909487	Yes	
+row_24	CTNNBIP1	CTNNBIP1	catenin, beta interacting protein 1	8603	-0.2801682949066162	-0.38190085	Yes	
+row_25	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	-0.36334705	Yes	
+row_26	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	8712	-0.29435455799102783	-0.35353976	Yes	
+row_27	CTNNA1	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	8988	-0.3267988860607147	-0.35716277	Yes	
+row_28	DACT2	DACT2	dapper, antagonist of beta-catenin, homolog 2 (Xenopus laevis)	9026	-0.3313392996788025	-0.33852997	Yes	
+row_29	ASH2L	ASH2L	ash2 (absent, small, or homeotic)-like (Drosophila)	9356	-0.3682847023010254	-0.3443738	Yes	
+row_30	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	9423	-0.3777465522289276	-0.32532832	Yes	
+row_31	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.32751548	Yes	
+row_32	AR	AR	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)	9899	-0.45631444454193115	-0.3100684	Yes	
+row_33	SALL1	SALL1	sal-like 1 (Drosophila)	10025	-0.4774225056171417	-0.28983325	Yes	
+row_34	DACT3	DACT3	dapper, antagonist of beta-catenin, homolog 3 (Xenopus laevis)	10117	-0.49701300263404846	-0.26515839	Yes	
+row_35	ESR1	ESR1	estrogen receptor 1	10205	-0.5193678140640259	-0.23862718	Yes	
+row_36	PSEN1	PSEN1	presenilin 1 (Alzheimer disease 3)	10207	-0.51967453956604	-0.20414273	Yes	
+row_37	DVL3	DVL3	dishevelled, dsh homolog 3 (Drosophila)	10225	-0.5246871113777161	-0.17080063	Yes	
+row_38	AXIN2	AXIN2	axin 2 (conductin, axil)	10317	-0.5486176013946533	-0.14269225	Yes	
+row_39	MED12	MED12	mediator of RNA polymerase II transcription, subunit 12 homolog (S. cerevisiae)	10327	-0.5503443479537964	-0.1069051	Yes	
+row_40	SOX17	SOX17	SRY (sex determining region Y)-box 17	10427	-0.5777775049209595	-0.0775945	Yes	
+row_41	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.049270343	Yes	
+row_42	PTPRK	PTPRK	protein tyrosine phosphatase, receptor type, K	10878	-1.1633549928665161	4.6111012E-4	Yes	

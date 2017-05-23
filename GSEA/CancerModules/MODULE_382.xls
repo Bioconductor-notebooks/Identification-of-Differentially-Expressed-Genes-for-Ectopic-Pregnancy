@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	INHA	INHA	inhibin, alpha	128	0.8212161064147949	0.1457679	Yes	
+row_1	CSH2	CSH2	chorionic somatomammotropin hormone 2	130	0.8200026154518127	0.30298978	Yes	
+row_2	ADM	ADM	adrenomedullin	140	0.8118693828582764	0.45791513	Yes	
+row_3	GCG	GCG	glucagon	449	0.6410951018333435	0.5525637	Yes	
+row_4	AGT	AGT	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	1582	0.3832041621208191	0.52191114	No	
+row_5	PPY	PPY	pancreatic polypeptide	3192	0.19280284643173218	0.41083658	No	
+row_6	CCL25	CCL25	chemokine (C-C motif) ligand 25	3231	0.18916253745555878	0.44362974	No	
+row_7	VIP	VIP	vasoactive intestinal peptide	3608	0.15354794263839722	0.43848708	No	
+row_8	TRH	TRH	thyrotropin-releasing hormone	4165	0.1057073250412941	0.4076025	No	
+row_9	IGF2	IGF2	insulin-like growth factor 2 (somatomedin A)	4737	0.05732639506459236	0.3660559	No	
+row_10	STC1	STC1	stanniocalcin 1	5550	-0.004584795329719782	0.29221386	No	
+row_11	GIP	GIP	gastric inhibitory polypeptide	6109	-0.052069880068302155	0.25085512	No	
+row_12	INHBA	INHBA	inhibin, beta A (activin A, activin AB alpha polypeptide)	6980	-0.1247730404138565	0.19473338	No	
+row_13	CALCA	CALCA	calcitonin/calcitonin-related polypeptide, alpha	7013	-0.12724360823631287	0.21619982	No	
+row_14	NTS	NTS	neurotensin	7153	-0.13774092495441437	0.22983378	No	
+row_15	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	7984	-0.21340517699718475	0.1943966	No	
+row_16	CGA	CGA	glycoprotein hormones, alpha polypeptide	9419	-0.3767736256122589	0.13471983	No	

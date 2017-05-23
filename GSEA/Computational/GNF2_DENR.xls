@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RWDD1	RWDD1	RWD domain containing 1	1961	0.32722026109695435	-0.13316682	No	
+row_1	CCDC59	CCDC59	coiled-coil domain containing 59	2114	0.3126712441444397	-0.10192514	No	
+row_2	MRPS10	MRPS10	mitochondrial ribosomal protein S10	3619	0.1526351124048233	-0.21828294	No	
+row_3	RBM15	RBM15	RNA binding motif protein 15	3843	0.13217291235923767	-0.21968855	No	
+row_4	BRD8	BRD8	bromodomain containing 8	3946	0.12362964451313019	-0.21119237	No	
+row_5	PAPOLA	PAPOLA	poly(A) polymerase alpha	4083	0.11244435608386993	-0.20744392	No	
+row_6	PPIA	PPIA	peptidylprolyl isomerase A (cyclophilin A)	5708	-0.016138024628162384	-0.35459384	No	
+row_7	MRPL9	MRPL9	mitochondrial ribosomal protein L9	6617	-0.09345978498458862	-0.4246522	No	
+row_8	SSB	SSB	Sjogren syndrome antigen B (autoantigen La)	7773	-0.1947857141494751	-0.50278777	No	
+row_9	SRP72	SRP72	signal recognition particle 72kDa	8803	-0.3044942319393158	-0.5534544	No	
+row_10	ZNF146	ZNF146	zinc finger protein 146	9732	-0.42620620131492615	-0.5772166	Yes	
+row_11	SPCS2	SPCS2	signal peptidase complex subunit 2 homolog (S. cerevisiae)	9803	-0.43890273571014404	-0.5201657	Yes	
+row_12	COPB1	COPB1	coatomer protein complex, subunit beta 1	9818	-0.4420182406902313	-0.45750943	Yes	
+row_13	TOPBP1	TOPBP1	topoisomerase (DNA) II binding protein 1	9824	-0.4431001842021942	-0.3938682	Yes	
+row_14	DDX50	DDX50	DEAD (Asp-Glu-Ala-Asp) box polypeptide 50	9842	-0.44688835740089417	-0.33078352	Yes	
+row_15	BCAS2	BCAS2	breast carcinoma amplified sequence 2	10260	-0.5317643284797668	-0.29223904	Yes	
+row_16	FUS	FUS	fusion (involved in t(12;16) in malignant liposarcoma)	10281	-0.5379582643508911	-0.21625581	Yes	
+row_17	SUMO2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10347	-0.5550322532653809	-0.14194468	Yes	
+row_18	INTS8	INTS8	integrator complex subunit 8	10621	-0.6518702507019043	-0.072770186	Yes	
+row_19	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	0.019974167	Yes	

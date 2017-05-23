@@ -1,0 +1,55 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	245	0.7341944575309753	0.020739412	No	
+row_1	PHC3	PHC3	polyhomeotic homolog 3 (Drosophila)	1502	0.39537686109542847	-0.07188365	No	
+row_2	RBBP6	RBBP6	retinoblastoma binding protein 6	1661	0.37122148275375366	-0.06454829	No	
+row_3	EFNB3	EFNB3	ephrin-B3	1704	0.3636440336704254	-0.046949476	No	
+row_4	LRRC29	LRRC29	leucine rich repeat containing 29	1826	0.3436080515384674	-0.037828542	No	
+row_5	SH3KBP1	SH3KBP1	SH3-domain kinase binding protein 1	2016	0.3215840756893158	-0.03628721	No	
+row_6	MAP2	MAP2	microtubule-associated protein 2	2085	0.3154914677143097	-0.023933038	No	
+row_7	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	2261	0.2967488169670105	-0.022565776	No	
+row_8	EPC1	EPC1	enhancer of polycomb homolog 1 (Drosophila)	3166	0.19484585523605347	-0.09452995	No	
+row_9	NUFIP2	NUFIP2	nuclear fragile X mental retardation protein interacting protein 2	3209	0.19148515164852142	-0.0870989	No	
+row_10	CAMSAP1	CAMSAP1	calmodulin regulated spectrin-associated protein 1	3321	0.18079563975334167	-0.086670354	No	
+row_11	OTUD7B	OTUD7B	OTU domain containing 7B	3519	0.16122613847255707	-0.0953385	No	
+row_12	FOXA3	FOXA3	forkhead box A3	3861	0.13033880293369293	-0.11912726	No	
+row_13	MRPS18B	MRPS18B	mitochondrial ribosomal protein S18B	4325	0.09175560623407364	-0.15645976	No	
+row_14	WASF2	WASF2	WAS protein family, member 2	4431	0.08188512921333313	-0.16131888	No	
+row_15	PRPS1	PRPS1	phosphoribosyl pyrophosphate synthetase 1	4642	0.06484420597553253	-0.17687975	No	
+row_16	SLC35A4	SLC35A4	solute carrier family 35, member A4	4858	0.04709814861416817	-0.19395038	No	
+row_17	GNAO1	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	5348	0.01069079153239727	-0.23847133	No	
+row_18	POU2F1	POU2F1	POU domain, class 2, transcription factor 1	5607	-0.008909002877771854	-0.26176786	No	
+row_19	WDR53	WDR53	WD repeat domain 53	6206	-0.06042565032839775	-0.3134161	No	
+row_20	CBX6	CBX6	chromobox homolog 6	6461	-0.07963603734970093	-0.33216614	No	
+row_21	BRCA1	BRCA1	breast cancer 1, early onset	6554	-0.08838730305433273	-0.33544087	No	
+row_22	BCL11B	BCL11B	B-cell CLL/lymphoma 11B (zinc finger protein)	6577	-0.09048980474472046	-0.33212793	No	
+row_23	LRRC36	LRRC36	leucine rich repeat containing 36	6587	-0.09133852273225784	-0.32756448	No	
+row_24	SLC20A1	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	7093	-0.13324664533138275	-0.3663246	No	
+row_25	BDNF	BDNF	brain-derived neurotrophic factor	7103	-0.13379015028476715	-0.35925394	No	
+row_26	KLHL18	KLHL18	kelch-like 18 (Drosophila)	7161	-0.13832025229930878	-0.35634786	No	
+row_27	HOXA3	HOXA3	homeobox A3	7415	-0.16132596135139465	-0.37018093	No	
+row_28	FASTK	FASTK	Fas-activated serine/threonine kinase	7463	-0.16581961512565613	-0.36472738	No	
+row_29	FGD4	FGD4	FYVE, RhoGEF and PH domain containing 4	7693	-0.18742725253105164	-0.37480283	No	
+row_30	OTX2	OTX2	orthodenticle homolog 2 (Drosophila)	8722	-0.29534921050071716	-0.4522809	Yes	
+row_31	SMEK2	SMEK2	-	8727	-0.2958706021308899	-0.43517604	Yes	
+row_32	EXT1	EXT1	exostoses (multiple) 1	8789	-0.302933007478714	-0.42291725	Yes	
+row_33	EXOC6	EXOC6	exocyst complex component 6	8801	-0.30418574810028076	-0.40596762	Yes	
+row_34	DLG3	DLG3	discs, large homolog 3 (neuroendocrine-dlg, Drosophila)	8881	-0.31350597739219666	-0.39474642	Yes	
+row_35	PTBP1	PTBP1	polypyrimidine tract binding protein 1	9087	-0.3388787508010864	-0.39366102	Yes	
+row_36	DOCK5	DOCK5	dedicator of cytokinesis 5	9277	-0.3591219484806061	-0.38990268	Yes	
+row_37	GABPB2	GABPB2	GA binding protein transcription factor, beta subunit 2	9382	-0.37175828218460083	-0.3775495	Yes	
+row_38	GARNL3	GARNL3	GTPase activating Rap/RanGAP domain-like 3	9558	-0.4000761806964874	-0.37007967	Yes	
+row_39	ARIH1	ARIH1	ariadne homolog, ubiquitin-conjugating enzyme E2 binding protein, 1 (Drosophila)	9600	-0.40641531348228455	-0.34986243	Yes	
+row_40	WDR33	WDR33	WD repeat domain 33	9627	-0.41058072447776794	-0.32801414	Yes	
+row_41	STAG2	STAG2	stromal antigen 2	9767	-0.43336570262908936	-0.31525415	Yes	
+row_42	KIF9	KIF9	kinesin family member 9	9796	-0.43822139501571655	-0.29195806	Yes	
+row_43	TSSK3	TSSK3	testis-specific serine kinase 3	9808	-0.4402395486831665	-0.26697308	Yes	
+row_44	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.25712353	Yes	
+row_45	NBR2	NBR2	neighbor of BRCA1 gene 2	10039	-0.480471670627594	-0.23179382	Yes	
+row_46	LPHN3	LPHN3	latrophilin 3	10062	-0.4849383533000946	-0.2051846	Yes	
+row_47	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	10155	-0.5075100064277649	-0.18370582	Yes	
+row_48	TBC1D16	TBC1D16	TBC1 domain family, member 16	10522	-0.6053121089935303	-0.18175091	Yes	
+row_49	CLTC	CLTC	clathrin, heavy chain (Hc)	10627	-0.6533210873603821	-0.15276851	Yes	
+row_50	ZMYM2	ZMYM2	zinc finger, MYM-type 2	10675	-0.6740624904632568	-0.11729796	Yes	
+row_51	ZNF711	ZNF711	zinc finger protein 711	10708	-0.698743462562561	-0.07898471	Yes	
+row_52	PIAS3	PIAS3	protein inhibitor of activated STAT, 3	10765	-0.7554087042808533	-0.039540857	Yes	
+row_53	CGGBP1	CGGBP1	CGG triplet repeat binding protein 1	10830	-0.8524208664894104	0.004893881	Yes	

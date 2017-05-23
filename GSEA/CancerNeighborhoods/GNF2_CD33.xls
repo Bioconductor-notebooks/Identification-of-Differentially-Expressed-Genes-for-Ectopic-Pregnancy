@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAFB	MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)	393	0.6609540581703186	0.04775082	Yes	
+row_1	STX11	STX11	syntaxin 11	394	0.6607995629310608	0.13167986	Yes	
+row_2	MFSD1	MFSD1	major facilitator superfamily domain containing 1	554	0.6070277690887451	0.19413434	Yes	
+row_3	CD33	CD33	CD33 molecule	814	0.5277246832847595	0.23730579	Yes	
+row_4	LILRA6	LILRA6	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 6	1008	0.4901025593280792	0.28177783	Yes	
+row_5	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.31416458	Yes	
+row_6	CTSS	CTSS	cathepsin S	1506	0.3941039443016052	0.34165418	Yes	
+row_7	CPVL	CPVL	carboxypeptidase, vitellogenic-like	1598	0.38126274943351746	0.38169718	Yes	
+row_8	CD163	CD163	CD163 molecule	1631	0.3750576674938202	0.42638636	Yes	
+row_9	CD93	CD93	CD93 molecule	1664	0.3711540997028351	0.4705797	Yes	
+row_10	TBXAS1	TBXAS1	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)	1776	0.35147902369499207	0.50499773	Yes	
+row_11	FCGR1A	FCGR1A	Fc fragment of IgG, high affinity Ia, receptor (CD64)	1789	0.3497459292411804	0.54831415	Yes	
+row_12	CLEC4A	CLEC4A	C-type lectin domain family 4, member A	2096	0.31483158469200134	0.56011677	Yes	
+row_13	MS4A6A	MS4A6A	membrane-spanning 4-domains, subfamily A, member 6A	2749	0.2390880286693573	0.5304302	Yes	
+row_14	LILRB2	LILRB2	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 2	2762	0.23737624287605286	0.5594744	Yes	
+row_15	SLC7A7	SLC7A7	solute carrier family 7 (cationic amino acid transporter, y+ system), member 7	2779	0.23556073009967804	0.5879196	Yes	
+row_16	DUSP6	DUSP6	dual specificity phosphatase 6	2828	0.23005008697509766	0.61271745	Yes	
+row_17	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	4619	0.066714346408844	0.45632035	No	
+row_18	LILRA1	LILRA1	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 1	4932	0.041040629148483276	0.43279573	No	
+row_19	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	0.3328308	No	
+row_20	CFP	CFP	complement factor properdin	6440	-0.07789922505617142	0.3103034	No	
+row_21	RNF130	RNF130	ring finger protein 130	6490	-0.08215498179197311	0.3162248	No	
+row_22	IER2	IER2	immediate early response 2	6556	-0.08844484388828278	0.3214714	No	
+row_23	CECR1	CECR1	cat eye syndrome chromosome region, candidate 1	6845	-0.1136077344417572	0.30937418	No	
+row_24	AP1S2	AP1S2	adaptor-related protein complex 1, sigma 2 subunit	6996	-0.12589934468269348	0.31154886	No	
+row_25	LILRA3	LILRA3	leukocyte immunoglobulin-like receptor, subfamily A (without TM domain), member 3	7457	-0.165137380361557	0.2901542	No	
+row_26	LGALS2	LGALS2	lectin, galactoside-binding, soluble, 2 (galectin 2)	7824	-0.19927790760993958	0.28175378	No	

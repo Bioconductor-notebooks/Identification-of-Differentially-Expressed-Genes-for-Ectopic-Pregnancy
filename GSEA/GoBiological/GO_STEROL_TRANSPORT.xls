@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	CLU	clusterin	144	0.8093606233596802	0.06885983	Yes	
+row_1	VPS4B	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	425	0.6480343341827393	0.10881974	Yes	
+row_2	MSR1	MSR1	macrophage scavenger receptor 1	429	0.6471074819564819	0.17420614	Yes	
+row_3	SCARB1	SCARB1	scavenger receptor class B, member 1	493	0.6286409497261047	0.23219082	Yes	
+row_4	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	603	0.5916893482208252	0.28218788	Yes	
+row_5	APOC2	APOC2	apolipoprotein C-II	659	0.5707862973213196	0.33503902	Yes	
+row_6	SOAT2	SOAT2	sterol O-acyltransferase 2	867	0.5170338153839111	0.36843178	Yes	
+row_7	STAR	STAR	steroidogenic acute regulator	895	0.5125011205673218	0.41794834	Yes	
+row_8	APOA2	APOA2	apolipoprotein A-II	1250	0.43804821372032166	0.42978293	Yes	
+row_9	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	1313	0.42639338970184326	0.46733743	Yes	
+row_10	NPC1	NPC1	Niemann-Pick disease, type C1	1370	0.41730397939682007	0.5045224	Yes	
+row_11	ABCA2	ABCA2	ATP-binding cassette, sub-family A (ABC1), member 2	1508	0.39402011036872864	0.531882	Yes	
+row_12	LCAT	LCAT	lecithin-cholesterol acyltransferase	1573	0.38383859395980835	0.56493413	Yes	
+row_13	ABCA7	ABCA7	ATP-binding cassette, sub-family A (ABC1), member 7	2362	0.28420132398605347	0.52117246	No	
+row_14	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	3014	0.21034978330135345	0.48253903	No	
+row_15	SCP2	SCP2	sterol carrier protein 2	3541	0.15943990647792816	0.4502562	No	
+row_16	ABCG1	ABCG1	ATP-binding cassette, sub-family G (WHITE), member 1	4158	0.10612069070339203	0.40427113	No	
+row_17	OSBPL5	OSBPL5	oxysterol binding protein-like 5	5454	0.00221214909106493	0.28518474	No	
+row_18	CD36	CD36	CD36 molecule (thrombospondin receptor)	5848	-0.029118184000253677	0.25193155	No	
+row_19	LIPC	LIPC	lipase, hepatic	6304	-0.06805260479450226	0.2169169	No	
+row_20	ABCG4	ABCG4	ATP-binding cassette, sub-family G (WHITE), member 4	6547	-0.08694272488355637	0.20344315	No	
+row_21	CETP	CETP	cholesteryl ester transfer protein, plasma	6965	-0.1238422691822052	0.17759058	No	
+row_22	ABCA5	ABCA5	ATP-binding cassette, sub-family A (ABC1), member 5	7137	-0.1363544762134552	0.17567207	No	
+row_23	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	7147	-0.1369704306125641	0.18874145	No	
+row_24	APOA4	APOA4	apolipoprotein A-IV	7237	-0.1459536850452423	0.19535181	No	
+row_25	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	7505	-0.17001192271709442	0.1880039	No	
+row_26	OSBP	OSBP	oxysterol binding protein	7591	-0.17731286585330963	0.19816484	No	
+row_27	AKR1C1	AKR1C1	aldo-keto reductase family 1, member C1 (dihydrodiol dehydrogenase 1; 20-alpha (3-alpha)-hydroxysteroid dehydrogenase)	7665	-0.18478845059871674	0.21018992	No	
+row_28	LRP6	LRP6	low density lipoprotein receptor-related protein 6	9226	-0.3547409474849701	0.102460116	No	
+row_29	ARV1	ARV1	ARV1 homolog (S. cerevisiae)	10104	-0.49383842945098877	0.07177082	No	

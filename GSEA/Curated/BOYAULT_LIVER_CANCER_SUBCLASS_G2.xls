@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDOC	ALDOC	aldolase C, fructose-bisphosphate	82	0.8711698055267334	0.15940166	Yes	
+row_1	EPHA1	EPHA1	EPH receptor A1	380	0.669392466545105	0.26035285	Yes	
+row_2	MOSPD1	MOSPD1	motile sperm domain containing 1	719	0.5516448616981506	0.3349669	Yes	
+row_3	ITGA5	ITGA5	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	783	0.5351638793945312	0.43172625	Yes	
+row_4	RPN2	RPN2	ribophorin II	1235	0.44221407175064087	0.47497204	Yes	
+row_5	RRAS2	RRAS2	related RAS viral (r-ras) oncogene homolog 2	1258	0.4371556043624878	0.5567221	Yes	
+row_6	DEGS1	DEGS1	degenerative spermatocyte homolog 1, lipid desaturase (Drosophila)	1743	0.35684046149253845	0.5805709	Yes	
+row_7	ENPP2	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 (autotaxin)	1860	0.33932289481163025	0.6349235	Yes	
+row_8	KLHL7	KLHL7	kelch-like 7 (Drosophila)	4080	0.1125699058175087	0.45231846	No	
+row_9	MLLT11	MLLT11	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 11	4186	0.10395777225494385	0.46257904	No	
+row_10	HIP1	HIP1	huntingtin interacting protein 1	5464	0.0012425753520801663	0.34531623	No	
+row_11	MEIS2	MEIS2	Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse)	6038	-0.04631497710943222	0.30146822	No	
+row_12	CD58	CD58	CD58 molecule	6084	-0.04959676414728165	0.3068321	No	
+row_13	KIF14	KIF14	kinesin family member 14	7394	-0.15953382849693298	0.21695904	No	
+row_14	INTS7	INTS7	integrator complex subunit 7	8131	-0.2282150387763977	0.19297132	No	
+row_15	NAV3	NAV3	neuron navigator 3	8887	-0.31391456723213196	0.18365836	No	

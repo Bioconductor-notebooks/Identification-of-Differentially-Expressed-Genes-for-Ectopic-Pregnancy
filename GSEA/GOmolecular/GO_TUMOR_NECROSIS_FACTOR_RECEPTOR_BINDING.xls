@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.17893657	Yes	
+row_1	TNFSF4	TNFSF4	tumor necrosis factor (ligand) superfamily, member 4 (tax-transcriptionally activated glycoprotein 1, 34kDa)	61	0.9117786288261414	0.30630988	Yes	
+row_2	TNFSF14	TNFSF14	tumor necrosis factor (ligand) superfamily, member 14	219	0.7514823079109192	0.40123984	Yes	
+row_3	BRE	BRE	brain and reproductive organ-expressed (TNFRSF1A modulator)	341	0.6826044917106628	0.48945785	Yes	
+row_4	TNFSF8	TNFSF8	tumor necrosis factor (ligand) superfamily, member 8	406	0.6544473767280579	0.57882375	Yes	
+row_5	FASLG	FASLG	Fas ligand (TNF superfamily, member 6)	1657	0.3718077540397644	0.5178929	No	
+row_6	FADD	FADD	Fas (TNFRSF6)-associated via death domain	2618	0.25387781858444214	0.46648833	No	
+row_7	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	3938	0.12421831488609314	0.3631696	No	
+row_8	LTA	LTA	lymphotoxin alpha (TNF superfamily, member 1)	4044	0.11617685854434967	0.37041536	No	
+row_9	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	4177	0.10438903421163559	0.37346032	No	
+row_10	LTB	LTB	lymphotoxin beta (TNF superfamily, member 3)	4712	0.05941455811262131	0.33295962	No	
+row_11	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.32594928	No	
+row_12	TRAF3	TRAF3	TNF receptor-associated factor 3	6661	-0.09713748097419739	0.1746944	No	
+row_13	TNFSF11	TNFSF11	tumor necrosis factor (ligand) superfamily, member 11	6896	-0.11782930046319962	0.17030768	No	
+row_14	TNFSF9	TNFSF9	tumor necrosis factor (ligand) superfamily, member 9	7081	-0.13238266110420227	0.17264119	No	
+row_15	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	0.18508811	No	
+row_16	EDA	EDA	ectodysplasin A	7527	-0.17144563794136047	0.17690852	No	
+row_17	TRAF4	TRAF4	TNF receptor-associated factor 4	9572	-0.4022616446018219	0.04733163	No	
+row_18	TRAP1	TRAP1	TNF receptor-associated protein 1	10135	-0.5031793117523193	0.06884485	No	

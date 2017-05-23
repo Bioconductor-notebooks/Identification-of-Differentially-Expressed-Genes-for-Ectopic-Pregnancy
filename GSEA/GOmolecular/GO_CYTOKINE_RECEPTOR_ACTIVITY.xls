@@ -1,0 +1,52 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.06873454	Yes	
+row_1	IL1RL1	IL1RL1	interleukin 1 receptor-like 1	122	0.8270478248596191	0.10895173	Yes	
+row_2	IL18R1	IL18R1	interleukin 18 receptor 1	158	0.7955359220504761	0.15435056	Yes	
+row_3	IL15RA	IL15RA	interleukin 15 receptor, alpha	167	0.7880962491035461	0.20178702	Yes	
+row_4	CMKLR1	CMKLR1	chemokine-like receptor 1	281	0.7141485810279846	0.23501056	Yes	
+row_5	IL1R1	IL1R1	interleukin 1 receptor, type I	284	0.7123434543609619	0.27837023	Yes	
+row_6	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.3191354	Yes	
+row_7	PRLR	PRLR	prolactin receptor	804	0.5291977524757385	0.30579063	Yes	
+row_8	IL1RAP	IL1RAP	interleukin 1 receptor accessory protein	889	0.5134376287460327	0.3294221	Yes	
+row_9	IL13RA1	IL13RA1	interleukin 13 receptor, alpha 1	916	0.5062903165817261	0.35797063	Yes	
+row_10	CX3CR1	CX3CR1	chemokine (C-X3-C motif) receptor 1	1053	0.4785647690296173	0.3746702	Yes	
+row_11	GPR17	GPR17	G protein-coupled receptor 17	1070	0.47619158029556274	0.402302	Yes	
+row_12	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.4153779	Yes	
+row_13	IL4R	IL4R	interleukin 4 receptor	1322	0.4254031479358673	0.43242788	Yes	
+row_14	IL10RB	IL10RB	interleukin 10 receptor, beta	1481	0.3996853828430176	0.4422749	Yes	
+row_15	IFNGR1	IFNGR1	interferon gamma receptor 1	1550	0.3873807489871979	0.45967767	Yes	
+row_16	EPOR	EPOR	erythropoietin receptor	1797	0.34837159514427185	0.45826462	Yes	
+row_17	IL13RA2	IL13RA2	interleukin 13 receptor, alpha 2	1900	0.3343183100223541	0.46928525	Yes	
+row_18	EBI3	EBI3	Epstein-Barr virus induced gene 3	1939	0.3296132981777191	0.48592612	Yes	
+row_19	CXCR3	CXCR3	chemokine (C-X-C motif) receptor 3	2034	0.3195161819458008	0.4967804	Yes	
+row_20	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	2199	0.30352675914764404	0.5001955	Yes	
+row_21	CCBP2	CCBP2	chemokine binding protein 2	2247	0.29794877767562866	0.51407003	Yes	
+row_22	IL9R	IL9R	interleukin 9 receptor	2326	0.2884211540222168	0.5245005	Yes	
+row_23	IL1RL2	IL1RL2	interleukin 1 receptor-like 2	2592	0.2575759291648865	0.5157833	No	
+row_24	CNTFR	CNTFR	ciliary neurotrophic factor receptor	2820	0.23065724968910217	0.50892854	No	
+row_25	IL21R	IL21R	interleukin 21 receptor	2935	0.21834149956703186	0.51175195	No	
+row_26	CCR7	CCR7	chemokine (C-C motif) receptor 7	3087	0.2027040421962738	0.510204	No	
+row_27	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	3487	0.1646052598953247	0.4834341	No	
+row_28	CSF2RA	CSF2RA	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)	3636	0.15135309100151062	0.4790241	No	
+row_29	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	3810	0.13557729125022888	0.471342	No	
+row_30	LIFR	LIFR	leukemia inhibitory factor receptor alpha	3845	0.1318957507610321	0.47626597	No	
+row_31	IL12RB2	IL12RB2	interleukin 12 receptor, beta 2	4161	0.1060311496257782	0.45366967	No	
+row_32	CCR2	CCR2	chemokine (C-C motif) receptor 2	4207	0.10180412977933884	0.45573878	No	
+row_33	MPL	MPL	myeloproliferative leukemia virus oncogene	5009	0.0362028032541275	0.38401106	No	
+row_34	IL22RA2	IL22RA2	interleukin 22 receptor, alpha 2	5203	0.021857330575585365	0.36753124	No	
+row_35	CCR4	CCR4	chemokine (C-C motif) receptor 4	5315	0.012886380776762962	0.3580725	No	
+row_36	IL22RA1	IL22RA1	interleukin 22 receptor, alpha 1	5344	0.010793664492666721	0.3561476	No	
+row_37	IL5RA	IL5RA	interleukin 5 receptor, alpha	5908	-0.03421301394701004	0.30626816	No	
+row_38	CCR8	CCR8	chemokine (C-C motif) receptor 8	6015	-0.04405992105603218	0.29917654	No	
+row_39	CXCR7	CXCR7	chemokine (C-X-C motif) receptor 7	6203	-0.06025402992963791	0.28559768	No	
+row_40	LEPR	LEPR	leptin receptor	6321	-0.06920856982469559	0.27902794	No	
+row_41	IFNGR2	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)	6340	-0.07026460021734238	0.2816615	No	
+row_42	IL3RA	IL3RA	interleukin 3 receptor, alpha (low affinity)	6564	-0.08963263779878616	0.26655534	No	
+row_43	CCR6	CCR6	chemokine (C-C motif) receptor 6	6660	-0.09696773439645767	0.2637133	No	
+row_44	CCR9	CCR9	chemokine (C-C motif) receptor 9	6724	-0.10269666463136673	0.26417542	No	
+row_45	IL20RA	IL20RA	interleukin 20 receptor, alpha	7281	-0.15007126331329346	0.22202435	No	
+row_46	FLT3	FLT3	fms-related tyrosine kinase 3	8309	-0.246506005525589	0.1422899	No	
+row_47	CCR3	CCR3	chemokine (C-C motif) receptor 3	8532	-0.27178430557250977	0.13841067	No	
+row_48	CXCR6	CXCR6	chemokine (C-X-C motif) receptor 6	9219	-0.35400116443634033	0.096725106	No	
+row_49	CD44	CD44	CD44 molecule (Indian blood group)	9946	-0.4618864953517914	0.057941966	No	
+row_50	IL17RD	IL17RD	interleukin 17 receptor D	9965	-0.46558961272239685	0.08474105	No	

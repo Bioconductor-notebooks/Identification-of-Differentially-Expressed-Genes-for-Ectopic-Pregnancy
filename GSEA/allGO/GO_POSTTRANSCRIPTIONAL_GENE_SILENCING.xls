@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SNIP1	SNIP1	Smad nuclear interacting protein 1	1147	0.46137145161628723	-0.050694134	No	
+row_1	MRPL44	MRPL44	mitochondrial ribosomal protein L44	1706	0.3633756935596466	-0.05882113	No	
+row_2	SMAD2	SMAD2	SMAD, mothers against DPP homolog 2 (Drosophila)	1946	0.32896578311920166	-0.041672498	No	
+row_3	MOV10	MOV10	Mov10, Moloney leukemia virus 10, homolog (mouse)	2061	0.3170791268348694	-0.014429563	No	
+row_4	CNOT8	CNOT8	CCR4-NOT transcription complex, subunit 8	3956	0.12302727997303009	-0.17417209	No	
+row_5	TERT	TERT	telomerase reverse transcriptase	6491	-0.08228009194135666	-0.39769083	No	
+row_6	EIF2C4	EIF2C4	eukaryotic translation initiation factor 2C, 4	8102	-0.22615356743335724	-0.51901054	Yes	
+row_7	TNRC6C	TNRC6C	trinucleotide repeat containing 6C	8297	-0.24467015266418457	-0.50775164	Yes	
+row_8	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	8712	-0.29435455799102783	-0.5108352	Yes	
+row_9	DGCR8	DGCR8	DiGeorge syndrome critical region gene 8	8769	-0.2999967336654663	-0.4802852	Yes	
+row_10	EIF2C1	EIF2C1	eukaryotic translation initiation factor 2C, 1	8831	-0.30711251497268677	-0.44934866	Yes	
+row_11	XPO5	XPO5	exportin 5	9049	-0.33377188444137573	-0.42960238	Yes	
+row_12	EIF2C2	EIF2C2	eukaryotic translation initiation factor 2C, 2	9171	-0.34775954484939575	-0.39935234	Yes	
+row_13	TNRC6A	TNRC6A	trinucleotide repeat containing 6A	9247	-0.3569495677947998	-0.36377314	Yes	
+row_14	TNRC6B	TNRC6B	trinucleotide repeat containing 6B	9261	-0.35786107182502747	-0.32237697	Yes	
+row_15	SMAD1	SMAD1	SMAD, mothers against DPP homolog 1 (Drosophila)	9481	-0.386703222990036	-0.29651487	Yes	
+row_16	EIF2C3	EIF2C3	eukaryotic translation initiation factor 2C, 3	9672	-0.41787102818489075	-0.26427308	Yes	
+row_17	PRKRA	PRKRA	protein kinase, interferon-inducible double stranded RNA dependent activator	9814	-0.44132739305496216	-0.22472788	Yes	
+row_18	LIMD1	LIMD1	LIM domains containing 1	10067	-0.4861328899860382	-0.19006994	Yes	
+row_19	METTL3	METTL3	methyltransferase like 3	10264	-0.5332705974578857	-0.14464556	Yes	
+row_20	DICER1	DICER1	Dicer1, Dcr-1 homolog (Drosophila)	10349	-0.5557109713554382	-0.086238146	Yes	
+row_21	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	10384	-0.5649369359016418	-0.022129023	Yes	
+row_22	PUM1	PUM1	pumilio homolog 1 (Drosophila)	10405	-0.5711675882339478	0.044010695	Yes	

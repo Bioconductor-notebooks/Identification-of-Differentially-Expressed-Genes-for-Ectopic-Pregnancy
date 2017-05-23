@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FKBP1B	FKBP1B	FK506 binding protein 1B, 12.6 kDa	622	0.5859147906303406	0.052810293	No	
+row_1	CACNB2	CACNB2	calcium channel, voltage-dependent, beta 2 subunit	2875	0.22464129328727722	-0.11228116	No	
+row_2	HCN4	HCN4	hyperpolarization activated cyclic nucleotide-gated potassium channel 4	2990	0.2125958949327469	-0.08283857	No	
+row_3	KCNE1L	KCNE1L	KCNE1-like	3880	0.1287652552127838	-0.14048003	No	
+row_4	PKP2	PKP2	plakophilin 2	3960	0.12279798090457916	-0.12468425	No	
+row_5	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	-0.20161389	No	
+row_6	CACNA1C	CACNA1C	calcium channel, voltage-dependent, L type, alpha 1C subunit	4973	0.038419079035520554	-0.2022209	No	
+row_7	SCN10A	SCN10A	sodium channel, voltage-gated, type X, alpha	5155	0.025378882884979248	-0.21411403	No	
+row_8	KCNQ1	KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1	5196	0.02247987687587738	-0.21357308	No	
+row_9	CASQ2	CASQ2	calsequestrin 2 (cardiac muscle)	5236	0.01879289746284485	-0.21363269	No	
+row_10	SLC8A1	SLC8A1	solute carrier family 8 (sodium/calcium exchanger), member 1	6218	-0.06092529371380806	-0.29248616	No	
+row_11	ANK2	ANK2	ankyrin 2, neuronal	7769	-0.19460435211658478	-0.39860293	No	
+row_12	RYR2	RYR2	ryanodine receptor 2 (cardiac)	8816	-0.305740624666214	-0.43745112	Yes	
+row_13	SCN5A	SCN5A	sodium channel, voltage-gated, type V, alpha (long QT syndrome 3)	8821	-0.3060227632522583	-0.3803332	Yes	
+row_14	CACNA1G	CACNA1G	calcium channel, voltage-dependent, alpha 1G subunit	8884	-0.31386739015579224	-0.32708037	Yes	
+row_15	NUP155	NUP155	nucleoporin 155kDa	8886	-0.3139033913612366	-0.26820594	Yes	
+row_16	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	10085	-0.49116864800453186	-0.28621277	Yes	
+row_17	KCNA5	KCNA5	potassium voltage-gated channel, shaker-related subfamily, member 5	10089	-0.4915582239627838	-0.19415012	Yes	
+row_18	CACNA1D	CACNA1D	calcium channel, voltage-dependent, L type, alpha 1D subunit	10324	-0.5499154329299927	-0.112388	Yes	
+row_19	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	10839	-0.8717123866081238	0.0040502185	Yes	

@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GIMAP7	GIMAP7	GTPase, IMAP family member 7	13	1.108019471168518	0.13394248	Yes	
+row_1	TNFSF8	TNFSF8	tumor necrosis factor (ligand) superfamily, member 8	406	0.6544473767280579	0.17767288	Yes	
+row_2	MAPK14	MAPK14	mitogen-activated protein kinase 14	426	0.647968590259552	0.254953	Yes	
+row_3	ADD1	ADD1	adducin 1 (alpha)	520	0.6201579570770264	0.32202846	Yes	
+row_4	HIST1H1C	HIST1H1C	histone cluster 1, H1c	581	0.5971025824546814	0.38933006	Yes	
+row_5	CPNE8	CPNE8	copine VIII	688	0.5621395707130432	0.4481325	Yes	
+row_6	SKAP2	SKAP2	src kinase associated phosphoprotein 2	789	0.5326653122901917	0.5038925	Yes	
+row_7	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1183	0.4526088535785675	0.52291363	Yes	
+row_8	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	1231	0.4436311423778534	0.572694	Yes	
+row_9	FASLG	FASLG	Fas ligand (TNF superfamily, member 6)	1657	0.3718077540397644	0.57891417	Yes	
+row_10	FLT3LG	FLT3LG	fms-related tyrosine kinase 3 ligand	1694	0.3649115264415741	0.6201062	Yes	
+row_11	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	1720	0.3604777157306671	0.6617702	Yes	
+row_12	RAB32	RAB32	RAB32, member RAS oncogene family	2401	0.2800276577472687	0.63332015	No	
+row_13	MAP6	MAP6	microtubule-associated protein 6	3931	0.12470364570617676	0.5077636	No	
+row_14	CAST	CAST	calpastatin	5259	0.017609551548957825	0.38774234	No	
+row_15	MMP1	MMP1	matrix metallopeptidase 1 (interstitial collagenase)	5337	0.011274192482233047	0.38202846	No	
+row_16	HYAL3	HYAL3	hyaluronoglucosaminidase 3	6264	-0.06491050124168396	0.3046939	No	
+row_17	MSC	MSC	musculin (activated B-cell factor-1)	6344	-0.07052654027938843	0.3060226	No	
+row_18	FGF12	FGF12	fibroblast growth factor 12	6542	-0.08656252175569534	0.29844356	No	
+row_19	EDIL3	EDIL3	EGF-like repeats and discoidin I-like domains 3	6676	-0.0983496829867363	0.29819423	No	
+row_20	NAB1	NAB1	NGFI-A binding protein 1 (EGR1 binding protein 1)	8849	-0.3097269833087921	0.13600685	No	
+row_21	ARHGAP20	ARHGAP20	Rho GTPase activating protein 20	9686	-0.4194602072238922	0.110200636	No	

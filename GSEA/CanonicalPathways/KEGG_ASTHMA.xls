@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRG2	PRG2	proteoglycan 2, bone marrow (natural killer cell activator, eosinophil granule major basic protein)	39	0.9592048525810242	0.13098355	Yes	
+row_1	MS4A2	MS4A2	membrane-spanning 4-domains, subfamily A, member 2 (Fc fragment of IgE, high affinity I, receptor for; beta polypeptide)	87	0.8667166233062744	0.2482548	Yes	
+row_2	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	514	0.6212735772132874	0.29620203	Yes	
+row_3	HLA-DRB4	HLA-DRB4	major histocompatibility complex, class II, DR beta 4	716	0.5524282455444336	0.35520297	Yes	
+row_4	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.41820565	Yes	
+row_5	IL10	IL10	interleukin 10	1246	0.44008180499076843	0.44183686	Yes	
+row_6	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.4880691	Yes	
+row_7	HLA-DOA	HLA-DOA	major histocompatibility complex, class II, DO alpha	1484	0.399245947599411	0.5345084	Yes	
+row_8	IL9	IL9	interleukin 9	1568	0.38450512290000916	0.58081275	Yes	
+row_9	HLA-DQB1	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	2737	0.24034389853477478	0.50701135	No	
+row_10	HLA-DPB1	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	3405	0.17204107344150543	0.46974716	No	
+row_11	CCL11	CCL11	chemokine (C-C motif) ligand 11	3410	0.1717332899570465	0.49347264	No	
+row_12	IL4	IL4	interleukin 4	3450	0.16822966933250427	0.5134846	No	
+row_13	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	3938	0.12421831488609314	0.486081	No	
+row_14	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	4177	0.10438903421163559	0.47881725	No	
+row_15	RNASE3	RNASE3	ribonuclease, RNase A family, 3 (eosinophil cationic protein)	4196	0.10238330066204071	0.49152434	No	
+row_16	IL3	IL3	interleukin 3 (colony-stimulating factor, multiple)	5682	-0.014118344523012638	0.35680252	No	
+row_17	IL13	IL13	interleukin 13	6979	-0.12469364702701569	0.25499263	No	
+row_18	HLA-DQA1	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	7098	-0.13357144594192505	0.26286975	No	
+row_19	FCER1A	FCER1A	Fc fragment of IgE, high affinity I, receptor for; alpha polypeptide	7841	-0.2010926753282547	0.22277723	No	
+row_20	IL5	IL5	interleukin 5 (colony-stimulating factor, eosinophil)	9609	-0.4074488580226898	0.117278896	No	

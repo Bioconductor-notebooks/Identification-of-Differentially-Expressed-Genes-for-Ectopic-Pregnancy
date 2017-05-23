@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GALNTL2	GALNTL2	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 2	319	0.6968408823013306	0.07810248	Yes	
+row_1	C1GALT1	C1GALT1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1	606	0.5910693407058716	0.14293127	Yes	
+row_2	GALNTL4	GALNTL4	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 4	608	0.5904390215873718	0.23388425	Yes	
+row_3	GALNT6	GALNT6	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 6 (GalNAc-T6)	645	0.5761174559593201	0.31940868	Yes	
+row_4	ST3GAL1	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	992	0.492369681596756	0.36349782	Yes	
+row_5	GALNT13	GALNT13	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 13 (GalNAc-T13)	1197	0.4499220550060272	0.41410628	Yes	
+row_6	GALNTL5	GALNTL5	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 5	3866	0.1299908310174942	0.18868195	No	
+row_7	GALNT10	GALNT10	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 10 (GalNAc-T10)	6054	-0.04732397943735123	-0.0052352217	No	
+row_8	GALNTL1	GALNTL1	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 1	6445	-0.07826828956604004	-0.029048212	No	
+row_9	GCNT3	GCNT3	glucosaminyl (N-acetyl) transferase 3, mucin type	6583	-0.09110784530639648	-0.02760415	No	
+row_10	GALNT12	GALNT12	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 12 (GalNAc-T12)	8389	-0.2566472589969635	-0.1540981	No	
+row_11	ST3GAL2	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	8568	-0.2763917148113251	-0.12785569	No	
+row_12	ST6GALNAC1	ST6GALNAC1	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	9533	-0.396666556596756	-0.1553828	No	
+row_13	GALNT7	GALNT7	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7)	10789	-0.7782820463180542	-0.15083866	No	
+row_14	GALNT1	GALNT1	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 1 (GalNAc-T1)	10872	-1.0336999893188477	0.0010122115	No	

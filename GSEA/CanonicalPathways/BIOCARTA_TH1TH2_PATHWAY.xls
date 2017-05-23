@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.14056332	Yes	
+row_1	IL18R1	IL18R1	interleukin 18 receptor 1	158	0.7955359220504761	0.22578156	Yes	
+row_2	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.29923835	Yes	
+row_3	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	514	0.6212735772132874	0.3575595	Yes	
+row_4	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.39356217	Yes	
+row_5	CD86	CD86	CD86 molecule	1191	0.45085471868515015	0.41653594	Yes	
+row_6	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.46887353	Yes	
+row_7	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	1318	0.4259844720363617	0.5132396	Yes	
+row_8	IL4R	IL4R	interleukin 4 receptor	1322	0.4254031479358673	0.565817	Yes	
+row_9	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.61236566	Yes	
+row_10	CD28	CD28	CD28 molecule	1420	0.4092986583709717	0.6595367	Yes	
+row_11	IFNGR1	IFNGR1	interferon gamma receptor 1	1550	0.3873807489871979	0.69579315	Yes	
+row_12	IL4	IL4	interleukin 4	3450	0.16822966933250427	0.54191315	No	
+row_13	IFNG	IFNG	interferon, gamma	3788	0.13774867355823517	0.5280105	No	
+row_14	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	3938	0.12421831488609314	0.52973	No	
+row_15	IL12RB2	IL12RB2	interleukin 12 receptor, beta 2	4161	0.1060311496257782	0.5224711	No	
+row_16	IFNGR2	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)	6340	-0.07026460021734238	0.33074078	No	
+row_17	IL2	IL2	interleukin 2	8635	-0.2841058373451233	0.15490234	No	
+row_18	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	0.11155081	No	

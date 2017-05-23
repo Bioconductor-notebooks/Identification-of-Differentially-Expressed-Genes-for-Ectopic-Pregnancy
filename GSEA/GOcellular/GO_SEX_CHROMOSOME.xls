@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SMARCB1	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	1996	0.32387420535087585	-0.13224226	No	
+row_1	SIN3B	SIN3B	SIN3 homolog B, transcription regulator (yeast)	2047	0.31806159019470215	-0.086300984	No	
+row_2	DAXX	DAXX	death-associated protein 6	3152	0.19639824330806732	-0.156702	No	
+row_3	UBE2B	UBE2B	ubiquitin-conjugating enzyme E2B (RAD6 homolog)	4164	0.1057344377040863	-0.2329508	No	
+row_4	PLK4	PLK4	polo-like kinase 4 (Drosophila)	4936	0.040739960968494415	-0.29743862	No	
+row_5	SUMO1	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	5504	-0.0014547808095812798	-0.34939334	No	
+row_6	UBE2A	UBE2A	ubiquitin-conjugating enzyme E2A (RAD6 homolog)	6663	-0.09744591265916824	-0.44048896	No	
+row_7	H2AFX	H2AFX	H2A histone family, member X	7435	-0.16274268925189972	-0.48558933	No	
+row_8	ESCO2	ESCO2	establishment of cohesion 1 homolog 2 (S. cerevisiae)	7576	-0.17542056739330292	-0.4705986	No	
+row_9	EED	EED	embryonic ectoderm development	7792	-0.19675356149673462	-0.45912078	No	
+row_10	RING1	RING1	ring finger protein 1	7986	-0.21350595355033875	-0.442956	No	
+row_11	SUZ12	SUZ12	suppressor of zeste 12 homolog (Drosophila)	9231	-0.3554827868938446	-0.50096226	Yes	
+row_12	H2AFY2	H2AFY2	H2A histone family, member Y2	9245	-0.35674309730529785	-0.44546866	Yes	
+row_13	DMRTC2	DMRTC2	DMRT-like family C2	9445	-0.3815639019012451	-0.40315	Yes	
+row_14	DNMT3A	DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	10161	-0.5086221694946289	-0.3881324	Yes	
+row_15	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.32533672	Yes	
+row_16	BIRC2	BIRC2	baculoviral IAP repeat-containing 2	10668	-0.6698684096336365	-0.23103695	Yes	
+row_17	SMC5	SMC5	structural maintenance of chromosomes 5	10796	-0.787132203578949	-0.11764256	Yes	
+row_18	H2AFY	H2AFY	H2A histone family, member Y	10799	-0.7901180982589722	0.007731142	Yes	

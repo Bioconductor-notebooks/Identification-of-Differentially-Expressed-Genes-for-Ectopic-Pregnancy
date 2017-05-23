@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PKN1	PKN1	protein kinase N1	147	0.8053354620933533	0.097430736	No	
+row_1	MAPK14	MAPK14	mitogen-activated protein kinase 14	426	0.647968590259552	0.1611235	No	
+row_2	ULK1	ULK1	unc-51-like kinase 1 (C. elegans)	1867	0.3384068012237549	0.07522575	No	
+row_3	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	2026	0.3202206492424011	0.104805	No	
+row_4	CDC7	CDC7	CDC7 cell division cycle 7 (S. cerevisiae)	2171	0.3061806857585907	0.13373825	No	
+row_5	CDK3	CDK3	cyclin-dependent kinase 3	4266	0.09708293527364731	-0.045596864	No	
+row_6	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	-0.28234756	No	
+row_7	CSNK1G2	CSNK1G2	casein kinase 1, gamma 2	7149	-0.13729505240917206	-0.27410653	No	
+row_8	MAPK6	MAPK6	mitogen-activated protein kinase 6	7345	-0.15612618625164032	-0.27054134	No	
+row_9	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	8092	-0.2246864289045334	-0.30823857	No	
+row_10	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	9130	-0.3436282277107239	-0.35632873	Yes	
+row_11	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	9313	-0.36291271448135376	-0.3230761	Yes	
+row_12	PRPF4B	PRPF4B	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	9385	-0.3723583519458771	-0.27830666	Yes	
+row_13	MARK3	MARK3	MAP/microtubule affinity-regulating kinase 3	10037	-0.48027798533439636	-0.27204558	Yes	
+row_14	NEK2	NEK2	NIMA (never in mitosis gene a)-related kinase 2	10140	-0.5047721266746521	-0.21188514	Yes	
+row_15	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.16393368	Yes	
+row_16	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	10623	-0.6521291136741638	-0.082089916	Yes	
+row_17	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.009387054	Yes	

@@ -1,0 +1,106 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLR2K	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	302	0.7031364440917969	-0.004005435	No	
+row_1	NDUFA4L2	NDUFA4L2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4-like 2	672	0.5656494498252869	-0.01892182	No	
+row_2	TGM2	TGM2	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)	685	0.5631316900253296	-8.042306E-4	No	
+row_3	CLTB	CLTB	clathrin, light chain (Lcb)	770	0.5393751859664917	0.009822423	No	
+row_4	POLR2L	POLR2L	polymerase (RNA) II (DNA directed) polypeptide L, 7.6kDa	834	0.523287832736969	0.021847928	No	
+row_5	CREB3L2	CREB3L2	cAMP responsive element binding protein 3-like 2	945	0.501147985458374	0.02875703	No	
+row_6	COX7A1	COX7A1	cytochrome c oxidase subunit VIIa polypeptide 1 (muscle)	1042	0.48075976967811584	0.0362687	No	
+row_7	ITPR1	ITPR1	inositol 1,4,5-triphosphate receptor, type 1	1068	0.4766588807106018	0.050227206	No	
+row_8	NDUFB1	NDUFB1	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 1, 7kDa	1098	0.4708869755268097	0.06361751	No	
+row_9	NDUFS4	NDUFS4	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)	1372	0.41714686155319214	0.052535992	No	
+row_10	SDHD	SDHD	succinate dehydrogenase complex, subunit D, integral membrane protein	1559	0.38514724373817444	0.04843294	No	
+row_11	SOD2	SOD2	superoxide dismutase 2, mitochondrial	1754	0.3548535704612732	0.042553175	No	
+row_12	COX4I2	COX4I2	cytochrome c oxidase subunit IV isoform 2 (lung)	2223	0.3007209300994873	0.0094049955	No	
+row_13	NDUFB2	NDUFB2	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 2, 8kDa	2381	0.2819739282131195	0.0044690054	No	
+row_14	ATP5J	ATP5J	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F6	2520	0.26584216952323914	7.448044E-4	No	
+row_15	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	2588	0.2581649124622345	0.0033453088	No	
+row_16	ATP5A1	ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	2811	0.2319898009300232	-0.009327875	No	
+row_17	ATP5H	ATP5H	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit d	2937	0.21802185475826263	-0.013479084	No	
+row_18	TAF4	TAF4	TAF4 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 135kDa	2970	0.2142617404460907	-0.009130812	No	
+row_19	PLCB2	PLCB2	phospholipase C, beta 2	3336	0.17916175723075867	-0.036874603	No	
+row_20	AP2S1	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	3548	0.1591176688671112	-0.051015858	No	
+row_21	DNAI1	DNAI1	dynein, axonemal, intermediate chain 1	3690	0.14680081605911255	-0.059083622	No	
+row_22	NDUFC2	NDUFC2	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2, 14.5kDa	3930	0.12471019476652145	-0.07699753	No	
+row_23	SDHC	SDHC	succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa	4008	0.11889512836933136	-0.0800808	No	
+row_24	POLR2C	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	4202	0.10199275612831116	-0.09450295	No	
+row_25	AP2A1	AP2A1	adaptor-related protein complex 2, alpha 1 subunit	4205	0.10185234248638153	-0.09121025	No	
+row_26	VDAC3	VDAC3	voltage-dependent anion channel 3	4451	0.08029729872941971	-0.111197494	No	
+row_27	APAF1	APAF1	apoptotic peptidase activating factor	4561	0.07209305465221405	-0.11884778	No	
+row_28	COX6A2	COX6A2	cytochrome c oxidase subunit VIa polypeptide 2	4700	0.06084844470024109	-0.12957248	No	
+row_29	POLR2A	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	4773	0.054010964930057526	-0.13440767	No	
+row_30	GRIN2B	GRIN2B	glutamate receptor, ionotropic, N-methyl D-aspartate 2B	4829	0.04911106824874878	-0.13783306	No	
+row_31	GRIN1	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	4998	0.03678501769900322	-0.15216272	No	
+row_32	NDUFAB1	NDUFAB1	NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa	5007	0.03638511896133423	-0.15166235	No	
+row_33	PPARG	PPARG	peroxisome proliferative activated receptor, gamma	5124	0.02783171646296978	-0.16147357	No	
+row_34	NDUFB10	NDUFB10	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10, 22kDa	5373	0.008312959223985672	-0.18419738	No	
+row_35	HIP1	HIP1	huntingtin interacting protein 1	5464	0.0012425753520801663	-0.19250451	No	
+row_36	AP2A2	AP2A2	adaptor-related protein complex 2, alpha 2 subunit	5581	-0.006486812606453896	-0.20304465	No	
+row_37	COX7C	COX7C	cytochrome c oxidase subunit VIIc	5663	-0.013267641887068748	-0.21010618	No	
+row_38	VDAC2	VDAC2	voltage-dependent anion channel 2	5794	-0.024561291560530663	-0.2213279	No	
+row_39	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	-0.22849211	No	
+row_40	NDUFA6	NDUFA6	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6, 14kDa	6420	-0.0770791545510292	-0.2754934	No	
+row_41	COX4I1	COX4I1	cytochrome c oxidase subunit IV isoform 1	6426	-0.07731466740369797	-0.273317	No	
+row_42	GRM5	GRM5	glutamate receptor, metabotropic 5	6507	-0.0834270641207695	-0.27788982	No	
+row_43	COX7B	COX7B	cytochrome c oxidase subunit VIIb	6585	-0.09117656946182251	-0.28191966	No	
+row_44	SLC25A4	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	6644	-0.09614712744951248	-0.2840171	No	
+row_45	NDUFA8	NDUFA8	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 8, 19kDa	6741	-0.10434625297784805	-0.2893599	No	
+row_46	DCTN2	DCTN2	dynactin 2 (p50)	6821	-0.11168310046195984	-0.292875	No	
+row_47	CREB3	CREB3	cAMP responsive element binding protein 3	6850	-0.11387698352336884	-0.29158375	No	
+row_48	SDHB	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip)	6866	-0.11515005677938461	-0.28904298	No	
+row_49	TBPL1	TBPL1	TBP-like 1	6971	-0.12420489639043808	-0.2944498	No	
+row_50	CLTA	CLTA	clathrin, light chain (Lca)	7099	-0.13359393179416656	-0.30166975	Yes	
+row_51	BDNF	BDNF	brain-derived neurotrophic factor	7103	-0.13379015028476715	-0.29737917	Yes	
+row_52	NDUFS1	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase)	7156	-0.13803349435329437	-0.29748952	Yes	
+row_53	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	-0.29359025	Yes	
+row_54	IFT57	IFT57	intraflagellar transport 57 homolog (Chlamydomonas)	7265	-0.14915359020233154	-0.2975884	Yes	
+row_55	DLG4	DLG4	discs, large homolog 4 (Drosophila)	7287	-0.15052390098571777	-0.29439628	Yes	
+row_56	ATP5G2	ATP5G2	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C2 (subunit 9)	7325	-0.15408793091773987	-0.2925668	Yes	
+row_57	DCTN4	DCTN4	dynactin 4 (p62)	7368	-0.15816408395767212	-0.29106197	Yes	
+row_58	NDUFA7	NDUFA7	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 7, 14.5kDa	7402	-0.16035056114196777	-0.28864753	Yes	
+row_59	CYCS	CYCS	cytochrome c, somatic	7447	-0.16420377790927887	-0.287122	Yes	
+row_60	NDUFA5	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa	7519	-0.17091886699199677	-0.28787205	Yes	
+row_61	NDUFS2	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)	7668	-0.1849483698606491	-0.29528648	Yes	
+row_62	CREB3L3	CREB3L3	cAMP responsive element binding protein 3-like 3	7670	-0.18504129350185394	-0.28906012	Yes	
+row_63	SIN3A	SIN3A	SIN3 homolog A, transcription regulator (yeast)	7700	-0.18813608586788177	-0.28532574	Yes	
+row_64	DNAH1	DNAH1	dynein, axonemal, heavy chain 1	7752	-0.19331936538219452	-0.2834553	Yes	
+row_65	NDUFV2	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa	7849	-0.2018851935863495	-0.28546718	Yes	
+row_66	PPID	PPID	peptidylprolyl isomerase D (cyclophilin D)	7882	-0.2042248547077179	-0.28146166	Yes	
+row_67	ATP5F1	ATP5F1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit B1	8029	-0.2173806130886078	-0.287583	Yes	
+row_68	TAF4B	TAF4B	TAF4b RNA polymerase II, TATA box binding protein (TBP)-associated factor, 105kDa	8074	-0.22331109642982483	-0.28403896	Yes	
+row_69	DCTN1	DCTN1	dynactin 1 (p150, glued homolog, Drosophila)	8127	-0.22783243656158447	-0.28108272	Yes	
+row_70	COX7A2L	COX7A2L	cytochrome c oxidase subunit VIIa polypeptide 2 like	8165	-0.23133666813373566	-0.2766152	Yes	
+row_71	CREB5	CREB5	cAMP responsive element binding protein 5	8185	-0.23370817303657532	-0.2703968	Yes	
+row_72	ATP5O	ATP5O	ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit (oligomycin sensitivity conferring protein)	8212	-0.23695097863674164	-0.26471704	Yes	
+row_73	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	8402	-0.2586412727832794	-0.27341858	Yes	
+row_74	DNAH3	DNAH3	dynein, axonemal, heavy chain 3	8426	-0.26150083541870117	-0.26662216	Yes	
+row_75	NDUFC1	NDUFC1	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 1, 6kDa	8590	-0.27901598811149597	-0.27221578	Yes	
+row_76	BBC3	BBC3	BCL2 binding component 3	8755	-0.29909074306488037	-0.27721664	Yes	
+row_77	NDUFB8	NDUFB8	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa	8809	-0.3051130771636963	-0.27171406	Yes	
+row_78	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	8828	-0.30668458342552185	-0.26291072	Yes	
+row_79	BAX	BAX	BCL2-associated X protein	8851	-0.3098953068256378	-0.25436884	Yes	
+row_80	ATP5B	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	8859	-0.31066930294036865	-0.24440895	Yes	
+row_81	ATP5G3	ATP5G3	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C3 (subunit 9)	8989	-0.32681161165237427	-0.2452161	Yes	
+row_82	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.24914934	Yes	
+row_83	UQCRFS1	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1	9232	-0.3556801378726959	-0.2435898	Yes	
+row_84	POLR2F	POLR2F	polymerase (RNA) II (DNA directed) polypeptide F	9506	-0.39237406849861145	-0.2555173	Yes	
+row_85	NDUFB9	NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa	9687	-0.41963186860084534	-0.25788608	Yes	
+row_86	HAP1	HAP1	huntingtin-associated protein 1 (neuroan 1)	9691	-0.4203493595123291	-0.24380952	Yes	
+row_87	NDUFA2	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa	9730	-0.4256703555583954	-0.23279832	Yes	
+row_88	RCOR1	RCOR1	REST corepressor 1	9815	-0.44140368700027466	-0.22551738	Yes	
+row_89	NDUFB7	NDUFB7	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 7, 18kDa	9829	-0.4436003267765045	-0.21157454	Yes	
+row_90	NDUFV1	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa	9887	-0.4550378620624542	-0.20132312	Yes	
+row_91	NDUFS7	NDUFS7	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)	10036	-0.47996091842651367	-0.19866294	Yes	
+row_92	PLCB3	PLCB3	phospholipase C, beta 3 (phosphatidylinositol-specific)	10226	-0.5248273015022278	-0.19827425	Yes	
+row_93	NDUFS8	NDUFS8	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)	10269	-0.5345879793167114	-0.18391462	Yes	
+row_94	POLR2H	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	10287	-0.5390080809593201	-0.16708471	Yes	
+row_95	REST	REST	RE1-silencing transcription factor	10323	-0.5498949885368347	-0.15155293	Yes	
+row_96	ATP5C1	ATP5C1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	10387	-0.5656885504722595	-0.13807945	Yes	
+row_97	TFAM	TFAM	transcription factor A, mitochondrial	10410	-0.5736064910888672	-0.12053187	Yes	
+row_98	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.11024945	Yes	
+row_99	POLR2J2	POLR2J2	-	10562	-0.6232295632362366	-0.09249163	Yes	
+row_100	TBP	TBP	TATA box binding protein	10588	-0.6363654136657715	-0.07307916	Yes	
+row_101	UQCRC1	UQCRC1	ubiquinol-cytochrome c reductase core protein I	10606	-0.6445335745811462	-0.052645575	Yes	
+row_102	CLTC	CLTC	clathrin, heavy chain (Hc)	10627	-0.6533210873603821	-0.032190215	Yes	
+row_103	SP1	SP1	Sp1 transcription factor	10783	-0.7691423296928406	-0.02030393	Yes	
+row_104	COX5B	COX5B	cytochrome c oxidase subunit Vb	10835	-0.8635061979293823	0.00445326	Yes	

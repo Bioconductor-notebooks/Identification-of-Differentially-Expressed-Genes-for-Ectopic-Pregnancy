@@ -1,0 +1,37 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.082675815	Yes	
+row_1	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.15512511	Yes	
+row_2	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.22408731	Yes	
+row_3	IRF7	IRF7	interferon regulatory factor 7	30	0.9863246083259583	0.28976074	Yes	
+row_4	OAS3	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	92	0.8597618341445923	0.3420268	Yes	
+row_5	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	94	0.8560484647750854	0.3995738	Yes	
+row_6	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.4065718	Yes	
+row_7	OASL	OASL	2'-5'-oligoadenylate synthetase-like	539	0.6115098595619202	0.44249135	Yes	
+row_8	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.47997728	Yes	
+row_9	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.5121402	Yes	
+row_10	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.5282684	Yes	
+row_11	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.55770886	Yes	
+row_12	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.5879684	Yes	
+row_13	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.5956876	Yes	
+row_14	RNASEL	RNASEL	ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent)	1611	0.3788950741291046	0.58248246	No	
+row_15	SOCS3	SOCS3	suppressor of cytokine signaling 3	1985	0.3247014284133911	0.56996095	No	
+row_16	IFNA7	IFNA7	interferon, alpha 7	2695	0.2456003725528717	0.5211399	No	
+row_17	IFNA4	IFNA4	interferon, alpha 4	2781	0.23530040681362152	0.52914757	No	
+row_18	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	3071	0.20460627973079681	0.5162832	No	
+row_19	IFNA17	IFNA17	interferon, alpha 17	4376	0.08752031624317169	0.4019696	No	
+row_20	IFITM2	IFITM2	interferon induced transmembrane protein 2 (1-8D)	4840	0.04848024249076843	0.36255318	No	
+row_21	IFNA21	IFNA21	interferon, alpha 21	5168	0.023904120549559593	0.3340189	No	
+row_22	IRF2	IRF2	interferon regulatory factor 2	5417	0.00508889090269804	0.31150016	No	
+row_23	IFNA1	IFNA1	interferon, alpha 1	5617	-0.009364314377307892	0.2937863	No	
+row_24	IRF1	IRF1	interferon regulatory factor 1	6401	-0.0753432959318161	0.22668007	No	
+row_25	IRF4	IRF4	interferon regulatory factor 4	6715	-0.10203070938587189	0.20469673	No	
+row_26	IFNB1	IFNB1	interferon, beta 1, fibroblast	6760	-0.1061411052942276	0.20778733	No	
+row_27	IFNA14	IFNA14	interferon, alpha 14	6853	-0.11391837149858475	0.20697683	No	
+row_28	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	7609	-0.17886771261692047	0.14942221	No	
+row_29	IFNA8	IFNA8	interferon, alpha 8	7667	-0.18490375578403473	0.15661767	No	
+row_30	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	8143	-0.22929127514362335	0.12826936	No	
+row_31	GBP2	GBP2	guanylate binding protein 2, interferon-inducible	8974	-0.32536792755126953	0.073665135	No	
+row_32	IRF3	IRF3	interferon regulatory factor 3	9263	-0.35825881361961365	0.07123864	No	
+row_33	IFNA16	IFNA16	interferon, alpha 16	9368	-0.3695545494556427	0.08653434	No	
+row_34	IRF6	IRF6	interferon regulatory factor 6	9476	-0.386247843503952	0.102677494	No	
+row_35	IFNA10	IFNA10	interferon, alpha 10	9556	-0.3999842405319214	0.12232666	No	

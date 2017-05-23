@@ -1,0 +1,41 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SEMA3A	SEMA3A	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5	1.1696295738220215	0.07063827	Yes	
+row_1	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.13621518	Yes	
+row_2	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.19843018	Yes	
+row_3	HERC5	HERC5	hect domain and RLD 5	66	0.9037300944328308	0.24930851	Yes	
+row_4	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	94	0.8560484647750854	0.29885608	Yes	
+row_5	CLU	CLU	clusterin	144	0.8093606233596802	0.3435368	Yes	
+row_6	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	164	0.7893309593200684	0.38976645	Yes	
+row_7	HPSE	HPSE	heparanase	268	0.7203890681266785	0.4240591	Yes	
+row_8	SAMD9	SAMD9	sterile alpha motif domain containing 9	478	0.6333821415901184	0.44328773	Yes	
+row_9	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.4815456	Yes	
+row_10	OASL	OASL	2'-5'-oligoadenylate synthetase-like	539	0.6115098595619202	0.51346165	Yes	
+row_11	TIMP3	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	542	0.6111975908279419	0.55043066	Yes	
+row_12	ALDH1A3	ALDH1A3	aldehyde dehydrogenase 1 family, member A3	1406	0.4113510251045227	0.49585265	No	
+row_13	EVI2B	EVI2B	ecotropic viral integration site 2B	1425	0.4087713956832886	0.5190411	No	
+row_14	FAM46A	FAM46A	family with sequence similarity 46, member A	1691	0.36590448021888733	0.51684624	No	
+row_15	DDX58	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	2471	0.271854966878891	0.46153477	No	
+row_16	BMP4	BMP4	bone morphogenetic protein 4	3830	0.13352465629577637	0.3444209	No	
+row_17	HERC6	HERC6	hect domain and RLD 6	4553	0.0723920539021492	0.28224087	No	
+row_18	PDLIM5	PDLIM5	PDZ and LIM domain 5	4554	0.07237190008163452	0.28664023	No	
+row_19	IFIH1	IFIH1	interferon induced with helicase C domain 1	4876	0.04537920653820038	0.2597971	No	
+row_20	CXCL11	CXCL11	chemokine (C-X-C motif) ligand 11	5136	0.027039935812354088	0.23755662	No	
+row_21	MAGEA3	MAGEA3	melanoma antigen family A, 3	5759	-0.02120891772210598	0.18148696	No	
+row_22	GPRC5A	GPRC5A	G protein-coupled receptor, family C, group 5, member A	5817	-0.027045538648962975	0.17787464	No	
+row_23	MALL	MALL	mal, T-cell differentiation protein-like	5870	-0.031094655394554138	0.17496954	No	
+row_24	DAAM1	DAAM1	dishevelled associated activator of morphogenesis 1	5916	-0.03526424244046211	0.17296343	No	
+row_25	MAPRE2	MAPRE2	microtubule-associated protein, RP/EB family, member 2	6580	-0.09072406589984894	0.11733855	No	
+row_26	ZFP36L2	ZFP36L2	zinc finger protein 36, C3H type-like 2	6586	-0.09121311455965042	0.12242213	No	
+row_27	TMEM70	TMEM70	transmembrane protein 70	6718	-0.10228180140256882	0.11655921	No	
+row_28	CH25H	CH25H	cholesterol 25-hydroxylase	6781	-0.10796239227056503	0.11740457	No	
+row_29	NOV	NOV	nephroblastoma overexpressed gene	7309	-0.15258459746837616	0.07808157	No	
+row_30	ABCG2	ABCG2	ATP-binding cassette, sub-family G (WHITE), member 2	7500	-0.16938553750514984	0.07085696	No	
+row_31	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	7609	-0.17886771261692047	0.07177053	No	
+row_32	CCNE2	CCNE2	cyclin E2	8596	-0.27950018644332886	-0.0021650894	No	
+row_33	COL1A2	COL1A2	collagen, type I, alpha 2	9299	-0.3605695366859436	-0.044983074	No	
+row_34	SLIT2	SLIT2	slit homolog 2 (Drosophila)	9510	-0.39274996519088745	-0.04047417	No	
+row_35	NR2F1	NR2F1	nuclear receptor subfamily 2, group F, member 1	9602	-0.40666237473487854	-0.024145743	No	
+row_36	ADAM28	ADAM28	ADAM metallopeptidase domain 28	9919	-0.45878106355667114	-0.025397932	No	
+row_37	CD24	CD24	CD24 molecule	10045	-0.4813879132270813	-0.0076624705	No	
+row_38	PTN	PTN	pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	10553	-0.6196275353431702	-0.016750565	No	
+row_39	EFNB2	EFNB2	ephrin-B2	10786	-0.7746605277061462	0.008945122	No	

@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTK2B	PTK2B	PTK2B protein tyrosine kinase 2 beta	20	1.0311212539672852	0.19750075	Yes	
+row_1	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.28370586	Yes	
+row_2	PTK2	PTK2	PTK2 protein tyrosine kinase 2	938	0.5018228888511658	0.3348059	Yes	
+row_3	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	1231	0.4436311423778534	0.3937028	Yes	
+row_4	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.41268983	Yes	
+row_5	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	0.46822816	Yes	
+row_6	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	3487	0.1646052598953247	0.35172504	No	
+row_7	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	3501	0.1632448434829712	0.3820881	No	
+row_8	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.35532588	No	
+row_9	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	4625	0.0662061870098114	0.3142054	No	
+row_10	PXN	PXN	paxillin	5058	0.03304290026426315	0.28084368	No	
+row_11	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	0.08477829	No	
+row_12	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	0.1050975	No	
+row_13	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	8402	-0.2586412727832794	0.094002396	No	
+row_14	PLCG1	PLCG1	phospholipase C, gamma 1	8440	-0.2628726661205292	0.14141764	No	
+row_15	CXCL12	CXCL12	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	9760	-0.43077120184898376	0.10333079	No	

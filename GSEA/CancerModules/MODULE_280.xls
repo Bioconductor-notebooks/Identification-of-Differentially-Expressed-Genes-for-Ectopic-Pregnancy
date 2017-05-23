@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MMP14	MMP14	matrix metallopeptidase 14 (membrane-inserted)	444	0.6425198316574097	0.04563178	No	
+row_1	ANPEP	ANPEP	alanyl (membrane) aminopeptidase (aminopeptidase N, aminopeptidase M, microsomal aminopeptidase, CD13, p150)	1225	0.444934219121933	0.033727303	No	
+row_2	ACE	ACE	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1	1339	0.42234063148498535	0.08018758	No	
+row_3	ECEL1	ECEL1	endothelin converting enzyme-like 1	1360	0.41899213194847107	0.13475898	No	
+row_4	BMP1	BMP1	bone morphogenetic protein 1	1837	0.3426437973976135	0.1370697	No	
+row_5	PTPRZ1	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1	2756	0.23814047873020172	0.084617876	No	
+row_6	ADAM9	ADAM9	ADAM metallopeptidase domain 9 (meltrin gamma)	3034	0.2078825831413269	0.08710523	No	
+row_7	ZNF117	ZNF117	zinc finger protein 117	3513	0.1618790179491043	0.06489383	No	
+row_8	MMP12	MMP12	matrix metallopeptidase 12 (macrophage elastase)	3983	0.12056189775466919	0.037948113	No	
+row_9	CA5A	CA5A	carbonic anhydrase VA, mitochondrial	4021	0.11804328113794327	0.05043497	No	
+row_10	CRYZL1	CRYZL1	crystallin, zeta (quinone reductase)-like 1	5032	0.034458424896001816	-0.037910298	No	
+row_11	MMP1	MMP1	matrix metallopeptidase 1 (interstitial collagenase)	5337	0.011274192482233047	-0.064379826	No	
+row_12	CA2	CA2	carbonic anhydrase II	5984	-0.041115280240774155	-0.1183175	No	
+row_13	TRAF3	TRAF3	TNF receptor-associated factor 3	6661	-0.09713748097419739	-0.16747431	No	
+row_14	CA4	CA4	carbonic anhydrase IV	7278	-0.1499512940645218	-0.2039965	No	
+row_15	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	8137	-0.228673055768013	-0.25219917	No	
+row_16	ZNF146	ZNF146	zinc finger protein 146	9732	-0.42620620131492615	-0.3415653	Yes	
+row_17	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	10024	-0.47733598947525024	-0.30408794	Yes	
+row_18	LTA4H	LTA4H	leukotriene A4 hydrolase	10199	-0.5182232856750488	-0.25033402	Yes	
+row_19	PTPRG	PTPRG	protein tyrosine phosphatase, receptor type, G	10350	-0.5558363199234009	-0.18930638	Yes	
+row_20	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	-0.12665571	Yes	
+row_21	GALNT1	GALNT1	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 1 (GalNAc-T1)	10872	-1.0336999893188477	0.0010126224	Yes	

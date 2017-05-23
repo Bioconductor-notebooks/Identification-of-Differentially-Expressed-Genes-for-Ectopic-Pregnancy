@@ -1,0 +1,52 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	50	0.9310548901557922	0.04674693	Yes	
+row_1	ATOH8	ATOH8	atonal homolog 8 (Drosophila)	176	0.7804908752441406	0.07826457	Yes	
+row_2	DEFB1	DEFB1	defensin, beta 1	358	0.6764786839485168	0.0988749	Yes	
+row_3	IGFBP3	IGFBP3	insulin-like growth factor binding protein 3	405	0.6546632647514343	0.13074368	Yes	
+row_4	KLHL21	KLHL21	kelch-like 21 (Drosophila)	420	0.6493654251098633	0.16527414	Yes	
+row_5	SEMA3B	SEMA3B	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B	626	0.5833942890167236	0.17853394	Yes	
+row_6	TMEM37	TMEM37	transmembrane protein 37	694	0.5601407289505005	0.20324978	Yes	
+row_7	PTRH1	PTRH1	peptidyl-tRNA hydrolase 1 homolog (S. cerevisiae)	737	0.5483155846595764	0.22962105	Yes	
+row_8	MRPS6	MRPS6	mitochondrial ribosomal protein S6	991	0.49281156063079834	0.23345286	Yes	
+row_9	FBLN5	FBLN5	fibulin 5	1087	0.4730991721153259	0.25078228	Yes	
+row_10	RHOD	RHOD	ras homolog gene family, member D	1120	0.4675191640853882	0.27361944	Yes	
+row_11	FAS	FAS	Fas (TNF receptor superfamily, member 6)	1213	0.4470568597316742	0.28978917	Yes	
+row_12	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.30965102	Yes	
+row_13	COL4A6	COL4A6	collagen, type IV, alpha 6	1592	0.3820554316043854	0.30017266	Yes	
+row_14	RASSF4	RASSF4	Ras association (RalGDS/AF-6) domain family 4	1645	0.3733518123626709	0.3159688	Yes	
+row_15	PQLC3	PQLC3	PQ loop repeat containing 3	1835	0.3427351713180542	0.3174294	Yes	
+row_16	OGN	OGN	osteoglycin (osteoinductive factor, mimecan)	1886	0.3360936939716339	0.33135477	Yes	
+row_17	FMOD	FMOD	fibromodulin	1936	0.32993432879447937	0.34503266	Yes	
+row_18	CCDC96	CCDC96	coiled-coil domain containing 96	1944	0.32918572425842285	0.3625463	Yes	
+row_19	GPNMB	GPNMB	glycoprotein (transmembrane) nmb	1982	0.3254634439945221	0.3770853	Yes	
+row_20	TBC1D2B	TBC1D2B	TBC1 domain family, member 2B	2093	0.314923495054245	0.38430417	Yes	
+row_21	EREG	EREG	epiregulin	2231	0.299487829208374	0.38817912	Yes	
+row_22	ANXA1	ANXA1	annexin A1	2270	0.29581737518310547	0.40099037	Yes	
+row_23	TNFRSF12A	TNFRSF12A	tumor necrosis factor receptor superfamily, member 12A	2340	0.2871865928173065	0.4104638	Yes	
+row_24	PHACTR3	PHACTR3	phosphatase and actin regulator 3	2805	0.2324378341436386	0.38045436	No	
+row_25	SLC24A3	SLC24A3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 3	2813	0.23174667358398438	0.3925927	No	
+row_26	TSPO	TSPO	translocator protein (18kDa)	2932	0.21879862248897552	0.39377028	No	
+row_27	SPATA6	SPATA6	spermatogenesis associated 6	3602	0.15393686294555664	0.34050658	No	
+row_28	PKP2	PKP2	plakophilin 2	3960	0.12279798090457916	0.314326	No	
+row_29	GPR126	GPR126	G protein-coupled receptor 126	5046	0.03353055939078331	0.21601881	No	
+row_30	LBP	LBP	lipopolysaccharide binding protein	5089	0.03014107421040535	0.21380453	No	
+row_31	OMG	OMG	oligodendrocyte myelin glycoprotein	6071	-0.048774462193250656	0.12593858	No	
+row_32	P2RY1	P2RY1	purinergic receptor P2Y, G-protein coupled, 1	6094	-0.05024458095431328	0.12667952	No	
+row_33	MXRA8	MXRA8	matrix-remodelling associated 8	6278	-0.06604548543691635	0.11343016	No	
+row_34	TAGLN	TAGLN	transgelin	6429	-0.07748851925134659	0.1038583	No	
+row_35	CCNG1	CCNG1	cyclin G1	6749	-0.10529333353042603	0.080219835	No	
+row_36	AKR1B10	AKR1B10	aldo-keto reductase family 1, member B10 (aldose reductase)	7630	-0.1809341013431549	0.0089679565	No	
+row_37	PSRC1	PSRC1	proline/serine-rich coiled-coil 1	7952	-0.2109507918357849	-0.00902644	No	
+row_38	ATP8A1	ATP8A1	ATPase, aminophospholipid transporter (APLT), Class I, type 8A, member 1	8012	-0.21546946465969086	-0.0025862008	No	
+row_39	CCDC28B	CCDC28B	coiled-coil domain containing 28B	8348	-0.2513405978679657	-0.019644806	No	
+row_40	PCDH8	PCDH8	protocadherin 8	8534	-0.27210068702697754	-0.021711582	No	
+row_41	CTTN	CTTN	cortactin	8545	-0.2741435766220093	-0.0075113187	No	
+row_42	NOX4	NOX4	NADPH oxidase 4	8705	-0.29378417134284973	-0.005981833	No	
+row_43	LPIN3	LPIN3	lipin 3	8916	-0.31741848587989807	-0.007856377	No	
+row_44	KAZALD1	KAZALD1	Kazal-type serine peptidase inhibitor domain 1	9267	-0.35861706733703613	-0.02038164	No	
+row_45	ACTA2	ACTA2	actin, alpha 2, smooth muscle, aorta	9677	-0.4188385605812073	-0.035031054	No	
+row_46	COL5A1	COL5A1	collagen, type V, alpha 1	9759	-0.430505633354187	-0.01875899	No	
+row_47	LOXL2	LOXL2	lysyl oxidase-like 2	9851	-0.4487422704696655	-0.0024039901	No	
+row_48	CAPS2	CAPS2	calcyphosine 2	9914	-0.45792919397354126	0.017134821	No	
+row_49	ANXA4	ANXA4	annexin A4	10593	-0.6384804248809814	-0.010229392	No	
+row_50	VLDLR	VLDLR	very low density lipoprotein receptor	10664	-0.6690220832824707	0.020216055	No	

@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLR2K	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	302	0.7031364440917969	0.019111928	No	
+row_1	CLIC1	CLIC1	chloride intracellular channel 1	1158	0.4602015018463135	-0.029019715	No	
+row_2	PCBP1	PCBP1	poly(rC) binding protein 1	1394	0.413624107837677	-0.023067303	No	
+row_3	FXR1	FXR1	fragile X mental retardation, autosomal homolog 1	1956	0.3279474675655365	-0.052912157	No	
+row_4	ESD	ESD	esterase D/formylglutathione hydrolase	2260	0.2967883050441742	-0.0610378	No	
+row_5	RPS23	RPS23	ribosomal protein S23	2554	0.2623004913330078	-0.07054483	No	
+row_6	TAF9	TAF9	TAF9 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 32kDa	2818	0.2307073175907135	-0.079394855	No	
+row_7	CSNK2B	CSNK2B	casein kinase 2, beta polypeptide	3032	0.20820662379264832	-0.08513545	No	
+row_8	CAPZA1	CAPZA1	capping protein (actin filament) muscle Z-line, alpha 1	3587	0.1548652946949005	-0.12589698	No	
+row_9	PSMA1	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	3852	0.13128387928009033	-0.14148104	No	
+row_10	HPRT1	HPRT1	hypoxanthine phosphoribosyltransferase 1 (Lesch-Nyhan syndrome)	4159	0.10609064996242523	-0.16262265	No	
+row_11	DHPS	DHPS	deoxyhypusine synthase	4449	0.08040906488895416	-0.18391158	No	
+row_12	ACTG1	ACTG1	actin, gamma 1	5391	0.0070533971302211285	-0.2702485	No	
+row_13	MAZ	MAZ	MYC-associated zinc finger protein (purine-binding transcription factor)	5614	-0.009298627264797688	-0.29010704	No	
+row_14	PPIA	PPIA	peptidylprolyl isomerase A (cyclophilin A)	5708	-0.016138024628162384	-0.29760832	No	
+row_15	PSMB2	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	5873	-0.031209440901875496	-0.31065255	No	
+row_16	PNN	PNN	pinin, desmosome associated protein	6483	-0.08155263960361481	-0.3613854	No	
+row_17	NACA	NACA	nascent-polypeptide-associated complex alpha polypeptide	6699	-0.10015479475259781	-0.3745287	No	
+row_18	PSMA5	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	6955	-0.12313851714134216	-0.38982666	No	
+row_19	NDUFA12	NDUFA12	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 12	7291	-0.1511313021183014	-0.41063467	No	
+row_20	TCP1	TCP1	t-complex 1	7649	-0.1830902397632599	-0.43133724	No	
+row_21	RPS19	RPS19	ribosomal protein S19	7745	-0.19242416322231293	-0.42724654	No	
+row_22	ATP5F1	ATP5F1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit B1	8029	-0.2173806130886078	-0.43883187	No	
+row_23	PRMT1	PRMT1	protein arginine methyltransferase 1	8311	-0.24686232209205627	-0.4482632	No	
+row_24	ATP5B	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	8859	-0.31066930294036865	-0.47797078	No	
+row_25	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.4636873	No	
+row_26	NAP1L1	NAP1L1	nucleosome assembly protein 1-like 1	9271	-0.35899606347084045	-0.4704248	No	
+row_27	DUT	DUT	dUTP pyrophosphatase	9701	-0.42160773277282715	-0.48183572	Yes	
+row_28	H3F3A	H3F3A	H3 histone, family 3A	9820	-0.4422759711742401	-0.46317592	Yes	
+row_29	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.44853878	Yes	
+row_30	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.4254902	Yes	
+row_31	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	10129	-0.5016360878944397	-0.39308634	Yes	
+row_32	CBFB	CBFB	core-binding factor, beta subunit	10189	-0.5156906843185425	-0.36407942	Yes	
+row_33	BLMH	BLMH	bleomycin hydrolase	10190	-0.5157372355461121	-0.32962656	Yes	
+row_34	NASP	NASP	nuclear autoantigenic sperm protein (histone-binding)	10217	-0.5220777988433838	-0.29714864	Yes	
+row_35	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.26868245	Yes	
+row_36	SUMO2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10347	-0.5550322532653809	-0.23547909	Yes	
+row_37	PCBP2	PCBP2	poly(rC) binding protein 2	10360	-0.5586636662483215	-0.19926563	Yes	
+row_38	ATP5C1	ATP5C1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	10387	-0.5656885504722595	-0.16387439	Yes	
+row_39	LMNB2	LMNB2	lamin B2	10432	-0.5790160298347473	-0.12925336	Yes	
+row_40	SNRPA1	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	10504	-0.6001255512237549	-0.095712915	Yes	
+row_41	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.056933418	Yes	
+row_42	SET	SET	SET translocation (myeloid leukemia-associated)	10597	-0.6403020024299622	-0.020893564	Yes	
+row_43	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	0.015037088	Yes	

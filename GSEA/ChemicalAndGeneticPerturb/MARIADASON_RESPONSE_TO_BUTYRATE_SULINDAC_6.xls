@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARID1B	ARID1B	AT rich interactive domain 1B (SWI1-like)	912	0.5074692964553833	-0.015887167	No	
+row_1	HMGB2	HMGB2	high-mobility group box 2	3036	0.2077266126871109	-0.18353273	No	
+row_2	PLCB2	PLCB2	phospholipase C, beta 2	3336	0.17916175723075867	-0.18702517	No	
+row_3	ST18	ST18	suppression of tumorigenicity 18 (breast carcinoma) (zinc finger protein)	4009	0.1188349574804306	-0.23296648	No	
+row_4	ITPR2	ITPR2	inositol 1,4,5-triphosphate receptor, type 2	4839	0.04853596165776253	-0.30280182	No	
+row_5	IFITM2	IFITM2	interferon induced transmembrane protein 2 (1-8D)	4840	0.04848024249076843	-0.2962954	No	
+row_6	GRIN1	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	4998	0.03678501769900322	-0.30581796	No	
+row_7	MAZ	MAZ	MYC-associated zinc finger protein (purine-binding transcription factor)	5614	-0.009298627264797688	-0.3612103	No	
+row_8	MLXIP	MLXIP	MLX interacting protein	5675	-0.013826116919517517	-0.3648806	No	
+row_9	MBNL3	MBNL3	muscleblind-like 3 (Drosophila)	5917	-0.035449542105197906	-0.38231862	No	
+row_10	ITPR3	ITPR3	inositol 1,4,5-triphosphate receptor, type 3	6302	-0.06749168038368225	-0.40862635	No	
+row_11	WHSC1	WHSC1	Wolf-Hirschhorn syndrome candidate 1	6408	-0.0760808065533638	-0.40808603	No	
+row_12	ZNF529	ZNF529	zinc finger protein 529	6685	-0.0994117483496666	-0.42016327	No	
+row_13	SORBS2	SORBS2	sorbin and SH3 domain containing 2	6895	-0.11778853088617325	-0.42360365	No	
+row_14	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	7617	-0.17962267994880676	-0.4658996	No	
+row_15	ATP5B	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	8859	-0.31066930294036865	-0.538499	Yes	
+row_16	NAP1L1	NAP1L1	nucleosome assembly protein 1-like 1	9271	-0.35899606347084045	-0.5281713	Yes	
+row_17	RNF180	RNF180	ring finger protein 180	9361	-0.36897140741348267	-0.4868493	Yes	
+row_18	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.46115756	Yes	
+row_19	TMPO	TMPO	thymopoietin	9718	-0.42455562949180603	-0.40602094	Yes	
+row_20	CDK5RAP2	CDK5RAP2	CDK5 regulatory subunit associated protein 2	9860	-0.4508604109287262	-0.3584979	Yes	
+row_21	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	10129	-0.5016360878944397	-0.3158568	Yes	
+row_22	CCDC14	CCDC14	coiled-coil domain containing 14	10624	-0.652280330657959	-0.27381226	Yes	
+row_23	SUV420H1	SUV420H1	suppressor of variegation 4-20 homolog 1 (Drosophila)	10661	-0.6681699156761169	-0.18745436	Yes	
+row_24	MDGA1	MDGA1	MAM domain containing glycosylphosphatidylinositol anchor 1	10689	-0.6890199780464172	-0.09746933	Yes	
+row_25	CDK6	CDK6	cyclin-dependent kinase 6	10832	-0.8587019443511963	0.004697029	Yes	

@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SPTAN1	SPTAN1	spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	344	0.6816807985305786	0.07581373	No	
+row_1	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	-0.011723632	No	
+row_2	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	2026	0.3202206492424011	0.024865547	No	
+row_3	FADD	FADD	Fas (TNFRSF6)-associated via death domain	2618	0.25387781858444214	0.010477924	No	
+row_4	RIPK1	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	2648	0.2506020963191986	0.047323316	No	
+row_5	APAF1	APAF1	apoptotic peptidase activating factor	4561	0.07209305465221405	-0.11736776	No	
+row_6	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	-0.13772233	No	
+row_7	CASP10	CASP10	caspase 10, apoptosis-related cysteine peptidase	5056	0.033137913793325424	-0.1501766	No	
+row_8	CFLAR	CFLAR	CASP8 and FADD-like apoptosis regulator	5060	0.03267040476202965	-0.14530127	No	
+row_9	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	-0.21603903	No	
+row_10	BID	BID	BH3 interacting domain death agonist	6477	-0.08071265369653702	-0.25782397	No	
+row_11	BCL2	BCL2	B-cell CLL/lymphoma 2	7141	-0.13663285970687866	-0.297329	Yes	
+row_12	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	-0.27767906	Yes	
+row_13	CYCS	CYCS	cytochrome c, somatic	7447	-0.16420377790927887	-0.27756956	Yes	
+row_14	BIRC3	BIRC3	baculoviral IAP repeat-containing 3	7493	-0.1687932312488556	-0.25509736	Yes	
+row_15	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	-0.24724084	Yes	
+row_16	CASP7	CASP7	caspase 7, apoptosis-related cysteine peptidase	8503	-0.26879531145095825	-0.27529833	Yes	
+row_17	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	8737	-0.29685360193252563	-0.24994437	Yes	
+row_18	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	8828	-0.30668458342552185	-0.20987266	Yes	
+row_19	TNFRSF25	TNFRSF25	tumor necrosis factor receptor superfamily, member 25	9551	-0.3990827202796936	-0.21342653	Yes	
+row_20	TNFRSF10B	TNFRSF10B	tumor necrosis factor receptor superfamily, member 10b	9883	-0.45465153455734253	-0.17221445	Yes	
+row_21	DFFB	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	10126	-0.49965423345565796	-0.115710974	Yes	
+row_22	CASP6	CASP6	caspase 6, apoptosis-related cysteine peptidase	10142	-0.5048424601554871	-0.03748701	Yes	
+row_23	BIRC2	BIRC2	baculoviral IAP repeat-containing 2	10668	-0.6698684096336365	0.019797437	Yes	

@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IGFBP3	IGFBP3	insulin-like growth factor binding protein 3	405	0.6546632647514343	0.109186865	No	
+row_1	CSNK1D	CSNK1D	casein kinase 1, delta	1755	0.3547552227973938	0.0644315	No	
+row_2	FHL2	FHL2	four and a half LIM domains 2	3576	0.15622439980506897	-0.06806965	No	
+row_3	ABCB1	ABCB1	ATP-binding cassette, sub-family B (MDR/TAP), member 1	4444	0.08069085329771042	-0.12978718	No	
+row_4	NQO1	NQO1	NAD(P)H dehydrogenase, quinone 1	4784	0.05330262333154678	-0.14905295	No	
+row_5	NFKBIB	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	5750	-0.02066403441131115	-0.233215	No	
+row_6	HIC1	HIC1	hypermethylated in cancer 1	5819	-0.027145421132445335	-0.23339887	No	
+row_7	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	-0.31615007	No	
+row_8	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	8351	-0.2515755891799927	-0.38113466	Yes	
+row_9	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	8690	-0.2921338379383087	-0.34688166	Yes	
+row_10	BAX	BAX	BCL2-associated X protein	8851	-0.3098953068256378	-0.29227856	Yes	
+row_11	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	-0.2464543	Yes	
+row_12	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	10155	-0.5075100064277649	-0.21950033	Yes	
+row_13	TAF1	TAF1	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa	10551	-0.6187596917152405	-0.11742508	Yes	
+row_14	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	10645	-0.6610552668571472	0.02189717	Yes	

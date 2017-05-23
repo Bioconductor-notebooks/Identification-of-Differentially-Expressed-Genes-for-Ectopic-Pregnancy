@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSPB7	HSPB7	heat shock 27kDa protein family, member 7 (cardiovascular)	1440	0.4058305025100708	-0.06778338	No	
+row_1	ANKS1B	ANKS1B	ankyrin repeat and sterile alpha motif domain containing 1B	2952	0.21640799939632416	-0.17232482	No	
+row_2	SNRPC	SNRPC	small nuclear ribonucleoprotein polypeptide C	3792	0.13729222118854523	-0.22763959	No	
+row_3	ELL	ELL	elongation factor RNA polymerase II	5901	-0.03350825607776642	-0.41631067	No	
+row_4	PRPF4	PRPF4	PRP4 pre-mRNA processing factor 4 homolog (yeast)	6141	-0.05535599961876869	-0.42947558	No	
+row_5	KIAA0947	KIAA0947	-	6684	-0.0993732288479805	-0.46350506	No	
+row_6	DKC1	DKC1	dyskeratosis congenita 1, dyskerin	7431	-0.1626778393983841	-0.50620985	Yes	
+row_7	DDX46	DDX46	DEAD (Asp-Glu-Ala-Asp) box polypeptide 46	7593	-0.1774376779794693	-0.49271697	Yes	
+row_8	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	7609	-0.17886771261692047	-0.46555832	Yes	
+row_9	SRRM2	SRRM2	serine/arginine repetitive matrix 2	8149	-0.22992129623889923	-0.47848207	Yes	
+row_10	USPL1	USPL1	ubiquitin specific peptidase like 1	8921	-0.3182390630245209	-0.49866724	Yes	
+row_11	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.46564135	Yes	
+row_12	FBL	FBL	fibrillarin	9343	-0.3670318126678467	-0.42337042	Yes	
+row_13	NPAT	NPAT	nuclear protein, ataxia-telangiectasia locus	9586	-0.40448951721191406	-0.38110545	Yes	
+row_14	NARG2	NARG2	NMDA receptor regulated 2	9810	-0.4405704140663147	-0.33133486	Yes	
+row_15	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.30045062	Yes	
+row_16	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	-0.20565905	Yes	
+row_17	SHQ1	SHQ1	SHQ1 homolog (S. cerevisiae)	10706	-0.6975968480110168	-0.09794349	Yes	
+row_18	LSG1	LSG1	large subunit GTPase 1 homolog (S. cerevisiae)	10728	-0.7153782844543457	0.014265878	Yes	

@@ -1,0 +1,72 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FHL1	FHL1	four and a half LIM domains 1	619	0.5861766338348389	-0.032828603	No	
+row_1	CHEK2	CHEK2	CHK2 checkpoint homolog (S. pombe)	828	0.524837851524353	-0.030202486	No	
+row_2	FBXO7	FBXO7	F-box protein 7	838	0.5225424766540527	-0.009268208	No	
+row_3	FBXO31	FBXO31	F-box protein 31	1145	0.4621116518974304	-0.018318124	No	
+row_4	NBN	NBN	nibrin	1276	0.4336807131767273	-0.012275634	No	
+row_5	CTDSP2	CTDSP2	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 2	1320	0.42566490173339844	0.0014788255	No	
+row_6	SOX4	SOX4	SRY (sex determining region Y)-box 4	1436	0.406953901052475	0.007795225	No	
+row_7	PLAGL1	PLAGL1	pleiomorphic adenoma gene-like 1	1488	0.39861953258514404	0.019683255	No	
+row_8	CRADD	CRADD	CASP2 and RIPK1 domain containing adaptor with death domain	1546	0.388018935918808	0.030574827	No	
+row_9	E2F4	E2F4	E2F transcription factor 4, p107/p130-binding	1786	0.35037288069725037	0.023066655	No	
+row_10	OVOL1	OVOL1	ovo-like 1(Drosophila)	2167	0.3064810037612915	6.9029734E-4	No	
+row_11	PML	PML	promyelocytic leukemia	2604	0.2567673325538635	-0.028935844	No	
+row_12	MAD1L1	MAD1L1	MAD1 mitotic arrest deficient-like 1 (yeast)	2708	0.2445010244846344	-0.028276676	No	
+row_13	TNKS1BP1	TNKS1BP1	tankyrase 1 binding protein 1, 182kDa	2801	0.23296697437763214	-0.027080668	No	
+row_14	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	-0.045186102	No	
+row_15	SYF2	SYF2	SYF2 homolog, RNA splicing factor (S. cerevisiae)	3186	0.19317708909511566	-0.04601747	No	
+row_16	PPP2R5C	PPP2R5C	protein phosphatase 2, regulatory subunit B (B56), gamma isoform	3364	0.17652370035648346	-0.055033527	No	
+row_17	PRMT2	PRMT2	protein arginine methyltransferase 2	3530	0.16024386882781982	-0.06361795	No	
+row_18	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	-0.09235995	No	
+row_19	BTG2	BTG2	BTG family, member 2	3932	0.12462121993303299	-0.09012823	No	
+row_20	CNOT8	CNOT8	CCR4-NOT transcription complex, subunit 8	3956	0.12302727997303009	-0.08713058	No	
+row_21	BRD7	BRD7	bromodomain containing 7	4271	0.09673936665058136	-0.11214	No	
+row_22	SUSD2	SUSD2	sushi domain containing 2	4307	0.0933137759566307	-0.11148984	No	
+row_23	DGKZ	DGKZ	diacylglycerol kinase, zeta 104kDa	4941	0.040288250893354416	-0.16835226	No	
+row_24	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	5033	0.03432447090744972	-0.17533827	No	
+row_25	PLK2	PLK2	polo-like kinase 2 (Drosophila)	5145	0.026558849960565567	-0.18449737	No	
+row_26	CDC25C	CDC25C	cell division cycle 25C	5284	0.01528681255877018	-0.19662301	No	
+row_27	CNOT3	CNOT3	CCR4-NOT transcription complex, subunit 3	6163	-0.0571303591132164	-0.2754418	No	
+row_28	CTDSPL	CTDSPL	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase-like	6290	-0.0667087510228157	-0.28431568	No	
+row_29	CDKN2B	CDKN2B	cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	6372	-0.07320792227983475	-0.28875718	No	
+row_30	TP73	TP73	tumor protein p73	6434	-0.07772886008024216	-0.2911607	No	
+row_31	KLHL22	KLHL22	kelch-like 22 (Drosophila)	6594	-0.09193515032529831	-0.30203566	No	
+row_32	GML	GML	GPI anchored molecule like protein	6736	-0.10410252213478088	-0.3107391	No	
+row_33	BCL2	BCL2	B-cell CLL/lymphoma 2	7141	-0.13663285970687866	-0.34241006	No	
+row_34	CENPJ	CENPJ	centromere protein J	7250	-0.14691586792469025	-0.34627822	No	
+row_35	CNOT2	CNOT2	CCR4-NOT transcription complex, subunit 2	7378	-0.15860387682914734	-0.35141668	No	
+row_36	MEN1	MEN1	multiple endocrine neoplasia I	7502	-0.16987982392311096	-0.3557155	No	
+row_37	CNOT4	CNOT4	CCR4-NOT transcription complex, subunit 4	8080	-0.22379948198795319	-0.3997548	Yes	
+row_38	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	8092	-0.2246864289045334	-0.3914127	Yes	
+row_39	MAD2L2	MAD2L2	MAD2 mitotic arrest deficient-like 2 (yeast)	8172	-0.23198552429676056	-0.38905534	Yes	
+row_40	PRMT1	PRMT1	protein arginine methyltransferase 1	8311	-0.24686232209205627	-0.39153466	Yes	
+row_41	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	8351	-0.2515755891799927	-0.384662	Yes	
+row_42	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	-0.3963862	Yes	
+row_43	CLSPN	CLSPN	claspin homolog (Xenopus laevis)	8679	-0.2908366024494171	-0.39102247	Yes	
+row_44	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	8690	-0.2921338379383087	-0.3797784	Yes	
+row_45	BAX	BAX	BCL2-associated X protein	8851	-0.3098953068256378	-0.38166666	Yes	
+row_46	USP47	USP47	ubiquitin specific peptidase 47	8947	-0.32168081402778625	-0.3770527	Yes	
+row_47	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.37596193	Yes	
+row_48	PRPF19	PRPF19	PRP19/PSO4 pre-mRNA processing factor 19 homolog (S. cerevisiae)	9318	-0.36349210143089294	-0.38190633	Yes	
+row_49	TRIAP1	TRIAP1	TP53 regulated inhibitor of apoptosis 1	9396	-0.37407881021499634	-0.37344506	Yes	
+row_50	E2F7	E2F7	E2F transcription factor 7	9404	-0.37449371814727783	-0.35849282	Yes	
+row_51	MUC1	MUC1	mucin 1, cell surface associated	9635	-0.4123084843158722	-0.36258873	Yes	
+row_52	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.35067984	Yes	
+row_53	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.3383097	Yes	
+row_54	CCNB1	CCNB1	cyclin B1	9777	-0.4353015720844269	-0.3218418	Yes	
+row_55	PRKDC	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	9989	-0.4702838063240051	-0.32176557	Yes	
+row_56	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.32496673	Yes	
+row_57	AURKA	AURKA	aurora kinase A	10321	-0.5496861338615417	-0.3071559	Yes	
+row_58	SFN	SFN	stratifin	10381	-0.564522922039032	-0.289097	Yes	
+row_59	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	10384	-0.5649369359016418	-0.2657494	Yes	
+row_60	GTSE1	GTSE1	G-2 and S-phase expressed 1	10386	-0.5656414031982422	-0.24227998	Yes	
+row_61	ZNF207	ZNF207	zinc finger protein 207	10471	-0.5895144939422607	-0.22549206	Yes	
+row_62	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	10518	-0.6038016676902771	-0.20459473	Yes	
+row_63	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.18061472	Yes	
+row_64	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	10592	-0.6375507116317749	-0.15923637	Yes	
+row_65	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	10699	-0.6934834122657776	-0.1401522	Yes	
+row_66	MDM4	MDM4	Mdm4, transformed 3T3 cell double minute 4, p53 binding protein (mouse)	10702	-0.6947702765464783	-0.111396365	Yes	
+row_67	CNOT10	CNOT10	CCR4-NOT transcription complex, subunit 10	10730	-0.7188606262207031	-0.08394908	Yes	
+row_68	CASP2	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	10742	-0.7313997745513916	-0.054499775	Yes	
+row_69	H2AFY	H2AFY	H2A histone family, member Y	10799	-0.7901180982589722	-0.026766201	Yes	
+row_70	PCBP4	PCBP4	poly(rC) binding protein 4	10823	-0.8268417119979858	0.0055489824	Yes	

@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SCARB1	SCARB1	scavenger receptor class B, member 1	493	0.6286409497261047	0.005379724	No	
+row_1	SLC4A2	SLC4A2	solute carrier family 4, anion exchanger, member 2 (erythrocyte membrane protein band 3-like 1)	1485	0.39905816316604614	-0.05368646	No	
+row_2	PCMT1	PCMT1	protein-L-isoaspartate (D-aspartate) O-methyltransferase	1846	0.34184300899505615	-0.059231024	No	
+row_3	COPS6	COPS6	COP9 constitutive photomorphogenic homolog subunit 6 (Arabidopsis)	3305	0.1827041655778885	-0.1788173	No	
+row_4	GTF2A2	GTF2A2	general transcription factor IIA, 2, 12kDa	3458	0.1674680858850479	-0.17928852	No	
+row_5	POLR2C	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	4202	0.10199275612831116	-0.23951173	No	
+row_6	POLR2A	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	4773	0.054010964930057526	-0.28767124	No	
+row_7	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	5033	0.03432447090744972	-0.30876356	No	
+row_8	DDB1	DDB1	damage-specific DNA binding protein 1, 127kDa	5539	-0.003948981873691082	-0.3549796	No	
+row_9	TCEA1	TCEA1	transcription elongation factor A (SII), 1	6788	-0.10891035199165344	-0.4611789	No	
+row_10	XPO7	XPO7	exportin 7	7738	-0.19173051416873932	-0.53313184	No	
+row_11	ATXN2L	ATXN2L	ataxin 2-like	7749	-0.19292356073856354	-0.5184605	No	
+row_12	SSB	SSB	Sjogren syndrome antigen B (autoantigen La)	7773	-0.1947857141494751	-0.5048366	No	
+row_13	GPAA1	GPAA1	glycosylphosphatidylinositol anchor attachment protein 1 homolog (yeast)	7914	-0.20778991281986237	-0.5009431	No	
+row_14	NUP62	NUP62	nucleoporin 62kDa	8349	-0.25141042470932007	-0.5206158	No	
+row_15	CAD	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	8684	-0.2917642891407013	-0.527812	No	
+row_16	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.54398465	No	
+row_17	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	9553	-0.3993682563304901	-0.5473678	No	
+row_18	AATF	AATF	apoptosis antagonizing transcription factor	9978	-0.46885499358177185	-0.54854435	Yes	
+row_19	PRKDC	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	9989	-0.4702838063240051	-0.5114557	Yes	
+row_20	CS	CS	citrate synthase	9995	-0.4717693328857422	-0.47378626	Yes	
+row_21	AFG3L2	AFG3L2	AFG3 ATPase family gene 3-like 2 (yeast)	9999	-0.4725126028060913	-0.43587247	Yes	
+row_22	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.3980873	Yes	
+row_23	FUS	FUS	fusion (involved in t(12;16) in malignant liposarcoma)	10281	-0.5379582643508911	-0.37994844	Yes	
+row_24	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.33662352	Yes	
+row_25	SUMO2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10347	-0.5550322532653809	-0.29747695	Yes	
+row_26	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.26530918	Yes	
+row_27	DYRK2	DYRK2	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2	10546	-0.6161593198776245	-0.21643035	Yes	
+row_28	CLTC	CLTC	clathrin, heavy chain (Hc)	10627	-0.6533210873603821	-0.1709984	Yes	
+row_29	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	-0.122807026	Yes	
+row_30	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	-0.06168389	Yes	
+row_31	EBP	EBP	emopamil binding protein (sterol isomerase)	10836	-0.8635202646255493	0.0043309764	Yes	

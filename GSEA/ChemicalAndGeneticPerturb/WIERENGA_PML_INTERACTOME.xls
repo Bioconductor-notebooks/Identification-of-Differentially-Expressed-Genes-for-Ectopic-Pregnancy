@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AHSG	AHSG	alpha-2-HS-glycoprotein	2602	0.256923645734787	-0.19287865	No	
+row_1	STK38	STK38	serine/threonine kinase 38	4321	0.09199352562427521	-0.33431345	No	
+row_2	ACTG1	ACTG1	actin, gamma 1	5391	0.0070533971302211285	-0.43142328	No	
+row_3	ABCF2	ABCF2	ATP-binding cassette, sub-family F (GCN20), member 2	5546	-0.004382634535431862	-0.44480222	No	
+row_4	DNAH5	DNAH5	dynein, axonemal, heavy chain 5	5799	-0.02511460706591606	-0.46344018	No	
+row_5	EEF1A1	EEF1A1	eukaryotic translation elongation factor 1 alpha 1	5898	-0.03342108428478241	-0.4663974	No	
+row_6	RPL3	RPL3	ribosomal protein L3	6018	-0.044217102229595184	-0.469329	No	
+row_7	PPM1B	PPM1B	protein phosphatase 1B (formerly 2C), magnesium-dependent, beta isoform	6903	-0.1187114492058754	-0.5291569	No	
+row_8	EMD	EMD	emerin (Emery-Dreifuss muscular dystrophy)	7528	-0.1714729219675064	-0.5554839	No	
+row_9	CAD	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	8684	-0.2917642891407013	-0.6088625	Yes	
+row_10	RPS3	RPS3	ribosomal protein S3	9062	-0.33552804589271545	-0.5826963	Yes	
+row_11	GCN1L1	GCN1L1	GCN1 general control of amino-acid synthesis 1-like 1 (yeast)	9294	-0.3600950837135315	-0.538636	Yes	
+row_12	TUBB3	TUBB3	tubulin, beta 3	9861	-0.45088711380958557	-0.50893897	Yes	
+row_13	PRKDC	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	9989	-0.4702838063240051	-0.43531844	Yes	
+row_14	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10079	-0.4891257584095001	-0.3547825	Yes	
+row_15	CTPS	CTPS	CTP synthase	10095	-0.4927113950252533	-0.26678523	Yes	
+row_16	DUOX1	DUOX1	dual oxidase 1	10356	-0.5578909516334534	-0.18951389	Yes	
+row_17	ATP5C1	ATP5C1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	10387	-0.5656885504722595	-0.08965917	Yes	
+row_18	NUP93	NUP93	nucleoporin 93kDa	10753	-0.7454150319099426	0.011964967	Yes	

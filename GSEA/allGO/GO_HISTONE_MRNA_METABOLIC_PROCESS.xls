@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LSM11	LSM11	LSM11, U7 small nuclear RNA associated	3813	0.13528895378112793	-0.32110232	No	
+row_1	DCP2	DCP2	DCP2 decapping enzyme homolog (S. cerevisiae)	3828	0.13364310562610626	-0.29303992	No	
+row_2	SNRPB	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	4711	0.05949946492910385	-0.36112097	No	
+row_3	EXOSC4	EXOSC4	exosome component 4	5492	-5.037116352468729E-4	-0.43277407	No	
+row_4	PAPD5	PAPD5	PAP associated domain containing 5	5777	-0.02301039732992649	-0.4538499	No	
+row_5	EXOSC10	EXOSC10	exosome component 10	6872	-0.1158018559217453	-0.529071	No	
+row_6	XRN1	XRN1	5'-3' exoribonuclease 1	7448	-0.16435828804969788	-0.54587764	Yes	
+row_7	ZCCHC6	ZCCHC6	zinc finger, CCHC domain containing 6	7592	-0.1774139702320099	-0.52007097	Yes	
+row_8	SSB	SSB	Sjogren syndrome antigen B (autoantigen La)	7773	-0.1947857141494751	-0.49385333	Yes	
+row_9	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	8351	-0.2515755891799927	-0.4916895	Yes	
+row_10	CPSF2	CPSF2	cleavage and polyadenylation specific factor 2, 100kDa	10055	-0.48330944776535034	-0.54223007	Yes	
+row_11	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.44538128	Yes	
+row_12	PAPD4	PAPD4	PAP associated domain containing 4	10513	-0.6020613312721252	-0.33229464	Yes	
+row_13	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.19612394	Yes	
+row_14	NCBP1	NCBP1	nuclear cap binding protein subunit 1, 80kDa	10865	-0.9608893394470215	0.0016561947	Yes	

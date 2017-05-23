@@ -1,0 +1,66 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLR2K	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	302	0.7031364440917969	0.0073040193	No	
+row_1	POLR2L	POLR2L	polymerase (RNA) II (DNA directed) polypeptide L, 7.6kDa	834	0.523287832736969	-0.015566472	No	
+row_2	PCBP1	PCBP1	poly(rC) binding protein 1	1394	0.413624107837677	-0.04651771	No	
+row_3	PRPF6	PRPF6	PRP6 pre-mRNA processing factor 6 homolog (S. cerevisiae)	1594	0.3820187449455261	-0.04577717	No	
+row_4	SF3A2	SF3A2	splicing factor 3a, subunit 2, 66kDa	2630	0.25262540578842163	-0.128789	No	
+row_5	AAAS	AAAS	achalasia, adrenocortical insufficiency, alacrimia (Allgrove, triple-A)	2659	0.2499682754278183	-0.118856914	No	
+row_6	RNGTT	RNGTT	RNA guanylyltransferase and 5'-phosphatase	2671	0.24887551367282867	-0.10740826	No	
+row_7	CSTF2	CSTF2	cleavage stimulation factor, 3' pre-RNA, subunit 2, 64kDa	2821	0.23065228760242462	-0.10962769	No	
+row_8	DDX23	DDX23	DEAD (Asp-Glu-Ala-Asp) box polypeptide 23	2917	0.2205674946308136	-0.10736101	No	
+row_9	NUP88	NUP88	nucleoporin 88kDa	2976	0.21345721185207367	-0.10203055	No	
+row_10	DHX38	DHX38	DEAH (Asp-Glu-Ala-His) box polypeptide 38	3733	0.14202316105365753	-0.16479413	No	
+row_11	LSM11	LSM11	LSM11, U7 small nuclear RNA associated	3813	0.13528895378112793	-0.1653199	No	
+row_12	PAPOLA	PAPOLA	poly(A) polymerase alpha	4083	0.11244435608386993	-0.18455158	No	
+row_13	POLR2C	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	4202	0.10199275612831116	-0.19034983	No	
+row_14	RNMT	RNMT	RNA (guanine-7-) methyltransferase	4510	0.07558292150497437	-0.21494013	No	
+row_15	U2AF2	U2AF2	U2 small nuclear RNA auxiliary factor 2	4580	0.07034709304571152	-0.21779433	No	
+row_16	SNRPB	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	4711	0.05949946492910385	-0.2268301	No	
+row_17	POLR2A	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	4773	0.054010964930057526	-0.22976308	No	
+row_18	NUP50	NUP50	nucleoporin 50kDa	4806	0.051652941852808	-0.23013371	No	
+row_19	APOBEC1	APOBEC1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	5258	0.017748037353157997	-0.27093068	No	
+row_20	SEH1L	SEH1L	SEH1-like (S. cerevisiae)	5580	-0.006413943134248257	-0.30027947	No	
+row_21	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	5730	-0.018188919872045517	-0.3131405	No	
+row_22	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	-0.31493413	No	
+row_23	PRPF4	PRPF4	PRP4 pre-mRNA processing factor 4 homolog (yeast)	6141	-0.05535599961876869	-0.34710008	No	
+row_24	CSTF1	CSTF1	cleavage stimulation factor, 3' pre-RNA, subunit 1, 50kDa	6462	-0.079666867852211	-0.3726874	No	
+row_25	NUP133	NUP133	nucleoporin 133kDa	6487	-0.08183037489652634	-0.3708071	No	
+row_26	RNPS1	RNPS1	RNA binding protein S1, serine-rich domain	6599	-0.09238248318433762	-0.3764397	No	
+row_27	GTF2F2	GTF2F2	general transcription factor IIF, polypeptide 2, 30kDa	7675	-0.18552036583423615	-0.4665098	Yes	
+row_28	CPSF1	CPSF1	cleavage and polyadenylation specific factor 1, 160kDa	7677	-0.18568705022335052	-0.45730174	Yes	
+row_29	NUP210	NUP210	nucleoporin 210kDa	7709	-0.18940718472003937	-0.45068026	Yes	
+row_30	PCF11	PCF11	PCF11, cleavage and polyadenylation factor subunit, homolog (S. cerevisiae)	7915	-0.20784445106983185	-0.45921814	Yes	
+row_31	NUDT21	NUDT21	nudix (nucleoside diphosphate linked moiety X)-type motif 21	8004	-0.21467837691307068	-0.4565994	Yes	
+row_32	ADARB1	ADARB1	adenosine deaminase, RNA-specific, B1 (RED1 homolog rat)	8028	-0.2171580046415329	-0.44784856	Yes	
+row_33	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	8199	-0.23534591495990753	-0.4517739	Yes	
+row_34	CCAR1	CCAR1	cell division cycle and apoptosis regulator 1	8268	-0.24247582256793976	-0.44591433	Yes	
+row_35	NUP62	NUP62	nucleoporin 62kDa	8349	-0.25141042470932007	-0.44071636	Yes	
+row_36	TXNL4A	TXNL4A	thioredoxin-like 4A	8357	-0.2522036135196686	-0.4287313	Yes	
+row_37	CSTF3	CSTF3	cleavage stimulation factor, 3' pre-RNA, subunit 3, 77kDa	8381	-0.2554212808609009	-0.41806394	Yes	
+row_38	MAGOH	MAGOH	mago-nashi homolog, proliferation-associated (Drosophila)	8407	-0.2594480514526367	-0.40737975	Yes	
+row_39	NUP43	NUP43	nucleoporin 43kDa	8609	-0.2808064818382263	-0.4118935	Yes	
+row_40	NUP153	NUP153	nucleoporin 153kDa	8660	-0.28766804933547974	-0.40210658	Yes	
+row_41	SNRPD1	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide 16kDa	8724	-0.29552337527275085	-0.39312786	Yes	
+row_42	NUP214	NUP214	nucleoporin 214kDa	8875	-0.31290674209594727	-0.39131984	Yes	
+row_43	NUP155	NUP155	nucleoporin 155kDa	8886	-0.3139033913612366	-0.3765217	Yes	
+row_44	RBM5	RBM5	RNA binding motif protein 5	8967	-0.3242822289466858	-0.36767384	Yes	
+row_45	PTBP1	PTBP1	polypyrimidine tract binding protein 1	9087	-0.3388787508010864	-0.36169964	Yes	
+row_46	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	9165	-0.34716105461120605	-0.35142857	Yes	
+row_47	YBX1	YBX1	Y box binding protein 1	9293	-0.3600674867630005	-0.34513253	Yes	
+row_48	POLR2F	POLR2F	polymerase (RNA) II (DNA directed) polypeptide F	9506	-0.39237406849861145	-0.34507492	Yes	
+row_49	SF3B14	SF3B14	-	9649	-0.4134156405925751	-0.3374933	Yes	
+row_50	SNRPB2	SNRPB2	small nuclear ribonucleoprotein polypeptide B''	9736	-0.42636385560035706	-0.32408705	Yes	
+row_51	NFX1	NFX1	nuclear transcription factor, X-box binding 1	9783	-0.4360537528991699	-0.3064983	Yes	
+row_52	CPSF2	CPSF2	cleavage and polyadenylation specific factor 2, 100kDa	10055	-0.48330944776535034	-0.30733937	Yes	
+row_53	METTL3	METTL3	methyltransferase like 3	10264	-0.5332705974578857	-0.299855	Yes	
+row_54	FUS	FUS	fusion (involved in t(12;16) in malignant liposarcoma)	10281	-0.5379582643508911	-0.27438924	Yes	
+row_55	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.24761125	Yes	
+row_56	POLR2H	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	10287	-0.5390080809593201	-0.22079891	Yes	
+row_57	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.19498639	Yes	
+row_58	PCBP2	PCBP2	poly(rC) binding protein 2	10360	-0.5586636662483215	-0.17208835	Yes	
+row_59	LSM2	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10420	-0.5757595300674438	-0.14870375	Yes	
+row_60	SNRPA1	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	10504	-0.6001255512237549	-0.12631705	Yes	
+row_61	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.1108115	Yes	
+row_62	NUP93	NUP93	nucleoporin 93kDa	10753	-0.7454150319099426	-0.076433785	Yes	
+row_63	NUP54	NUP54	nucleoporin 54kDa	10806	-0.8013492226600647	-0.041103106	Yes	
+row_64	NCBP1	NCBP1	nuclear cap binding protein subunit 1, 80kDa	10865	-0.9608893394470215	0.0016638576	Yes	

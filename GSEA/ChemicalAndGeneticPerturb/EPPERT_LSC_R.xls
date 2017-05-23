@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ZFP30	ZFP30	zinc finger protein 30 homolog (mouse)	1585	0.3829910457134247	-0.10274246	No	
+row_1	ARL3	ARL3	ADP-ribosylation factor-like 3	3862	0.13031169772148132	-0.2976329	No	
+row_2	ABCG1	ABCG1	ATP-binding cassette, sub-family G (WHITE), member 1	4158	0.10612069070339203	-0.3128239	No	
+row_3	TRAF3IP2	TRAF3IP2	TRAF3 interacting protein 2	5087	0.03021862544119358	-0.39487287	No	
+row_4	PNPLA4	PNPLA4	patatin-like phospholipase domain containing 4	5679	-0.01405545324087143	-0.44771168	No	
+row_5	GPR56	GPR56	G protein-coupled receptor 56	5967	-0.039529718458652496	-0.46968055	No	
+row_6	PLCH1	PLCH1	phospholipase C, eta 1	6114	-0.05263351649045944	-0.47718608	No	
+row_7	ZNF304	ZNF304	zinc finger protein 304	6952	-0.1229172945022583	-0.5403941	No	
+row_8	FRMD4B	FRMD4B	FERM domain containing 4B	7050	-0.1300932765007019	-0.5346462	No	
+row_9	RBPMS	RBPMS	RNA binding protein with multiple splicing	7742	-0.192231684923172	-0.57658726	No	
+row_10	FLJ13197	FLJ13197	-	8040	-0.21898432075977325	-0.57922614	No	
+row_11	EIF2S3	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa	8335	-0.24989567697048187	-0.57810044	No	
+row_12	NAB1	NAB1	NGFI-A binding protein 1 (EGR1 binding protein 1)	8849	-0.3097269833087921	-0.59039056	Yes	
+row_13	CSDE1	CSDE1	cold shock domain containing E1, RNA-binding	9028	-0.3314405083656311	-0.5693804	Yes	
+row_14	LRRC8B	LRRC8B	leucine rich repeat containing 8 family, member B	9086	-0.33886075019836426	-0.5363901	Yes	
+row_15	LRRC61	LRRC61	leucine rich repeat containing 61	9205	-0.3523601293563843	-0.50749385	Yes	
+row_16	ZNF500	ZNF500	zinc finger protein 500	9230	-0.35543525218963623	-0.46959418	Yes	
+row_17	SETDB1	SETDB1	SET domain, bifurcated 1	9786	-0.43663543462753296	-0.47143087	Yes	
+row_18	ARFGEF1	ARFGEF1	ADP-ribosylation factor guanine nucleotide-exchange factor 1(brefeldin A-inhibited)	9986	-0.46970823407173157	-0.43675148	Yes	
+row_19	RABGAP1	RABGAP1	RAB GTPase activating protein 1	10201	-0.5184356570243835	-0.3979547	Yes	
+row_20	TGIF2	TGIF2	TGFB-induced factor 2 (TALE family homeobox)	10527	-0.6072518825531006	-0.3593572	Yes	
+row_21	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	-0.2958987	Yes	
+row_22	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	10817	-0.8144341111183167	-0.20721537	Yes	
+row_23	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	10839	-0.8717123866081238	-0.11077907	Yes	
+row_24	PTCD2	PTCD2	pentatricopeptide repeat domain 2	10870	-1.016764760017395	0.0011971467	Yes	

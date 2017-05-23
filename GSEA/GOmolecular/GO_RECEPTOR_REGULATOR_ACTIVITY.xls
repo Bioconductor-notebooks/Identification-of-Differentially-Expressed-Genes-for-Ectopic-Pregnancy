@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DKK1	DKK1	dickkopf homolog 1 (Xenopus laevis)	146	0.806253969669342	0.08219085	Yes	
+row_1	NODAL	NODAL	nodal homolog (mouse)	474	0.6346387267112732	0.12735151	Yes	
+row_2	WNT3	WNT3	wingless-type MMTV integration site family, member 3	650	0.5736972689628601	0.17928463	Yes	
+row_3	IL18BP	IL18BP	interleukin 18 binding protein	774	0.5369377732276917	0.23164724	Yes	
+row_4	WNT4	WNT4	wingless-type MMTV integration site family, member 4	1364	0.4185129702091217	0.22703646	Yes	
+row_5	ANXA2	ANXA2	annexin A2	1376	0.41656655073165894	0.27543724	Yes	
+row_6	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	1577	0.38362520933151245	0.30252072	Yes	
+row_7	AGT	AGT	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	1582	0.3832041621208191	0.34760877	Yes	
+row_8	FNTA	FNTA	farnesyltransferase, CAAX box, alpha	1761	0.35374030470848083	0.37317377	Yes	
+row_9	PPARGC1B	PPARGC1B	peroxisome proliferative activated receptor, gamma, coactivator 1, beta	1836	0.3427291512489319	0.40701255	Yes	
+row_10	WNT10B	WNT10B	wingless-type MMTV integration site family, member 10B	1866	0.33862656354904175	0.44450986	Yes	
+row_11	WNT1	WNT1	wingless-type MMTV integration site family, member 1	2856	0.2271018773317337	0.3803475	No	
+row_12	AGTR2	AGTR2	angiotensin II receptor, type 2	3017	0.21009461581707	0.39053097	No	
+row_13	EFNA5	EFNA5	ephrin-A5	3260	0.18665660917758942	0.39038077	No	
+row_14	SFRP2	SFRP2	secreted frizzled-related protein 2	3353	0.17777056992053986	0.40299374	No	
+row_15	PRKCE	PRKCE	protein kinase C, epsilon	4527	0.07424821704626083	0.30375037	No	
+row_16	IGF2	IGF2	insulin-like growth factor 2 (somatomedin A)	4737	0.05732639506459236	0.29129854	No	
+row_17	GREM1	GREM1	gremlin 1, cysteine knot superfamily, homolog (Xenopus laevis)	5714	-0.01702759973704815	0.20341419	No	
+row_18	NRG3	NRG3	neuregulin 3	6380	-0.07366813719272614	0.15089642	No	
+row_19	PCSK9	PCSK9	proprotein convertase subtilisin/kexin type 9	6691	-0.09983067214488983	0.13418292	No	
+row_20	EGF	EGF	epidermal growth factor (beta-urogastrone)	6844	-0.11356203258037567	0.13365242	No	
+row_21	IL1RN	IL1RN	interleukin 1 receptor antagonist	6887	-0.11691686511039734	0.14365253	No	
+row_22	ESR2	ESR2	estrogen receptor 2 (ER beta)	7144	-0.13676334917545319	0.13629426	No	
+row_23	ADH7	ADH7	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide	7326	-0.15423624217510223	0.1379173	No	
+row_24	GAS6	GAS6	growth arrest-specific 6	7856	-0.20249150693416595	0.11320847	No	
+row_25	NRG1	NRG1	neuregulin 1	9155	-0.3462817668914795	0.034719963	No	
+row_26	WNT7A	WNT7A	wingless-type MMTV integration site family, member 7A	9498	-0.3906744420528412	0.049559314	No	
+row_27	BAZ1B	BAZ1B	bromodomain adjacent to zinc finger domain, 1B	10636	-0.6569410562515259	0.022752408	No	

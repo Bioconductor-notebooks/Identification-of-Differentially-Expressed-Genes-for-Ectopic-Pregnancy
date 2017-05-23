@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP1	AQP1	aquaporin 1 (Colton blood group)	118	0.8312647938728333	0.11347269	Yes	
+row_1	IL15RA	IL15RA	interleukin 15 receptor, alpha	167	0.7880962491035461	0.22693512	Yes	
+row_2	LTBP1	LTBP1	latent transforming growth factor beta binding protein 1	320	0.6961708068847656	0.31706917	Yes	
+row_3	TRIM29	TRIM29	tripartite motif-containing 29	851	0.52004075050354	0.34604472	Yes	
+row_4	HRC	HRC	histidine rich calcium binding protein	1208	0.44816553592681885	0.38029426	Yes	
+row_5	GPR176	GPR176	G protein-coupled receptor 176	1261	0.43689388036727905	0.4408556	Yes	
+row_6	TNNT3	TNNT3	troponin T type 3 (skeletal, fast)	1522	0.3923751711845398	0.47560143	Yes	
+row_7	PRKCH	PRKCH	protein kinase C, eta	1889	0.3359090983867645	0.4921387	Yes	
+row_8	SLC11A1	SLC11A1	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1	3195	0.19259488582611084	0.4007591	No	
+row_9	SP140	SP140	SP140 nuclear body protein	3360	0.17685936391353607	0.41210958	No	
+row_10	HTR3A	HTR3A	5-hydroxytryptamine (serotonin) receptor 3A	4061	0.11449417471885681	0.364767	No	
+row_11	POLR2C	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	4202	0.10199275612831116	0.3671293	No	
+row_12	TCP10	TCP10	t-complex 10 (mouse)	4439	0.08117111027240753	0.35753572	No	
+row_13	COG2	COG2	component of oligomeric golgi complex 2	5425	0.004696676507592201	0.2675217	No	
+row_14	TM4SF4	TM4SF4	transmembrane 4 L six family member 4	5496	-9.10505885258317E-4	0.26121104	No	
+row_15	PPARD	PPARD	peroxisome proliferative activated receptor, delta	5644	-0.011759327724575996	0.2494316	No	
+row_16	CYLC2	CYLC2	cylicin, basic protein of sperm head cytoskeleton 2	5655	-0.012870751321315765	0.25043583	No	
+row_17	ANK1	ANK1	ankyrin 1, erythrocytic	5877	-0.031507380306720734	0.23479503	No	
+row_18	IGF1R	IGF1R	insulin-like growth factor 1 receptor	6004	-0.042984142899513245	0.22962023	No	
+row_19	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	6080	-0.04925861209630966	0.23008096	No	
+row_20	TRIP10	TRIP10	thyroid hormone receptor interactor 10	6246	-0.06342906504869461	0.22437249	No	
+row_21	CACNG1	CACNG1	calcium channel, voltage-dependent, gamma subunit 1	6317	-0.06907682120800018	0.22825812	No	
+row_22	TERT	TERT	telomerase reverse transcriptase	6491	-0.08228009194135666	0.22463259	No	
+row_23	KLHDC3	KLHDC3	kelch domain containing 3	7487	-0.16814938187599182	0.1581468	No	
+row_24	PLOD2	PLOD2	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2	8369	-0.25365445017814636	0.11495	No	
+row_25	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	10790	-0.7787976861000061	0.008565104	No	

@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHEK2	CHEK2	CHK2 checkpoint homolog (S. pombe)	828	0.524837851524353	-0.024295038	No	
+row_1	CDC7	CDC7	CDC7 cell division cycle 7 (S. cerevisiae)	2171	0.3061806857585907	-0.11758411	No	
+row_2	MAD1L1	MAD1L1	MAD1 mitotic arrest deficient-like 1 (yeast)	2708	0.2445010244846344	-0.14274284	No	
+row_3	ESPL1	ESPL1	extra spindle poles like 1 (S. cerevisiae)	3634	0.1515258103609085	-0.21293734	No	
+row_4	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	-0.22467585	No	
+row_5	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	5033	0.03432447090744972	-0.3256337	No	
+row_6	CDC25C	CDC25C	cell division cycle 25C	5284	0.01528681255877018	-0.34714663	No	
+row_7	CCND3	CCND3	cyclin D3	7417	-0.16141565144062042	-0.52753437	No	
+row_8	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	7765	-0.19411583244800568	-0.5402741	No	
+row_9	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	8092	-0.2246864289045334	-0.5480525	No	
+row_10	CCNE2	CCNE2	cyclin E2	8596	-0.27950018644332886	-0.5667061	Yes	
+row_11	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	8690	-0.2921338379383087	-0.54634506	Yes	
+row_12	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	8712	-0.29435455799102783	-0.5191325	Yes	
+row_13	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.5080636	Yes	
+row_14	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	9130	-0.3436282277107239	-0.49172223	Yes	
+row_15	CCNE1	CCNE1	cyclin E1	9288	-0.3596876561641693	-0.47056687	Yes	
+row_16	CDC20	CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	9632	-0.4117514193058014	-0.46138802	Yes	
+row_17	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.4255638	Yes	
+row_18	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9772	-0.43414849042892456	-0.38939056	Yes	
+row_19	CCNB1	CCNB1	cyclin B1	9777	-0.4353015720844269	-0.3466557	Yes	
+row_20	PRKDC	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	9989	-0.4702838063240051	-0.31952295	Yes	
+row_21	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10079	-0.4891257584095001	-0.2792875	Yes	
+row_22	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.26014814	Yes	
+row_23	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.20064053	Yes	
+row_24	CCNB2	CCNB2	cyclin B2	10716	-0.7048726081848145	-0.14742364	Yes	
+row_25	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	-0.07692277	Yes	
+row_26	CDK6	CDK6	cyclin-dependent kinase 6	10832	-0.8587019443511963	0.0046974416	Yes	

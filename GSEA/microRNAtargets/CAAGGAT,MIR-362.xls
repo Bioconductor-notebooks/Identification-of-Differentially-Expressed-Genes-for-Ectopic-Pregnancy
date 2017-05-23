@@ -1,0 +1,39 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	22	1.0169299840927124	0.07666804	Yes	
+row_1	TMEM115	TMEM115	transmembrane protein 115	168	0.7871391177177429	0.12421283	Yes	
+row_2	VAMP4	VAMP4	vesicle-associated membrane protein 4	293	0.7088949680328369	0.1676388	Yes	
+row_3	CPEB4	CPEB4	cytoplasmic polyadenylation element binding protein 4	347	0.6804352402687073	0.21540856	Yes	
+row_4	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.2569768	Yes	
+row_5	CHSY1	CHSY1	carbohydrate (chondroitin) synthase 1	989	0.4932289719581604	0.24443604	Yes	
+row_6	SRGAP2	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	1187	0.45156872272491455	0.2612179	Yes	
+row_7	USP15	USP15	ubiquitin specific peptidase 15	1245	0.4403511583805084	0.29003963	Yes	
+row_8	ACVR2A	ACVR2A	activin A receptor, type IIA	1342	0.4222390949726105	0.31386396	Yes	
+row_9	EIF2S2	EIF2S2	eukaryotic translation initiation factor 2, subunit 2 beta, 38kDa	1964	0.3270014822483063	0.28191325	Yes	
+row_10	DBNDD2	DBNDD2	dysbindin (dystrobrevin binding protein 1) domain containing 2	2058	0.31729936599731445	0.2978933	Yes	
+row_11	STRN3	STRN3	striatin, calmodulin binding protein 3	2160	0.3069521486759186	0.31233498	Yes	
+row_12	NMT1	NMT1	N-myristoyltransferase 1	2207	0.3029170036315918	0.33153543	Yes	
+row_13	RNF24	RNF24	ring finger protein 24	3043	0.20712122321128845	0.27057686	No	
+row_14	DLL1	DLL1	delta-like 1 (Drosophila)	3242	0.1882266402244568	0.26688743	No	
+row_15	PLAGL2	PLAGL2	pleiomorphic adenoma gene-like 2	3359	0.17704124748706818	0.2698928	No	
+row_16	EDEM1	EDEM1	ER degradation enhancer, mannosidase alpha-like 1	4338	0.09043677151203156	0.1867199	No	
+row_17	SEC31B	SEC31B	SEC31 homolog B (S. cerevisiae)	4514	0.07533462345600128	0.17641479	No	
+row_18	KCNMA1	KCNMA1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	4734	0.057430244982242584	0.16066732	No	
+row_19	PLP1	PLP1	proteolipid protein 1 (Pelizaeus-Merzbacher disease, spastic paraplegia 2, uncomplicated)	5800	-0.025269990786910057	0.06442999	No	
+row_20	SEMA4F	SEMA4F	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4F	6039	-0.04657507687807083	0.046090692	No	
+row_21	CNTN4	CNTN4	contactin 4	6448	-0.07840839773416519	0.014540872	No	
+row_22	CAPN3	CAPN3	calpain 3, (p94)	6731	-0.10365322232246399	-0.0034381584	No	
+row_23	TCEA1	TCEA1	transcription elongation factor A (SII), 1	6788	-0.10891035199165344	-1.7318467E-4	No	
+row_24	SORBS2	SORBS2	sorbin and SH3 domain containing 2	6895	-0.11778853088617325	-8.3115546E-4	No	
+row_25	GRIA3	GRIA3	glutamate receptor, ionotrophic, AMPA 3	6995	-0.1258743405342102	-2.1799654E-4	No	
+row_26	DNAJC11	DNAJC11	DnaJ (Hsp40) homolog, subfamily C, member 11	7312	-0.1527584046125412	-0.017531754	No	
+row_27	KCNIP4	KCNIP4	Kv channel interacting protein 4	8246	-0.24012580513954163	-0.08497181	No	
+row_28	SMG1	SMG1	-	8604	-0.2802102565765381	-0.09620273	No	
+row_29	GPR180	GPR180	G protein-coupled receptor 180	8669	-0.28863903880119324	-0.07976682	No	
+row_30	RIMS4	RIMS4	regulating synaptic membrane exocytosis 4	9140	-0.34448516368865967	-0.09644234	No	
+row_31	HOXD3	HOXD3	homeobox D3	9436	-0.3795124888420105	-0.09427224	No	
+row_32	RC3H1	RC3H1	ring finger and CCCH-type zinc finger domains 1	9505	-0.39226603507995605	-0.070185825	No	
+row_33	MIER3	MIER3	mesoderm induction early response 1, family member 3	9923	-0.45888203382492065	-0.073121995	No	
+row_34	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	10011	-0.4743756353855133	-0.044433217	No	
+row_35	TLE4	TLE4	transducin-like enhancer of split 4 (E(sp1) homolog, Drosophila)	10098	-0.49332568049430847	-0.014185764	No	
+row_36	DVL3	DVL3	dishevelled, dsh homolog 3 (Drosophila)	10225	-0.5246871113777161	0.014800639	No	
+row_37	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	0.037248813	No	

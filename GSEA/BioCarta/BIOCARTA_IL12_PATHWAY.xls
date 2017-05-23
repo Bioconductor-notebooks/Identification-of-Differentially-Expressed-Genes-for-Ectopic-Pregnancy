@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL18R1	IL18R1	interleukin 18 receptor 1	158	0.7955359220504761	0.10783581	Yes	
+row_1	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.20205183	Yes	
+row_2	MAPK14	MAPK14	mitogen-activated protein kinase 14	426	0.647968590259552	0.29096052	Yes	
+row_3	CD247	CD247	CD247 molecule	792	0.5319358706474304	0.33920112	Yes	
+row_4	STAT4	STAT4	signal transducer and activator of transcription 4	1095	0.47118377685546875	0.3838933	Yes	
+row_5	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.44056132	Yes	
+row_6	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	1318	0.4259844720363617	0.49753147	Yes	
+row_7	CXCR3	CXCR3	chemokine (C-X-C motif) receptor 3	2034	0.3195161819458008	0.48089182	Yes	
+row_8	TRA@	TRA@	T cell receptor alpha locus	2140	0.3091440796852112	0.51878476	Yes	
+row_9	IFNG	IFNG	interferon, gamma	3788	0.13774867355823517	0.3884282	No	
+row_10	IL12RB2	IL12RB2	interleukin 12 receptor, beta 2	4161	0.1060311496257782	0.3705096	No	
+row_11	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	6080	-0.04925861209630966	0.20160542	No	
+row_12	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	-0.032230396	No	
+row_13	ETV5	ETV5	ets variant gene 5 (ets-related molecule)	9456	-0.38256385922431946	0.0043505654	No	
+row_14	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.05387699	No	
+row_15	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	0.11152001	No	

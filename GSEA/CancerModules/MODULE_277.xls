@@ -1,0 +1,37 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FUNDC2	FUNDC2	FUN14 domain containing 2	861	0.5180869102478027	-0.032624386	No	
+row_1	SLC16A1	SLC16A1	solute carrier family 16, member 1 (monocarboxylic acid transporter 1)	994	0.49217087030410767	-3.8575067E-4	No	
+row_2	MBNL1	MBNL1	muscleblind-like (Drosophila)	1373	0.41678547859191895	0.0023741415	No	
+row_3	HIST1H2BK	HIST1H2BK	histone cluster 1, H2bk	2168	0.3064403831958771	-0.04317008	No	
+row_4	DR1	DR1	down-regulator of transcription 1, TBP-binding (negative cofactor 2)	2361	0.2843058705329895	-0.03521732	No	
+row_5	USP25	USP25	ubiquitin specific peptidase 25	2432	0.2771711051464081	-0.016661989	No	
+row_6	IL21R	IL21R	interleukin 21 receptor	2935	0.21834149956703186	-0.04323765	No	
+row_7	NUFIP2	NUFIP2	nuclear fragile X mental retardation protein interacting protein 2	3209	0.19148515164852142	-0.051126573	No	
+row_8	ZNF639	ZNF639	zinc finger protein 639	3255	0.187318816781044	-0.038373712	No	
+row_9	CENPT	CENPT	centromere protein T	4010	0.1188303679227829	-0.097157985	No	
+row_10	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	-0.089119405	No	
+row_11	G3BP2	G3BP2	-	4122	0.1091872826218605	-0.08691902	No	
+row_12	ICK	ICK	intestinal cell (MAK-like) kinase	4409	0.0837208703160286	-0.1057295	No	
+row_13	VCPIP1	VCPIP1	valosin containing protein (p97)/p47 complex interacting protein 1	4548	0.07297065109014511	-0.11186686	No	
+row_14	RPE	RPE	ribulose-5-phosphate-3-epimerase	5115	0.028218891471624374	-0.16149628	No	
+row_15	SCYL2	SCYL2	SCY1-like 2 (S. cerevisiae)	5460	0.001540950033813715	-0.19306816	No	
+row_16	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	5952	-0.038165971636772156	-0.2348864	No	
+row_17	TBC1D14	TBC1D14	TBC1 domain family, member 14	6028	-0.04553474485874176	-0.23769167	No	
+row_18	CLASP2	CLASP2	cytoplasmic linker associated protein 2	6679	-0.0983874574303627	-0.28873342	No	
+row_19	LNPEP	LNPEP	leucyl/cystinyl aminopeptidase	6706	-0.10073316842317581	-0.28204137	No	
+row_20	ABCB7	ABCB7	ATP-binding cassette, sub-family B (MDR/TAP), member 7	6829	-0.11227481067180634	-0.28315756	No	
+row_21	TRAM1	TRAM1	translocation associated membrane protein 1	7758	-0.19391325116157532	-0.3512072	No	
+row_22	TMEM156	TMEM156	transmembrane protein 156	8063	-0.22213925421237946	-0.359188	No	
+row_23	PAIP2	PAIP2	poly(A) binding protein interacting protein 2	8382	-0.2555048167705536	-0.3654489	No	
+row_24	PUM2	PUM2	pumilio homolog 2 (Drosophila)	9127	-0.3434589207172394	-0.4030439	Yes	
+row_25	PRPF4B	PRPF4B	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	9385	-0.3723583519458771	-0.39313838	Yes	
+row_26	USP22	USP22	ubiquitin specific peptidase 22	9746	-0.42780858278274536	-0.38772464	Yes	
+row_27	TRIM23	TRIM23	tripartite motif-containing 23	9754	-0.42897525429725647	-0.34966505	Yes	
+row_28	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	10155	-0.5075100064277649	-0.34074742	Yes	
+row_29	TAF2	TAF2	TAF2 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 150kDa	10181	-0.5141989588737488	-0.2966577	Yes	
+row_30	ZMYM4	ZMYM4	zinc finger, MYM-type 4	10263	-0.5327788591384888	-0.25605384	Yes	
+row_31	GTSE1	GTSE1	G-2 and S-phase expressed 1	10386	-0.5656414031982422	-0.2162644	Yes	
+row_32	INTS8	INTS8	integrator complex subunit 8	10621	-0.6518702507019043	-0.17901933	Yes	
+row_33	MIB1	MIB1	mindbomb homolog 1 (Drosophila)	10696	-0.6924533843994141	-0.12336334	Yes	
+row_34	SP1	SP1	Sp1 transcription factor	10783	-0.7691423296928406	-0.061894175	Yes	
+row_35	SMC5	SMC5	structural maintenance of chromosomes 5	10796	-0.787132203578949	0.008019682	Yes	

@@ -1,0 +1,59 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP1	AQP1	aquaporin 1 (Colton blood group)	118	0.8312647938728333	0.035740532	No	
+row_1	IMPACT	IMPACT	Impact homolog (mouse)	1009	0.4898971617221832	-0.01898204	No	
+row_2	PPP1R15A	PPP1R15A	protein phosphatase 1, regulatory (inhibitor) subunit 15A	1765	0.3529026508331299	-0.06892106	No	
+row_3	TRPM1	TRPM1	transient receptor potential cation channel, subfamily M, member 1	1899	0.33470818400382996	-0.06242664	No	
+row_4	HYAL1	HYAL1	hyaluronoglucosaminidase 1	1917	0.33226802945137024	-0.045354195	No	
+row_5	XPC	XPC	xeroderma pigmentosum, complementation group C	1931	0.3304293155670166	-0.028015435	No	
+row_6	SAG	SAG	S-antigen; retina and pineal gland (arrestin)	2105	0.3134210705757141	-0.0264102	No	
+row_7	CUL4B	CUL4B	cullin 4B	2206	0.3030863404273987	-0.018641794	No	
+row_8	N4BP1	N4BP1	-	2302	0.29124268889427185	-0.0110760555	No	
+row_9	RS1	RS1	retinoschisis (X-linked, juvenile) 1	2368	0.28327685594558716	-0.001186154	No	
+row_10	OPN5	OPN5	opsin 5	2491	0.268926203250885	0.002633466	No	
+row_11	OPN4	OPN4	opsin 4 (melanopsin)	2893	0.22311101853847504	-0.021888781	No	
+row_12	PDE6G	PDE6G	phosphodiesterase 6G, cGMP-specific, rod, gamma	3111	0.19982686638832092	-0.030721325	No	
+row_13	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	3501	0.1632448434829712	-0.057494074	No	
+row_14	STK11	STK11	serine/threonine kinase 11	4101	0.11084139347076416	-0.1066048	No	
+row_15	PDE6B	PDE6B	phosphodiesterase 6B, cGMP-specific, rod, beta (congenital stationary night blindness 3, autosomal dominant)	4846	0.04801914095878601	-0.172634	No	
+row_16	CNGB1	CNGB1	cyclic nucleotide gated channel beta 1	4923	0.04164811968803406	-0.17731737	No	
+row_17	DDB1	DDB1	damage-specific DNA binding protein 1, 127kDa	5539	-0.003948981873691082	-0.23390348	No	
+row_18	HYAL2	HYAL2	hyaluronoglucosaminidase 2	5962	-0.03923065587878227	-0.27068257	No	
+row_19	POLH	POLH	polymerase (DNA directed), eta	6050	-0.04692612588405609	-0.27608588	No	
+row_20	MAPK9	MAPK9	mitogen-activated protein kinase 9	6119	-0.05323229730129242	-0.27938032	No	
+row_21	GNAT1	GNAT1	guanine nucleotide binding protein (G protein), alpha transducing activity polypeptide 1	6227	-0.06167937442660332	-0.28580326	No	
+row_22	HYAL3	HYAL3	hyaluronoglucosaminidase 3	6264	-0.06491050124168396	-0.2854866	No	
+row_23	TP73	TP73	tumor protein p73	6434	-0.07772886008024216	-0.296736	No	
+row_24	RHO	RHO	rhodopsin (opsin 2, rod pigment) (retinitis pigmentosa 4, autosomal dominant)	6555	-0.08838926255702972	-0.30286112	No	
+row_25	RRH	RRH	retinal pigment epithelium-derived rhodopsin homolog	6615	-0.09324980527162552	-0.30307895	No	
+row_26	TMEM161A	TMEM161A	transmembrane protein 161A	6832	-0.11237829178571701	-0.31672564	No	
+row_27	OPN1SW	OPN1SW	opsin 1 (cone pigments), short-wave-sensitive (color blindness, tritan)	7174	-0.13938094675540924	-0.3404036	No	
+row_28	SIRT1	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	7530	-0.17174309492111206	-0.36355892	No	
+row_29	PDE6A	PDE6A	phosphodiesterase 6A, cGMP-specific, rod, alpha	7532	-0.17181864380836487	-0.35401097	No	
+row_30	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	7739	-0.19199593365192413	-0.3622668	No	
+row_31	PPID	PPID	peptidylprolyl isomerase D (cyclophilin D)	7882	-0.2042248547077179	-0.36392483	No	
+row_32	FBXW7	FBXW7	F-box and WD-40 domain protein 7 (archipelago homolog, Drosophila)	8548	-0.2744363844394684	-0.4099531	Yes	
+row_33	CNGA1	CNGA1	cyclic nucleotide gated channel alpha 1	8551	-0.27460452914237976	-0.39473045	Yes	
+row_34	XPA	XPA	xeroderma pigmentosum, complementation group A	8581	-0.2781285047531128	-0.38180408	Yes	
+row_35	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	8690	-0.2921338379383087	-0.37538913	Yes	
+row_36	EIF2AK4	EIF2AK4	eukaryotic translation initiation factor 2 alpha kinase 4	8741	-0.29736271500587463	-0.36332336	Yes	
+row_37	ACTR5	ACTR5	ARP5 actin-related protein 5 homolog (yeast)	8785	-0.3025990426540375	-0.3503172	Yes	
+row_38	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	8828	-0.30668458342552185	-0.33698943	Yes	
+row_39	BAX	BAX	BCL2-associated X protein	8851	-0.3098953068256378	-0.3216341	Yes	
+row_40	CRY1	CRY1	cryptochrome 1 (photolyase-like)	8863	-0.3110813796520233	-0.30519617	Yes	
+row_41	GRK1	GRK1	G protein-coupled receptor kinase 1	8927	-0.31952619552612305	-0.29308766	Yes	
+row_42	USP47	USP47	ubiquitin specific peptidase 47	8947	-0.32168081402778625	-0.276794	Yes	
+row_43	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	9130	-0.3436282277107239	-0.27432522	Yes	
+row_44	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.2575541	Yes	
+row_45	ATR	ATR	ataxia telangiectasia and Rad3 related	9291	-0.35997045040130615	-0.24936518	Yes	
+row_46	TRIAP1	TRIAP1	TP53 regulated inhibitor of apoptosis 1	9396	-0.37407881021499634	-0.23798303	Yes	
+row_47	EIF2S1	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	9662	-0.4157504141330719	-0.23913442	Yes	
+row_48	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.21863566	Yes	
+row_49	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	9967	-0.4657366871833801	-0.21735193	Yes	
+row_50	AURKB	AURKB	aurora kinase B	10033	-0.4792826473712921	-0.19646461	Yes	
+row_51	RDH11	RDH11	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	10402	-0.5705066919326782	-0.19844714	Yes	
+row_52	RHBDD1	RHBDD1	rhomboid domain containing 1	10443	-0.5828467607498169	-0.16943985	Yes	
+row_53	NOC2L	NOC2L	nucleolar complex associated 2 homolog (S. cerevisiae)	10457	-0.5850772261619568	-0.13781342	Yes	
+row_54	PTN	PTN	pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	10553	-0.6196275353431702	-0.11182282	Yes	
+row_55	ZBTB1	ZBTB1	zinc finger and BTB domain containing 1	10578	-0.632575273513794	-0.07854746	Yes	
+row_56	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	-0.05271078	Yes	
+row_57	PTPRK	PTPRK	protein tyrosine phosphatase, receptor type, K	10878	-1.1633549928665161	4.617005E-4	Yes	

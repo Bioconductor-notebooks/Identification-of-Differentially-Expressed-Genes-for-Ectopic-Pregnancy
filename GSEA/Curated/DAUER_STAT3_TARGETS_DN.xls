@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.08652616	Yes	
+row_1	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.16239396	Yes	
+row_2	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.23458228	Yes	
+row_3	IRF7	IRF7	interferon regulatory factor 7	30	0.9863246083259583	0.303342	Yes	
+row_4	HERC5	HERC5	hect domain and RLD 5	66	0.9037300944328308	0.36379457	Yes	
+row_5	OAS3	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	92	0.8597618341445923	0.42207038	Yes	
+row_6	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	94	0.8560484647750854	0.48229575	Yes	
+row_7	SAMD9	SAMD9	sterile alpha motif domain containing 9	478	0.6333821415901184	0.49163756	Yes	
+row_8	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.5360125	Yes	
+row_9	OASL	OASL	2'-5'-oligoadenylate synthetase-like	539	0.6115098595619202	0.5738481	Yes	
+row_10	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.6132103	Yes	
+row_11	TRIM14	TRIM14	tripartite motif-containing 14	586	0.5956341028213501	0.65388906	Yes	
+row_12	SP110	SP110	SP110 nuclear body protein	752	0.545771598815918	0.67714256	Yes	
+row_13	TDRD7	TDRD7	tudor domain containing 7	1014	0.488777220249176	0.6875355	Yes	
+row_14	HPGD	HPGD	hydroxyprostaglandin dehydrogenase 15-(NAD)	1968	0.32661113142967224	0.62274694	No	
+row_15	DDX58	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	2471	0.271854966878891	0.59565175	No	
+row_16	GRB14	GRB14	growth factor receptor-bound protein 14	2586	0.25840887427330017	0.60335624	No	
+row_17	HSPA6	HSPA6	heat shock 70kDa protein 6 (HSP70B')	2963	0.21487750113010406	0.58385503	No	
+row_18	ST8SIA4	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	3809	0.13561365008354187	0.5155589	No	
+row_19	HERC6	HERC6	hect domain and RLD 6	4553	0.0723920539021492	0.45220566	No	
+row_20	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.4270265	No	
+row_21	IFIH1	IFIH1	interferon induced with helicase C domain 1	4876	0.04537920653820038	0.42911837	No	
+row_22	AQP3	AQP3	aquaporin 3 (Gill blood group)	5206	0.021398717537522316	0.40031472	No	
+row_23	PDK4	PDK4	pyruvate dehydrogenase kinase, isozyme 4	6313	-0.06883484870195389	0.30326694	No	
+row_24	TLR3	TLR3	toll-like receptor 3	6628	-0.09442276507616043	0.28099057	No	
+row_25	TRIM5	TRIM5	tripartite motif-containing 5	7355	-0.15749266743659973	0.22519979	No	
+row_26	HEXIM1	HEXIM1	hexamethylene bis-acetamide inducible 1	8231	-0.2386755496263504	0.16140151	No	
+row_27	ID3	ID3	inhibitor of DNA binding 3, dominant negative helix-loop-helix protein	9126	-0.34333208203315735	0.10322687	No	
+row_28	PRPF4B	PRPF4B	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	9385	-0.3723583519458771	0.10569334	No	
+row_29	HSPA1B	HSPA1B	heat shock 70kDa protein 1B	9911	-0.4573933184146881	0.08955218	No	

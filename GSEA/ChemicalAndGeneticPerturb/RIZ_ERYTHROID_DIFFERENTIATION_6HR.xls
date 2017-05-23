@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	-0.18994719	No	
+row_1	MYBL1	MYBL1	v-myb myeloblastosis viral oncogene homolog (avian)-like 1	3647	0.15063022077083588	-0.26703468	No	
+row_2	SMYD1	SMYD1	SET and MYND domain containing 1	4568	0.07123399525880814	-0.33994567	No	
+row_3	SIM2	SIM2	single-minded homolog 2 (Drosophila)	4704	0.06023959442973137	-0.3424112	No	
+row_4	NEUROD1	NEUROD1	neurogenic differentiation 1	4736	0.05735516548156738	-0.33577994	No	
+row_5	NR5A1	NR5A1	nuclear receptor subfamily 5, group A, member 1	5439	0.003458710154518485	-0.399831	No	
+row_6	BNC1	BNC1	basonuclin 1	6385	-0.07386890798807144	-0.47460765	No	
+row_7	HOXA3	HOXA3	homeobox A3	7415	-0.16132596135139465	-0.542654	No	
+row_8	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	8053	-0.22101743519306183	-0.5647431	Yes	
+row_9	HOXA6	HOXA6	homeobox A6	8281	-0.24332624673843384	-0.54540026	Yes	
+row_10	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	8712	-0.29435455799102783	-0.53630596	Yes	
+row_11	ID3	ID3	inhibitor of DNA binding 3, dominant negative helix-loop-helix protein	9126	-0.34333208203315735	-0.51754713	Yes	
+row_12	MYF5	MYF5	myogenic factor 5	9246	-0.35679009556770325	-0.46949843	Yes	
+row_13	NFIA	NFIA	nuclear factor I/A	9414	-0.3759598433971405	-0.42269823	Yes	
+row_14	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	9423	-0.3777465522289276	-0.3609657	Yes	
+row_15	EBF1	EBF1	early B-cell factor 1	9622	-0.40981388092041016	-0.31142068	Yes	
+row_16	RAB25	RAB25	RAB25, member RAS oncogene family	9827	-0.4432346224784851	-0.25690112	Yes	
+row_17	NEUROG1	NEUROG1	neurogenin 1	9853	-0.4495883584022522	-0.18485288	Yes	
+row_18	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.13442905	Yes	
+row_19	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	10384	-0.5649369359016418	-0.051866468	Yes	
+row_20	HOXB3	HOXB3	homeobox B3	10475	-0.5908480882644653	0.037558667	Yes	

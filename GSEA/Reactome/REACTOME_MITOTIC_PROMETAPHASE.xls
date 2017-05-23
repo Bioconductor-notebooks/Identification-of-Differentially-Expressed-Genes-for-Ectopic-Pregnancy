@@ -1,0 +1,42 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPP2R5B	PPP2R5B	protein phosphatase 2, regulatory subunit B (B56), beta isoform	2411	0.2785976529121399	-0.19791922	No	
+row_1	PPP2R5A	PPP2R5A	protein phosphatase 2, regulatory subunit B (B56), alpha isoform	2536	0.2642098069190979	-0.18618095	No	
+row_2	PPP2R1B	PPP2R1B	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), beta isoform	2598	0.25718411803245544	-0.1692487	No	
+row_3	MAD1L1	MAD1L1	MAD1 mitotic arrest deficient-like 1 (yeast)	2708	0.2445010244846344	-0.15785572	No	
+row_4	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	2847	0.227557972073555	-0.15062338	No	
+row_5	PPP2R5C	PPP2R5C	protein phosphatase 2, regulatory subunit B (B56), gamma isoform	3364	0.17652370035648346	-0.18272854	No	
+row_6	PPP2CA	PPP2CA	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	3461	0.16720418632030487	-0.17691645	No	
+row_7	NDEL1	NDEL1	nudE nuclear distribution gene E homolog like 1 (A. nidulans)	3918	0.12563124299049377	-0.20795193	No	
+row_8	AHCTF1	AHCTF1	AT hook containing transcription factor 1	3937	0.12428884953260422	-0.19871043	No	
+row_9	CENPT	CENPT	centromere protein T	4010	0.1188303679227829	-0.19492787	No	
+row_10	PPP2CB	PPP2CB	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	4918	0.041936349123716354	-0.27489802	No	
+row_11	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	5033	0.03432447090744972	-0.28240106	No	
+row_12	CENPA	CENPA	centromere protein A	5514	-0.002135344548150897	-0.32648194	No	
+row_13	SEH1L	SEH1L	SEH1-like (S. cerevisiae)	5580	-0.006413943134248257	-0.33191404	No	
+row_14	PPP2R5D	PPP2R5D	protein phosphatase 2, regulatory subunit B (B56), delta isoform	6029	-0.04577754810452461	-0.3692158	No	
+row_15	KNTC1	KNTC1	kinetochore associated 1	6285	-0.06623397767543793	-0.3869238	No	
+row_16	NUP133	NUP133	nucleoporin 133kDa	6487	-0.08183037489652634	-0.39828363	No	
+row_17	INCENP	INCENP	inner centromere protein antigens 135/155kDa	6584	-0.09114602953195572	-0.3991427	No	
+row_18	SMC3	SMC3	structural maintenance of chromosomes 3	6654	-0.09657962620258331	-0.39703512	No	
+row_19	CENPI	CENPI	centromere protein I	6834	-0.11270870268344879	-0.40365762	No	
+row_20	CENPK	CENPK	centromere protein K	7726	-0.19050371646881104	-0.4691211	Yes	
+row_21	CENPL	CENPL	centromere protein L	7871	-0.20355838537216187	-0.46454716	Yes	
+row_22	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	8092	-0.2246864289045334	-0.46512917	Yes	
+row_23	CENPO	CENPO	centromere protein O	8105	-0.2262304276227951	-0.44639286	Yes	
+row_24	NUP43	NUP43	nucleoporin 43kDa	8609	-0.2808064818382263	-0.46815228	Yes	
+row_25	CENPN	CENPN	centromere protein N	8709	-0.294111967086792	-0.4514856	Yes	
+row_26	KIF2C	KIF2C	kinesin family member 2C	8729	-0.29600799083709717	-0.42727458	Yes	
+row_27	TAOK1	TAOK1	TAO kinase 1	8932	-0.3198848366737366	-0.41784656	Yes	
+row_28	MLF1IP	MLF1IP	MLF1 interacting protein	9098	-0.34012869000434875	-0.40323058	Yes	
+row_29	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	9108	-0.34104713797569275	-0.37414685	Yes	
+row_30	NUDC	NUDC	nuclear distribution gene C homolog (A. nidulans)	9409	-0.375210165977478	-0.36890423	Yes	
+row_31	KIF2A	KIF2A	kinesin heavy chain member 2A	9450	-0.3817175030708313	-0.33911225	Yes	
+row_32	CDC20	CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	9632	-0.4117514193058014	-0.31968972	Yes	
+row_33	STAG2	STAG2	stromal antigen 2	9767	-0.43336570262908936	-0.2940368	Yes	
+row_34	CASC5	CASC5	cancer susceptibility candidate 5	9804	-0.43901893496513367	-0.25884992	Yes	
+row_35	AURKB	AURKB	aurora kinase B	10033	-0.4792826473712921	-0.23783872	Yes	
+row_36	STAG1	STAG1	stromal antigen 1	10101	-0.49348101019859314	-0.20073389	Yes	
+row_37	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	-0.19406216	Yes	
+row_38	PPP2R5E	PPP2R5E	protein phosphatase 2, regulatory subunit B (B56), epsilon isoform	10714	-0.7044916152954102	-0.13660477	Yes	
+row_39	ZWILCH	ZWILCH	Zwilch, kinetochore associated, homolog (Drosophila)	10815	-0.8097435235977173	-0.074803516	Yes	
+row_40	RCC2	RCC2	regulator of chromosome condensation 2	10856	-0.9232836365699768	0.0024900285	Yes	

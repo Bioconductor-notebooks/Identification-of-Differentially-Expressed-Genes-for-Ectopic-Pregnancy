@@ -1,0 +1,55 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	402	0.6561956405639648	0.0031528478	No	
+row_1	PTK2	PTK2	PTK2 protein tyrosine kinase 2	938	0.5018228888511658	-0.015449152	No	
+row_2	AKT3	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	1166	0.4578343629837036	-0.008311293	No	
+row_3	FHIT	FHIT	fragile histidine triad gene	1326	0.4246550500392914	0.0030691468	No	
+row_4	LAMB2	LAMB2	laminin, beta 2 (laminin S)	1563	0.3846903443336487	0.004886996	No	
+row_5	COL4A6	COL4A6	collagen, type IV, alpha 6	1592	0.3820554316043854	0.025749044	No	
+row_6	PIK3R5	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5, p101	1699	0.3640553057193756	0.038304176	No	
+row_7	BCL2L1	BCL2L1	BCL2-like 1	1733	0.3584105968475342	0.057253417	No	
+row_8	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	0.07446697	No	
+row_9	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1869	0.3382832407951355	0.087194815	No	
+row_10	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	0.10755267	No	
+row_11	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	2026	0.3202206492424011	0.11326246	No	
+row_12	LAMA3	LAMA3	laminin, alpha 3	2086	0.3153761327266693	0.12716986	No	
+row_13	IKBKB	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	2715	0.24346618354320526	0.08412477	No	
+row_14	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	0.062113434	No	
+row_15	LAMA4	LAMA4	laminin, alpha 4	3137	0.1979011446237564	0.069919206	No	
+row_16	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	0.0074469782	No	
+row_17	MAX	MAX	MYC associated factor X	3942	0.12387663871049881	0.011171404	No	
+row_18	LAMC3	LAMC3	laminin, gamma 3	4250	0.09838330745697021	-0.011137811	No	
+row_19	LAMB3	LAMB3	laminin, beta 3	4300	0.09469791501760483	-0.00985049	No	
+row_20	APAF1	APAF1	apoptotic peptidase activating factor	4561	0.07209305465221405	-0.02943339	No	
+row_21	FN1	FN1	fibronectin 1	5175	0.023436052724719048	-0.0845971	No	
+row_22	CDKN2B	CDKN2B	cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	6372	-0.07320792227983475	-0.19053817	No	
+row_23	TRAF3	TRAF3	TNF receptor-associated factor 3	6661	-0.09713748097419739	-0.21116947	No	
+row_24	CKS1B	CKS1B	CDC28 protein kinase regulatory subunit 1B	6668	-0.0977451279759407	-0.20572467	No	
+row_25	ITGA2B	ITGA2B	integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	6827	-0.11218418180942535	-0.21342883	No	
+row_26	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	-0.22437553	No	
+row_27	TRAF5	TRAF5	TNF receptor-associated factor 5	7082	-0.13243433833122253	-0.22077225	No	
+row_28	BCL2	BCL2	B-cell CLL/lymphoma 2	7141	-0.13663285970687866	-0.21774234	No	
+row_29	LAMB1	LAMB1	laminin, beta 1	7181	-0.1397501677274704	-0.2127667	No	
+row_30	PIAS2	PIAS2	protein inhibitor of activated STAT, 2	7225	-0.14452645182609558	-0.20786731	No	
+row_31	E2F2	E2F2	E2F transcription factor 2	7282	-0.1501101404428482	-0.20382558	No	
+row_32	CYCS	CYCS	cytochrome c, somatic	7447	-0.16420377790927887	-0.20889121	No	
+row_33	BIRC3	BIRC3	baculoviral IAP repeat-containing 3	7493	-0.1687932312488556	-0.20268717	No	
+row_34	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	-0.21335816	No	
+row_35	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	7943	-0.21029451489448547	-0.2193809	No	
+row_36	LAMB4	LAMB4	laminin, beta 4	8027	-0.21705903112888336	-0.21372348	No	
+row_37	AKT2	AKT2	v-akt murine thymoma viral oncogene homolog 2	8081	-0.22389857470989227	-0.20487621	No	
+row_38	RARB	RARB	retinoic acid receptor, beta	8501	-0.2684681713581085	-0.22708865	Yes	
+row_39	CCNE2	CCNE2	cyclin E2	8596	-0.27950018644332886	-0.21861479	Yes	
+row_40	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	8794	-0.3033764660358429	-0.21818621	Yes	
+row_41	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	8828	-0.30668458342552185	-0.20241149	Yes	
+row_42	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.20559983	Yes	
+row_43	PIK3R2	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (p85 beta)	9119	-0.34236544370651245	-0.18726596	Yes	
+row_44	LAMA5	LAMA5	laminin, alpha 5	9141	-0.34463492035865784	-0.16805412	Yes	
+row_45	CCNE1	CCNE1	cyclin E1	9288	-0.3596876561641693	-0.15946048	Yes	
+row_46	TRAF4	TRAF4	TNF receptor-associated factor 4	9572	-0.4022616446018219	-0.16090405	Yes	
+row_47	LAMA2	LAMA2	laminin, alpha 2 (merosin, congenital muscular dystrophy)	9720	-0.4246826767921448	-0.14841388	Yes	
+row_48	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.1860649	Yes	
+row_49	LAMC2	LAMC2	laminin, gamma 2	10569	-0.6262868046760559	-0.1506756	Yes	
+row_50	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	10592	-0.6375507116317749	-0.1135793	Yes	
+row_51	BIRC2	BIRC2	baculoviral IAP repeat-containing 2	10668	-0.6698684096336365	-0.079393424	Yes	
+row_52	PIAS3	PIAS3	protein inhibitor of activated STAT, 3	10765	-0.7554087042808533	-0.041896842	Yes	
+row_53	CDK6	CDK6	cyclin-dependent kinase 6	10832	-0.8587019443511963	0.0047091264	Yes	

@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SPTAN1	SPTAN1	spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	344	0.6816807985305786	0.049600653	No	
+row_1	ARHGDIB	ARHGDIB	Rho GDP dissociation inhibitor (GDI) beta	1385	0.41537198424339294	0.003361012	No	
+row_2	CRADD	CRADD	CASP2 and RIPK1 domain containing adaptor with death domain	1546	0.388018935918808	0.034891386	No	
+row_3	BAG4	BAG4	BCL2-associated athanogene 4	2125	0.3105446994304657	0.018694667	No	
+row_4	FADD	FADD	Fas (TNFRSF6)-associated via death domain	2618	0.25387781858444214	0.0036605485	No	
+row_5	RIPK1	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	2648	0.2506020963191986	0.030869385	No	
+row_6	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	0.014502058	No	
+row_7	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	4177	0.10438903421163559	-0.073143765	No	
+row_8	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	5045	0.033715587109327316	-0.14895813	No	
+row_9	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	-0.2223074	No	
+row_10	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	5952	-0.038165971636772156	-0.22392632	No	
+row_11	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	-0.3190916	No	
+row_12	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	8526	-0.2708396017551422	-0.41193762	Yes	
+row_13	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	8737	-0.29685360193252563	-0.3958809	Yes	
+row_14	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	8912	-0.3167245090007782	-0.37414008	Yes	
+row_15	MADD	MADD	MAP-kinase activating death domain	8995	-0.32799437642097473	-0.34258407	Yes	
+row_16	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	-0.3204395	Yes	
+row_17	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	9353	-0.36760300397872925	-0.2894096	Yes	
+row_18	PRKDC	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	9989	-0.4702838063240051	-0.29180932	Yes	
+row_19	DFFB	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	10126	-0.49965423345565796	-0.24475875	Yes	
+row_20	LMNB1	LMNB1	lamin B1	10348	-0.5551579594612122	-0.19891742	Yes	
+row_21	LMNB2	LMNB2	lamin B2	10432	-0.5790160298347473	-0.13752429	Yes	
+row_22	CASP2	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	10742	-0.7313997745513916	-0.078772835	Yes	
+row_23	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.00939214	Yes	

@@ -1,0 +1,51 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	METRN	METRN	meteorin, glial cell differentiation regulator	439	0.6443741321563721	0.008139978	No	
+row_1	SLC6A17	SLC6A17	solute carrier family 6, member 17	458	0.6386705040931702	0.054708388	No	
+row_2	CLSTN2	CLSTN2	calsyntenin 2	534	0.6145341396331787	0.0941929	No	
+row_3	HS3ST2	HS3ST2	heparan sulfate (glucosamine) 3-O-sulfotransferase 2	754	0.5448114275932312	0.115120746	No	
+row_4	SIDT1	SIDT1	SID1 transmembrane family, member 1	1316	0.42618006467819214	0.09552273	No	
+row_5	GLRA2	GLRA2	glycine receptor, alpha 2	1814	0.3455294370651245	0.075741634	No	
+row_6	GAD2	GAD2	glutamate decarboxylase 2 (pancreatic islets and brain, 65kDa)	1984	0.3248499631881714	0.08467396	No	
+row_7	CPNE4	CPNE4	copine IV	2111	0.3128836154937744	0.09667163	No	
+row_8	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	0.0773016	No	
+row_9	GABRG2	GABRG2	gamma-aminobutyric acid (GABA) A receptor, gamma 2	2942	0.21751686930656433	0.056529894	No	
+row_10	CAMK2B	CAMK2B	calcium/calmodulin-dependent protein kinase (CaM kinase) II beta	3565	0.15717028081417084	0.010986916	No	
+row_11	TRHDE	TRHDE	thyrotropin-releasing hormone degrading enzyme	3640	0.15110747516155243	0.0155676	No	
+row_12	MYO5B	MYO5B	myosin VB	3791	0.1374005228281021	0.012098236	No	
+row_13	ENO2	ENO2	enolase 2 (gamma, neuronal)	3986	0.12046215683221817	0.0032884667	No	
+row_14	GABRD	GABRD	gamma-aminobutyric acid (GABA) A receptor, delta	4361	0.08884608000516891	-0.024523184	No	
+row_15	MYT1L	MYT1L	myelin transcription factor 1-like	4513	0.07536961138248444	-0.032769177	No	
+row_16	EPB49	EPB49	erythrocyte membrane protein band 4.9 (dematin)	4551	0.07247751951217651	-0.030711139	No	
+row_17	NXPH2	NXPH2	neurexophilin 2	4961	0.039128534495830536	-0.06550783	No	
+row_18	HCN1	HCN1	hyperpolarization activated cyclic nucleotide-gated potassium channel 1	5171	0.0235097985714674	-0.083023585	No	
+row_19	TBR1	TBR1	T-box, brain, 1	5506	-0.0015286499401554465	-0.11373702	No	
+row_20	DYNC1I1	DYNC1I1	dynein, cytoplasmic 1, intermediate chain 1	5689	-0.014355218969285488	-0.12945193	No	
+row_21	KIAA1045	KIAA1045	KIAA1045	5938	-0.03713621199131012	-0.14953846	No	
+row_22	CACNG3	CACNG3	calcium channel, voltage-dependent, gamma subunit 3	6034	-0.04611204192042351	-0.15482496	No	
+row_23	NEUROD6	NEUROD6	neurogenic differentiation 6	6065	-0.04834430292248726	-0.15394324	No	
+row_24	SLC8A1	SLC8A1	solute carrier family 8 (sodium/calcium exchanger), member 1	6218	-0.06092529371380806	-0.16337231	No	
+row_25	GABRA5	GABRA5	gamma-aminobutyric acid (GABA) A receptor, alpha 5	6575	-0.0904398262500763	-0.18940218	No	
+row_26	BCL11B	BCL11B	B-cell CLL/lymphoma 11B (zinc finger protein)	6577	-0.09048980474472046	-0.18266106	No	
+row_27	CDH9	CDH9	cadherin 9, type 2 (T1-cadherin)	6780	-0.10779798030853271	-0.19316559	No	
+row_28	NTS	NTS	neurotensin	7153	-0.13774092495441437	-0.21710029	No	
+row_29	NELL1	NELL1	NEL-like 1 (chicken)	7190	-0.1410209834575653	-0.20977382	No	
+row_30	PPFIA2	PPFIA2	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 2	7584	-0.17654280364513397	-0.23271671	No	
+row_31	PGM2L1	PGM2L1	phosphoglucomutase 2-like 1	7764	-0.19406883418560028	-0.23458345	No	
+row_32	COL19A1	COL19A1	collagen, type XIX, alpha 1	8193	-0.23482008278369904	-0.25635606	Yes	
+row_33	KCNIP4	KCNIP4	Kv channel interacting protein 4	8246	-0.24012580513954163	-0.24302241	Yes	
+row_34	LIN7B	LIN7B	lin-7 homolog B (C. elegans)	8269	-0.24247822165489197	-0.22674207	Yes	
+row_35	GRP	GRP	gastrin-releasing peptide	8284	-0.24345743656158447	-0.20964935	Yes	
+row_36	ICAM5	ICAM5	intercellular adhesion molecule 5, telencephalin	8362	-0.252573162317276	-0.1976833	Yes	
+row_37	SYT5	SYT5	synaptotagmin V	8510	-0.26969632506370544	-0.1908853	Yes	
+row_38	NSF	NSF	N-ethylmaleimide-sensitive factor	8572	-0.2767719626426697	-0.17561501	Yes	
+row_39	NAPB	NAPB	N-ethylmaleimide-sensitive factor attachment protein, beta	8658	-0.28698286414146423	-0.16178888	Yes	
+row_40	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	9132	-0.34381791949272156	-0.17948398	Yes	
+row_41	CNTNAP4	CNTNAP4	contactin associated protein-like 4	9334	-0.365812212228775	-0.170412	Yes	
+row_42	MAL2	MAL2	mal, T-cell differentiation protein 2	9433	-0.3790178894996643	-0.1508357	Yes	
+row_43	SLC6A7	SLC6A7	solute carrier family 6 (neurotransmitter transporter, L-proline), member 7	9494	-0.39029189944267273	-0.12690052	Yes	
+row_44	CBLN4	CBLN4	cerebellin 4 precursor	9755	-0.42951345443725586	-0.1184639	Yes	
+row_45	PRDM8	PRDM8	PR domain containing 8	9963	-0.4648306667804718	-0.10246827	Yes	
+row_46	EPHA7	EPHA7	EPH receptor A7	9973	-0.4674133062362671	-0.0680018	Yes	
+row_47	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	10011	-0.4743756353855133	-0.03559402	Yes	
+row_48	FGF9	FGF9	fibroblast growth factor 9 (glia-activating factor)	10644	-0.6608180403709412	-0.044026554	Yes	
+row_49	GDA	GDA	guanine deaminase	10840	-0.8739134073257446	0.0039690044	Yes	

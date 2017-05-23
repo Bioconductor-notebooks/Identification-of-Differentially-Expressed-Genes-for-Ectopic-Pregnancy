@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPRN2	PTPRN2	protein tyrosine phosphatase, receptor type, N polypeptide 2	106	0.8452804088592529	0.06914748	Yes	
+row_1	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.0734703	Yes	
+row_2	HLA-DRB4	HLA-DRB4	major histocompatibility complex, class II, DR beta 4	716	0.5524282455444336	0.118502386	Yes	
+row_3	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.15690637	Yes	
+row_4	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.19349265	Yes	
+row_5	IL1B	IL1B	interleukin 1, beta	1178	0.4545525014400482	0.21436977	Yes	
+row_6	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.2555017	Yes	
+row_7	CD86	CD86	CD86 molecule	1191	0.45085471868515015	0.2975925	Yes	
+row_8	FAS	FAS	Fas (TNF receptor superfamily, member 6)	1213	0.4470568597316742	0.3373939	Yes	
+row_9	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.37801272	Yes	
+row_10	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.4026745	Yes	
+row_11	CD28	CD28	CD28 molecule	1420	0.4092986583709717	0.4372004	Yes	
+row_12	HLA-DOA	HLA-DOA	major histocompatibility complex, class II, DO alpha	1484	0.399245947599411	0.4686688	Yes	
+row_13	FASLG	FASLG	Fas ligand (TNF superfamily, member 6)	1657	0.3718077540397644	0.48753324	Yes	
+row_14	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	1660	0.3716253340244293	0.52204305	Yes	
+row_15	CD80	CD80	CD80 molecule	1918	0.33194929361343384	0.5293552	Yes	
+row_16	GAD2	GAD2	glutamate decarboxylase 2 (pancreatic islets and brain, 65kDa)	1984	0.3248499631881714	0.5536939	Yes	
+row_17	HLA-DQB1	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	2737	0.24034389853477478	0.50684863	No	
+row_18	HLA-DPB1	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	3405	0.17204107344150543	0.461458	No	
+row_19	IL1A	IL1A	interleukin 1, alpha	3610	0.1535114049911499	0.45699456	No	
+row_20	IFNG	IFNG	interferon, gamma	3788	0.13774867355823517	0.45354712	No	
+row_21	LTA	LTA	lymphotoxin alpha (TNF superfamily, member 1)	4044	0.11617685854434967	0.4408995	No	
+row_22	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	4177	0.10438903421163559	0.4384836	No	
+row_23	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.23161611	No	
+row_24	HLA-DQA1	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	7098	-0.13357144594192505	0.18982032	No	
+row_25	INS	INS	insulin	7109	-0.13417471945285797	0.20142525	No	
+row_26	IL2	IL2	interleukin 2	8635	-0.2841058373451233	0.08744754	No	
+row_27	GAD1	GAD1	glutamate decarboxylase 1 (brain, 67kDa)	8983	-0.32616856694221497	0.08592812	No	
+row_28	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	0.061638087	No	
+row_29	ICA1	ICA1	islet cell autoantigen 1, 69kDa	10270	-0.5348643064498901	0.056476913	No	

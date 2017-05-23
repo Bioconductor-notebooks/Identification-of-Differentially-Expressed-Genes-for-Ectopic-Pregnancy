@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	50	0.9310548901557922	0.112132594	No	
+row_1	UBE2D1	UBE2D1	ubiquitin-conjugating enzyme E2D 1 (UBC4/5 homolog, yeast)	1393	0.4137573540210724	0.04045957	No	
+row_2	E2F4	E2F4	E2F transcription factor 4, p107/p130-binding	1786	0.35037288069725037	0.048300255	No	
+row_3	SMAD2	SMAD2	SMAD, mothers against DPP homolog 2 (Drosophila)	1946	0.32896578311920166	0.07490785	No	
+row_4	WWTR1	WWTR1	WW domain containing transcription regulator 1	4295	0.0952005386352539	-0.12932235	No	
+row_5	NCOR2	NCOR2	nuclear receptor co-repressor 2	6345	-0.07070150971412659	-0.30909705	No	
+row_6	CDKN2B	CDKN2B	cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	6372	-0.07320792227983475	-0.3023119	No	
+row_7	TRIM33	TRIM33	tripartite motif-containing 33	6729	-0.1034499928355217	-0.32211614	No	
+row_8	MEN1	MEN1	multiple endocrine neoplasia I	7502	-0.16987982392311096	-0.37189007	No	
+row_9	PPM1A	PPM1A	protein phosphatase 1A (formerly 2C), magnesium-dependent, alpha isoform	7976	-0.21236196160316467	-0.3888104	Yes	
+row_10	SKIL	SKIL	SKI-like	8123	-0.22764843702316284	-0.37370914	Yes	
+row_11	CDK9	CDK9	cyclin-dependent kinase 9 (CDC2-related kinase)	8415	-0.26036643981933594	-0.367855	Yes	
+row_12	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	8712	-0.29435455799102783	-0.35819975	Yes	
+row_13	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	8912	-0.3167245090007782	-0.33680955	Yes	
+row_14	CCNT1	CCNT1	cyclin T1	8984	-0.32620754837989807	-0.30244613	Yes	
+row_15	NCOR1	NCOR1	nuclear receptor co-repressor 1	9014	-0.3300059735774994	-0.2637398	Yes	
+row_16	SMURF2	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	9487	-0.38947978615760803	-0.258361	Yes	
+row_17	SMAD4	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	10237	-0.5262101888656616	-0.26134068	Yes	
+row_18	CCNC	CCNC	cyclin C	10413	-0.5740388035774231	-0.20547883	Yes	
+row_19	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.13961354	Yes	
+row_20	TGIF2	TGIF2	TGFB-induced factor 2 (TALE family homeobox)	10527	-0.6072518825531006	-0.0637524	Yes	
+row_21	SP1	SP1	Sp1 transcription factor	10783	-0.7691423296928406	0.009206446	Yes	

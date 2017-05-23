@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALAD	ALAD	aminolevulinate, delta-, dehydratase	314	0.6988970637321472	0.1138251	No	
+row_1	MMAB	MMAB	methylmalonic aciduria (cobalamin deficiency) cblB type	3021	0.20950312912464142	-0.09246996	No	
+row_2	HMOX2	HMOX2	heme oxygenase (decycling) 2	3600	0.15409421920776367	-0.114204265	No	
+row_3	FECH	FECH	ferrochelatase (protoporphyria)	3633	0.15160951018333435	-0.08618827	No	
+row_4	PPOX	PPOX	protoporphyrinogen oxidase	4094	0.11111023277044296	-0.105839156	No	
+row_5	UROS	UROS	uroporphyrinogen III synthase (congenital erythropoietic porphyria)	5084	0.03072214312851429	-0.19059972	No	
+row_6	GUSB	GUSB	glucuronidase, beta	5744	-0.020071133971214294	-0.24715988	No	
+row_7	UGT2B15	UGT2B15	UDP glucuronosyltransferase 2 family, polypeptide B15	6066	-0.04841933771967888	-0.26681888	No	
+row_8	BLVRA	BLVRA	biliverdin reductase A	6195	-0.059445690363645554	-0.26646098	No	
+row_9	EARS2	EARS2	glutamyl-tRNA synthetase 2 (mitochondrial)(putative)	6637	-0.09534136205911636	-0.28758326	No	
+row_10	UGT2B4	UGT2B4	UDP glucuronosyltransferase 2 family, polypeptide B4	6710	-0.10145896673202515	-0.27349082	No	
+row_11	UGT1A9	UGT1A9	UDP glucuronosyltransferase 1 family, polypeptide A9	6794	-0.1096886694431305	-0.25873026	No	
+row_12	UGT2A3	UGT2A3	UDP glucuronosyltransferase 2 family, polypeptide A3	8504	-0.2688175141811371	-0.3611412	Yes	
+row_13	UGT2A1	UGT2A1	UDP glucuronosyltransferase 2 family, polypeptide A1	8535	-0.2723199427127838	-0.3082898	Yes	
+row_14	UGT2B17	UGT2B17	UDP glucuronosyltransferase 2 family, polypeptide B17	8833	-0.30724939703941345	-0.2728817	Yes	
+row_15	ALAS2	ALAS2	aminolevulinate, delta-, synthase 2 (sideroblastic/hypochromic anemia)	9408	-0.3750477433204651	-0.24912496	Yes	
+row_16	COX15	COX15	COX15 homolog, cytochrome c oxidase assembly protein (yeast)	9597	-0.4062860608100891	-0.18345858	Yes	
+row_17	UGT1A6	UGT1A6	UDP glucuronosyltransferase 1 family, polypeptide A6	9890	-0.45544326305389404	-0.11732627	Yes	
+row_18	UGT2B28	UGT2B28	UDP glucuronosyltransferase 2 family, polypeptide B28	9906	-0.456916481256485	-0.025396053	Yes	
+row_19	HMBS	HMBS	hydroxymethylbilane synthase	10379	-0.5642672777175903	0.046391673	Yes	

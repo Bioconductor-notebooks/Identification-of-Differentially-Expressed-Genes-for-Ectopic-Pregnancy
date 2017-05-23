@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PROL1	PROL1	proline rich, lacrimal 1	3211	0.191465824842453	-0.25068548	No	
+row_1	BMP2K	BMP2K	BMP2 inducible kinase	3241	0.18826287984848022	-0.20909518	No	
+row_2	DCK	DCK	deoxycytidine kinase	3751	0.1403680294752121	-0.222968	No	
+row_3	SULT1B1	SULT1B1	sulfotransferase family, cytosolic, 1B, member 1	4565	0.07167816162109375	-0.28098512	No	
+row_4	SMR3B	SMR3B	submaxillary gland androgen regulated protein 3 homolog B (mouse)	4861	0.04684827849268913	-0.2971374	No	
+row_5	PRKG2	PRKG2	protein kinase, cGMP-dependent, type II	5159	0.024936694651842117	-0.31862536	No	
+row_6	BTC	BTC	betacellulin	5166	0.023920023813843727	-0.31355426	No	
+row_7	TMPRSS11B	TMPRSS11B	transmembrane protease, serine 11B	5212	0.020805586129426956	-0.31280684	No	
+row_8	MTHFD2L	MTHFD2L	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2-like	5256	0.01780160330235958	-0.3125815	No	
+row_9	RUFY3	RUFY3	RUN and FYVE domain containing 3	5365	0.009338471107184887	-0.3203317	No	
+row_10	PPBPL2	PPBPL2	pro-platelet basic protein-like 2	5463	0.0013763951137661934	-0.32894078	No	
+row_11	UGT2B15	UGT2B15	UDP glucuronosyltransferase 2 family, polypeptide B15	6066	-0.04841933771967888	-0.3729952	No	
+row_12	YTHDC1	YTHDC1	YTH domain containing 1	6279	-0.06607812643051147	-0.3769831	No	
+row_13	IL8	IL8	interleukin 8	6332	-0.06969403475522995	-0.36538658	No	
+row_14	SULT1E1	SULT1E1	sulfotransferase family 1E, estrogen-preferring, member 1	6391	-0.07450958341360092	-0.35321045	No	
+row_15	UGT2B4	UGT2B4	UDP glucuronosyltransferase 2 family, polypeptide B4	6710	-0.10145896673202515	-0.35864174	No	
+row_16	TMPRSS11D	TMPRSS11D	transmembrane protease, serine 11D	7490	-0.1683354377746582	-0.39080355	No	
+row_17	UGT2A3	UGT2A3	UDP glucuronosyltransferase 2 family, polypeptide A3	8504	-0.2688175141811371	-0.42089078	Yes	
+row_18	UGT2A1	UGT2A1	UDP glucuronosyltransferase 2 family, polypeptide A1	8535	-0.2723199427127838	-0.3596306	Yes	
+row_19	UGT2B17	UGT2B17	UDP glucuronosyltransferase 2 family, polypeptide B17	8833	-0.30724939703941345	-0.31474635	Yes	
+row_20	LOC401134	LOC401134	-	8979	-0.32564398646354675	-0.25153992	Yes	
+row_21	EPHA5	EPHA5	EPH receptor A5	9537	-0.397419810295105	-0.20939973	Yes	
+row_22	UGT2B28	UGT2B28	UDP glucuronosyltransferase 2 family, polypeptide B28	9906	-0.456916481256485	-0.13586688	Yes	
+row_23	HNRPDL	HNRPDL	heterogeneous nuclear ribonucleoprotein D-like	10016	-0.4748769700527191	-0.034260288	Yes	
+row_24	LPHN3	LPHN3	latrophilin 3	10062	-0.4849383533000946	0.075605474	Yes	

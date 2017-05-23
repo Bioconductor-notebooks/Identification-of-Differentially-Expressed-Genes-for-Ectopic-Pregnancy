@@ -1,0 +1,59 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OSGIN2	OSGIN2	oxidative stress induced growth inhibitor family member 2	33	0.9720815420150757	0.0475804	Yes	
+row_1	PPAP2B	PPAP2B	phosphatidic acid phosphatase type 2B	70	0.8979034423828125	0.09102029	Yes	
+row_2	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	164	0.7893309593200684	0.12354034	Yes	
+row_3	BET1L	BET1L	blocked early in transport 1 homolog (S. cerevisiae)-like	199	0.7658703923225403	0.16028833	Yes	
+row_4	LGALS8	LGALS8	lectin, galactoside-binding, soluble, 8 (galectin 8)	389	0.6633855104446411	0.17738126	Yes	
+row_5	SYNGR1	SYNGR1	synaptogyrin 1	524	0.6189231872558594	0.19723883	Yes	
+row_6	SPOCK2	SPOCK2	sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 2	528	0.6165255904197693	0.22907203	Yes	
+row_7	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.25639924	Yes	
+row_8	SP110	SP110	SP110 nuclear body protein	752	0.545771598815918	0.26819783	Yes	
+row_9	SIL1	SIL1	SIL1 homolog, endoplasmic reticulum chaperone (S. cerevisiae)	778	0.5364846587181091	0.29383016	Yes	
+row_10	LIMK2	LIMK2	LIM domain kinase 2	1006	0.4905107915401459	0.29840922	Yes	
+row_11	SNX2	SNX2	sorting nexin 2	1088	0.47302934527397156	0.3155639	Yes	
+row_12	SPTLC2	SPTLC2	serine palmitoyltransferase, long chain base subunit 2	1106	0.47004279494285583	0.33847466	Yes	
+row_13	CCNG2	CCNG2	cyclin G2	1146	0.4613723158836365	0.35890174	Yes	
+row_14	MCTS1	MCTS1	malignant T cell amplified sequence 1	1327	0.4243246912956238	0.36437508	Yes	
+row_15	YPEL3	YPEL3	yippee-like 3 (Drosophila)	1498	0.3964543342590332	0.36932054	Yes	
+row_16	KIF13A	KIF13A	kinesin family member 13A	1555	0.38647958636283875	0.38427672	Yes	
+row_17	NOL7	NOL7	nucleolar protein 7, 27kDa	2301	0.2913525402545929	0.3306353	No	
+row_18	COL4A5	COL4A5	collagen, type IV, alpha 5 (Alport syndrome)	2333	0.28782400488853455	0.3427625	No	
+row_19	TMEM143	TMEM143	transmembrane protein 143	2464	0.2733762264251709	0.34499252	No	
+row_20	AK3	AK3	adenylate kinase 3	2791	0.23419569432735443	0.3270774	No	
+row_21	MYO5B	MYO5B	myosin VB	3791	0.1374005228281021	0.24195571	No	
+row_22	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	3827	0.13370884954929352	0.24568668	No	
+row_23	SDHC	SDHC	succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa	4008	0.11889512836933136	0.23525241	No	
+row_24	PPP1R11	PPP1R11	protein phosphatase 1, regulatory (inhibitor) subunit 11	4197	0.10233145952224731	0.2232165	No	
+row_25	BMP6	BMP6	bone morphogenetic protein 6	4473	0.07767318934202194	0.20186013	No	
+row_26	PNLIPRP1	PNLIPRP1	pancreatic lipase-related protein 1	4742	0.056764621287584305	0.18006136	No	
+row_27	ARPC5	ARPC5	actin related protein 2/3 complex, subunit 5, 16kDa	4803	0.05179620906710625	0.17721683	No	
+row_28	LBP	LBP	lipopolysaccharide binding protein	5089	0.03014107421040535	0.15246116	No	
+row_29	GEMIN7	GEMIN7	gem (nuclear organelle) associated protein 7	5544	-0.004205324687063694	0.1107441	No	
+row_30	ATE1	ATE1	arginyltransferase 1	5751	-0.020771054551005363	0.092797644	No	
+row_31	LEP	LEP	leptin (obesity homolog, mouse)	6097	-0.0506816990673542	0.06356956	No	
+row_32	ZNF292	ZNF292	zinc finger protein 292	6234	-0.06226149946451187	0.054249953	No	
+row_33	SRPRB	SRPRB	signal recognition particle receptor, B subunit	6517	-0.08410678058862686	0.03258206	No	
+row_34	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	6640	-0.09585864841938019	0.026305469	No	
+row_35	RPL13	RPL13	ribosomal protein L13	6650	-0.09640902280807495	0.030495377	No	
+row_36	TRIM33	TRIM33	tripartite motif-containing 33	6729	-0.1034499928355217	0.028678454	No	
+row_37	CCNG1	CCNG1	cyclin G1	6749	-0.10529333353042603	0.03240738	No	
+row_38	DPP6	DPP6	dipeptidyl-peptidase 6	6855	-0.11393631249666214	0.028642615	No	
+row_39	HS6ST1	HS6ST1	heparan sulfate 6-O-sulfotransferase 1	7373	-0.15840943157672882	-0.010862398	No	
+row_40	AKAP5	AKAP5	A kinase (PRKA) anchor protein 5	7614	-0.17942102253437042	-0.023686523	No	
+row_41	FRMD4A	FRMD4A	FERM domain containing 4A	7652	-0.1832592934370041	-0.017559584	No	
+row_42	NUP210	NUP210	nucleoporin 210kDa	7709	-0.18940718472003937	-0.0128674805	No	
+row_43	ATG16L1	ATG16L1	ATG16 autophagy related 16-like 1 (S. cerevisiae)	7798	-0.19742996990680695	-0.010713377	No	
+row_44	PTHLH	PTHLH	parathyroid hormone-like hormone	8154	-0.23032426834106445	-0.031508896	No	
+row_45	MAD2L2	MAD2L2	MAD2 mitotic arrest deficient-like 2 (yeast)	8172	-0.23198552429676056	-0.020996762	No	
+row_46	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	8199	-0.23534591495990753	-0.011140941	No	
+row_47	CRBN	CRBN	cereblon	8571	-0.2767148017883301	-0.030998241	No	
+row_48	MBD5	MBD5	methyl-CpG binding domain protein 5	9036	-0.33265939354896545	-0.056532227	No	
+row_49	OSBPL2	OSBPL2	oxysterol binding protein-like 2	9174	-0.34828633069992065	-0.05104726	No	
+row_50	AP1S1	AP1S1	adaptor-related protein complex 1, sigma 1 subunit	9447	-0.38159942626953125	-0.05629724	No	
+row_51	CCNB1	CCNB1	cyclin B1	9777	-0.4353015720844269	-0.064015366	No	
+row_52	HSPA1B	HSPA1B	heat shock 70kDa protein 1B	9911	-0.4573933184146881	-0.052478332	No	
+row_53	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	9967	-0.4657366871833801	-0.03330188	No	
+row_54	CCT6A	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1)	10013	-0.47466206550598145	-0.0127368625	No	
+row_55	PSEN1	PSEN1	presenilin 1 (Alzheimer disease 3)	10207	-0.51967453956604	-0.0034982702	No	
+row_56	ZNF587	ZNF587	zinc finger protein 587	10544	-0.6155176758766174	-0.0024768487	No	
+row_57	DDX17	DDX17	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	10612	-0.6470096707344055	0.025032347	No	

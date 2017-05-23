@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BCL2L1	BCL2L1	BCL2-like 1	1733	0.3584105968475342	-0.07002195	No	
+row_1	APAF1	APAF1	apoptotic peptidase activating factor	4561	0.07209305465221405	-0.31213248	No	
+row_2	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	-0.4257804	No	
+row_3	BID	BID	BH3 interacting domain death agonist	6477	-0.08071265369653702	-0.46010965	No	
+row_4	BCL2	BCL2	B-cell CLL/lymphoma 2	7141	-0.13663285970687866	-0.48701936	Yes	
+row_5	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	-0.4546393	Yes	
+row_6	CYCS	CYCS	cytochrome c, somatic	7447	-0.16420377790927887	-0.4394323	Yes	
+row_7	BIRC3	BIRC3	baculoviral IAP repeat-containing 3	7493	-0.1687932312488556	-0.4014591	Yes	
+row_8	CASP7	CASP7	caspase 7, apoptosis-related cysteine peptidase	8503	-0.26879531145095825	-0.42722833	Yes	
+row_9	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	8737	-0.29685360193252563	-0.3746014	Yes	
+row_10	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	8828	-0.30668458342552185	-0.30636498	Yes	
+row_11	BAX	BAX	BCL2-associated X protein	8851	-0.3098953068256378	-0.23107116	Yes	
+row_12	DFFB	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	10126	-0.49965423345565796	-0.22362307	Yes	
+row_13	CASP6	CASP6	caspase 6, apoptosis-related cysteine peptidase	10142	-0.5048424601554871	-0.0990465	Yes	
+row_14	BIRC2	BIRC2	baculoviral IAP repeat-containing 2	10668	-0.6698684096336365	0.019781088	Yes	

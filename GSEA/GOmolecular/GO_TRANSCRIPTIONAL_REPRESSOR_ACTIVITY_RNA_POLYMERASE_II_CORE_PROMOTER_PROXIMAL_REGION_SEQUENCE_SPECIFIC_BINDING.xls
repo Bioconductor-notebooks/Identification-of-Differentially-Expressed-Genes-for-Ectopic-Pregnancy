@@ -1,0 +1,62 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GATA3	GATA3	GATA binding protein 3	174	0.7816216945648193	0.02452092	No	
+row_1	HHEX	HHEX	homeobox, hematopoietically expressed	254	0.7295070886611938	0.05511258	No	
+row_2	ZNF219	ZNF219	zinc finger protein 219	1632	0.37482336163520813	-0.052647967	No	
+row_3	IFI16	IFI16	interferon, gamma-inducible protein 16	1783	0.35081058740615845	-0.048286077	No	
+row_4	NR2E1	NR2E1	nuclear receptor subfamily 2, group E, member 1	1832	0.3431558907032013	-0.0348974	No	
+row_5	OVOL1	OVOL1	ovo-like 1(Drosophila)	2167	0.3064810037612915	-0.049838837	No	
+row_6	ZNF746	ZNF746	zinc finger protein 746	2281	0.2945796847343445	-0.04497896	No	
+row_7	PRDM5	PRDM5	PR domain containing 5	2467	0.27299243211746216	-0.047892835	No	
+row_8	GFI1	GFI1	growth factor independent 1	2514	0.26684731245040894	-0.03828287	No	
+row_9	ZGPAT	ZGPAT	zinc finger, CCCH-type with G patch domain	2582	0.2590768337249756	-0.031016821	No	
+row_10	NFATC2	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	2714	0.24373674392700195	-0.030460875	No	
+row_11	BTG2	BTG2	BTG family, member 2	3932	0.12462121993303299	-0.1364337	No	
+row_12	PROX1	PROX1	prospero-related homeobox 1	4373	0.08794086426496506	-0.17252018	No	
+row_13	MXD1	MXD1	MAX dimerization protein 1	4471	0.07776278257369995	-0.17744353	No	
+row_14	ZFPM2	ZFPM2	zinc finger protein, multitype 2	4710	0.05960775911808014	-0.19633768	No	
+row_15	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	5184	0.023122919723391533	-0.2388399	No	
+row_16	PRDM1	PRDM1	PR domain containing 1, with ZNF domain	5588	-0.0074040950275957584	-0.27569085	No	
+row_17	INSM1	INSM1	insulinoma-associated 1	5818	-0.02710164710879326	-0.2954418	No	
+row_18	ATF7	ATF7	activating transcription factor 7	6263	-0.06490299105644226	-0.33309448	No	
+row_19	ASCL2	ASCL2	achaete-scute complex-like 2 (Drosophila)	6397	-0.07517119497060776	-0.34147868	No	
+row_20	NEUROG3	NEUROG3	neurogenin 3	6424	-0.0773082822561264	-0.33986554	No	
+row_21	TBX3	TBX3	T-box 3 (ulnar mammary syndrome)	6468	-0.08022352308034897	-0.33967173	No	
+row_22	FOXP2	FOXP2	forkhead box P2	6539	-0.08627521246671677	-0.34165826	No	
+row_23	ZNF281	ZNF281	zinc finger protein 281	6809	-0.11074050515890121	-0.3607608	No	
+row_24	GATA1	GATA1	GATA binding protein 1 (globin transcription factor 1)	7041	-0.129303440451622	-0.37538818	No	
+row_25	KCNIP3	KCNIP3	Kv channel interacting protein 3, calsenilin	7356	-0.15756702423095703	-0.39621636	No	
+row_26	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	7617	-0.17962267994880676	-0.4109096	No	
+row_27	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	-0.41194627	No	
+row_28	POU4F2	POU4F2	POU domain, class 4, transcription factor 2	7917	-0.20806896686553955	-0.41767794	Yes	
+row_29	E2F8	E2F8	E2F transcription factor 8	7969	-0.2119826078414917	-0.41137964	Yes	
+row_30	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	8053	-0.22101743519306183	-0.40756875	Yes	
+row_31	TBX2	TBX2	T-box 2	8118	-0.22710493206977844	-0.40168613	Yes	
+row_32	SKIL	SKIL	SKI-like	8123	-0.22764843702316284	-0.39023155	Yes	
+row_33	BACH1	BACH1	BTB and CNC homology 1, basic leucine zipper transcription factor 1	8253	-0.2409329116344452	-0.38963646	Yes	
+row_34	GZF1	GZF1	GDNF-inducible zinc finger protein 1	8345	-0.2510577142238617	-0.38500443	Yes	
+row_35	PITX2	PITX2	paired-like homeodomain transcription factor 2	8400	-0.258428692817688	-0.37657088	Yes	
+row_36	NR2C1	NR2C1	nuclear receptor subfamily 2, group C, member 1	8550	-0.27456456422805786	-0.37607685	Yes	
+row_37	DLX4	DLX4	distal-less homeobox 4	8775	-0.30084553360939026	-0.38114747	Yes	
+row_38	SNAI1	SNAI1	snail homolog 1 (Drosophila)	9100	-0.34017476439476013	-0.39341488	Yes	
+row_39	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.3808609	Yes	
+row_40	IRF3	IRF3	interferon regulatory factor 3	9263	-0.35825881361961365	-0.37167713	Yes	
+row_41	ZNF536	ZNF536	zinc finger protein 536	9286	-0.35961949825286865	-0.35503104	Yes	
+row_42	ESRRA	ESRRA	estrogen-related receptor alpha	9341	-0.3668981194496155	-0.34096357	Yes	
+row_43	ASCL1	ASCL1	achaete-scute complex-like 1 (Drosophila)	9434	-0.37924638390541077	-0.32976574	Yes	
+row_44	DACH1	DACH1	dachshund homolog 1 (Drosophila)	9589	-0.40503573417663574	-0.32295695	Yes	
+row_45	MZF1	MZF1	myeloid zinc finger 1	9639	-0.4127705991268158	-0.30604485	Yes	
+row_46	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	9753	-0.4288616478443146	-0.2942103	Yes	
+row_47	NFX1	NFX1	nuclear transcription factor, X-box binding 1	9783	-0.4360537528991699	-0.27424097	Yes	
+row_48	RCOR1	RCOR1	REST corepressor 1	9815	-0.44140368700027466	-0.25417852	Yes	
+row_49	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	9967	-0.4657366871833801	-0.24393971	Yes	
+row_50	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	10011	-0.4743756353855133	-0.22327344	Yes	
+row_51	SALL1	SALL1	sal-like 1 (Drosophila)	10025	-0.4774225056171417	-0.19967704	Yes	
+row_52	SP3	SP3	Sp3 transcription factor	10106	-0.49418163299560547	-0.18140069	Yes	
+row_53	CC2D1A	CC2D1A	coiled-coil and C2 domain containing 1A	10149	-0.5060329437255859	-0.15899773	Yes	
+row_54	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.14190285	Yes	
+row_55	REST	REST	RE1-silencing transcription factor	10323	-0.5498949885368347	-0.11860761	Yes	
+row_56	ATF3	ATF3	activating transcription factor 3	10444	-0.5828785300254822	-0.09942013	Yes	
+row_57	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	-0.0718383	Yes	
+row_58	TCF3	TCF3	transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47)	10647	-0.6627170443534851	-0.052846573	Yes	
+row_59	ZNF148	ZNF148	zinc finger protein 148	10707	-0.698285698890686	-0.022028646	Yes	
+row_60	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	0.012658278	Yes	

@@ -1,0 +1,78 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CREBL2	CREBL2	cAMP responsive element binding protein-like 2	200	0.7653898000717163	0.01594434	Yes	
+row_1	NINJ2	NINJ2	ninjurin 2	351	0.6775829195976257	0.032563046	Yes	
+row_2	CACNA2D4	CACNA2D4	calcium channel, voltage-dependent, alpha 2/delta subunit 4	485	0.631399393081665	0.048676047	Yes	
+row_3	GABARAPL1	GABARAPL1	GABA(A) receptor-associated protein like 1	489	0.6295192241668701	0.076733656	Yes	
+row_4	CLEC2B	CLEC2B	C-type lectin domain family 2, member B	505	0.6240211725234985	0.10343341	Yes	
+row_5	LOC374443	LOC374443	-	511	0.6226634383201599	0.13099737	Yes	
+row_6	CLEC2D	CLEC2D	C-type lectin domain family 2, member D	653	0.5722084641456604	0.14370587	Yes	
+row_7	KLRC3	KLRC3	killer cell lectin-like receptor subfamily C, member 3	683	0.5632922649383545	0.16637671	Yes	
+row_8	NECAP1	NECAP1	NECAP endocytosis associated 1	932	0.5038567185401917	0.16610764	Yes	
+row_9	C3AR1	C3AR1	complement component 3a receptor 1	1031	0.4837310016155243	0.17881261	Yes	
+row_10	STYK1	STYK1	serine/threonine/tyrosine kinase 1	1050	0.4792245328426361	0.19871733	Yes	
+row_11	C1S	C1S	complement component 1, s subcomponent	1363	0.41875579953193665	0.18869571	Yes	
+row_12	NTF3	NTF3	neurotrophin 3	1424	0.408786416053772	0.2015436	Yes	
+row_13	ADIPOR2	ADIPOR2	adiponectin receptor 2	1444	0.40535426139831543	0.21803083	Yes	
+row_14	CLEC1A	CLEC1A	C-type lectin domain family 1, member A	1519	0.3931644856929779	0.22888009	Yes	
+row_15	KLRD1	KLRD1	killer cell lectin-like receptor subfamily D, member 1	1554	0.38663357496261597	0.24313669	Yes	
+row_16	LOC338817	LOC338817	-	1587	0.38281673192977905	0.25740656	Yes	
+row_17	ERC1	ERC1	ELKS/RAB6-interacting/CAST family member 1	1619	0.3772875964641571	0.2715201	Yes	
+row_18	CD163	CD163	CD163 molecule	1631	0.3750576674938202	0.2873839	Yes	
+row_19	AKAP3	AKAP3	A kinase (PRKA) anchor protein 3	1639	0.3740684688091278	0.30357334	Yes	
+row_20	PDE6H	PDE6H	phosphodiesterase 6H, cGMP-specific, cone, gamma	1833	0.3429640531539917	0.30115163	Yes	
+row_21	KLRC4	KLRC4	killer cell lectin-like receptor subfamily C, member 4	1839	0.34258711338043213	0.31610912	Yes	
+row_22	SLC6A12	SLC6A12	solute carrier family 6 (neurotransmitter transporter, betaine/GABA), member 12	1940	0.32948538661003113	0.3216863	Yes	
+row_23	CD69	CD69	CD69 molecule	1955	0.32797932624816895	0.33515346	Yes	
+row_24	TEAD4	TEAD4	TEA domain family member 4	2032	0.3196127414703369	0.34250703	Yes	
+row_25	CLEC4A	CLEC4A	C-type lectin domain family 4, member A	2096	0.31483158469200134	0.35084832	Yes	
+row_26	GOLT1B	GOLT1B	golgi transport 1 homolog B (S. cerevisiae)	2157	0.3072442412376404	0.3591257	Yes	
+row_27	VWF	VWF	von Willebrand factor	2250	0.2976096272468567	0.36400837	Yes	
+row_28	LAG3	LAG3	lymphocyte-activation gene 3	2392	0.28076326847076416	0.36359867	Yes	
+row_29	PLEKHG6	PLEKHG6	pleckstrin homology domain containing, family G (with RhoGef domain) member 6	2422	0.277763307094574	0.3734176	Yes	
+row_30	LOC574538	LOC574538	-	2509	0.26732563972473145	0.37749234	Yes	
+row_31	PRMT8	PRMT8	protein arginine methyltransferase 8	2553	0.2625194489955902	0.3853297	Yes	
+row_32	PZP	PZP	pregnancy-zone protein	2670	0.24901007115840912	0.38580406	Yes	
+row_33	PRB4	PRB4	proline-rich protein BstNI subfamily 4	2716	0.2433239221572876	0.3925923	Yes	
+row_34	C1RL	C1RL	complement component 1, r subcomponent-like	2770	0.2366551011800766	0.39834014	Yes	
+row_35	PTPRO	PTPRO	protein tyrosine phosphatase, receptor type, O	2790	0.2342745065689087	0.4071269	Yes	
+row_36	B4GALNT3	B4GALNT3	beta-1,4-N-acetyl-galactosaminyl transferase 3	3005	0.2107854187488556	0.39681256	Yes	
+row_37	CLEC12A	CLEC12A	C-type lectin domain family 12, member A	3062	0.20543985068798065	0.40087777	Yes	
+row_38	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	3071	0.20460627973079681	0.40934703	Yes	
+row_39	LTBR	LTBR	lymphotoxin beta receptor (TNFR superfamily, member 3)	3172	0.19428522884845734	0.4088387	No	
+row_40	HEBP1	HEBP1	heme binding protein 1	3352	0.17779552936553955	0.4002781	No	
+row_41	SLC2A3	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	3370	0.17603981494903564	0.40662876	No	
+row_42	EMG1	EMG1	EMG1 nucleolar protein homolog (S. cerevisiae)	3429	0.16978490352630615	0.40890402	No	
+row_43	RERG	RERG	RAS-like, estrogen-regulated, growth inhibitor	3891	0.1273879110813141	0.37198034	No	
+row_44	ENO2	ENO2	enolase 2 (gamma, neuronal)	3986	0.12046215683221817	0.36870438	No	
+row_45	PARP11	PARP11	poly (ADP-ribose) polymerase family, member 11	4072	0.11362610757350922	0.3659535	No	
+row_46	GDF3	GDF3	growth differentiation factor 3	4181	0.10427603870630264	0.36065355	No	
+row_47	CSDA	CSDA	cold shock domain protein A	4281	0.09607602655887604	0.3558173	No	
+row_48	LOC389634	LOC389634	-	4340	0.09030254930257797	0.354515	No	
+row_49	SLC6A13	SLC6A13	solute carrier family 6 (neurotransmitter transporter, GABA), member 13	4735	0.0573708713054657	0.32063943	No	
+row_50	CACNA1C	CACNA1C	calcium channel, voltage-dependent, L type, alpha 1C subunit	4973	0.038419079035520554	0.3004385	No	
+row_51	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	5045	0.033715587109327316	0.29538625	No	
+row_52	FGF6	FGF6	fibroblast growth factor 6	5177	0.023353226482868195	0.28431562	No	
+row_53	LRRC23	LRRC23	leucine rich repeat containing 23	5215	0.02030751295387745	0.28180596	No	
+row_54	APOBEC1	APOBEC1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	5258	0.017748037353157997	0.27871844	No	
+row_55	MRPL51	MRPL51	mitochondrial ribosomal protein L51	5661	-0.013065439648926258	0.24210843	No	
+row_56	GPRC5A	GPRC5A	G protein-coupled receptor, family C, group 5, member A	5817	-0.027045538648962975	0.22898322	No	
+row_57	CLEC7A	CLEC7A	C-type lectin domain family 7, member A	5868	-0.030917491763830185	0.22574821	No	
+row_58	MFAP5	MFAP5	microfibrillar associated protein 5	6089	-0.04987309128046036	0.20763586	No	
+row_59	CLEC4E	CLEC4E	C-type lectin domain family 4, member E	6356	-0.07207336276769638	0.18626627	No	
+row_60	KCNA1	KCNA1	potassium voltage-gated channel, shaker-related subfamily, member 1 (episodic ataxia with myokymia)	6636	-0.09523818641901016	0.16473643	No	
+row_61	RAD52	RAD52	RAD52 homolog (S. cerevisiae)	6956	-0.12319201976060867	0.1407635	No	
+row_62	FOXM1	FOXM1	forkhead box M1	7424	-0.16189703345298767	0.1048379	No	
+row_63	TAS2R14	TAS2R14	taste receptor, type 2, member 14	7721	-0.19018948078155518	0.08600884	No	
+row_64	OLR1	OLR1	oxidised low density lipoprotein (lectin-like) receptor 1	7774	-0.19495905935764313	0.08997242	No	
+row_65	LMO3	LMO3	LIM domain only 3 (rhombotin-like 2)	7800	-0.19754084944725037	0.09655059	No	
+row_66	GAPDH	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	8301	-0.24528124928474426	0.061324608	No	
+row_67	AICDA	AICDA	activation-induced cytidine deaminase	8527	-0.27097266912460327	0.052701484	No	
+row_68	ING4	ING4	inhibitor of growth family, member 4	8574	-0.27693459391593933	0.060910054	No	
+row_69	BCL2L14	BCL2L14	BCL2-like 14 (apoptosis facilitator)	8780	-0.3017796277999878	0.05552423	No	
+row_70	LOC144571	LOC144571	-	9191	-0.350620836019516	0.033367608	No	
+row_71	CD9	CD9	CD9 molecule	9302	-0.36062124371528625	0.0394209	No	
+row_72	DUSP16	DUSP16	dual specificity phosphatase 16	9599	-0.4063287377357483	0.030320454	No	
+row_73	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	0.020839777	No	
+row_74	ATF7IP	ATF7IP	activating transcription factor 7 interacting protein	9951	-0.4625280201435089	0.039437786	No	
+row_75	KCNA5	KCNA5	potassium voltage-gated channel, shaker-related subfamily, member 5	10089	-0.4915582239627838	0.04888628	No	
+row_76	WNK1	WNK1	WNK lysine deficient protein kinase 1	10301	-0.5441384315490723	0.053854045	No	

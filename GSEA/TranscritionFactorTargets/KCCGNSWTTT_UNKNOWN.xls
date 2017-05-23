@@ -1,0 +1,62 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CXXC5	CXXC5	CXXC finger 5	785	0.5339924693107605	-0.048260417	No	
+row_1	ACVR2A	ACVR2A	activin A receptor, type IIA	1342	0.4222390949726105	-0.08044145	No	
+row_2	ENSA	ENSA	endosulfine alpha	1501	0.39591020345687866	-0.07704562	No	
+row_3	AP3D1	AP3D1	adaptor-related protein complex 3, delta 1 subunit	1607	0.37941962480545044	-0.06950232	No	
+row_4	DAP3	DAP3	death associated protein 3	2048	0.3179381191730499	-0.095705986	No	
+row_5	IGF2BP3	IGF2BP3	insulin-like growth factor 2 mRNA binding protein 3	2141	0.3091023564338684	-0.0901575	No	
+row_6	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	2261	0.2967488169670105	-0.08766518	No	
+row_7	RFX1	RFX1	regulatory factor X, 1 (influences HLA class II expression)	2325	0.28882527351379395	-0.08035882	No	
+row_8	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	2847	0.227557972073555	-0.118154384	No	
+row_9	ZNF524	ZNF524	zinc finger protein 524	3112	0.19982291758060455	-0.1334648	No	
+row_10	YWHAE	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide	3263	0.18632839620113373	-0.13885543	No	
+row_11	IRX5	IRX5	iroquois homeobox protein 5	3756	0.13998191058635712	-0.1779519	No	
+row_12	FIZ1	FIZ1	FLT3-interacting zinc finger 1	3868	0.129728764295578	-0.18231158	No	
+row_13	NCAM1	NCAM1	neural cell adhesion molecule 1	3881	0.12875443696975708	-0.17756836	No	
+row_14	MAX	MAX	MYC associated factor X	3942	0.12387663871049881	-0.17748185	No	
+row_15	PICALM	PICALM	phosphatidylinositol binding clathrin assembly protein	4155	0.10628160834312439	-0.19223918	No	
+row_16	SYT11	SYT11	synaptotagmin XI	4353	0.08927390724420547	-0.2063836	No	
+row_17	POU2F1	POU2F1	POU domain, class 2, transcription factor 1	5607	-0.008909002877771854	-0.32175064	No	
+row_18	HEXIM2	HEXIM2	hexamthylene bis-acetamide inducible 2	5633	-0.010404904372990131	-0.32358763	No	
+row_19	TRIM27	TRIM27	tripartite motif-containing 27	5856	-0.030103877186775208	-0.34273127	No	
+row_20	MEIS2	MEIS2	Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse)	6038	-0.04631497710943222	-0.35734987	No	
+row_21	CNOT3	CNOT3	CCR4-NOT transcription complex, subunit 3	6163	-0.0571303591132164	-0.36621034	No	
+row_22	SMC3	SMC3	structural maintenance of chromosomes 3	6654	-0.09657962620258331	-0.4070947	No	
+row_23	LNPEP	LNPEP	leucyl/cystinyl aminopeptidase	6706	-0.10073316842317581	-0.40722847	No	
+row_24	DMTF1	DMTF1	cyclin D binding myb-like transcription factor 1	6973	-0.1242688000202179	-0.42615768	No	
+row_25	ATP5G2	ATP5G2	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C2 (subunit 9)	7325	-0.15408793091773987	-0.4515852	No	
+row_26	GRHL3	GRHL3	grainyhead-like 3 (Drosophila)	7360	-0.1577325165271759	-0.44755763	No	
+row_27	PHF21A	PHF21A	PHD finger protein 21A	7483	-0.16791684925556183	-0.45119798	No	
+row_28	ACLY	ACLY	ATP citrate lyase	7629	-0.18085364997386932	-0.45637548	No	
+row_29	PCF11	PCF11	PCF11, cleavage and polyadenylation factor subunit, homolog (S. cerevisiae)	7915	-0.20784445106983185	-0.47326162	No	
+row_30	GLI1	GLI1	glioma-associated oncogene homolog 1 (zinc finger protein)	8239	-0.2397065907716751	-0.49221066	No	
+row_31	JARID2	JARID2	jumonji, AT rich interactive domain 2	8406	-0.2592778503894806	-0.49576402	No	
+row_32	OTX2	OTX2	orthodenticle homolog 2 (Drosophila)	8722	-0.29534921050071716	-0.51144487	No	
+row_33	RBM39	RBM39	RNA binding motif protein 39	9071	-0.33671748638153076	-0.5282946	Yes	
+row_34	PRICKLE1	PRICKLE1	prickle homolog 1 (Drosophila)	9146	-0.34504884481430054	-0.5194492	Yes	
+row_35	GABPB2	GABPB2	GA binding protein transcription factor, beta subunit 2	9382	-0.37175828218460083	-0.5242655	Yes	
+row_36	ASCL1	ASCL1	achaete-scute complex-like 1 (Drosophila)	9434	-0.37924638390541077	-0.51174074	Yes	
+row_37	TDRD3	TDRD3	tudor domain containing 3	9570	-0.40204864740371704	-0.5059408	Yes	
+row_38	WDR33	WDR33	WD repeat domain 33	9627	-0.41058072447776794	-0.4924538	Yes	
+row_39	FOXA2	FOXA2	forkhead box A2	9637	-0.4126647710800171	-0.4745295	Yes	
+row_40	NIPBL	NIPBL	Nipped-B homolog (Drosophila)	9728	-0.4256017804145813	-0.46350124	Yes	
+row_41	STAG2	STAG2	stromal antigen 2	9767	-0.43336570262908936	-0.44731554	Yes	
+row_42	PAK7	PAK7	p21(CDKN1A)-activated kinase 7	9877	-0.4533396065235138	-0.43678212	Yes	
+row_43	MLL5	MLL5	myeloid/lymphoid or mixed-lineage leukemia 5 (trithorax homolog, Drosophila)	10004	-0.4731179177761078	-0.42692047	Yes	
+row_44	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.40541318	Yes	
+row_45	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	10011	-0.4743756353855133	-0.38431448	Yes	
+row_46	LPHN3	LPHN3	latrophilin 3	10062	-0.4849383533000946	-0.3668935	Yes	
+row_47	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	10155	-0.5075100064277649	-0.35232726	Yes	
+row_48	SRRM1	SRRM1	serine/arginine repetitive matrix 1	10284	-0.5383219122886658	-0.33968684	Yes	
+row_49	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	-0.33072713	Yes	
+row_50	SF1	SF1	splicing factor 1	10539	-0.6134036779403687	-0.30829892	Yes	
+row_51	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10557	-0.6210469007492065	-0.28164265	Yes	
+row_52	LRRC1	LRRC1	leucine rich repeat containing 1	10605	-0.6443986892700195	-0.2566969	Yes	
+row_53	DDX17	DDX17	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17	10612	-0.6470096707344055	-0.22784428	Yes	
+row_54	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	-0.20233071	Yes	
+row_55	ZNF711	ZNF711	zinc finger protein 711	10708	-0.698743462562561	-0.17436059	Yes	
+row_56	DHX15	DHX15	DEAH (Asp-Glu-Ala-His) box polypeptide 15	10779	-0.7672808170318604	-0.14595489	Yes	
+row_57	SP1	SP1	Sp1 transcription factor	10783	-0.7691423296928406	-0.11127406	Yes	
+row_58	NHS	NHS	Nance-Horan syndrome (congenital cataracts and dental anomalies)	10822	-0.8250691294670105	-0.077285185	Yes	
+row_59	TAF15	TAF15	TAF15 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 68kDa	10844	-0.8797523975372314	-0.03924018	Yes	
+row_60	ZFP91	ZFP91	zinc finger protein 91 homolog (mouse)	10863	-0.9406134486198425	0.0018481805	Yes	

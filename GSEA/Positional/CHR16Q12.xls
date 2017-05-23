@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	N4BP1	N4BP1	-	2302	0.29124268889427185	-0.1066837	No	
+row_1	BRD7	BRD7	bromodomain containing 7	4271	0.09673936665058136	-0.25284547	No	
+row_2	FTO	FTO	-	4672	0.06268322467803955	-0.2670238	No	
+row_3	NQO1	NQO1	NAD(P)H dehydrogenase, quinone 1	4784	0.05330262333154678	-0.25799644	No	
+row_4	PHKB	PHKB	phosphorylase kinase, beta	4983	0.03753224387764931	-0.26266694	No	
+row_5	MT1M	MT1M	metallothionein 1M	5253	0.017902078106999397	-0.28095633	No	
+row_6	PAPD5	PAPD5	PAP associated domain containing 5	5777	-0.02301039732992649	-0.32077312	No	
+row_7	KATNB1	KATNB1	katanin p80 (WD repeat containing) subunit B 1	6256	-0.06432297080755234	-0.34153658	Yes	
+row_8	CYLD	CYLD	cylindromatosis (turban tumor syndrome)	6314	-0.06884540617465973	-0.32193	Yes	
+row_9	SLC6A2	SLC6A2	solute carrier family 6 (neurotransmitter transporter, noradrenalin), member 2	6415	-0.07659287005662918	-0.30348334	Yes	
+row_10	MT1G	MT1G	metallothionein 1G	7036	-0.12883129715919495	-0.31402692	Yes	
+row_11	HEATR3	HEATR3	HEAT repeat containing 3	7072	-0.13182538747787476	-0.26966196	Yes	
+row_12	VPS35	VPS35	vacuolar protein sorting 35 (yeast)	9027	-0.3313618302345276	-0.3298431	Yes	
+row_13	GPT2	GPT2	glutamic pyruvate transaminase (alanine aminotransferase) 2	9221	-0.3543591797351837	-0.21968748	Yes	
+row_14	SALL1	SALL1	sal-like 1 (Drosophila)	10025	-0.4774225056171417	-0.12123739	Yes	
+row_15	SIAH1	SIAH1	seven in absentia homolog 1 (Drosophila)	10343	-0.5543144941329956	0.049687095	Yes	

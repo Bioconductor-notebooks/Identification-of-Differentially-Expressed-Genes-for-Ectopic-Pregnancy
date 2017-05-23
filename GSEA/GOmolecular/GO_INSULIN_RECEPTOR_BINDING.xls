@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IRS2	IRS2	insulin receptor substrate 2	154	0.7992238402366638	0.14320225	Yes	
+row_1	SORBS1	SORBS1	sorbin and SH3 domain containing 1	507	0.623578667640686	0.23359233	Yes	
+row_2	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.2975291	Yes	
+row_3	SNX2	SNX2	sorting nexin 2	1088	0.47302934527397156	0.37383005	Yes	
+row_4	DOK1	DOK1	docking protein 1, 62kDa (downstream of tyrosine kinase 1)	1368	0.4179154634475708	0.43044186	Yes	
+row_5	LMBRD1	LMBRD1	LMBR1 domain containing 1	1524	0.3920930027961731	0.49338272	Yes	
+row_6	IRS4	IRS4	insulin receptor substrate 4	2123	0.3108500838279724	0.49954894	Yes	
+row_7	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2725	0.2422666698694229	0.49193406	No	
+row_8	GRB10	GRB10	growth factor receptor-bound protein 10	3335	0.1791856288909912	0.4711613	No	
+row_9	DOK4	DOK4	docking protein 4	3514	0.16139455139636993	0.4865576	No	
+row_10	IGF2	IGF2	insulin-like growth factor 2 (somatomedin A)	4737	0.05732639506459236	0.38536432	No	
+row_11	SNX1	SNX1	sorting nexin 1	4739	0.05717242509126663	0.39653027	No	
+row_12	PTPN11	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	5407	0.006076879799365997	0.33633143	No	
+row_13	IGF1R	IGF1R	insulin-like growth factor 1 receptor	6004	-0.042984142899513245	0.28993547	No	
+row_14	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	6160	-0.05696864798665047	0.28688604	No	
+row_15	SLC2A2	SLC2A2	solute carrier family 2 (facilitated glucose transporter), member 2	6452	-0.07883649319410324	0.27562425	No	
+row_16	INS	INS	insulin	7109	-0.13417471945285797	0.24166207	No	
+row_17	FRS3	FRS3	fibroblast growth factor receptor substrate 3	7157	-0.13807067275047302	0.26452374	No	
+row_18	FRS2	FRS2	fibroblast growth factor receptor substrate 2	7658	-0.18402816355228424	0.2547377	No	
+row_19	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	7984	-0.21340517699718475	0.26684463	No	

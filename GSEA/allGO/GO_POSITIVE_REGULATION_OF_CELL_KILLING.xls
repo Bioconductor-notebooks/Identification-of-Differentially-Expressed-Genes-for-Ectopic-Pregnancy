@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRTAM	CRTAM	cytotoxic and regulatory T cell molecule	78	0.8803237676620483	0.087215886	Yes	
+row_1	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.14136265	Yes	
+row_2	PVRL2	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	333	0.6898292303085327	0.21312428	Yes	
+row_3	XCL1	XCL1	chemokine (C motif) ligand 1	390	0.662642776966095	0.27902377	Yes	
+row_4	PVR	PVR	poliovirus receptor	479	0.6325870156288147	0.33875346	Yes	
+row_5	CD226	CD226	CD226 molecule	510	0.6227232217788696	0.40276662	Yes	
+row_6	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	642	0.5770642161369324	0.45258263	Yes	
+row_7	VAV1	VAV1	vav 1 oncogene	859	0.5181168913841248	0.48825002	Yes	
+row_8	NCR3	NCR3	natural cytotoxicity triggering receptor 3	990	0.4931564927101135	0.5291605	Yes	
+row_9	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.5592435	Yes	
+row_10	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.6039181	Yes	
+row_11	FCER2	FCER2	Fc fragment of IgE, low affinity II, receptor for (CD23)	2244	0.2983380854129791	0.54207027	No	
+row_12	LAG3	LAG3	lymphocyte-activation gene 3	2392	0.28076326847076416	0.5586399	No	
+row_13	FADD	FADD	Fas (TNFRSF6)-associated via death domain	2618	0.25387781858444214	0.5651436	No	
+row_14	IFNG	IFNG	interferon, gamma	3788	0.13774867355823517	0.472262	No	
+row_15	F2RL1	F2RL1	coagulation factor II (thrombin) receptor-like 1	4025	0.11767076700925827	0.46314695	No	
+row_16	CCR2	CCR2	chemokine (C-C motif) receptor 2	4207	0.10180412977933884	0.4573954	No	
+row_17	SH2D1A	SH2D1A	SH2 domain protein 1A, Duncan's disease (lymphoproliferative syndrome)	5029	0.034609124064445496	0.38550112	No	
+row_18	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	0.36725914	No	
+row_19	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.26036963	No	
+row_20	BCL2L11	BCL2L11	BCL2-like 11 (apoptosis facilitator)	7987	-0.21357543766498566	0.14716345	No	
+row_21	IL23A	IL23A	interleukin 23, alpha subunit p19	8025	-0.2167479395866394	0.16699846	No	
+row_22	BAD	BAD	BCL2-antagonist of cell death	8222	-0.2376699149608612	0.17443474	No	
+row_23	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.19914395	No	
+row_24	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	0.11161254	No	

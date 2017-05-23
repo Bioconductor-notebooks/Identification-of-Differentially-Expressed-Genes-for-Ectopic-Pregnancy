@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TIMP2	TIMP2	TIMP metallopeptidase inhibitor 2	47	0.9335247874259949	0.1135566	Yes	
+row_1	GH2	GH2	growth hormone 2	162	0.7897409796714783	0.20278755	Yes	
+row_2	PSG3	PSG3	pregnancy specific beta-1-glycoprotein 3	727	0.5499428510665894	0.22030453	Yes	
+row_3	PAPPA2	PAPPA2	pappalysin 2	962	0.49760985374450684	0.26159692	Yes	
+row_4	PSG2	PSG2	pregnancy specific beta-1-glycoprotein 2	1238	0.44143831729888916	0.2920211	Yes	
+row_5	PLAC1	PLAC1	placenta-specific 1	1395	0.41302603483200073	0.32981405	Yes	
+row_6	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1539	0.3899523913860321	0.36589023	Yes	
+row_7	PAPPA	PAPPA	pregnancy-associated plasma protein A, pappalysin 1	1652	0.3722878098487854	0.40259	Yes	
+row_8	PSG6	PSG6	pregnancy specific beta-1-glycoprotein 6	1779	0.3512762188911438	0.43534747	Yes	
+row_9	CYP19A1	CYP19A1	cytochrome P450, family 19, subfamily A, polypeptide 1	1809	0.346314013004303	0.47640935	Yes	
+row_10	GCM1	GCM1	glial cells missing homolog 1 (Drosophila)	2060	0.3172687888145447	0.49345538	Yes	
+row_11	MAFF	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	2175	0.3055438697338104	0.5215427	Yes	
+row_12	PSG4	PSG4	pregnancy specific beta-1-glycoprotein 4	2413	0.2784850597381592	0.53488815	Yes	
+row_13	FBN2	FBN2	fibrillin 2 (congenital contractural arachnodactyly)	2825	0.2301412671804428	0.5261082	No	
+row_14	PSG1	PSG1	pregnancy specific beta-1-glycoprotein 1	3060	0.20545513927936554	0.5305078	No	
+row_15	HSD3B1	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	4362	0.08871772140264511	0.42192453	No	
+row_16	SDC1	SDC1	syndecan 1	4950	0.039749324321746826	0.37289742	No	
+row_17	PSG9	PSG9	pregnancy specific beta-1-glycoprotein 9	5062	0.032520778477191925	0.36678404	No	
+row_18	HSD17B1	HSD17B1	hydroxysteroid (17-beta) dehydrogenase 1	6838	-0.11321225017309189	0.21765152	No	
+row_19	CAPN6	CAPN6	calpain 6	7991	-0.21366527676582336	0.13856526	No	
+row_20	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	8137	-0.228673055768013	0.1540912	No	
+row_21	SVEP1	SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	9197	-0.351603239774704	0.10098626	No	
+row_22	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	9753	-0.4288616478443146	0.10404195	No	

@@ -1,0 +1,43 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SUPT3H	SUPT3H	suppressor of Ty 3 homolog (S. cerevisiae)	240	0.7388659119606018	0.036480434	No	
+row_1	TAF5L	TAF5L	TAF5-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa	1490	0.3978520333766937	-0.047156848	No	
+row_2	ACTB	ACTB	actin, beta	1930	0.33078357577323914	-0.061405424	No	
+row_3	DR1	DR1	down-regulator of transcription 1, TBP-binding (negative cofactor 2)	2361	0.2843058705329895	-0.07851112	No	
+row_4	BRPF1	BRPF1	bromodomain and PHD finger containing, 1	2425	0.2777091860771179	-0.062290307	No	
+row_5	PHF20	PHF20	PHD finger protein 20	2552	0.2629369795322418	-0.053052157	No	
+row_6	TAF9	TAF9	TAF9 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 32kDa	2818	0.2307073175907135	-0.059191402	No	
+row_7	TAF4	TAF4	TAF4 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 135kDa	2970	0.2142617404460907	-0.056120656	No	
+row_8	EPC1	EPC1	enhancer of polycomb homolog 1 (Drosophila)	3166	0.19484585523605347	-0.05864853	No	
+row_9	BRD8	BRD8	bromodomain containing 8	3946	0.12362964451313019	-0.12069081	No	
+row_10	CSRP2BP	CSRP2BP	CSRP2 binding protein	4002	0.11934064328670502	-0.116296	No	
+row_11	YEATS4	YEATS4	YEATS domain containing 4	4374	0.08779522031545639	-0.14354971	No	
+row_12	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4525	0.07441273331642151	-0.15148139	No	
+row_13	MCRS1	MCRS1	microspherule protein 1	4541	0.07347091287374496	-0.14703622	No	
+row_14	ING5	ING5	inhibitor of growth family, member 5	4766	0.05479072779417038	-0.1633499	No	
+row_15	MORF4L2	MORF4L2	mortality factor 4 like 2	5712	-0.01693124882876873	-0.24916773	No	
+row_16	BRPF3	BRPF3	bromodomain and PHD finger containing, 3	6075	-0.04897351190447807	-0.27867118	No	
+row_17	ENY2	ENY2	enhancer of yellow 2 homolog (Drosophila)	6133	-0.05436187610030174	-0.27961582	No	
+row_18	ACTL6A	ACTL6A	actin-like 6A	6210	-0.06066611781716347	-0.28181276	No	
+row_19	MBIP	MBIP	MAP3K12 binding inhibitory protein 1	6239	-0.0624784417450428	-0.27943867	No	
+row_20	TAF9B	TAF9B	TAF9B RNA polymerase II, TATA box binding protein (TBP)-associated factor, 31kDa	6444	-0.07815385609865189	-0.2920542	No	
+row_21	TAF5	TAF5	TAF5 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 100kDa	6994	-0.12569116055965424	-0.33271915	No	
+row_22	USP51	USP51	ubiquitin specific peptidase 51	7021	-0.12773624062538147	-0.3249835	No	
+row_23	PHF15	PHF15	PHD finger protein 15	7090	-0.13306781649589539	-0.3206987	No	
+row_24	ATXN7L3	ATXN7L3	ataxin 7-like 3	8310	-0.24682089686393738	-0.41355076	No	
+row_25	ING4	ING4	inhibitor of growth family, member 4	8574	-0.27693459391593933	-0.41583818	Yes	
+row_26	WDR75	WDR75	WD repeat domain 75	8744	-0.2983197569847107	-0.40775907	Yes	
+row_27	MORF4L1	MORF4L1	mortality factor 4 like 1	8862	-0.31103456020355225	-0.39387506	Yes	
+row_28	UBAP2L	UBAP2L	ubiquitin associated protein 2-like	8871	-0.3123331069946289	-0.36983457	Yes	
+row_29	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.3688968	Yes	
+row_30	TAF12	TAF12	TAF12 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 20kDa	9486	-0.3884342610836029	-0.36805713	Yes	
+row_31	USP34	USP34	ubiquitin specific peptidase 34	9569	-0.40190252661705017	-0.3437361	Yes	
+row_32	POLE4	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	9643	-0.41303151845932007	-0.31770208	Yes	
+row_33	USP22	USP22	ubiquitin specific peptidase 22	9746	-0.42780858278274536	-0.29317054	Yes	
+row_34	CCDC101	CCDC101	coiled-coil domain containing 101	10046	-0.48166924715042114	-0.28253612	Yes	
+row_35	TAF2	TAF2	TAF2 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 150kDa	10181	-0.5141989588737488	-0.25410244	Yes	
+row_36	FAM48A	FAM48A	family with sequence similarity 48, member A	10300	-0.5440313220024109	-0.22182631	Yes	
+row_37	ATXN7	ATXN7	ataxin 7	10369	-0.5608484745025635	-0.18360434	Yes	
+row_38	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10557	-0.6210469007492065	-0.15158246	Yes	
+row_39	TRRAP	TRRAP	transformation/transcription domain-associated protein	10567	-0.6244063377380371	-0.10287645	Yes	
+row_40	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	-0.0615307	Yes	
+row_41	BRD1	BRD1	bromodomain containing 1	10851	-0.8930253386497498	0.0029516865	Yes	

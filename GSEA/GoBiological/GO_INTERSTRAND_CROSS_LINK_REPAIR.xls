@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DCLRE1A	DCLRE1A	DNA cross-link repair 1A (PSO2 homolog, S. cerevisiae)	3679	0.1476294845342636	-0.3027442	No	
+row_1	DCLRE1B	DCLRE1B	DNA cross-link repair 1B (PSO2 homolog, S. cerevisiae)	4752	0.055769406259059906	-0.38786337	No	
+row_2	RPA3	RPA3	replication protein A3, 14kDa	5331	0.011692625470459461	-0.4382186	No	
+row_3	FANCL	FANCL	Fanconi anemia, complementation group L	5727	-0.01777046173810959	-0.470257	No	
+row_4	FANCD2	FANCD2	Fanconi anemia, complementation group D2	6092	-0.05012556165456772	-0.49158877	No	
+row_5	EME1	EME1	essential meiotic endonuclease 1 homolog 1 (S. pombe)	7585	-0.17673195898532867	-0.5859988	Yes	
+row_6	ERCC1	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	7588	-0.1769900918006897	-0.5432211	Yes	
+row_7	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	7739	-0.19199593365192413	-0.5104215	Yes	
+row_8	POLN	POLN	polymerase (DNA directed) nu	7837	-0.20061668753623962	-0.47065178	Yes	
+row_9	MUS81	MUS81	MUS81 endonuclease homolog (S. cerevisiae)	8206	-0.2359926849603653	-0.4472352	Yes	
+row_10	XPA	XPA	xeroderma pigmentosum, complementation group A	8581	-0.2781285047531128	-0.41414297	Yes	
+row_11	FANCM	FANCM	Fanconi anemia, complementation group M	8787	-0.302693635225296	-0.3595348	Yes	
+row_12	FANCF	FANCF	Fanconi anemia, complementation group F	8804	-0.3047534227371216	-0.28703296	Yes	
+row_13	FANCA	FANCA	Fanconi anemia, complementation group A	8972	-0.3252541720867157	-0.22345145	Yes	
+row_14	UBE2T	UBE2T	ubiquitin-conjugating enzyme E2T (putative)	9099	-0.34016159176826477	-0.15247813	Yes	
+row_15	ATR	ATR	ataxia telangiectasia and Rad3 related	9291	-0.35997045040130615	-0.08267846	Yes	
+row_16	RNF8	RNF8	ring finger protein 8	9975	-0.4678509533405304	-0.031971276	Yes	
+row_17	DCLRE1C	DCLRE1C	DNA cross-link repair 1C (PSO2 homolog, S. cerevisiae)	10018	-0.4755915701389313	0.079606175	Yes	

@@ -1,0 +1,101 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TFPI	TFPI	tissue factor pathway inhibitor (lipoprotein-associated coagulation inhibitor)	64	0.9073187112808228	0.024583042	No	
+row_1	GIMAP6	GIMAP6	GTPase, IMAP family member 6	77	0.8816898465156555	0.053126015	No	
+row_2	HHLA3	HHLA3	HERV-H LTR-associating 3	416	0.6499109268188477	0.043643106	No	
+row_3	GALNT6	GALNT6	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 6 (GalNAc-T6)	645	0.5761174559593201	0.041878443	No	
+row_4	EPM2A	EPM2A	epilepsy, progressive myoclonus type 2A, Lafora disease (laforin)	858	0.5192333459854126	0.039684158	No	
+row_5	PBXIP1	PBXIP1	pre-B-cell leukemia transcription factor interacting protein 1	894	0.51259845495224	0.053679913	No	
+row_6	SLC35D1	SLC35D1	solute carrier family 35 (UDP-glucuronic acid/UDP-N-acetylgalactosamine dual transporter), member D1	953	0.4991045892238617	0.06508901	No	
+row_7	FBLN5	FBLN5	fibulin 5	1087	0.4730991721153259	0.06866866	No	
+row_8	ZNF34	ZNF34	zinc finger protein 34	1135	0.46445947885513306	0.079932496	No	
+row_9	CCNG2	CCNG2	cyclin G2	1146	0.4613723158836365	0.094523504	No	
+row_10	SRGAP2	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	1187	0.45156872272491455	0.10600287	No	
+row_11	CCDC28A	CCDC28A	coiled-coil domain containing 28A	1347	0.42082586884498596	0.105413325	No	
+row_12	WDR45	WDR45	WD repeat domain 45	1358	0.41921570897102356	0.11858639	No	
+row_13	EVI2B	EVI2B	ecotropic viral integration site 2B	1425	0.4087713956832886	0.12621528	No	
+row_14	HIST1H2BK	HIST1H2BK	histone cluster 1, H2bk	2168	0.3064403831958771	0.0677168	No	
+row_15	HBP1	HBP1	HMG-box transcription factor 1	2173	0.30587610602378845	0.07763405	No	
+row_16	DNTT	DNTT	deoxynucleotidyltransferase, terminal	2184	0.30475953221321106	0.08695737	No	
+row_17	BAALC	BAALC	brain and acute leukemia, cytoplasmic	2355	0.28468286991119385	0.080768615	No	
+row_18	CD52	CD52	CD52 molecule	2410	0.2788981795310974	0.085141964	No	
+row_19	ZNF673	ZNF673	zinc finger protein 673	2501	0.26815053820610046	0.08581554	No	
+row_20	SCN3A	SCN3A	sodium channel, voltage-gated, type III, alpha	2652	0.2504849135875702	0.08033113	No	
+row_21	ACTR8	ACTR8	ARP8 actin-related protein 8 homolog (yeast)	2743	0.23954039812088013	0.0800424	No	
+row_22	ELAC1	ELAC1	elaC homolog 1 (E. coli)	2745	0.23943573236465454	0.088003114	No	
+row_23	SPHAR	SPHAR	-	2959	0.21565042436122894	0.075505055	No	
+row_24	ZNF268	ZNF268	zinc finger protein 268	3004	0.21106883883476257	0.07852426	No	
+row_25	SYF2	SYF2	SYF2 homolog, RNA splicing factor (S. cerevisiae)	3186	0.19317708909511566	0.06823767	No	
+row_26	ZNF117	ZNF117	zinc finger protein 117	3513	0.1618790179491043	0.043452512	No	
+row_27	TRIOBP	TRIOBP	TRIO and F-actin binding protein	3777	0.1382189691066742	0.023713542	No	
+row_28	ST8SIA4	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	3809	0.13561365008354187	0.025400292	No	
+row_29	BTG2	BTG2	BTG family, member 2	3932	0.12462121993303299	0.018278884	No	
+row_30	ST18	ST18	suppression of tumorigenicity 18 (breast carcinoma) (zinc finger protein)	4009	0.1188349574804306	0.015228431	No	
+row_31	SMPD3	SMPD3	sphingomyelin phosphodiesterase 3, neutral membrane (neutral sphingomyelinase II)	4056	0.11497948318719864	0.0148302	No	
+row_32	FBXL4	FBXL4	F-box and leucine-rich repeat protein 4	4436	0.08134496957063675	-0.017578412	No	
+row_33	SLC41A3	SLC41A3	solute carrier family 41, member 3	4445	0.08068840950727463	-0.015606289	No	
+row_34	RAG1	RAG1	recombination activating gene 1	4475	0.07748875021934509	-0.015689116	No	
+row_35	ELF2	ELF2	E74-like factor 2 (ets domain transcription factor)	4519	0.07497723400592804	-0.017154638	No	
+row_36	NR1D2	NR1D2	nuclear receptor subfamily 1, group D, member 2	4526	0.07424905896186829	-0.015213642	No	
+row_37	ZNF14	ZNF14	zinc finger protein 14	4533	0.07390818744897842	-0.013284113	No	
+row_38	ZNF180	ZNF180	zinc finger protein 180	4542	0.0734570249915123	-0.011555218	No	
+row_39	CLK4	CLK4	CDC-like kinase 4	4635	0.06580311059951782	-0.01787308	No	
+row_40	LTB	LTB	lymphotoxin beta (TNF superfamily, member 3)	4712	0.05941455811262131	-0.022922143	No	
+row_41	CD1B	CD1B	CD1b molecule	4984	0.03736642375588417	-0.04679514	No	
+row_42	KIAA1731	KIAA1731	KIAA1731	5122	0.027977202087640762	-0.058558132	No	
+row_43	ZNF682	ZNF682	zinc finger protein 682	5201	0.022312495857477188	-0.06504059	No	
+row_44	BBS1	BBS1	Bardet-Biedl syndrome 1	5208	0.02114657498896122	-0.0648857	No	
+row_45	CEP68	CEP68	centrosomal protein 68kDa	5649	-0.012187212705612183	-0.105276965	No	
+row_46	KIAA0355	KIAA0355	KIAA0355	5702	-0.015520547516644001	-0.10957689	No	
+row_47	SLC23A2	SLC23A2	solute carrier family 23 (nucleobase transporters), member 2	5723	-0.017363453283905983	-0.110847466	No	
+row_48	MNT	MNT	MAX binding protein	5734	-0.018566180020570755	-0.111150295	No	
+row_49	CAMK2N1	CAMK2N1	calcium/calmodulin-dependent protein kinase II inhibitor 1	5761	-0.02131478302180767	-0.11284435	No	
+row_50	POLH	POLH	polymerase (DNA directed), eta	6050	-0.04692612588405609	-0.1379722	No	
+row_51	ALS2CR8	ALS2CR8	amyotrophic lateral sclerosis 2 (juvenile) chromosome region, candidate 8	6125	-0.053747422993183136	-0.14302643	No	
+row_52	CBFA2T3	CBFA2T3	core-binding factor, runt domain, alpha subunit 2; translocated to, 3	6179	-0.05844169855117798	-0.14597543	No	
+row_53	STMN3	STMN3	stathmin-like 3	6224	-0.06123161315917969	-0.14799601	No	
+row_54	HHAT	HHAT	hedgehog acyltransferase	6571	-0.0901566594839096	-0.17704815	No	
+row_55	ATF1	ATF1	activating transcription factor 1	6607	-0.09270861744880676	-0.17717543	No	
+row_56	CHIC2	CHIC2	cysteine-rich hydrophobic domain 2	6768	-0.10668492317199707	-0.18842387	No	
+row_57	XYLT1	XYLT1	xylosyltransferase I	7094	-0.13340893387794495	-0.2140739	No	
+row_58	FRAT2	FRAT2	frequently rearranged in advanced T-cell lymphomas 2	7450	-0.16445980966091156	-0.24146141	No	
+row_59	CEP135	CEP135	centrosomal protein 135kDa	7474	-0.16724561154842377	-0.23796888	No	
+row_60	CYP2E1	CYP2E1	cytochrome P450, family 2, subfamily E, polypeptide 1	7492	-0.16873280704021454	-0.23386994	No	
+row_61	SYNE2	SYNE2	spectrin repeat containing, nuclear envelope 2	7717	-0.19003303349018097	-0.24824966	No	
+row_62	NFE2	NFE2	nuclear factor (erythroid-derived 2), 45kDa	7815	-0.1986391693353653	-0.25056323	No	
+row_63	BCOR	BCOR	BCL6 co-repressor	7854	-0.20223446190357208	-0.24728478	No	
+row_64	ZNF271	ZNF271	zinc finger protein 271	7978	-0.21261461079120636	-0.25153926	No	
+row_65	CRBN	CRBN	cereblon	8571	-0.2767148017883301	-0.29712808	Yes	
+row_66	ING4	ING4	inhibitor of growth family, member 4	8574	-0.27693459391593933	-0.2879988	Yes	
+row_67	GCC2	GCC2	GRIP and coiled-coil domain containing 2	8715	-0.29454103112220764	-0.2910741	Yes	
+row_68	RYR2	RYR2	ryanodine receptor 2 (cardiac)	8816	-0.305740624666214	-0.29006347	Yes	
+row_69	PDCD4	PDCD4	programmed cell death 4 (neoplastic transformation inhibitor)	8973	-0.32529765367507935	-0.29358792	Yes	
+row_70	RPS28	RPS28	ribosomal protein S28	9018	-0.33038902282714844	-0.28655538	Yes	
+row_71	RNF44	RNF44	ring finger protein 44	9069	-0.3366246521472931	-0.27986947	Yes	
+row_72	H1F0	H1F0	H1 histone family, member 0	9070	-0.33670878410339355	-0.26854423	Yes	
+row_73	SLC2A11	SLC2A11	solute carrier family 2 (facilitated glucose transporter), member 11	9079	-0.3380943536758423	-0.25791422	Yes	
+row_74	TRA2A	TRA2A	-	9145	-0.34488528966903687	-0.25234142	Yes	
+row_75	CD1E	CD1E	CD1e molecule	9164	-0.3470243811607361	-0.24233836	Yes	
+row_76	TNRC6B	TNRC6B	trinucleotide repeat containing 6B	9261	-0.35786107182502747	-0.23920374	Yes	
+row_77	CCNE1	CCNE1	cyclin E1	9288	-0.3596876561641693	-0.2295166	Yes	
+row_78	SOS2	SOS2	son of sevenless homolog 2 (Drosophila)	9345	-0.3671788275241852	-0.22235937	Yes	
+row_79	MXD4	MXD4	MAX dimerization protein 4	9395	-0.37405386567115784	-0.21432179	Yes	
+row_80	RCOR3	RCOR3	REST corepressor 3	9573	-0.4028759002685547	-0.21718423	Yes	
+row_81	DACH1	DACH1	dachshund homolog 1 (Drosophila)	9589	-0.40503573417663574	-0.20495176	Yes	
+row_82	TRIM23	TRIM23	tripartite motif-containing 23	9754	-0.42897525429725647	-0.20573084	Yes	
+row_83	FRAT1	FRAT1	frequently rearranged in advanced T-cell lymphomas	9797	-0.4383038580417633	-0.19488311	Yes	
+row_84	IFT140	IFT140	intraflagellar transport 140 homolog (Chlamydomonas)	9817	-0.44187307357788086	-0.18178253	Yes	
+row_85	VEZF1	VEZF1	vascular endothelial zinc finger 1	9859	-0.45040610432624817	-0.170435	Yes	
+row_86	IGBP1	IGBP1	immunoglobulin (CD79A) binding protein 1	9884	-0.4547334909439087	-0.15736552	Yes	
+row_87	ATF7IP	ATF7IP	activating transcription factor 7 interacting protein	9951	-0.4625280201435089	-0.14792852	Yes	
+row_88	EFHC1	EFHC1	EF-hand domain (C-terminal) containing 1	9953	-0.4628928303718567	-0.1324518	Yes	
+row_89	HOXA7	HOXA7	homeobox A7	9992	-0.4712258577346802	-0.1201258	Yes	
+row_90	CD1A	CD1A	CD1a molecule	10020	-0.475864052772522	-0.106623776	Yes	
+row_91	PCNXL2	PCNXL2	pecanex-like 2 (Drosophila)	10073	-0.4875955879688263	-0.0950454	Yes	
+row_92	LZTFL1	LZTFL1	leucine zipper transcription factor-like 1	10166	-0.5113374590873718	-0.08637767	Yes	
+row_93	ZNF277	ZNF277	zinc finger protein 277	10195	-0.5172896981239319	-0.071575016	Yes	
+row_94	FOLR1	FOLR1	folate receptor 1 (adult)	10218	-0.5222051739692688	-0.056050655	Yes	
+row_95	SPATS2	SPATS2	spermatogenesis associated, serine-rich 2	10601	-0.6433230042457581	-0.06983527	Yes	
+row_96	SUV420H1	SUV420H1	suppressor of variegation 4-20 homolog 1 (Drosophila)	10661	-0.6681699156761169	-0.05283237	Yes	
+row_97	ZNF124	ZNF124	zinc finger protein 124	10705	-0.6974955201148987	-0.033359423	Yes	
+row_98	ZNF711	ZNF711	zinc finger protein 711	10708	-0.698743462562561	-0.010042574	Yes	
+row_99	GALNT7	GALNT7	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7)	10789	-0.7782820463180542	0.008716627	Yes	

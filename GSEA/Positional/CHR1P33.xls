@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CYP4Z1	CYP4Z1	cytochrome P450, family 4, subfamily Z, polypeptide 1	2557	0.26211634278297424	-0.14306323	No	
+row_1	PDZK1IP1	PDZK1IP1	PDZK1 interacting protein 1	2901	0.2221207320690155	-0.09646447	No	
+row_2	COL9A2	COL9A2	collagen, type IX, alpha 2	4869	0.04608011245727539	-0.261256	No	
+row_3	CYP4A11	CYP4A11	cytochrome P450, family 4, subfamily A, polypeptide 11	4993	0.037087976932525635	-0.25952378	No	
+row_4	ATPAF1	ATPAF1	ATP synthase mitochondrial F1 complex assembly factor 1	5621	-0.00945203471928835	-0.31389531	No	
+row_5	HCRTR1	HCRTR1	hypocretin (orexin) receptor 1	5695	-0.014870529994368553	-0.3153801	No	
+row_6	CYP4X1	CYP4X1	cytochrome P450, family 4, subfamily X, polypeptide 1	5843	-0.028642164543271065	-0.31882837	No	
+row_7	ADC	ADC	arginine decarboxylase	5948	-0.038035858422517776	-0.31501418	No	
+row_8	ARTN	ARTN	artemin	6606	-0.09267784655094147	-0.34285998	Yes	
+row_9	MKNK1	MKNK1	MAP kinase interacting serine/threonine kinase 1	7045	-0.12952165305614471	-0.337588	Yes	
+row_10	AKR1A1	AKR1A1	aldo-keto reductase family 1, member A1 (aldehyde reductase)	7192	-0.14118829369544983	-0.30134034	Yes	
+row_11	B4GALT2	B4GALT2	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2	7367	-0.15805979073047638	-0.26173237	Yes	
+row_12	SLC6A9	SLC6A9	solute carrier family 6 (neurotransmitter transporter, glycine), member 9	7409	-0.1608409434556961	-0.20890683	Yes	
+row_13	MAGOH	MAGOH	mago-nashi homolog, proliferation-associated (Drosophila)	8407	-0.2594480514526367	-0.20935515	Yes	
+row_14	FAF1	FAF1	Fas (TNFRSF6) associated factor 1	9603	-0.40677255392074585	-0.17618161	Yes	
+row_15	EPB41	EPB41	erythrocyte membrane protein band 4.1 (elliptocytosis 1, RH-linked)	9667	-0.4170827269554138	-0.035211477	Yes	
+row_16	ZFYVE9	ZFYVE9	zinc finger, FYVE domain containing 9	9670	-0.4177941083908081	0.11162232	Yes	

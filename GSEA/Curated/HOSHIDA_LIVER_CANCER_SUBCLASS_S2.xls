@@ -1,0 +1,65 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NT5E	NT5E	5'-nucleotidase, ecto (CD73)	412	0.6516246795654297	-0.005345616	No	
+row_1	BCAM	BCAM	basal cell adhesion molecule (Lutheran blood group)	1154	0.46081340312957764	-0.0506826	No	
+row_2	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	1231	0.4436311423778534	-0.03542242	No	
+row_3	CD46	CD46	CD46 molecule, complement regulatory protein	1841	0.3423885107040405	-0.07450842	No	
+row_4	BRD3	BRD3	bromodomain containing 3	1959	0.32752275466918945	-0.06886981	No	
+row_5	SNTB1	SNTB1	syntrophin, beta 1 (dystrophin-associated protein A1, 59kDa, basic component 1)	2020	0.32129302620887756	-0.058276094	No	
+row_6	CPD	CPD	carboxypeptidase D	2473	0.2715315818786621	-0.08641118	No	
+row_7	FLNB	FLNB	filamin B, beta (actin binding protein 278)	2709	0.2444763034582138	-0.09584983	No	
+row_8	MEST	MEST	mesoderm specific transcript homolog (mouse)	3022	0.20946238934993744	-0.11416373	No	
+row_9	POFUT1	POFUT1	protein O-fucosyltransferase 1	3246	0.18799781799316406	-0.12533031	No	
+row_10	ERBB3	ERBB3	v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)	3248	0.18777377903461456	-0.1159906	No	
+row_11	GTF3C2	GTF3C2	general transcription factor IIIC, polypeptide 2, beta 110kDa	3586	0.1552138775587082	-0.13934001	No	
+row_12	NCOA4	NCOA4	nuclear receptor coactivator 4	3907	0.126479834318161	-0.16256161	No	
+row_13	PRDX3	PRDX3	peroxiredoxin 3	4720	0.0582832470536232	-0.23468018	No	
+row_14	IGF2	IGF2	insulin-like growth factor 2 (somatomedin A)	4737	0.05732639506459236	-0.23327933	No	
+row_15	SLC6A5	SLC6A5	solute carrier family 6 (neurotransmitter transporter, glycine), member 5	4759	0.05546671524643898	-0.23243402	No	
+row_16	TRIM26	TRIM26	tripartite motif-containing 26	4970	0.038621220737695694	-0.24990252	No	
+row_17	PPARG	PPARG	peroxisome proliferative activated receptor, gamma	5124	0.02783171646296978	-0.26264498	No	
+row_18	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	5184	0.023122919723391533	-0.26693633	No	
+row_19	SUMO1	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	5504	-0.0014547808095812798	-0.2963457	No	
+row_20	IGF2R	IGF2R	insulin-like growth factor 2 receptor	6318	-0.06913866102695465	-0.36801142	No	
+row_21	SLC6A2	SLC6A2	solute carrier family 6 (neurotransmitter transporter, noradrenalin), member 2	6415	-0.07659287005662918	-0.3730365	No	
+row_22	TFIP11	TFIP11	tuftelin interacting protein 11	6446	-0.07840563356876373	-0.37187073	No	
+row_23	PNN	PNN	pinin, desmosome associated protein	6483	-0.08155263960361481	-0.37110138	No	
+row_24	DDX1	DDX1	DEAD (Asp-Glu-Ala-Asp) box polypeptide 1	6986	-0.12523433566093445	-0.41120625	No	
+row_25	MAPK6	MAPK6	mitogen-activated protein kinase 6	7345	-0.15612618625164032	-0.4364507	No	
+row_26	ATXN10	ATXN10	ataxin 10	7573	-0.17504556477069855	-0.44863757	Yes	
+row_27	KLF3	KLF3	Kruppel-like factor 3 (basic)	7580	-0.17585110664367676	-0.44035885	Yes	
+row_28	GPC3	GPC3	glypican 3	7740	-0.1920977234840393	-0.44540453	Yes	
+row_29	RPS19	RPS19	ribosomal protein S19	7745	-0.19242416322231293	-0.43610847	Yes	
+row_30	SSB	SSB	Sjogren syndrome antigen B (autoantigen La)	7773	-0.1947857141494751	-0.4288195	Yes	
+row_31	CLK2	CLK2	CDC-like kinase 2	7886	-0.20462585985660553	-0.42889205	Yes	
+row_32	FGFR4	FGFR4	fibroblast growth factor receptor 4	7929	-0.20948854088783264	-0.42225087	Yes	
+row_33	ATP5F1	ATP5F1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit B1	8029	-0.2173806130886078	-0.42048123	Yes	
+row_34	TARBP1	TARBP1	Tar (HIV-1) RNA binding protein 1	8247	-0.24015463888645172	-0.42847338	Yes	
+row_35	GTF2I	GTF2I	general transcription factor II, i	8282	-0.24337147176265717	-0.41939083	Yes	
+row_36	CSE1L	CSE1L	CSE1 chromosome segregation 1-like (yeast)	8326	-0.24850380420684814	-0.41088226	Yes	
+row_37	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	8351	-0.2515755891799927	-0.40046337	Yes	
+row_38	NR2C1	NR2C1	nuclear receptor subfamily 2, group C, member 1	8550	-0.27456456422805786	-0.40497106	Yes	
+row_39	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	-0.39588484	Yes	
+row_40	NUP153	NUP153	nucleoporin 153kDa	8660	-0.28766804933547974	-0.38642564	Yes	
+row_41	PHKA2	PHKA2	phosphorylase kinase, alpha 2 (liver)	8770	-0.30056333541870117	-0.38140187	Yes	
+row_42	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	8955	-0.3231188654899597	-0.3821767	Yes	
+row_43	H1F0	H1F0	H1 histone family, member 0	9070	-0.33670878410339355	-0.3757994	Yes	
+row_44	RBM39	RBM39	RNA binding motif protein 39	9071	-0.33671748638153076	-0.3588856	Yes	
+row_45	PLXNB1	PLXNB1	plexin B1	9149	-0.3456312417984009	-0.3486405	Yes	
+row_46	SUZ12	SUZ12	suppressor of zeste 12 homolog (Drosophila)	9231	-0.3554827868938446	-0.33827025	Yes	
+row_47	GCN1L1	GCN1L1	GCN1 general control of amino-acid synthesis 1-like 1 (yeast)	9294	-0.3600950837135315	-0.3259123	Yes	
+row_48	PIGC	PIGC	phosphatidylinositol glycan anchor biosynthesis, class C	9309	-0.36184635758399963	-0.30903015	Yes	
+row_49	FBL	FBL	fibrillarin	9343	-0.3670318126678467	-0.29364353	Yes	
+row_50	ABCD3	ABCD3	ATP-binding cassette, sub-family D (ALD), member 3	9922	-0.4588797390460968	-0.32401296	Yes	
+row_51	CUL4A	CUL4A	cullin 4A	10066	-0.48593685030937195	-0.31281993	Yes	
+row_52	TTC3	TTC3	tetratricopeptide repeat domain 3	10097	-0.49315881729125977	-0.2908205	Yes	
+row_53	PEG3	PEG3	paternally expressed 3	10176	-0.5135236978530884	-0.27223438	Yes	
+row_54	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.25660172	Yes	
+row_55	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.2416315	Yes	
+row_56	ATP2B2	ATP2B2	ATPase, Ca++ transporting, plasma membrane 2	10500	-0.5986771583557129	-0.2149787	Yes	
+row_57	TP53BP2	TP53BP2	tumor protein p53 binding protein, 2	10531	-0.6090003848075867	-0.1871604	Yes	
+row_58	NR5A2	NR5A2	nuclear receptor subfamily 5, group A, member 2	10598	-0.6409006118774414	-0.16106689	Yes	
+row_59	DDX18	DDX18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	10613	-0.6471725106239319	-0.1298524	Yes	
+row_60	CASC3	CASC3	cancer susceptibility candidate 3	10715	-0.7045271992683411	-0.103797585	Yes	
+row_61	ATP2B1	ATP2B1	ATPase, Ca++ transporting, plasma membrane 1	10744	-0.7324709892272949	-0.06959234	Yes	
+row_62	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	10790	-0.7787976861000061	-0.034631208	Yes	
+row_63	CDK6	CDK6	cyclin-dependent kinase 6	10832	-0.8587019443511963	0.004713311	Yes	

@@ -1,0 +1,40 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	508	0.6233882308006287	0.0026158877	No	
+row_1	ABCA4	ABCA4	ATP-binding cassette, sub-family A (ABC1), member 4	550	0.6090638041496277	0.04715664	No	
+row_2	CTBS	CTBS	chitobiase, di-N-acetyl-	583	0.5965626239776611	0.09153546	No	
+row_3	PALMD	PALMD	palmdelphin	947	0.5008839964866638	0.097802445	No	
+row_4	FAM69A	FAM69A	family with sequence similarity 69, member A	1018	0.48751333355903625	0.1300257	No	
+row_5	DPYD	DPYD	dihydropyrimidine dehydrogenase	1861	0.33891215920448303	0.07927451	No	
+row_6	SH3GLB1	SH3GLB1	SH3-domain GRB2-like endophilin B1	2113	0.31282663345336914	0.08094893	No	
+row_7	CDC7	CDC7	CDC7 cell division cycle 7 (S. cerevisiae)	2171	0.3061806857585907	0.099984504	No	
+row_8	DR1	DR1	down-regulator of transcription 1, TBP-binding (negative cofactor 2)	2361	0.2843058705329895	0.1051131	No	
+row_9	GFI1	GFI1	growth factor independent 1	2514	0.26684731245040894	0.112268284	No	
+row_10	GTF2B	GTF2B	general transcription factor IIB	3008	0.2105851024389267	0.08351673	No	
+row_11	LRRC8C	LRRC8C	leucine rich repeat containing 8 family, member C	3092	0.20221860706806183	0.09190685	No	
+row_12	GBP5	GBP5	guanylate binding protein 5	3158	0.19601601362228394	0.10146463	No	
+row_13	BTBD8	BTBD8	BTB (POZ) domain containing 8	3495	0.164089635014534	0.08350099	No	
+row_14	EVI5	EVI5	ecotropic viral integration site 5	4178	0.10435421019792557	0.028894017	No	
+row_15	LOC339524	LOC339524	-	4448	0.08053728938102722	0.010479545	No	
+row_16	LOC149351	LOC149351	-	4864	0.0465264730155468	-0.024095668	No	
+row_17	CLCA1	CLCA1	chloride channel, calcium activated, family member 1	5891	-0.032893672585487366	-0.116091795	No	
+row_18	ARHGAP29	ARHGAP29	Rho GTPase activating protein 29	5986	-0.04127530753612518	-0.12148472	No	
+row_19	DNTTIP2	DNTTIP2	deoxynucleotidyltransferase, terminal, interacting protein 2	6291	-0.06677138060331345	-0.14421864	No	
+row_20	OLFM3	OLFM3	olfactomedin 3	6479	-0.08117546886205673	-0.15502138	No	
+row_21	ZNF326	ZNF326	zinc finger protein 326	7058	-0.13093359768390656	-0.19792996	No	
+row_22	CYR61	CYR61	cysteine-rich, angiogenic inducer, 61	7399	-0.16017873585224152	-0.21657272	No	
+row_23	PGM1	PGM1	phosphoglucomutase 1	8201	-0.2355279177427292	-0.27174556	No	
+row_24	COL24A1	COL24A1	collagen, type XXIV, alpha 1	8260	-0.24147236347198486	-0.25793594	No	
+row_25	GBP2	GBP2	guanylate binding protein 2, interferon-inducible	8974	-0.32536792755126953	-0.29786682	Yes	
+row_26	LMO4	LMO4	LIM domain only 4	9022	-0.3307003378868103	-0.27596384	Yes	
+row_27	CSDE1	CSDE1	cold shock domain containing E1, RNA-binding	9028	-0.3314405083656311	-0.25012937	Yes	
+row_28	LRRC8B	LRRC8B	leucine rich repeat containing 8 family, member B	9086	-0.33886075019836426	-0.22850107	Yes	
+row_29	SLC44A3	SLC44A3	solute carrier family 44, member 3	9182	-0.3495102822780609	-0.20953177	Yes	
+row_30	CCDC18	CCDC18	coiled-coil domain containing 18	9200	-0.3520010709762573	-0.18317261	Yes	
+row_31	GLMN	GLMN	glomulin, FKBP associated protein	9628	-0.410696417093277	-0.18996216	Yes	
+row_32	PKN2	PKN2	protein kinase N2	9636	-0.4125291705131531	-0.1578788	Yes	
+row_33	ABCD3	ABCD3	ATP-binding cassette, sub-family D (ALD), member 3	9922	-0.4588797390460968	-0.14775206	Yes	
+row_34	BRDT	BRDT	bromodomain, testis-specific	10068	-0.4861588478088379	-0.12255189	Yes	
+row_35	SSX2IP	SSX2IP	synovial sarcoma, X breakpoint 2 interacting protein	10074	-0.48819980025291443	-0.084280625	Yes	
+row_36	ODF2L	ODF2L	outer dense fiber of sperm tails 2-like	10223	-0.5239449143409729	-0.05635925	Yes	
+row_37	HFM1	HFM1	HFM1, ATP-dependent DNA helicase homolog (S. cerevisiae)	10326	-0.5501887202262878	-0.022114186	Yes	
+row_38	RBMXL1	RBMXL1	RNA binding motif protein, X-linked-like 1	10857	-0.9249399304389954	0.0023973275	Yes	

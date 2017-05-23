@@ -1,0 +1,81 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CITED2	CITED2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	10	1.128342628479004	0.043095186	Yes	
+row_1	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	22	1.0169299840927124	0.0817512	Yes	
+row_2	OSGIN2	OSGIN2	oxidative stress induced growth inhibitor family member 2	33	0.9720815420150757	0.11875007	Yes	
+row_3	BRF2	BRF2	BRF2, subunit of RNA polymerase III transcription initiation factor, BRF1-like	63	0.910323977470398	0.15158094	Yes	
+row_4	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	119	0.8310408592224121	0.17891218	Yes	
+row_5	CHMP2B	CHMP2B	chromatin modifying protein 2B	267	0.7208751440048218	0.19343008	Yes	
+row_6	VAMP4	VAMP4	vesicle-associated membrane protein 4	293	0.7088949680328369	0.21877271	Yes	
+row_7	ARCN1	ARCN1	archain 1	364	0.6743825674057007	0.23860376	Yes	
+row_8	HDAC4	HDAC4	histone deacetylase 4	631	0.5815766453742981	0.23667267	Yes	
+row_9	AKAP12	AKAP12	A kinase (PRKA) anchor protein (gravin) 12	665	0.567996084690094	0.25577784	Yes	
+row_10	TFEC	TFEC	transcription factor EC	913	0.5070270299911499	0.25269693	Yes	
+row_11	MAP1A	MAP1A	microtubule-associated protein 1A	1011	0.48947131633758545	0.26281482	Yes	
+row_12	ANXA2	ANXA2	annexin A2	1376	0.41656655073165894	0.2453754	No	
+row_13	FBXO33	FBXO33	F-box protein 33	1840	0.34257933497428894	0.21588616	No	
+row_14	TBC1D15	TBC1D15	TBC1 domain family, member 15	2420	0.2779082655906677	0.17313711	No	
+row_15	SMYD4	SMYD4	SET and MYND domain containing 4	2641	0.25128230452537537	0.16257772	No	
+row_16	PAX3	PAX3	paired box gene 3 (Waardenburg syndrome 1)	2977	0.2134561687707901	0.13989839	No	
+row_17	FAM96A	FAM96A	family with sequence similarity 96, member A	3018	0.21007074415683746	0.14439169	No	
+row_18	UBE2J1	UBE2J1	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)	3261	0.18653073906898499	0.12926982	No	
+row_19	LIN7C	LIN7C	lin-7 homolog C (C. elegans)	3453	0.16773848235607147	0.11813527	No	
+row_20	PPP2CA	PPP2CA	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	3461	0.16720418632030487	0.124010615	No	
+row_21	WDR6	WDR6	WD repeat domain 6	3823	0.13412803411483765	0.09582988	No	
+row_22	DIP2C	DIP2C	DIP2 disco-interacting protein 2 homolog C (Drosophila)	3859	0.13072916865348816	0.09769057	No	
+row_23	MYLK	MYLK	myosin, light chain kinase	4231	0.09968674182891846	0.06724057	No	
+row_24	PDCD10	PDCD10	programmed cell death 10	4238	0.09912676364183426	0.07055252	No	
+row_25	KHSRP	KHSRP	KH-type splicing regulatory protein (FUSE binding protein 2)	4447	0.08061003684997559	0.054445285	No	
+row_26	EDN1	EDN1	endothelin 1	4484	0.07693403214216232	0.054114666	No	
+row_27	RIC8B	RIC8B	resistance to inhibitors of cholinesterase 8 homolog B (C. elegans)	4576	0.07056534290313721	0.04844487	No	
+row_28	FOXP1	FOXP1	forkhead box P1	4585	0.06992007791996002	0.050432242	No	
+row_29	KCNMA1	KCNMA1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	4734	0.057430244982242584	0.038974173	No	
+row_30	RSPO3	RSPO3	R-spondin 3 homolog (Xenopus laevis)	4754	0.055660247802734375	0.039387077	No	
+row_31	BET1	BET1	BET1 homolog (S. cerevisiae)	5020	0.03544394671916962	0.01624192	No	
+row_32	EYA4	EYA4	eyes absent homolog 4 (Drosophila)	5176	0.023434869945049286	0.002809661	No	
+row_33	ZNF236	ZNF236	zinc finger protein 236	5189	0.02287409082055092	0.0025913632	No	
+row_34	PCDH9	PCDH9	protocadherin 9	5225	0.019681449979543686	1.1966737E-4	No	
+row_35	CTNND1	CTNND1	catenin (cadherin-associated protein), delta 1	5622	-0.009633040055632591	-0.036157604	No	
+row_36	RNF38	RNF38	ring finger protein 38	5725	-0.01762568950653076	-0.04491091	No	
+row_37	MEOX2	MEOX2	mesenchyme homeobox 2	5815	-0.026590468361973763	-0.05211121	No	
+row_38	YPEL2	YPEL2	yippee-like 2 (Drosophila)	5867	-0.030858414247632027	-0.055627786	No	
+row_39	ELOVL4	ELOVL4	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4	5979	-0.040529392659664154	-0.06432056	No	
+row_40	SEMA4F	SEMA4F	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4F	6039	-0.04657507687807083	-0.067964435	No	
+row_41	RHOF	RHOF	ras homolog gene family, member F (in filopodia)	6260	-0.06482724845409393	-0.085798115	No	
+row_42	IVNS1ABP	IVNS1ABP	influenza virus NS1A binding protein	6856	-0.11421762406826019	-0.13641426	No	
+row_43	BDNF	BDNF	brain-derived neurotrophic factor	7103	-0.13379015028476715	-0.15396397	No	
+row_44	TOX	TOX	-	7152	-0.13756227493286133	-0.15303996	No	
+row_45	ZBTB6	ZBTB6	zinc finger and BTB domain containing 6	7165	-0.13854877650737762	-0.14874537	No	
+row_46	MATR3	MATR3	matrin 3	7171	-0.13913318514823914	-0.14378007	No	
+row_47	KCNIP3	KCNIP3	Kv channel interacting protein 3, calsenilin	7356	-0.15756702423095703	-0.15466353	No	
+row_48	CALML4	CALML4	calmodulin-like 4	7851	-0.20206524431705475	-0.19250403	No	
+row_49	RSF1	RSF1	remodeling and spacing factor 1	7853	-0.20220625400543213	-0.18470779	No	
+row_50	HS3ST3B1	HS3ST3B1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	7962	-0.21153149008750916	-0.18645146	No	
+row_51	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	7984	-0.21340517699718475	-0.18006948	No	
+row_52	CREB5	CREB5	cAMP responsive element binding protein 5	8185	-0.23370817303657532	-0.18946333	No	
+row_53	PTPLAD1	PTPLAD1	protein tyrosine phosphatase-like A domain containing 1	8274	-0.2429254800081253	-0.18813105	No	
+row_54	BPNT1	BPNT1	3'(2'), 5'-bisphosphate nucleotidase 1	8363	-0.25266870856285095	-0.18641865	No	
+row_55	SOX6	SOX6	SRY (sex determining region Y)-box 6	8434	-0.2620586156845093	-0.18267387	No	
+row_56	ALPL	ALPL	alkaline phosphatase, liver/bone/kidney	8467	-0.26559004187583923	-0.1752741	No	
+row_57	UST	UST	uronyl-2-sulfotransferase	8555	-0.2749444246292114	-0.17260009	No	
+row_58	MET	MET	met proto-oncogene (hepatocyte growth factor receptor)	8739	-0.2971569895744324	-0.17794508	No	
+row_59	EHMT1	EHMT1	euchromatic histone-lysine N-methyltransferase 1	8922	-0.3183416724205017	-0.18237102	No	
+row_60	GRK6	GRK6	G protein-coupled receptor kinase 6	8931	-0.319840669631958	-0.17063333	No	
+row_61	FOSB	FOSB	FBJ murine osteosarcoma viral oncogene homolog B	8949	-0.32176336646080017	-0.15965366	No	
+row_62	LYST	LYST	lysosomal trafficking regulator	9024	-0.33098092675209045	-0.1535902	No	
+row_63	PUM2	PUM2	pumilio homolog 2 (Drosophila)	9127	-0.3434589207172394	-0.14963156	No	
+row_64	SEMA6D	SEMA6D	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6D	9227	-0.35524365305900574	-0.14493547	No	
+row_65	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	9423	-0.3777465522289276	-0.14824708	No	
+row_66	MAL2	MAL2	mal, T-cell differentiation protein 2	9433	-0.3790178894996643	-0.13429323	No	
+row_67	TPM3	TPM3	tropomyosin 3	9623	-0.41010966897010803	-0.13578688	No	
+row_68	MTX3	MTX3	metaxin 3	9625	-0.41045454144477844	-0.1198661	No	
+row_69	QKI	QKI	quaking homolog, KH domain RNA binding (mouse)	9641	-0.41283026337623596	-0.10514846	No	
+row_70	NIPBL	NIPBL	Nipped-B homolog (Drosophila)	9728	-0.4256017804145813	-0.0965042	No	
+row_71	ZNF146	ZNF146	zinc finger protein 146	9732	-0.42620620131492615	-0.08015401	No	
+row_72	GDAP1L1	GDAP1L1	ganglioside-induced differentiation-associated protein 1-like 1	10030	-0.47872456908226013	-0.08896703	No	
+row_73	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	10155	-0.5075100064277649	-0.08064444	No	
+row_74	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	10342	-0.5542796850204468	-0.076235816	No	
+row_75	FBXL19	FBXL19	F-box and leucine-rich repeat protein 19	10491	-0.5963009595870972	-0.06667057	No	
+row_76	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10557	-0.6210469007492065	-0.048457548	No	
+row_77	ANXA4	ANXA4	annexin A4	10593	-0.6384804248809814	-0.026787633	No	
+row_78	GPD2	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial)	10681	-0.6802592277526855	-0.008300808	No	
+row_79	POGK	POGK	pogo transposable element with KRAB domain	10693	-0.689631462097168	0.017586093	No	

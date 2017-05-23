@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	245	0.7341944575309753	0.06587365	Yes	
+row_1	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	308	0.7016120553016663	0.1446663	Yes	
+row_2	PVRL2	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	333	0.6898292303085327	0.22553734	Yes	
+row_3	XCL1	XCL1	chemokine (C motif) ligand 1	390	0.662642776966095	0.30018893	Yes	
+row_4	PVR	PVR	poliovirus receptor	479	0.6325870156288147	0.36827552	Yes	
+row_5	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	642	0.5770642161369324	0.42286432	Yes	
+row_6	NCR3	NCR3	natural cytotoxicity triggering receptor 3	990	0.4931564927101135	0.45032048	Yes	
+row_7	LILRB1	LILRB1	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 1	1001	0.4909232258796692	0.5085247	Yes	
+row_8	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1165	0.4581811726093292	0.54870373	Yes	
+row_9	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.6008642	Yes	
+row_10	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	1224	0.4449562132358551	0.65141547	Yes	
+row_11	FADD	FADD	Fas (TNFRSF6)-associated via death domain	2618	0.25387781858444214	0.5537815	No	
+row_12	RIPK3	RIPK3	receptor-interacting serine-threonine kinase 3	3083	0.2028730809688568	0.5355087	No	
+row_13	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.23043056	No	
+row_14	AGER	AGER	advanced glycosylation end product-specific receptor	6589	-0.09174855798482895	0.23411725	No	
+row_15	IL23A	IL23A	interleukin 23, alpha subunit p19	8025	-0.2167479395866394	0.12814595	No	
+row_16	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.13787991	No	
+row_17	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	9671	-0.4177972376346588	0.055937998	No	
+row_18	CEACAM1	CEACAM1	carcinoembryonic antigen-related cell adhesion molecule 1 (biliary glycoprotein)	9936	-0.4609989821910858	0.08716047	No	

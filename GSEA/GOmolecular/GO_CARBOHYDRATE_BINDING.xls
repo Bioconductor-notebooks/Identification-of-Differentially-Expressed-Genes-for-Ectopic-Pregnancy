@@ -1,0 +1,125 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLEC4M	CLEC4M	C-type lectin domain family 4, member M	16	1.0808128118515015	0.024022687	Yes	
+row_1	PRG2	PRG2	proteoglycan 2, bone marrow (natural killer cell activator, eosinophil granule major basic protein)	39	0.9592048525810242	0.044617526	Yes	
+row_2	VTN	VTN	vitronectin	152	0.801798403263092	0.053132895	Yes	
+row_3	SIGLEC1	SIGLEC1	sialic acid binding Ig-like lectin 1, sialoadhesin	159	0.7952516078948975	0.071345046	Yes	
+row_4	SIGLEC7	SIGLEC7	sialic acid binding Ig-like lectin 7	223	0.7503781318664551	0.083200686	Yes	
+row_5	GALNTL2	GALNTL2	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 2	319	0.6968408823013306	0.09081874	Yes	
+row_6	LAYN	LAYN	layilin	372	0.6713123917579651	0.10183054	Yes	
+row_7	LGALS8	LGALS8	lectin, galactoside-binding, soluble, 8 (galectin 8)	389	0.6633855104446411	0.11600099	Yes	
+row_8	CLEC2B	CLEC2B	C-type lectin domain family 2, member B	505	0.6240211725234985	0.120041594	Yes	
+row_9	EGLN1	EGLN1	egl nine homolog 1 (C. elegans)	547	0.6103615760803223	0.13063712	Yes	
+row_10	P4HA3	P4HA3	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide III	598	0.5925556421279907	0.13997597	Yes	
+row_11	GALNTL4	GALNTL4	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 4	608	0.5904390215873718	0.15307526	Yes	
+row_12	PKD1	PKD1	polycystic kidney disease 1 (autosomal dominant)	634	0.5801225304603577	0.16444407	Yes	
+row_13	GALNT6	GALNT6	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 6 (GalNAc-T6)	645	0.5761174559593201	0.1771124	Yes	
+row_14	CLEC2D	CLEC2D	C-type lectin domain family 2, member D	653	0.5722084641456604	0.18996727	Yes	
+row_15	KLRC3	KLRC3	killer cell lectin-like receptor subfamily C, member 3	683	0.5632922649383545	0.20056711	Yes	
+row_16	EGLN2	EGLN2	egl nine homolog 2 (C. elegans)	712	0.5531898736953735	0.21102144	Yes	
+row_17	CD33	CD33	CD33 molecule	814	0.5277246832847595	0.21409035	Yes	
+row_18	EPM2A	EPM2A	epilepsy, progressive myoclonus type 2A, Lafora disease (laforin)	858	0.5192333459854126	0.22234917	Yes	
+row_19	GAA	GAA	glucosidase, alpha; acid (Pompe disease, glycogen storage disease type II)	874	0.5160138010978699	0.23313423	Yes	
+row_20	OGFOD2	OGFOD2	2-oxoglutarate and iron-dependent oxygenase domain containing 2	915	0.5068148374557495	0.24137875	Yes	
+row_21	GYPC	GYPC	glycophorin C (Gerbich blood group)	981	0.49522072076797485	0.2470262	Yes	
+row_22	CDIPT	CDIPT	CDP-diacylglycerol--inositol 3-phosphatidyltransferase (phosphatidylinositol synthase)	993	0.49229180812835693	0.25762314	Yes	
+row_23	CD72	CD72	CD72 molecule	1051	0.4791179597377777	0.26363403	Yes	
+row_24	PLOD3	PLOD3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	1139	0.4635339081287384	0.266489	Yes	
+row_25	PLA2R1	PLA2R1	phospholipase A2 receptor 1, 180kDa	1151	0.46116164326667786	0.27635115	Yes	
+row_26	GALNT13	GALNT13	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 13 (GalNAc-T13)	1197	0.4499220550060272	0.28278822	Yes	
+row_27	APCS	APCS	amyloid P component, serum	1210	0.4480482041835785	0.29224792	Yes	
+row_28	UAP1	UAP1	UDP-N-acteylglucosamine pyrophosphorylase 1	1279	0.4331735074520111	0.2961521	Yes	
+row_29	LGALS9	LGALS9	lectin, galactoside-binding, soluble, 9 (galectin 9)	1338	0.42240673303604126	0.30073157	Yes	
+row_30	COLEC11	COLEC11	collectin sub-family member 11	1345	0.4210503399372101	0.3101117	Yes	
+row_31	ATRNL1	ATRNL1	attractin-like 1	1413	0.4102293848991394	0.3135673	Yes	
+row_32	REG1A	REG1A	regenerating islet-derived 1 alpha (pancreatic stone protein, pancreatic thread protein)	1430	0.40763962268829346	0.32170156	Yes	
+row_33	CLEC1A	CLEC1A	C-type lectin domain family 1, member A	1519	0.3931644856929779	0.3228027	Yes	
+row_34	ASGR2	ASGR2	asialoglycoprotein receptor 2	1552	0.38673830032348633	0.32895663	Yes	
+row_35	KLRD1	KLRD1	killer cell lectin-like receptor subfamily D, member 1	1554	0.38663357496261597	0.33798915	Yes	
+row_36	BSG	BSG	basigin (Ok blood group)	1565	0.3846375644207001	0.34613812	Yes	
+row_37	GCKR	GCKR	glucokinase (hexokinase 4) regulator	1569	0.3844488263130188	0.35493317	Yes	
+row_38	CHI3L1	CHI3L1	chitinase 3-like 1 (cartilage glycoprotein-39)	1628	0.3753003478050232	0.3584008	Yes	
+row_39	CD93	CD93	CD93 molecule	1664	0.3711540997028351	0.3639081	Yes	
+row_40	PYGL	PYGL	phosphorylase, glycogen; liver (Hers disease, glycogen storage disease type VI)	1711	0.36262717843055725	0.36819184	Yes	
+row_41	MAN2B1	MAN2B1	mannosidase, alpha, class 2B, member 1	1780	0.35126712918281555	0.37016284	Yes	
+row_42	MAG	MAG	myelin associated glycoprotein	1782	0.350898802280426	0.37835193	Yes	
+row_43	HK2	HK2	hexokinase 2	1842	0.3422086834907532	0.3809456	Yes	
+row_44	PHYH	PHYH	phytanoyl-CoA 2-hydroxylase	1844	0.34191402792930603	0.3889226	Yes	
+row_45	ENPP2	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 (autotaxin)	1860	0.33932289481163025	0.39553735	Yes	
+row_46	DGCR2	DGCR2	DiGeorge syndrome critical region gene 2	1877	0.3371378481388092	0.4020076	Yes	
+row_47	PTX3	PTX3	pentraxin-related gene, rapidly induced by IL-1 beta	1885	0.33611586689949036	0.40929016	Yes	
+row_48	SIGLEC9	SIGLEC9	sialic acid binding Ig-like lectin 9	1892	0.33559611439704895	0.41665336	Yes	
+row_49	CD69	CD69	CD69 molecule	1955	0.32797932624816895	0.41863236	Yes	
+row_50	SIGLEC8	SIGLEC8	sialic acid binding Ig-like lectin 8	1993	0.3239872455596924	0.42284054	Yes	
+row_51	CD209	CD209	CD209 molecule	2066	0.3165605664253235	0.42362067	Yes	
+row_52	CLEC4A	CLEC4A	C-type lectin domain family 4, member A	2096	0.31483158469200134	0.42835623	Yes	
+row_53	CD34	CD34	CD34 molecule	2202	0.3034250736236572	0.4257594	Yes	
+row_54	FCER2	FCER2	Fc fragment of IgE, low affinity II, receptor for (CD23)	2244	0.2983380854129791	0.42899045	Yes	
+row_55	COLEC10	COLEC10	collectin sub-family member 10 (C-type lectin)	2809	0.23210738599300385	0.3820524	No	
+row_56	KLRG1	KLRG1	killer cell lectin-like receptor subfamily G, member 1	3000	0.21176700294017792	0.36939257	No	
+row_57	CLEC12A	CLEC12A	C-type lectin domain family 12, member A	3062	0.20543985068798065	0.3685723	No	
+row_58	MGAT2	MGAT2	mannosyl (alpha-1,6-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase	3175	0.1936885565519333	0.36273485	No	
+row_59	SLC2A3	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	3370	0.17603981494903564	0.34886006	No	
+row_60	FBP1	FBP1	fructose-1,6-bisphosphatase 1	3399	0.17336496710777283	0.35034963	No	
+row_61	SELL	SELL	selectin L (lymphocyte adhesion molecule 1)	3527	0.1606404036283493	0.34233814	No	
+row_62	MBL2	MBL2	mannose-binding lectin (protein C) 2, soluble (opsonic defect)	3583	0.15573038160800934	0.34090224	No	
+row_63	REG4	REG4	regenerating islet-derived family, member 4	3727	0.14258207380771637	0.33097753	No	
+row_64	FUCA1	FUCA1	fucosidase, alpha-L- 1, tissue	3876	0.12915121018886566	0.32027116	No	
+row_65	PVRL1	PVRL1	poliovirus receptor-related 1 (herpesvirus entry mediator C; nectin)	3989	0.12018760293722153	0.31269893	No	
+row_66	ACR	ACR	acrosin	4014	0.11856327205896378	0.3132668	No	
+row_67	CHODL	CHODL	chondrolectin	4088	0.11184825003147125	0.30912232	No	
+row_68	DBH	DBH	dopamine beta-hydroxylase (dopamine beta-monooxygenase)	4147	0.10703863948583603	0.30625832	No	
+row_69	FCN2	FCN2	ficolin (collagen/fibrinogen domain containing lectin) 2 (hucolin)	4256	0.09773559868335724	0.29852796	No	
+row_70	MAN2C1	MAN2C1	mannosidase, alpha, class 2C, member 1	4286	0.09589960426092148	0.29809624	No	
+row_71	FBXO2	FBXO2	F-box protein 2	4306	0.09356147050857544	0.29853868	No	
+row_72	SUSD2	SUSD2	sushi domain containing 2	4307	0.0933137759566307	0.3007411	No	
+row_73	PGLS	PGLS	6-phosphogluconolactonase	4310	0.09286802262067795	0.30274713	No	
+row_74	TMLHE	TMLHE	trimethyllysine hydroxylase, epsilon	4496	0.07630082219839096	0.2873547	No	
+row_75	CHID1	CHID1	chitinase domain containing 1	4500	0.07620630413293839	0.28887454	No	
+row_76	DPM1	DPM1	dolichyl-phosphate mannosyltransferase polypeptide 1, catalytic subunit	4540	0.07353246212005615	0.28698555	No	
+row_77	GFPT1	GFPT1	glutamine-fructose-6-phosphate transaminase 1	4584	0.07001262903213501	0.2846417	No	
+row_78	PRPS1	PRPS1	phosphoribosyl pyrophosphate synthetase 1	4642	0.06484420597553253	0.2808748	No	
+row_79	PFKM	PFKM	phosphofructokinase, muscle	5812	-0.026380600407719612	0.17285432	No	
+row_80	CLEC7A	CLEC7A	C-type lectin domain family 7, member A	5868	-0.030917491763830185	0.16847251	No	
+row_81	PKD1L2	PKD1L2	polycystic kidney disease 1-like 2	5885	-0.032004524022340775	0.16774091	No	
+row_82	SIGLEC5	SIGLEC5	sialic acid binding Ig-like lectin 5	5990	-0.04149635136127472	0.15905489	No	
+row_83	GALNT10	GALNT10	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 10 (GalNAc-T10)	6054	-0.04732397943735123	0.15431683	No	
+row_84	CLEC5A	CLEC5A	C-type lectin domain family 5, member A	6177	-0.05821114778518677	0.14435245	No	
+row_85	IGF2R	IGF2R	insulin-like growth factor 2 receptor	6318	-0.06913866102695465	0.13297313	No	
+row_86	CLEC4E	CLEC4E	C-type lectin domain family 4, member E	6356	-0.07207336276769638	0.13123557	No	
+row_87	PFKL	PFKL	phosphofructokinase, liver	6432	-0.07768659293651581	0.12609889	No	
+row_88	GALNTL1	GALNTL1	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 1	6445	-0.07826828956604004	0.12683097	No	
+row_89	PRG4	PRG4	proteoglycan 4	6579	-0.09071386605501175	0.11661142	No	
+row_90	CLEC2L	CLEC2L	C-type lectin domain family 2, member L	6704	-0.10038956999778748	0.107456684	No	
+row_91	EGLN3	EGLN3	egl nine homolog 3 (C. elegans)	6814	-0.11117273569107056	0.09995051	No	
+row_92	LPHN1	LPHN1	latrophilin 1	6849	-0.11387485265731812	0.099478364	No	
+row_93	CLEC10A	CLEC10A	C-type lectin domain family 10, member A	7006	-0.12665028870105743	0.08796946	No	
+row_94	SIGLEC6	SIGLEC6	sialic acid binding Ig-like lectin 6	7128	-0.13552771508693695	0.07992288	No	
+row_95	CNTN2	CNTN2	contactin 2 (axonal)	7303	-0.15224525332450867	0.06734521	No	
+row_96	MRC2	MRC2	mannose receptor, C type 2	7507	-0.1701401174068451	0.05249474	No	
+row_97	PPP1R3F	PPP1R3F	protein phosphatase 1, regulatory (inhibitor) subunit 3F	7541	-0.1725599318742752	0.053500637	No	
+row_98	OLR1	OLR1	oxidised low density lipoprotein (lectin-like) receptor 1	7774	-0.19495905935764313	0.036540784	No	
+row_99	LGALS2	LGALS2	lectin, galactoside-binding, soluble, 2 (galectin 2)	7824	-0.19927790760993958	0.0366903	No	
+row_100	SI	SI	sucrase-isomaltase (alpha-glucosidase)	7836	-0.2005743831396103	0.04040201	No	
+row_101	LMAN1	LMAN1	lectin, mannose-binding, 1	7941	-0.21010802686214447	0.035695616	No	
+row_102	CLC	CLC	Charcot-Leyden crystal protein	7945	-0.21037591993808746	0.04038216	No	
+row_103	MAN2A2	MAN2A2	mannosidase, alpha, class 2A, member 2	7956	-0.21111316978931427	0.044435553	No	
+row_104	CANX	CANX	calnexin	8156	-0.23046649992465973	0.031380672	No	
+row_105	PLOD2	PLOD2	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2	8369	-0.25365445017814636	0.017664898	No	
+row_106	GALNT12	GALNT12	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 12 (GalNAc-T12)	8389	-0.2566472589969635	0.021956567	No	
+row_107	IL2	IL2	interleukin 2	8635	-0.2841058373451233	0.0058926027	No	
+row_108	GPI	GPI	glucose phosphate isomerase	8704	-0.29375189542770386	0.0065061226	No	
+row_109	ASGR1	ASGR1	asialoglycoprotein receptor 1	8719	-0.29495614767074585	0.012166653	No	
+row_110	REG3A	REG3A	regenerating islet-derived 3 alpha	9604	-0.4068227708339691	-0.060387526	No	
+row_111	P4HA2	P4HA2	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide II	9624	-0.410403311252594	-0.05246686	No	
+row_112	LPHN2	LPHN2	latrophilin 2	9690	-0.41994890570640564	-0.04859599	No	
+row_113	HKDC1	HKDC1	hexokinase domain containing 1	9704	-0.42176979780197144	-0.039849427	No	
+row_114	LOXL2	LOXL2	lysyl oxidase-like 2	9851	-0.4487422704696655	-0.04282685	No	
+row_115	P4HA1	P4HA1	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I	9972	-0.46677085757255554	-0.042962395	No	
+row_116	LPHN3	LPHN3	latrophilin 3	10062	-0.4849383533000946	-0.03978811	No	
+row_117	SELE	SELE	selectin E (endothelial adhesion molecule 1)	10127	-0.5001264810562134	-0.033931926	No	
+row_118	CLEC11A	CLEC11A	C-type lectin domain family 11, member A	10146	-0.5055184364318848	-0.023673387	No	
+row_119	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10557	-0.6210469007492065	-0.047119338	No	
+row_120	FREM1	FREM1	FRAS1 related extracellular matrix 1	10718	-0.706070065498352	-0.04532434	No	
+row_121	ENPP3	ENPP3	ectonucleotide pyrophosphatase/phosphodiesterase 3	10755	-0.7462341785430908	-0.031057218	No	
+row_122	GALNT7	GALNT7	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7)	10789	-0.7782820463180542	-0.015754882	No	
+row_123	GALNT1	GALNT1	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 1 (GalNAc-T1)	10872	-1.0336999893188477	0.0010220055	No	

@@ -1,0 +1,93 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTK2B	PTK2B	PTK2B protein tyrosine kinase 2 beta	20	1.0311212539672852	0.03450703	Yes	
+row_1	FLOT1	FLOT1	flotillin 1	43	0.9407327771186829	0.06564138	Yes	
+row_2	ANTXR1	ANTXR1	anthrax toxin receptor 1	62	0.910504162311554	0.09608043	Yes	
+row_3	TRPV2	TRPV2	transient receptor potential cation channel, subfamily V, member 2	242	0.7355249524116516	0.10543076	Yes	
+row_4	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	303	0.702338695526123	0.12463754	Yes	
+row_5	PLXND1	PLXND1	plexin D1	374	0.671117901802063	0.14181677	Yes	
+row_6	ILK	ILK	integrin-linked kinase	446	0.6421979665756226	0.15788354	Yes	
+row_7	ARPC3	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	632	0.5814533233642578	0.1612449	Yes	
+row_8	TIAM2	TIAM2	T-cell lymphoma invasion and metastasis 2	764	0.541652262210846	0.16820647	Yes	
+row_9	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	0.18621136	Yes	
+row_10	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	863	0.5175926685333252	0.19640163	Yes	
+row_11	ALS2	ALS2	amyotrophic lateral sclerosis 2 (juvenile)	922	0.5050987601280212	0.20883848	Yes	
+row_12	PTK2	PTK2	PTK2 protein tyrosine kinase 2	938	0.5018228888511658	0.22514425	Yes	
+row_13	NCKAP1	NCKAP1	NCK-associated protein 1	972	0.49626705050468445	0.23958622	Yes	
+row_14	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1077	0.47552821040153503	0.24671791	Yes	
+row_15	SNX2	SNX2	sorting nexin 2	1088	0.47302934527397156	0.26247165	Yes	
+row_16	FGD3	FGD3	FYVE, RhoGEF and PH domain containing 3	1173	0.45598605275154114	0.27076748	Yes	
+row_17	SRGAP2	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	1187	0.45156872272491455	0.28548646	Yes	
+row_18	PTPRM	PTPRM	protein tyrosine phosphatase, receptor type, M	1203	0.4487053155899048	0.29991916	Yes	
+row_19	PARVB	PARVB	parvin, beta	1263	0.43576255440711975	0.3098184	Yes	
+row_20	APBB2	APBB2	amyloid beta (A4) precursor protein-binding, family B, member 2 (Fe65-like)	1285	0.43223628401756287	0.32311437	Yes	
+row_21	AIF1	AIF1	allograft inflammatory factor 1	1618	0.37762677669525146	0.305667	Yes	
+row_22	MYO10	MYO10	myosin X	1646	0.37334898114204407	0.31633052	Yes	
+row_23	STMN2	STMN2	stathmin-like 2	1737	0.3577917218208313	0.32060775	Yes	
+row_24	MYO1G	MYO1G	myosin IG	1749	0.3562125265598297	0.33214954	Yes	
+row_25	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	0.3416611	Yes	
+row_26	AMOTL1	AMOTL1	angiomotin like 1	1830	0.34338125586509705	0.34932196	Yes	
+row_27	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	1902	0.33409827947616577	0.35452425	Yes	
+row_28	MEFV	MEFV	Mediterranean fever	2019	0.32130756974220276	0.35510576	Yes	
+row_29	ITSN1	ITSN1	intersectin 1 (SH3 domain protein)	2021	0.3211784064769745	0.36633876	Yes	
+row_30	WASL	WASL	Wiskott-Aldrich syndrome-like	2033	0.31958624720573425	0.376589	Yes	
+row_31	MYO9B	MYO9B	myosin IXB	2196	0.3036734461784363	0.37228626	No	
+row_32	ARHGEF6	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6	2300	0.29143112897872925	0.37301883	No	
+row_33	PTPRZ1	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1	2756	0.23814047873020172	0.33925548	No	
+row_34	PTPRO	PTPRO	protein tyrosine phosphatase, receptor type, O	2790	0.2342745065689087	0.34445885	No	
+row_35	ITGB1BP1	ITGB1BP1	integrin beta 1 binding protein 1	2870	0.22534169256687164	0.34508482	No	
+row_36	APBB1IP	APBB1IP	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein	2905	0.22168824076652527	0.34975168	No	
+row_37	STX3	STX3	syntaxin 3	3268	0.18576829135417938	0.32275903	No	
+row_38	SLC9A1	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	3383	0.17461244761943817	0.31835297	No	
+row_39	KCNA2	KCNA2	potassium voltage-gated channel, shaker-related subfamily, member 2	3443	0.1688411682844162	0.3188398	No	
+row_40	ABLIM1	ABLIM1	actin binding LIM protein 1	3457	0.16749228537082672	0.32354143	No	
+row_41	SCYL3	SCYL3	SCY1-like 3 (S. cerevisiae)	3555	0.1586301624774933	0.32014704	No	
+row_42	APBB1	APBB1	amyloid beta (A4) precursor protein-binding, family B, member 1 (Fe65)	3597	0.15422220528125763	0.32178625	No	
+row_43	HAX1	HAX1	HCLS1 associated protein X-1	3637	0.15134461224079132	0.3235093	No	
+row_44	SWAP70	SWAP70	-	3894	0.12733297049999237	0.30427814	No	
+row_45	STX2	STX2	syntaxin 2	3898	0.12702713906764984	0.3084795	No	
+row_46	DNM2	DNM2	dynamin 2	3915	0.12577638030052185	0.31143215	No	
+row_47	NF2	NF2	neurofibromin 2 (bilateral acoustic neuroma)	3952	0.12319538742303848	0.31244054	No	
+row_48	PDXP	PDXP	pyridoxal (pyridoxine, vitamin B6) phosphatase	4157	0.1061779260635376	0.2972818	No	
+row_49	MYLK	MYLK	myosin, light chain kinase	4231	0.09968674182891846	0.29403275	No	
+row_50	TESC	TESC	tescalcin	4430	0.0819268748164177	0.27857482	No	
+row_51	WASF2	WASF2	WAS protein family, member 2	4431	0.08188512921333313	0.2814623	No	
+row_52	MCC	MCC	mutated in colorectal cancers	4595	0.0688079223036766	0.2687849	No	
+row_53	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	4625	0.0662061870098114	0.26843235	No	
+row_54	SNX1	SNX1	sorting nexin 1	4739	0.05717242509126663	0.25997767	No	
+row_55	RAC3	RAC3	ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3)	4747	0.05628691241145134	0.2613139	No	
+row_56	ARHGEF7	ARHGEF7	Rho guanine nucleotide exchange factor (GEF) 7	4750	0.05587879940867424	0.263099	No	
+row_57	DGKZ	DGKZ	diacylglycerol kinase, zeta 104kDa	4941	0.040288250893354416	0.24691406	No	
+row_58	PXN	PXN	paxillin	5058	0.03304290026426315	0.23733054	No	
+row_59	FER	FER	fer (fps/fes related) tyrosine kinase (phosphoprotein NCP94)	5347	0.010697826743125916	0.21102133	No	
+row_60	RUFY3	RUFY3	RUN and FYVE domain containing 3	5365	0.009338471107184887	0.20977539	No	
+row_61	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	5547	-0.004416901618242264	0.19315946	No	
+row_62	CTNND1	CTNND1	catenin (cadherin-associated protein), delta 1	5622	-0.009633040055632591	0.18664221	No	
+row_63	PIP5K1A	PIP5K1A	phosphatidylinositol-4-phosphate 5-kinase, type I, alpha	5677	-0.013918601907789707	0.18212932	No	
+row_64	FLOT2	FLOT2	flotillin 2	5802	-0.02550160326063633	0.17153859	No	
+row_65	SLC39A6	SLC39A6	solute carrier family 39 (zinc transporter), member 6	5926	-0.03614521399140358	0.16141585	No	
+row_66	CIB1	CIB1	calcium and integrin binding 1 (calmyrin)	6698	-0.100128673017025	0.09350485	No	
+row_67	SORBS2	SORBS2	sorbin and SH3 domain containing 2	6895	-0.11778853088617325	0.07949681	No	
+row_68	PLEKHG5	PLEKHG5	pleckstrin homology domain containing, family G (with RhoGef domain) member 5	7077	-0.1320529580116272	0.06738168	No	
+row_69	FGD2	FGD2	FYVE, RhoGEF and PH domain containing 2	7662	-0.18442970514297485	0.019771036	No	
+row_70	PDPN	PDPN	podoplanin	7686	-0.18683819472789764	0.024228271	No	
+row_71	FGD4	FGD4	FYVE, RhoGEF and PH domain containing 4	7693	-0.18742725253105164	0.03028152	No	
+row_72	SYNE2	SYNE2	spectrin repeat containing, nuclear envelope 2	7717	-0.19003303349018097	0.034851413	No	
+row_73	AMOT	AMOT	angiomotin	7766	-0.19434431195259094	0.037256803	No	
+row_74	ANGPTL3	ANGPTL3	angiopoietin-like 3	8321	-0.2479313462972641	-0.0053347587	No	
+row_75	PLCG1	PLCG1	phospholipase C, gamma 1	8440	-0.2628726661205292	-0.00699915	No	
+row_76	TRPV4	TRPV4	transient receptor potential cation channel, subfamily V, member 4	8447	-0.26349279284477234	0.0017363842	No	
+row_77	CTTN	CTTN	cortactin	8545	-0.2741435766220093	0.0024153227	No	
+row_78	FGD6	FGD6	FYVE, RhoGEF and PH domain containing 6	8695	-0.2924615144729614	-0.0010781803	No	
+row_79	CTNNA1	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	8988	-0.3267988860607147	-0.016611407	No	
+row_80	FSCN1	FSCN1	fascin homolog 1, actin-bundling protein (Strongylocentrotus purpuratus)	9088	-0.3390952944755554	-0.01382741	No	
+row_81	ABI2	ABI2	abl interactor 2	9092	-0.33965158462524414	-0.0021283175	No	
+row_82	TSC1	TSC1	tuberous sclerosis 1	9461	-0.38334739208221436	-0.022709738	No	
+row_83	NEDD9	NEDD9	neural precursor cell expressed, developmentally down-regulated 9	9480	-0.3865816593170166	-0.010745677	No	
+row_84	RAB3IP	RAB3IP	RAB3A interacting protein (rabin3)	9490	-0.3899378776550293	0.0021706845	No	
+row_85	PKN2	PKN2	protein kinase N2	9636	-0.4125291705131531	0.0032817512	No	
+row_86	ACTA2	ACTA2	actin, alpha 2, smooth muscle, aorta	9677	-0.4188385605812073	0.014344735	No	
+row_87	ENAH	ENAH	enabled homolog (Drosophila)	9699	-0.42143362760543823	0.027259791	No	
+row_88	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	0.037054617	No	
+row_89	PPP1R9A	PPP1R9A	protein phosphatase 1, regulatory (inhibitor) subunit 9A	10064	-0.48553991317749023	0.02591445	No	
+row_90	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	0.009823411	No	
+row_91	NHS	NHS	Nance-Horan syndrome (congenital cataracts and dental anomalies)	10822	-0.8250691294670105	0.005652299	No	

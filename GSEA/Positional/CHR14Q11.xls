@@ -1,0 +1,41 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BCL2L2	BCL2L2	BCL2-like 2	169	0.787087082862854	0.040909007	Yes	
+row_1	ABHD4	ABHD4	abhydrolase domain containing 4	194	0.7693190574645996	0.09391416	Yes	
+row_2	TINF2	TINF2	TERF1 (TRF1)-interacting nuclear factor 2	266	0.7217167019844055	0.13916843	Yes	
+row_3	SLC7A8	SLC7A8	solute carrier family 7 (cationic amino acid transporter, y+ system), member 8	330	0.6908388137817383	0.18294413	Yes	
+row_4	RNASE4	RNASE4	ribonuclease, RNase A family, 4	391	0.6619633436203003	0.22492395	Yes	
+row_5	MMP14	MMP14	matrix metallopeptidase 14 (membrane-inserted)	444	0.6425198316574097	0.26624593	Yes	
+row_6	GZMH	GZMH	granzyme H (cathepsin G-like 2, protein h-CCPX)	1188	0.4515632688999176	0.23014002	Yes	
+row_7	NRL	NRL	neural retina leucine zipper	1249	0.43926340341567993	0.2561354	Yes	
+row_8	PIGH	PIGH	phosphatidylinositol glycan anchor biosynthesis, class H	1357	0.4194151759147644	0.276372	Yes	
+row_9	MYH7	MYH7	myosin, heavy chain 7, cardiac muscle, beta	1551	0.3872138261795044	0.28636664	Yes	
+row_10	ZNF219	ZNF219	zinc finger protein 219	1632	0.37482336163520813	0.30589247	Yes	
+row_11	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	1660	0.3716253340244293	0.33007625	Yes	
+row_12	PYGL	PYGL	phosphorylase, glycogen; liver (Hers disease, glycogen storage disease type VI)	1711	0.36262717843055725	0.3514932	Yes	
+row_13	TEP1	TEP1	telomerase-associated protein 1	1732	0.3585837781429291	0.37538642	Yes	
+row_14	RPGRIP1	RPGRIP1	retinitis pigmentosa GTPase regulator interacting protein 1	1856	0.33986324071884155	0.38843766	Yes	
+row_15	TRA@	TRA@	T cell receptor alpha locus	2140	0.3091440796852112	0.38452926	No	
+row_16	SLC7A7	SLC7A7	solute carrier family 7 (cationic amino acid transporter, y+ system), member 7	2779	0.23556073009967804	0.34260243	No	
+row_17	OXA1L	OXA1L	oxidase (cytochrome c) assembly 1-like	2855	0.2271510511636734	0.35199004	No	
+row_18	ARHGAP5	ARHGAP5	Rho GTPase activating protein 5	3440	0.1690741777420044	0.3102708	No	
+row_19	TRAC	TRAC	T cell receptor alpha constant	3729	0.14243173599243164	0.29393545	No	
+row_20	SUPT16H	SUPT16H	suppressor of Ty 16 homolog (S. cerevisiae)	5205	0.021651776507496834	0.15946962	No	
+row_21	DHRS2	DHRS2	dehydrogenase/reductase (SDR family) member 2	5335	0.011456314474344254	0.14839593	No	
+row_22	NDRG2	NDRG2	NDRG family member 2	5721	-0.017342308536171913	0.11413717	No	
+row_23	LOC254028	LOC254028	-	5735	-0.019141269847750664	0.11431223	No	
+row_24	CPNE6	CPNE6	copine VI (neuronal)	5913	-0.0347212478518486	0.10048198	No	
+row_25	RBM23	RBM23	RNA binding motif protein 23	6578	-0.09068599343299866	0.045759007	No	
+row_26	PPP1R3E	PPP1R3E	protein phosphatase 1, regulatory (inhibitor) subunit 3E	6802	-0.11009937524795532	0.03309709	No	
+row_27	RNASE7	RNASE7	ribonuclease, RNase A family, 7	7317	-0.15329799056053162	-0.0032993339	No	
+row_28	NGDN	NGDN	neuroguidin, EIF4E binding protein	7685	-0.18645566701889038	-0.023759961	No	
+row_29	PARP2	PARP2	poly (ADP-ribose) polymerase family, member 2	7874	-0.20373262465000153	-0.026473701	No	
+row_30	MAP4K5	MAP4K5	mitogen-activated protein kinase kinase kinase kinase 5	8020	-0.2164904624223709	-0.024306413	No	
+row_31	PSMB5	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	8387	-0.2561572194099426	-0.03967195	No	
+row_32	PRMT5	PRMT5	protein arginine methyltransferase 5	8556	-0.27503204345703125	-0.035423793	No	
+row_33	LTB4R	LTB4R	leukotriene B4 receptor	8618	-0.28174588084220886	-0.020826537	No	
+row_34	EFS	EFS	embryonal Fyn-associated substrate	8779	-0.3017222583293915	-0.013924938	No	
+row_35	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	9967	-0.4657366871833801	-0.08995785	No	
+row_36	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.067938805	No	
+row_37	METTL3	METTL3	methyltransferase like 3	10264	-0.5332705974578857	-0.043218862	No	
+row_38	IPO4	IPO4	importin 4	10607	-0.6447045207023621	-0.028482972	No	
+row_39	SNORD8	SNORD8	small nucleolar RNA, C/D box 8	10757	-0.7501518130302429	0.011619323	No	

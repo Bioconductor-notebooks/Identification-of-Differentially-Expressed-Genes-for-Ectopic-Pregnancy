@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	CLU	clusterin	144	0.8093606233596802	0.031625714	No	
+row_1	AXL	AXL	AXL receptor tyrosine kinase	436	0.6446796655654907	0.040552717	No	
+row_2	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.06143826	No	
+row_3	HIST1H1C	HIST1H1C	histone cluster 1, H1c	581	0.5971025824546814	0.09374006	No	
+row_4	CCNG2	CCNG2	cyclin G2	1146	0.4613723158836365	0.0673112	No	
+row_5	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.08113579	No	
+row_6	FCGRT	FCGRT	Fc fragment of IgG, receptor, transporter, alpha	1335	0.42258569598197937	0.09775768	No	
+row_7	IL10RB	IL10RB	interleukin 10 receptor, beta	1481	0.3996853828430176	0.10655906	No	
+row_8	XPC	XPC	xeroderma pigmentosum, complementation group C	1931	0.3304293155670166	0.08347328	No	
+row_9	CYP51A1	CYP51A1	cytochrome P450, family 51, subfamily A, polypeptide 1	1941	0.32947370409965515	0.10092488	No	
+row_10	BRD3	BRD3	bromodomain containing 3	1959	0.32752275466918945	0.11753021	No	
+row_11	CPT1B	CPT1B	carnitine palmitoyltransferase 1B (muscle)	2460	0.2736642062664032	0.08658985	No	
+row_12	LAMA4	LAMA4	laminin, alpha 4	3137	0.1979011446237564	0.035209376	No	
+row_13	BTN3A1	BTN3A1	butyrophilin, subfamily 3, member A1	3147	0.1967584639787674	0.045296863	No	
+row_14	TBC1D8	TBC1D8	TBC1 domain family, member 8 (with GRAM domain)	4599	0.06833092868328094	-0.08476768	No	
+row_15	BDKRB1	BDKRB1	bradykinin receptor B1	4934	0.040816228836774826	-0.113314666	No	
+row_16	MVD	MVD	mevalonate (diphospho) decarboxylase	5197	0.022464588284492493	-0.13623789	No	
+row_17	HIST2H2AA3	HIST2H2AA3	histone cluster 2, H2aa3	5889	-0.032729826867580414	-0.19816716	No	
+row_18	PSMB4	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	5909	-0.03426709771156311	-0.19801852	No	
+row_19	PIR	PIR	pirin (iron-binding nuclear protein)	6670	-0.09796179831027985	-0.2626935	No	
+row_20	CFHR1	CFHR1	complement factor H-related 1	7426	-0.16230390965938568	-0.32333702	No	
+row_21	ATP5I	ATP5I	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit E	7461	-0.16546323895454407	-0.31729233	No	
+row_22	SQLE	SQLE	squalene epoxidase	7730	-0.19111402332782745	-0.33141103	No	
+row_23	CTTN	CTTN	cortactin	8545	-0.2741435766220093	-0.3912916	No	
+row_24	NAB1	NAB1	NGFI-A binding protein 1 (EGR1 binding protein 1)	8849	-0.3097269833087921	-0.40205747	Yes	
+row_25	BFSP1	BFSP1	beaded filament structural protein 1, filensin	8950	-0.3218382000923157	-0.3934244	Yes	
+row_26	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	8955	-0.3231188654899597	-0.37586415	Yes	
+row_27	PDCD4	PDCD4	programmed cell death 4 (neoplastic transformation inhibitor)	8973	-0.32529765367507935	-0.35938227	Yes	
+row_28	TM7SF2	TM7SF2	transmembrane 7 superfamily member 2	9172	-0.3478337824344635	-0.35834733	Yes	
+row_29	SLC16A4	SLC16A4	solute carrier family 16, member 4 (monocarboxylic acid transporter 5)	9234	-0.3559136986732483	-0.34422567	Yes	
+row_30	PLXNC1	PLXNC1	plexin C1	9536	-0.3971360921859741	-0.3499569	Yes	
+row_31	FDPS	FDPS	farnesyl diphosphate synthase (farnesyl pyrophosphate synthetase, dimethylallyltranstransferase, geranyltranstransferase)	9548	-0.3990575671195984	-0.32882872	Yes	
+row_32	HNRPDL	HNRPDL	heterogeneous nuclear ribonucleoprotein D-like	10016	-0.4748769700527191	-0.34555992	Yes	
+row_33	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	10096	-0.4928477704524994	-0.32550058	Yes	
+row_34	CASP6	CASP6	caspase 6, apoptosis-related cysteine peptidase	10142	-0.5048424601554871	-0.30163914	Yes	
+row_35	ANK3	ANK3	ankyrin 3, node of Ranvier (ankyrin G)	10163	-0.5103659629821777	-0.27516493	Yes	
+row_36	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.27009022	Yes	
+row_37	TNPO1	TNPO1	transportin 1	10566	-0.624232292175293	-0.24495463	Yes	
+row_38	ZNF148	ZNF148	zinc finger protein 148	10707	-0.698285698890686	-0.21912324	Yes	
+row_39	AKR1C3	AKR1C3	aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)	10710	-0.7007420659065247	-0.18042493	Yes	
+row_40	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	10790	-0.7787976861000061	-0.14449878	Yes	
+row_41	FDFT1	FDFT1	farnesyl-diphosphate farnesyltransferase 1	10819	-0.8190063834190369	-0.10163673	Yes	
+row_42	EBP	EBP	emopamil binding protein (sterol isomerase)	10836	-0.8635202646255493	-0.055197686	Yes	
+row_43	PAF1	PAF1	Paf1, RNA polymerase II associated factor, homolog (S. cerevisiae)	10876	-1.0712440013885498	6.457752E-4	Yes	

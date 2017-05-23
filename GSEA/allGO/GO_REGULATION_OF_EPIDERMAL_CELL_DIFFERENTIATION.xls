@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALOX15B	ALOX15B	arachidonate 15-lipoxygenase, type B	313	0.6992100477218628	0.05752107	No	
+row_1	ROCK2	ROCK2	Rho-associated, coiled-coil containing protein kinase 2	451	0.6409268379211426	0.12404745	No	
+row_2	PRKCH	PRKCH	protein kinase C, eta	1889	0.3359090983867645	0.033239685	No	
+row_3	MAFF	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	2175	0.3055438697338104	0.044730652	No	
+row_4	ERRFI1	ERRFI1	ERBB receptor feedback inhibitor 1	2700	0.2451469749212265	0.026762867	No	
+row_5	DLL1	DLL1	delta-like 1 (Drosophila)	3242	0.1882266402244568	2.0193843E-4	No	
+row_6	MYCN	MYCN	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)	3437	0.16936437785625458	0.003255299	No	
+row_7	BMP4	BMP4	bone morphogenetic protein 4	3830	0.13352465629577637	-0.016343633	No	
+row_8	GDF3	GDF3	growth differentiation factor 3	4181	0.10427603870630264	-0.035687685	No	
+row_9	AQP3	AQP3	aquaporin 3 (Gill blood group)	5206	0.021398717537522316	-0.12731043	No	
+row_10	NCOA3	NCOA3	nuclear receptor coactivator 3	6305	-0.06805751472711563	-0.21998413	No	
+row_11	H2AFY2	H2AFY2	H2A histone family, member Y2	9245	-0.35674309730529785	-0.44648695	Yes	
+row_12	PTCH1	PTCH1	patched homolog 1 (Drosophila)	9282	-0.35933825373649597	-0.4054319	Yes	
+row_13	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	9431	-0.378663033246994	-0.37230098	Yes	
+row_14	REG3A	REG3A	regenerating islet-derived 3 alpha	9604	-0.4068227708339691	-0.3379024	Yes	
+row_15	HOXA7	HOXA7	homeobox A7	9992	-0.4712258577346802	-0.31534362	Yes	
+row_16	SFN	SFN	stratifin	10381	-0.564522922039032	-0.28135714	Yes	
+row_17	OVOL2	OVOL2	ovo-like 2 (Drosophila)	10536	-0.6114959120750427	-0.22002967	Yes	
+row_18	MSX2	MSX2	msh homeobox homolog 2 (Drosophila)	10548	-0.617556095123291	-0.14478996	Yes	
+row_19	HEY2	HEY2	hairy/enhancer-of-split related with YRPW motif 2	10574	-0.6307806968688965	-0.069206156	Yes	
+row_20	H2AFY	H2AFY	H2A histone family, member Y	10799	-0.7901180982589722	0.00773267	Yes	

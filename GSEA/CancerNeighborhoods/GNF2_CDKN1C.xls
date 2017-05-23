@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TIMP2	TIMP2	TIMP metallopeptidase inhibitor 2	47	0.9335247874259949	0.10438401	Yes	
+row_1	CDKN1C	CDKN1C	cyclin-dependent kinase inhibitor 1C (p57, Kip2)	102	0.8504776358604431	0.19845265	Yes	
+row_2	GH2	GH2	growth hormone 2	162	0.7897409796714783	0.2849881	Yes	
+row_3	MAN1C1	MAN1C1	mannosidase, alpha, class 1C, member 1	307	0.7017564177513123	0.3534529	Yes	
+row_4	SEMA3B	SEMA3B	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B	626	0.5833942890167236	0.39211652	Yes	
+row_5	PSG3	PSG3	pregnancy specific beta-1-glycoprotein 3	727	0.5499428510665894	0.4469528	Yes	
+row_6	PAPPA2	PAPPA2	pappalysin 2	962	0.49760985374450684	0.4833593	Yes	
+row_7	PSG2	PSG2	pregnancy specific beta-1-glycoprotein 2	1238	0.44143831729888916	0.5094503	Yes	
+row_8	CYP19A1	CYP19A1	cytochrome P450, family 19, subfamily A, polypeptide 1	1809	0.346314013004303	0.4973075	Yes	
+row_9	GCM1	GCM1	glial cells missing homolog 1 (Drosophila)	2060	0.3172687888145447	0.5112401	Yes	
+row_10	MAFF	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	2175	0.3055438697338104	0.5363269	Yes	
+row_11	PSG4	PSG4	pregnancy specific beta-1-glycoprotein 4	2413	0.2784850597381592	0.5469398	Yes	
+row_12	PSG1	PSG1	pregnancy specific beta-1-glycoprotein 1	3060	0.20545513927936554	0.5113975	No	
+row_13	HSD3B1	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	4362	0.08871772140264511	0.40196452	No	
+row_14	PSG9	PSG9	pregnancy specific beta-1-glycoprotein 9	5062	0.032520778477191925	0.34140474	No	
+row_15	LEP	LEP	leptin (obesity homolog, mouse)	6097	-0.0506816990673542	0.2521212	No	
+row_16	HSD17B1	HSD17B1	hydroxysteroid (17-beta) dehydrogenase 1	6838	-0.11321225017309189	0.19718383	No	
+row_17	CAPN6	CAPN6	calpain 6	7991	-0.21366527676582336	0.11601748	No	
+row_18	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	8137	-0.228673055768013	0.1292988	No	
+row_19	SVEP1	SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	9197	-0.351603239774704	0.072756745	No	
+row_20	EGFL6	EGFL6	EGF-like-domain, multiple 6	10721	-0.7072186470031738	0.0149129275	No	

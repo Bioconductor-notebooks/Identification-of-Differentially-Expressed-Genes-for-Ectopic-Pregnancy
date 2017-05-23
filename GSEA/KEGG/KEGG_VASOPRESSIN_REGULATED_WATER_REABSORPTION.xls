@@ -1,0 +1,35 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.063520215	Yes	
+row_1	ADCY9	ADCY9	adenylate cyclase 9	560	0.6048184633255005	0.10336329	Yes	
+row_2	ARHGDIA	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha	596	0.5934370160102844	0.16844018	Yes	
+row_3	DCTN6	DCTN6	dynactin 6	640	0.5774531960487366	0.23094004	Yes	
+row_4	DYNLL2	DYNLL2	dynein, light chain, LC8-type 2	918	0.5060843229293823	0.26365876	Yes	
+row_5	CREB3L2	CREB3L2	cAMP responsive element binding protein 3-like 2	945	0.501147985458374	0.31894296	Yes	
+row_6	AQP2	AQP2	aquaporin 2 (collecting duct)	1380	0.41613543033599854	0.32683882	Yes	
+row_7	ARHGDIB	ARHGDIB	Rho GDP dissociation inhibitor (GDI) beta	1385	0.41537198424339294	0.37427813	Yes	
+row_8	RAB5C	RAB5C	RAB5C, member RAS oncogene family	1507	0.3940926790237427	0.40848488	Yes	
+row_9	ADCY3	ADCY3	adenylate cyclase 3	2576	0.2600231170654297	0.3399795	No	
+row_10	PRKACG	PRKACG	protein kinase, cAMP-dependent, catalytic, gamma	2654	0.25039905309677124	0.36170286	No	
+row_11	AVPR2	AVPR2	arginine vasopressin receptor 2 (nephrogenic diabetes insipidus)	2783	0.23510612547397614	0.37696558	No	
+row_12	RAB5B	RAB5B	RAB5B, member RAS oncogene family	4272	0.09666137397289276	0.25094813	No	
+row_13	DYNC1I2	DYNC1I2	dynein, cytoplasmic 1, intermediate chain 2	4283	0.09596813470125198	0.2610721	No	
+row_14	AVP	AVP	arginine vasopressin (neurophysin II, antidiuretic hormone, diabetes insipidus, neurohypophyseal)	4593	0.06902964413166046	0.24053793	No	
+row_15	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	0.21862248	No	
+row_16	RAB11B	RAB11B	RAB11B, member RAS oncogene family	4999	0.036751072853803635	0.21262199	No	
+row_17	AQP3	AQP3	aquaporin 3 (Gill blood group)	5206	0.021398717537522316	0.19609874	No	
+row_18	DYNC1I1	DYNC1I1	dynein, cytoplasmic 1, intermediate chain 1	5689	-0.014355218969285488	0.15332702	No	
+row_19	AQP4	AQP4	aquaporin 4	5790	-0.02423577755689621	0.14689988	No	
+row_20	DYNC1H1	DYNC1H1	dynein, cytoplasmic 1, heavy chain 1	6172	-0.05798368155956268	0.11845841	No	
+row_21	DCTN5	DCTN5	dynactin 5 (p25)	6476	-0.0806698203086853	0.09981698	No	
+row_22	DCTN2	DCTN2	dynactin 2 (p50)	6821	-0.11168310046195984	0.08096627	No	
+row_23	CREB3	CREB3	cAMP responsive element binding protein 3	6850	-0.11387698352336884	0.091492504	No	
+row_24	ADCY6	ADCY6	adenylate cyclase 6	7329	-0.15498970448970795	0.06527602	No	
+row_25	DCTN4	DCTN4	dynactin 4 (p62)	7368	-0.15816408395767212	0.07997789	No	
+row_26	DYNC2H1	DYNC2H1	dynein, cytoplasmic 2, heavy chain 1	7495	-0.16884782910346985	0.087798834	No	
+row_27	CREB3L3	CREB3L3	cAMP responsive element binding protein 3-like 3	7670	-0.18504129350185394	0.09305962	No	
+row_28	DCTN1	DCTN1	dynactin 1 (p150, glued homolog, Drosophila)	8127	-0.22783243656158447	0.07725475	No	
+row_29	CREB5	CREB5	cAMP responsive element binding protein 5	8185	-0.23370817303657532	0.098900355	No	
+row_30	RAB5A	RAB5A	RAB5A, member RAS oncogene family	8499	-0.26836058497428894	0.10093986	No	
+row_31	NSF	NSF	N-ethylmaleimide-sensitive factor	8572	-0.2767719626426697	0.12615949	No	
+row_32	GNAS	GNAS	GNAS complex locus	8768	-0.2999297082424164	0.14270808	No	
+row_33	DYNC1LI2	DYNC1LI2	dynein, cytoplasmic 1, light intermediate chain 2	9874	-0.45292750000953674	0.09299525	No	

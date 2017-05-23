@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CITED2	CITED2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	10	1.128342628479004	0.16232766	Yes	
+row_1	TCF7L2	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	278	0.7168463468551636	0.24145749	Yes	
+row_2	MAN1C1	MAN1C1	mannosidase, alpha, class 1C, member 1	307	0.7017564177513123	0.34040943	Yes	
+row_3	FAM70A	FAM70A	family with sequence similarity 70, member A	679	0.5637619495391846	0.38781548	Yes	
+row_4	IKZF5	IKZF5	IKAROS family zinc finger 5 (Pegasus)	3407	0.1719776839017868	0.16161534	No	
+row_5	ACTN1	ACTN1	actinin, alpha 1	3452	0.1678929477930069	0.18185486	No	
+row_6	CCDC24	CCDC24	coiled-coil domain containing 24	3855	0.13105575740337372	0.16380282	No	
+row_7	RERG	RERG	RAS-like, estrogen-regulated, growth inhibitor	3891	0.1273879110813141	0.17901073	No	
+row_8	PCDH7	PCDH7	BH-protocadherin (brain-heart)	4646	0.06475390493869781	0.11895662	No	
+row_9	SUPT16H	SUPT16H	suppressor of Ty 16 homolog (S. cerevisiae)	5205	0.021651776507496834	0.070712715	No	
+row_10	IFT80	IFT80	intraflagellar transport 80 homolog (Chlamydomonas)	6156	-0.056393541395664215	-0.008597204	No	
+row_11	KCND3	KCND3	potassium voltage-gated channel, Shal-related subfamily, member 3	6399	-0.07525251060724258	-0.019991243	No	
+row_12	MAB21L2	MAB21L2	mab-21-like 2 (C. elegans)	6449	-0.07842753082513809	-0.013155919	No	
+row_13	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	6640	-0.09585864841938019	-0.016780892	No	
+row_14	TAF5	TAF5	TAF5 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 100kDa	6994	-0.12569116055965424	-0.03109753	No	
+row_15	HR	HR	hairless homolog (mouse)	7138	-0.13648641109466553	-0.024517078	No	
+row_16	NKX2-8	NKX2-8	NK2 transcription factor related, locus 8 (Drosophila)	7534	-0.17204897105693817	-0.035993725	No	
+row_17	OSBPL7	OSBPL7	oxysterol binding protein-like 7	7673	-0.18525642156600952	-0.021896873	No	
+row_18	LMO3	LMO3	LIM domain only 3 (rhombotin-like 2)	7800	-0.19754084944725037	-0.004917843	No	
+row_19	AHCYL1	AHCYL1	S-adenosylhomocysteine hydrolase-like 1	8585	-0.2786593437194824	-0.036786344	No	
+row_20	PUM2	PUM2	pumilio homolog 2 (Drosophila)	9127	-0.3434589207172394	-0.036906023	No	
+row_21	DLEU2	DLEU2	deleted in lymphocytic leukemia, 2	10367	-0.5603237152099609	-0.06991639	No	
+row_22	JMJD1C	JMJD1C	jumonji domain containing 1C	10816	-0.810989260673523	0.006168879	No	

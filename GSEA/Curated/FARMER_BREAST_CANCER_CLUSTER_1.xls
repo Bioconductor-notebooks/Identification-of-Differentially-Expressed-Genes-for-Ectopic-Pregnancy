@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.12504184	Yes	
+row_1	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.24390154	Yes	
+row_2	HERC5	HERC5	hect domain and RLD 5	66	0.9037300944328308	0.3444366	Yes	
+row_3	OAS3	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	92	0.8597618341445923	0.44163194	Yes	
+row_4	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	94	0.8560484647750854	0.5406063	Yes	
+row_5	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.57826734	Yes	
+row_6	OASL	OASL	2'-5'-oligoadenylate synthetase-like	539	0.6115098595619202	0.64378875	Yes	
+row_7	GPR18	GPR18	G protein-coupled receptor 18	768	0.5400197505950928	0.6852998	Yes	
+row_8	GPR171	GPR171	G protein-coupled receptor 171	2045	0.31813037395477295	0.604685	No	
+row_9	CCR2	CCR2	chemokine (C-C motif) receptor 2	4207	0.10180412977933884	0.41758907	No	
+row_10	HERC6	HERC6	hect domain and RLD 6	4553	0.0723920539021492	0.39421624	No	
+row_11	SH2D1A	SH2D1A	SH2 domain protein 1A, Duncan's disease (lymphoproliferative syndrome)	5029	0.034609124064445496	0.35450706	No	
+row_12	GZMK	GZMK	granzyme K (granzyme 3; tryptase II)	5829	-0.027849659323692322	0.28419784	No	
+row_13	IGHM	IGHM	immunoglobulin heavy constant mu	7625	-0.1806088089942932	0.13990466	No	
+row_14	TNFRSF17	TNFRSF17	tumor necrosis factor receptor superfamily, member 17	8196	-0.23512054979801178	0.11465684	No	
+row_15	CD48	CD48	CD48 molecule	8760	-0.29929229617118835	0.09747952	No	
+row_16	CKAP2	CKAP2	cytoskeleton associated protein 2	9508	-0.39259910583496094	0.074166596	No	
+row_17	POU2AF1	POU2AF1	POU domain, class 2, associating factor 1	9868	-0.4517838656902313	0.09341055	No	

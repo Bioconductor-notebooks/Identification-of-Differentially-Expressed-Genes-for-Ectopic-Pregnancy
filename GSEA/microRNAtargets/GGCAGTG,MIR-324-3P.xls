@@ -1,0 +1,50 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC38A2	SLC38A2	solute carrier family 38, member 2	184	0.7741949558258057	0.033349767	No	
+row_1	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.07680784	No	
+row_2	PLXND1	PLXND1	plexin D1	374	0.671117901802063	0.10779419	No	
+row_3	CLK3	CLK3	CDC-like kinase 3	1388	0.41510897874832153	0.04128784	No	
+row_4	SORCS1	SORCS1	sortilin-related VPS10 domain containing receptor 1	1428	0.4081432521343231	0.0642225	No	
+row_5	CACNA2D3	CACNA2D3	calcium channel, voltage-dependent, alpha 2/delta 3 subunit	1734	0.35830527544021606	0.059367042	No	
+row_6	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.07935291	No	
+row_7	FXR1	FXR1	fragile X mental retardation, autosomal homolog 1	1956	0.3279474675655365	0.08332217	No	
+row_8	RAP2C	RAP2C	RAP2C, member of RAS oncogene family	2983	0.2132733166217804	0.0024943196	No	
+row_9	RGS14	RGS14	regulator of G-protein signalling 14	3623	0.15242542326450348	-0.04657178	No	
+row_10	G3BP2	G3BP2	-	4122	0.1091872826218605	-0.08543548	No	
+row_11	WASF2	WASF2	WAS protein family, member 2	4431	0.08188512921333313	-0.10853838	No	
+row_12	RIMS3	RIMS3	regulating synaptic membrane exocytosis 3	4809	0.05136953666806221	-0.1399934	No	
+row_13	INA	INA	internexin neuronal intermediate filament protein, alpha	5195	0.02248171530663967	-0.17406483	No	
+row_14	FGFR2	FGFR2	ffer syndrome, Jackson-Weiss syndrome)	5273	0.01620296575129032	-0.18011804	No	
+row_15	TRAF7	TRAF7	TNF receptor-associated factor 7	5450	0.0024879721459001303	-0.19619994	No	
+row_16	MBP	MBP	myelin basic protein	6118	-0.05305278301239014	-0.25431064	No	
+row_17	FILIP1	FILIP1	filamin A interacting protein 1	6162	-0.057089611887931824	-0.25456777	No	
+row_18	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	6219	-0.06098038703203201	-0.25577176	No	
+row_19	YTHDC1	YTHDC1	YTH domain containing 1	6279	-0.06607812643051147	-0.25692123	No	
+row_20	IVNS1ABP	IVNS1ABP	influenza virus NS1A binding protein	6856	-0.11421762406826019	-0.3026568	No	
+row_21	DMTF1	DMTF1	cyclin D binding myb-like transcription factor 1	6973	-0.1242688000202179	-0.3052839	No	
+row_22	TOB2	TOB2	transducer of ERBB2, 2	7007	-0.12666314840316772	-0.300095	No	
+row_23	SLC20A1	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	7093	-0.13324664533138275	-0.29927734	No	
+row_24	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	7147	-0.1369704306125641	-0.2952642	No	
+row_25	KLHL18	KLHL18	kelch-like 18 (Drosophila)	7161	-0.13832025229930878	-0.2874716	No	
+row_26	GLP1R	GLP1R	glucagon-like peptide 1 receptor	7611	-0.17926396429538727	-0.3172571	No	
+row_27	CLK2	CLK2	CDC-like kinase 2	7886	-0.20462585985660553	-0.32924244	No	
+row_28	SENP2	SENP2	SUMO1/sentrin/SMT3 specific peptidase 2	8178	-0.2324971705675125	-0.3409848	No	
+row_29	ING4	ING4	inhibitor of growth family, member 4	8574	-0.27693459391593933	-0.35943672	Yes	
+row_30	SRGAP3	SRGAP3	SLIT-ROBO Rho GTPase activating protein 3	8742	-0.298127681016922	-0.35546792	Yes	
+row_31	EIF4G1	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	9008	-0.3293784260749817	-0.35851222	Yes	
+row_32	MKRN1	MKRN1	makorin, ring finger protein, 1	9103	-0.34063056111335754	-0.34504282	Yes	
+row_33	TNRC6B	TNRC6B	trinucleotide repeat containing 6B	9261	-0.35786107182502747	-0.33626774	Yes	
+row_34	SHANK2	SHANK2	SH3 and multiple ankyrin repeat domains 2	9325	-0.36468493938446045	-0.3183734	Yes	
+row_35	ESRRA	ESRRA	estrogen-related receptor alpha	9341	-0.3668981194496155	-0.29590514	Yes	
+row_36	ETV5	ETV5	ets variant gene 5 (ets-related molecule)	9456	-0.38256385922431946	-0.28155544	Yes	
+row_37	TTLL5	TTLL5	tubulin tyrosine ligase-like family, member 5	9527	-0.3958718776702881	-0.26227966	Yes	
+row_38	PTGES2	PTGES2	prostaglandin E synthase 2	9606	-0.40696555376052856	-0.24302101	Yes	
+row_39	HTR2C	HTR2C	5-hydroxytryptamine (serotonin) receptor 2C	9727	-0.425414115190506	-0.22643931	Yes	
+row_40	WSB1	WSB1	WD repeat and SOCS box-containing 1	9766	-0.43328922986984253	-0.20177756	Yes	
+row_41	PTER	PTER	phosphotriesterase related	9863	-0.4511001706123352	-0.18131092	Yes	
+row_42	NRP1	NRP1	neuropilin 1	9984	-0.46927016973495483	-0.16187806	Yes	
+row_43	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	10024	-0.47733598947525024	-0.13444507	Yes	
+row_44	EDNRA	EDNRA	endothelin receptor type A	10279	-0.5377547144889832	-0.12292723	Yes	
+row_45	STIP1	STIP1	stress-induced-phosphoprotein 1 (Hsp70/Hsp90-organizing protein)	10496	-0.5975157618522644	-0.10401709	Yes	
+row_46	TOP1	TOP1	topoisomerase (DNA) I	10541	-0.6150469183921814	-0.06809272	Yes	
+row_47	PIAS3	PIAS3	protein inhibitor of activated STAT, 3	10765	-0.7554087042808533	-0.039563723	Yes	
+row_48	EFNB2	EFNB2	ephrin-B2	10786	-0.7746605277061462	0.008952446	Yes	

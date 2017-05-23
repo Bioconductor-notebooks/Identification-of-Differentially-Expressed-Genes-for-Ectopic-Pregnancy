@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	946	0.5011234879493713	-0.01684296	No	
+row_1	CASP5	CASP5	caspase 5, apoptosis-related cysteine peptidase	1122	0.4674569070339203	0.032575957	No	
+row_2	MAOB	MAOB	monoamine oxidase B	1463	0.4020475149154663	0.057634927	No	
+row_3	MAG	MAG	myelin associated glycoprotein	1782	0.350898802280426	0.077549055	No	
+row_4	ACTB	ACTB	actin, beta	1930	0.33078357577323914	0.110386305	No	
+row_5	ATP5J	ATP5J	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F6	2520	0.26584216952323914	0.09342747	No	
+row_6	YWHAE	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide	3263	0.18632839620113373	0.051236246	No	
+row_7	CNP	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase	3718	0.14358709752559662	0.029567815	No	
+row_8	INA	INA	internexin neuronal intermediate filament protein, alpha	5195	0.02248171530663967	-0.103167176	No	
+row_9	ZNF430	ZNF430	zinc finger protein 430	5231	0.019382404163479805	-0.10367231	No	
+row_10	NDRG2	NDRG2	NDRG family member 2	5721	-0.017342308536171913	-0.14626051	No	
+row_11	PLP1	PLP1	proteolipid protein 1 (Pelizaeus-Merzbacher disease, spastic paraplegia 2, uncomplicated)	5800	-0.025269990786910057	-0.14989907	No	
+row_12	MBP	MBP	myelin basic protein	6118	-0.05305278301239014	-0.17164621	No	
+row_13	PADI2	PADI2	peptidyl arginine deiminase, type II	6622	-0.0938839316368103	-0.20479338	No	
+row_14	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	6764	-0.10628780722618103	-0.20287453	No	
+row_15	ATP5F1	ATP5F1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit B1	8029	-0.2173806130886078	-0.28877017	No	
+row_16	RAD1	RAD1	RAD1 homolog (S. pombe)	9183	-0.34972020983695984	-0.34589475	No	
+row_17	CCDC14	CCDC14	coiled-coil domain containing 14	10624	-0.652280330657959	-0.38702756	Yes	
+row_18	FGF9	FGF9	fibroblast growth factor 9 (glia-activating factor)	10644	-0.6608180403709412	-0.29614046	Yes	
+row_19	ZNF148	ZNF148	zinc finger protein 148	10707	-0.698285698890686	-0.20395972	Yes	
+row_20	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	10771	-0.7615377902984619	-0.103004105	Yes	
+row_21	SUDS3	SUDS3	suppressor of defective silencing 3 homolog (S. cerevisiae)	10811	-0.8076736927032471	0.0066285734	Yes	

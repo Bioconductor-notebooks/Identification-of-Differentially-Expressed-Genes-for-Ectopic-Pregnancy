@@ -1,0 +1,40 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNPTG	GNPTG	N-acetylglucosamine-1-phosphate transferase, gamma subunit	27	0.9993669390678406	0.072869085	Yes	
+row_1	MAN1A1	MAN1A1	mannosidase, alpha, class 1A, member 1	252	0.7308487296104431	0.10732511	Yes	
+row_2	MAN1C1	MAN1C1	mannosidase, alpha, class 1C, member 1	307	0.7017564177513123	0.15526281	Yes	
+row_3	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	477	0.6339552998542786	0.1874839	Yes	
+row_4	GM2A	GM2A	GM2 ganglioside activator	544	0.6106191277503967	0.22744277	Yes	
+row_5	CTBS	CTBS	chitobiase, di-N-acetyl-	583	0.5965626239776611	0.26892352	Yes	
+row_6	HEXB	HEXB	hexosaminidase B (beta polypeptide)	588	0.5952228307723999	0.31343833	Yes	
+row_7	B3GALT1	B3GALT1	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 1	848	0.5204736590385437	0.32880342	Yes	
+row_8	GAA	GAA	glucosidase, alpha; acid (Pompe disease, glycogen storage disease type II)	874	0.5160138010978699	0.365409	Yes	
+row_9	ST3GAL5	ST3GAL5	ST3 beta-galactoside alpha-2,3-sialyltransferase 5	952	0.4994044601917267	0.39596725	Yes	
+row_10	ST3GAL1	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	992	0.492369681596756	0.42949897	Yes	
+row_11	MGAT4A	MGAT4A	mannosyl (alpha-1,3-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase, isozyme A	1117	0.4677901268005371	0.45333952	Yes	
+row_12	ST6GALNAC2	ST6GALNAC2	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2	1134	0.46462482213974	0.48689988	Yes	
+row_13	TREH	TREH	trehalase (brush-border membrane glycoprotein)	1172	0.4563627541065216	0.5179009	Yes	
+row_14	ST3GAL6	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6	1695	0.3645269274711609	0.49725577	Yes	
+row_15	ST6GALNAC4	ST6GALNAC4	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 4	1742	0.35687610507011414	0.51992494	Yes	
+row_16	MAN2B1	MAN2B1	mannosidase, alpha, class 2B, member 1	1780	0.35126712918281555	0.54300106	Yes	
+row_17	GAL3ST4	GAL3ST4	galactose-3-O-sulfotransferase 4	1875	0.33732497692108154	0.5597699	Yes	
+row_18	MGAT4B	MGAT4B	mannosyl (alpha-1,3-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase, isozyme B	2542	0.2640150189399719	0.5182676	No	
+row_19	EDEM2	EDEM2	ER degradation enhancer, mannosidase alpha-like 2	2851	0.2274516373872757	0.5070187	No	
+row_20	MGAT2	MGAT2	mannosyl (alpha-1,6-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase	3175	0.1936885565519333	0.49184075	No	
+row_21	MPDU1	MPDU1	mannose-P-dolichol utilization defect 1	3385	0.1742945909500122	0.48571214	No	
+row_22	ST8SIA4	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	3809	0.13561365008354187	0.45693412	No	
+row_23	B3GALT2	B3GALT2	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 2	3957	0.12302388995885849	0.4526563	No	
+row_24	MAN2C1	MAN2C1	mannosidase, alpha, class 2C, member 1	4286	0.09589960426092148	0.4296434	No	
+row_25	EDEM1	EDEM1	ER degradation enhancer, mannosidase alpha-like 1	4338	0.09043677151203156	0.43176028	No	
+row_26	LALBA	LALBA	lactalbumin, alpha-	5394	0.00677294610068202	0.33499116	No	
+row_27	MGAT4C	MGAT4C	mannosyl (alpha-1,3-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase, isozyme C (putative)	5583	-0.006659538485109806	0.31815815	No	
+row_28	NEU4	NEU4	sialidase 4	5944	-0.03766212612390518	0.28780308	No	
+row_29	ST6GAL1	ST6GAL1	ST6 beta-galactosamide alpha-2,6-sialyltranferase 1	6199	-0.05985535681247711	0.26889563	No	
+row_30	NEU3	NEU3	sialidase 3 (membrane sialidase)	7074	-0.13196930289268494	0.19825684	No	
+row_31	ST6GALNAC5	ST6GALNAC5	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5	7102	-0.13373933732509613	0.20585202	No	
+row_32	MAN2A2	MAN2A2	mannosidase, alpha, class 2A, member 2	7956	-0.21111316978931427	0.14311755	No	
+row_33	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	8000	-0.2141714096069336	0.1553025	No	
+row_34	FUT3	FUT3	fucosyltransferase 3 (galactoside 3(4)-L-fucosyltransferase, Lewis blood group)	8132	-0.22844409942626953	0.16044936	No	
+row_35	B3GALNT1	B3GALNT1	beta-1,3-N-acetylgalactosaminyltransferase 1 (globoside blood group)	8540	-0.27288031578063965	0.14349747	No	
+row_36	ST3GAL2	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	8568	-0.2763917148113251	0.16184956	No	
+row_37	ST8SIA3	ST8SIA3	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3	8649	-0.28535181283950806	0.17599025	No	
+row_38	ST6GALNAC1	ST6GALNAC1	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	9533	-0.396666556596756	0.124481454	No	

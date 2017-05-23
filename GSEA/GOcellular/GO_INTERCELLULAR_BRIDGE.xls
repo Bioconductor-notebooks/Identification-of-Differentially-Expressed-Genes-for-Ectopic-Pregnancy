@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDC7	CDC7	CDC7 cell division cycle 7 (S. cerevisiae)	2171	0.3061806857585907	-0.14810134	No	
+row_1	CD34	CD34	CD34 molecule	2202	0.3034250736236572	-0.09963133	No	
+row_2	UNC119	UNC119	unc-119 homolog (C. elegans)	3300	0.18297044932842255	-0.16969533	No	
+row_3	SP4	SP4	Sp4 transcription factor	4285	0.09590087085962296	-0.24406092	No	
+row_4	ZNF238	ZNF238	zinc finger protein 238	4871	0.04574993625283241	-0.29017407	No	
+row_5	PPP1R13L	PPP1R13L	protein phosphatase 1, regulatory (inhibitor) subunit 13 like	5303	0.01386843342334032	-0.3274975	No	
+row_6	IQCB1	IQCB1	IQ motif containing B1	7358	-0.15770122408866882	-0.4899009	Yes	
+row_7	SIN3A	SIN3A	SIN3 homolog A, transcription regulator (yeast)	7700	-0.18813608586788177	-0.4895179	Yes	
+row_8	KRR1	KRR1	KRR1, small subunit (SSU) processome component, homolog (yeast)	8115	-0.22699981927871704	-0.48929128	Yes	
+row_9	XPA	XPA	xeroderma pigmentosum, complementation group A	8581	-0.2781285047531128	-0.4851255	Yes	
+row_10	TRIM45	TRIM45	tripartite motif-containing 45	8964	-0.32384124398231506	-0.46560302	Yes	
+row_11	RAB11FIP3	RAB11FIP3	RAB11 family interacting protein 3 (class II)	9011	-0.32950299978256226	-0.41420242	Yes	
+row_12	ESRRA	ESRRA	estrogen-related receptor alpha	9341	-0.3668981194496155	-0.3825325	Yes	
+row_13	MLL5	MLL5	myeloid/lymphoid or mixed-lineage leukemia 5 (trithorax homolog, Drosophila)	10004	-0.4731179177761078	-0.3635743	Yes	
+row_14	AURKB	AURKB	aurora kinase B	10033	-0.4792826473712921	-0.28522804	Yes	
+row_15	SRA1	SRA1	steroid receptor RNA activator 1	10582	-0.6341564655303955	-0.2285883	Yes	
+row_16	RFXANK	RFXANK	regulatory factor X-associated ankyrin-containing protein	10596	-0.6400580406188965	-0.12171596	Yes	
+row_17	PRKCI	PRKCI	protein kinase C, iota	10842	-0.8767752647399902	0.003773195	Yes	

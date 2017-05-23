@@ -1,0 +1,103 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RET	RET	ret proto-oncogene (multiple endocrine neoplasia and medullary thyroid carcinoma 1, Hirschsprung disease)	8	1.1422606706619263	0.031162389	Yes	
+row_1	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.06294838	Yes	
+row_2	ADRB2	ADRB2	adrenergic, beta-2-, receptor, surface	41	0.9512384533882141	0.08664217	Yes	
+row_3	HSPA1L	HSPA1L	heat shock 70kDa protein 1-like	46	0.9356867074966431	0.11240575	Yes	
+row_4	ARRB1	ARRB1	arrestin, beta 1	80	0.8759592175483704	0.13381141	Yes	
+row_5	CHMP5	CHMP5	chromatin modifying protein 5	96	0.853229284286499	0.15625167	Yes	
+row_6	PLD1	PLD1	phospholipase D1, phosphatidylcholine-specific	161	0.7901567220687866	0.17238563	Yes	
+row_7	RABEP1	RABEP1	rabaptin, RAB GTPase binding effector protein 1	260	0.7268375754356384	0.18359764	Yes	
+row_8	CHMP2B	CHMP2B	chromatin modifying protein 2B	267	0.7208751440048218	0.20317584	Yes	
+row_9	F2R	F2R	coagulation factor II (thrombin) receptor	377	0.6705260872840881	0.2117948	Yes	
+row_10	RAB11FIP1	RAB11FIP1	RAB11 family interacting protein 1 (class I)	424	0.6480554938316345	0.2256292	Yes	
+row_11	VPS4B	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	425	0.6480343341827393	0.24372937	Yes	
+row_12	CSF1R	CSF1R	colony stimulating factor 1 receptor, formerly McDonough feline sarcoma viral (v-fms) oncogene homolog	601	0.5923332571983337	0.24404302	Yes	
+row_13	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	603	0.5916893482208252	0.26047668	Yes	
+row_14	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.27286205	Yes	
+row_15	HGS	HGS	hepatocyte growth factor-regulated tyrosine kinase substrate	699	0.557640016078949	0.2834291	Yes	
+row_16	CLTB	CLTB	clathrin, light chain (Lcb)	770	0.5393751859664917	0.29200202	Yes	
+row_17	VPS37A	VPS37A	vacuolar protein sorting 37 homolog A (S. cerevisiae)	811	0.5282949209213257	0.3030479	Yes	
+row_18	PSD4	PSD4	pleckstrin and Sec7 domain containing 4	849	0.5202429890632629	0.31414708	Yes	
+row_19	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.31952718	Yes	
+row_20	FAM125B	FAM125B	family with sequence similarity 125, member B	1091	0.47231897711753845	0.31908563	Yes	
+row_21	TFRC	TFRC	transferrin receptor (p90, CD71)	1129	0.46627381443977356	0.32867742	Yes	
+row_22	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.3357217	Yes	
+row_23	ADRB3	ADRB3	adrenergic, beta-3-, receptor	1306	0.4282592236995697	0.33701745	Yes	
+row_24	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	1313	0.42639338970184326	0.34837052	Yes	
+row_25	RAB5C	RAB5C	RAB5C, member RAS oncogene family	1507	0.3940926790237427	0.34147766	Yes	
+row_26	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1539	0.3899523913860321	0.34949422	Yes	
+row_27	GRK5	GRK5	G protein-coupled receptor kinase 5	1588	0.38244807720184326	0.35572448	Yes	
+row_28	EHD4	EHD4	EH-domain containing 4	1616	0.37832576036453247	0.3637873	Yes	
+row_29	NTRK1	NTRK1	neurotrophic tyrosine kinase, receptor, type 1	1799	0.34804853796958923	0.3566286	Yes	
+row_30	EHD2	EHD2	EH-domain containing 2	1838	0.3426330089569092	0.36267427	Yes	
+row_31	RNF41	RNF41	ring finger protein 41	2008	0.32261911034584045	0.35601103	Yes	
+row_32	SH3KBP1	SH3KBP1	SH3-domain kinase binding protein 1	2016	0.3215840756893158	0.36434394	Yes	
+row_33	SH3GLB1	SH3GLB1	SH3-domain GRB2-like endophilin B1	2113	0.31282663345336914	0.36417773	No	
+row_34	SMAP1	SMAP1	stromal membrane-associated protein 1	2291	0.2931244373321533	0.35594872	No	
+row_35	PDGFRA	PDGFRA	platelet-derived growth factor receptor, alpha polypeptide	2574	0.2603074610233307	0.33706462	No	
+row_36	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2725	0.2422666698694229	0.32991928	No	
+row_37	HSPA6	HSPA6	heat shock 70kDa protein 6 (HSP70B')	2963	0.21487750113010406	0.31393993	No	
+row_38	STAM2	STAM2	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2	3085	0.20274627208709717	0.3083804	No	
+row_39	CHMP2A	CHMP2A	chromatin modifying protein 2A	3108	0.20010757446289062	0.31192914	No	
+row_40	ERBB3	ERBB3	v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)	3248	0.18777377903461456	0.30428198	No	
+row_41	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	3487	0.1646052598953247	0.28680572	No	
+row_42	AP2S1	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	3548	0.1591176688671112	0.28568518	No	
+row_43	RAB22A	RAB22A	RAB22A, member RAS oncogene family	3605	0.15373875200748444	0.28478542	No	
+row_44	ADRBK1	ADRBK1	adrenergic, beta, receptor kinase 1	3651	0.15043629705905914	0.2848136	No	
+row_45	CBLB	CBLB	Cas-Br-M (murine) ecotropic retroviral transforming sequence b	3688	0.14698998630046844	0.28558028	No	
+row_46	HSPA2	HSPA2	heat shock 70kDa protein 2	3902	0.12668485939502716	0.26936355	No	
+row_47	DNM2	DNM2	dynamin 2	3915	0.12577638030052185	0.27176362	No	
+row_48	ADRBK2	ADRBK2	adrenergic, beta, receptor kinase 2	3939	0.12415578216314316	0.27309823	No	
+row_49	ITCH	ITCH	itchy homolog E3 ubiquitin protein ligase (mouse)	4064	0.11417049914598465	0.26478645	No	
+row_50	EHD1	EHD1	EH-domain containing 1	4067	0.11403907090425491	0.26778618	No	
+row_51	ARFGAP1	ARFGAP1	ADP-ribosylation factor GTPase activating protein 1	4133	0.10796736180782318	0.26477325	No	
+row_52	AP2A1	AP2A1	adaptor-related protein complex 2, alpha 1 subunit	4205	0.10185234248638153	0.26103303	No	
+row_53	GIT2	GIT2	G protein-coupled receptor kinase interactor 2	4255	0.09793803095817566	0.2592239	No	
+row_54	RAB5B	RAB5B	RAB5B, member RAS oncogene family	4272	0.09666137397289276	0.26043978	No	
+row_55	PLD2	PLD2	phospholipase D2	4299	0.0948590636253357	0.26067787	No	
+row_56	DAB2	DAB2	disabled homolog 2, mitogen-responsive phosphoprotein (Drosophila)	4690	0.061447981745004654	0.22622277	No	
+row_57	ADRB1	ADRB1	adrenergic, beta-1-, receptor	4719	0.05831800028681755	0.22525471	No	
+row_58	SH3GLB2	SH3GLB2	SH3-domain GRB2-like endophilin B2	4912	0.042352400720119476	0.2086302	No	
+row_59	RAB11B	RAB11B	RAB11B, member RAS oncogene family	4999	0.036751072853803635	0.20168044	No	
+row_60	FGFR2	FGFR2	ffer syndrome, Jackson-Weiss syndrome)	5273	0.01620296575129032	0.17681302	No	
+row_61	DNM1L	DNM1L	dynamin 1-like	5356	0.009979695081710815	0.1694865	No	
+row_62	RAB11FIP5	RAB11FIP5	RAB11 family interacting protein 5 (class I)	5535	-0.0038660671561956406	0.15308549	No	
+row_63	AP2A2	AP2A2	adaptor-related protein complex 2, alpha 2 subunit	5581	-0.006486812606453896	0.14909305	No	
+row_64	PIP5K1A	PIP5K1A	phosphatidylinositol-4-phosphate 5-kinase, type I, alpha	5677	-0.013918601907789707	0.14067082	No	
+row_65	IGF1R	IGF1R	insulin-like growth factor 1 receptor	6004	-0.042984142899513245	0.11163583	No	
+row_66	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	6008	-0.043398335576057434	0.11256974	No	
+row_67	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.068622485	No	
+row_68	ZFYVE20	ZFYVE20	zinc finger, FYVE domain containing 20	6563	-0.08948607742786407	0.06611357	No	
+row_69	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	6764	-0.10628780722618103	0.050532848	No	
+row_70	EGF	EGF	epidermal growth factor (beta-urogastrone)	6844	-0.11356203258037567	0.046377707	No	
+row_71	STAMBP	STAMBP	STAM binding protein	6990	-0.12549448013305664	0.036434542	No	
+row_72	CLTA	CLTA	clathrin, light chain (Lca)	7099	-0.13359393179416656	0.030149246	No	
+row_73	DNM3	DNM3	dynamin 3	7583	-0.1762765347957611	-0.009724075	No	
+row_74	VPS25	VPS25	vacuolar protein sorting 25 homolog (S. cerevisiae)	7634	-0.18129463493824005	-0.009297713	No	
+row_75	ERBB4	ERBB4	v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian)	7680	-0.18612788617610931	-0.008272616	No	
+row_76	CHMP1B	CHMP1B	chromatin modifying protein 1B	7897	-0.20620611310005188	-0.022546483	No	
+row_77	FGFR4	FGFR4	fibroblast growth factor receptor 4	7929	-0.20948854088783264	-0.019570444	No	
+row_78	PSD	PSD	pleckstrin and Sec7 domain containing	7975	-0.2123076319694519	-0.017814124	No	
+row_79	ARF6	ARF6	ADP-ribosylation factor 6	8366	-0.2530387043952942	-0.046917923	No	
+row_80	FLT1	FLT1	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)	8491	-0.26765182614326477	-0.050942816	No	
+row_81	RAB5A	RAB5A	RAB5A, member RAS oncogene family	8499	-0.26836058497428894	-0.044096496	No	
+row_82	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	8690	-0.2921338379383087	-0.053558897	No	
+row_83	MET	MET	met proto-oncogene (hepatocyte growth factor receptor)	8739	-0.2971569895744324	-0.0497109	No	
+row_84	SH3GL3	SH3GL3	SH3-domain GRB2-like 3	8834	-0.30750706791877747	-0.049840186	No	
+row_85	RUFY1	RUFY1	RUN and FYVE domain containing 1	8906	-0.31630176305770874	-0.047590643	No	
+row_86	GRK1	GRK1	G protein-coupled receptor kinase 1	8927	-0.31952619552612305	-0.040520933	No	
+row_87	GRK6	GRK6	G protein-coupled receptor kinase 6	8931	-0.319840669631958	-0.03186574	No	
+row_88	RAB11FIP3	RAB11FIP3	RAB11 family interacting protein 3 (class II)	9011	-0.32950299978256226	-0.029989451	No	
+row_89	CHMP6	CHMP6	chromatin modifying protein 6	9185	-0.3500502109527588	-0.036257494	No	
+row_90	SMURF2	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	9487	-0.38947978615760803	-0.053295873	No	
+row_91	PARD6G	PARD6G	par-6 partitioning defective 6 homolog gamma (C. elegans)	9895	-0.45583537220954895	-0.078312084	No	
+row_92	GRK4	GRK4	G protein-coupled receptor kinase 4	9897	-0.45622265338897705	-0.06566212	No	
+row_93	HSPA1B	HSPA1B	heat shock 70kDa protein 1B	9911	-0.4573933184146881	-0.05409243	No	
+row_94	PRKCZ	PRKCZ	protein kinase C, zeta	9962	-0.4648299813270569	-0.04574667	No	
+row_95	HSPA8	HSPA8	heat shock 70kDa protein 8	10216	-0.5218904614448547	-0.054634836	No	
+row_96	SNF8	SNF8	SNF8, ESCRT-II complex subunit, homolog (S. cerevisiae)	10366	-0.5598471164703369	-0.052817132	No	
+row_97	PARD3	PARD3	par-3 partitioning defective 3 homolog (C. elegans)	10519	-0.6041291356086731	-0.050040837	No	
+row_98	CLTC	CLTC	clathrin, heavy chain (Hc)	10627	-0.6533210873603821	-0.04171694	No	
+row_99	EHD3	EHD3	EH-domain containing 3	10643	-0.6596940159797668	-0.024682304	No	
+row_100	USP8	USP8	ubiquitin specific peptidase 8	10803	-0.7972171306610107	-0.017162114	No	
+row_101	PRKCI	PRKCI	protein kinase C, iota	10842	-0.8767752647399902	0.0038026136	No	

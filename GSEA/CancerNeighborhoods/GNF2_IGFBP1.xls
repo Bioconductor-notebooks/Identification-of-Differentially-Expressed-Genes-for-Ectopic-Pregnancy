@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TIMP2	TIMP2	TIMP metallopeptidase inhibitor 2	47	0.9335247874259949	0.11095138	Yes	
+row_1	GH2	GH2	growth hormone 2	162	0.7897409796714783	0.19797711	Yes	
+row_2	PSG3	PSG3	pregnancy specific beta-1-glycoprotein 3	727	0.5499428510665894	0.21395025	Yes	
+row_3	PAPPA2	PAPPA2	pappalysin 2	962	0.49760985374450684	0.2538504	Yes	
+row_4	PSG2	PSG2	pregnancy specific beta-1-glycoprotein 2	1238	0.44143831729888916	0.28303835	Yes	
+row_5	PLAC1	PLAC1	placenta-specific 1	1395	0.41302603483200073	0.31967637	Yes	
+row_6	PAPPA	PAPPA	pregnancy-associated plasma protein A, pappalysin 1	1652	0.3722878098487854	0.34207472	Yes	
+row_7	PSG6	PSG6	pregnancy specific beta-1-glycoprotein 6	1779	0.3512762188911438	0.37385002	Yes	
+row_8	CYP19A1	CYP19A1	cytochrome P450, family 19, subfamily A, polypeptide 1	1809	0.346314013004303	0.4139452	Yes	
+row_9	EBI3	EBI3	Epstein-Barr virus induced gene 3	1939	0.3296132981777191	0.4427691	Yes	
+row_10	GCM1	GCM1	glial cells missing homolog 1 (Drosophila)	2060	0.3172687888145447	0.47089744	Yes	
+row_11	PSG4	PSG4	pregnancy specific beta-1-glycoprotein 4	2413	0.2784850597381592	0.47287163	Yes	
+row_12	PSG1	PSG1	pregnancy specific beta-1-glycoprotein 1	3060	0.20545513927936554	0.43875316	No	
+row_13	IGFBP1	IGFBP1	insulin-like growth factor binding protein 1	3968	0.12170426547527313	0.37025705	No	
+row_14	TAC3	TAC3	tachykinin 3 (neuromedin K, neurokinin beta)	4060	0.11451562494039536	0.37601826	No	
+row_15	HSD3B1	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	4362	0.08871772140264511	0.35925493	No	
+row_16	IGF2	IGF2	insulin-like growth factor 2 (somatomedin A)	4737	0.05732639506459236	0.3318926	No	
+row_17	PSG9	PSG9	pregnancy specific beta-1-glycoprotein 9	5062	0.032520778477191925	0.30607155	No	
+row_18	LEP	LEP	leptin (obesity homolog, mouse)	6097	-0.0506816990673542	0.2171096	No	
+row_19	HSD17B1	HSD17B1	hydroxysteroid (17-beta) dehydrogenase 1	6838	-0.11321225017309189	0.16294378	No	
+row_20	GPC3	GPC3	glypican 3	7740	-0.1920977234840393	0.103692986	No	
+row_21	CAPN6	CAPN6	calpain 6	7991	-0.21366527676582336	0.10705581	No	
+row_22	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	8137	-0.228673055768013	0.12194133	No	
+row_23	SVEP1	SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	9197	-0.351603239774704	0.0678375	No	
+row_24	EGFL6	EGFL6	EGF-like-domain, multiple 6	10721	-0.7072186470031738	0.014918544	No	

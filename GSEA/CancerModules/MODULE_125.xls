@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	1640	0.3740386664867401	-0.10311239	No	
+row_1	CDC7	CDC7	CDC7 cell division cycle 7 (S. cerevisiae)	2171	0.3061806857585907	-0.11270493	No	
+row_2	GMNN	GMNN	geminin, DNA replication inhibitor	3188	0.19310662150382996	-0.18152946	No	
+row_3	LIG4	LIG4	ligase IV, DNA, ATP-dependent	3212	0.19123664498329163	-0.159157	No	
+row_4	S100A11	S100A11	S100 calcium binding protein A11	3820	0.1343289464712143	-0.19784762	No	
+row_5	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	3827	0.13370884954929352	-0.18127695	No	
+row_6	RPA3	RPA3	replication protein A3, 14kDa	5331	0.011692625470459461	-0.31817734	No	
+row_7	TERT	TERT	telomerase reverse transcriptase	6491	-0.08228009194135666	-0.41436222	No	
+row_8	POLE	POLE	polymerase (DNA directed), epsilon	7558	-0.17363658547401428	-0.4902842	No	
+row_9	RNASEH2A	RNASEH2A	ribonuclease H2, subunit A	7616	-0.17962220311164856	-0.47252986	No	
+row_10	BRCA2	BRCA2	breast cancer 2, early onset	7926	-0.20919138193130493	-0.47419325	No	
+row_11	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	-0.5066007	Yes	
+row_12	RRM2	RRM2	ribonucleotide reductase M2 polypeptide	8925	-0.3188234865665436	-0.48777857	Yes	
+row_13	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.44779253	Yes	
+row_14	LIG1	LIG1	ligase I, DNA, ATP-dependent	9115	-0.34198853373527527	-0.42029482	Yes	
+row_15	NAP1L1	NAP1L1	nucleosome assembly protein 1-like 1	9271	-0.35899606347084045	-0.38859326	Yes	
+row_16	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.37377197	Yes	
+row_17	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	9756	-0.4295186996459961	-0.32410723	Yes	
+row_18	TOPBP1	TOPBP1	topoisomerase (DNA) II binding protein 1	9824	-0.4431001842021942	-0.27353194	Yes	
+row_19	SSBP1	SSBP1	single-stranded DNA binding protein 1	9983	-0.4691582918167114	-0.22799894	Yes	
+row_20	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	10473	-0.5902814269065857	-0.19743338	Yes	
+row_21	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	10518	-0.6038016676902771	-0.12416031	Yes	
+row_22	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.047361355	Yes	
+row_23	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	0.030478843	Yes	

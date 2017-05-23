@@ -1,0 +1,38 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CFL2	CFL2	cofilin 2 (muscle)	18	1.0420563220977783	0.07739472	No	
+row_1	RAB5C	RAB5C	RAB5C, member RAS oncogene family	1507	0.3940926790237427	-0.029888773	No	
+row_2	FOXN2	FOXN2	forkhead box N2	1636	0.3743029534816742	-0.013293294	No	
+row_3	ENPP2	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 (autotaxin)	1860	0.33932289481163025	-0.008109711	No	
+row_4	NOVA1	NOVA1	neuro-oncological ventral antigen 1	3007	0.2107146829366684	-0.09777547	No	
+row_5	WTAP	WTAP	Wilms tumor 1 associated protein	3320	0.18123096227645874	-0.11279034	No	
+row_6	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	3380	0.17508181929588318	-0.10494729	No	
+row_7	ADAM10	ADAM10	ADAM metallopeptidase domain 10	3563	0.15739504992961884	-0.10978557	No	
+row_8	VCPIP1	VCPIP1	valosin containing protein (p97)/p47 complex interacting protein 1	4548	0.07297065109014511	-0.19496608	No	
+row_9	RIC8B	RIC8B	resistance to inhibitors of cholinesterase 8 homolog B (C. elegans)	4576	0.07056534290313721	-0.1921019	No	
+row_10	LRCH2	LRCH2	leucine-rich repeats and calponin homology (CH) domain containing 2	5241	0.01831570826470852	-0.2519275	No	
+row_11	ARHGAP12	ARHGAP12	Rho GTPase activating protein 12	5286	0.015087687410414219	-0.2548393	No	
+row_12	ADC	ADC	arginine decarboxylase	5948	-0.038035858422517776	-0.31289226	No	
+row_13	DDX1	DDX1	DEAD (Asp-Glu-Ala-Asp) box polypeptide 1	6986	-0.12523433566093445	-0.398994	No	
+row_14	MAPK6	MAPK6	mitogen-activated protein kinase 6	7345	-0.15612618625164032	-0.42015424	No	
+row_15	UBN1	UBN1	ubinuclein 1	7430	-0.16248494386672974	-0.4155716	No	
+row_16	TRAM1	TRAM1	translocation associated membrane protein 1	7758	-0.19391325116157532	-0.43100724	No	
+row_17	ESRRG	ESRRG	estrogen-related receptor gamma	7890	-0.20501823723316193	-0.42753088	No	
+row_18	HIC2	HIC2	hypermethylated in cancer 2	7912	-0.2075183242559433	-0.41372383	No	
+row_19	EIF2C4	EIF2C4	eukaryotic translation initiation factor 2C, 4	8102	-0.22615356743335724	-0.41399115	No	
+row_20	SOX6	SOX6	SRY (sex determining region Y)-box 6	8434	-0.2620586156845093	-0.42462578	No	
+row_21	DGCR8	DGCR8	DiGeorge syndrome critical region gene 8	8769	-0.2999967336654663	-0.43265888	Yes	
+row_22	PDCD4	PDCD4	programmed cell death 4 (neoplastic transformation inhibitor)	8973	-0.32529765367507935	-0.42669547	Yes	
+row_23	RNF44	RNF44	ring finger protein 44	9069	-0.3366246521472931	-0.4099161	Yes	
+row_24	TMED9	TMED9	transmembrane emp24 protein transport domain containing 9	9091	-0.3395099937915802	-0.38609564	Yes	
+row_25	ROD1	ROD1	ROD1 regulator of differentiation 1 (S. pombe)	9335	-0.36601346731185913	-0.38073105	Yes	
+row_26	RSBN1	RSBN1	round spermatid basic protein 1	9352	-0.36747539043426514	-0.3543281	Yes	
+row_27	QKI	QKI	quaking homolog, KH domain RNA binding (mouse)	9641	-0.41283026337623596	-0.34956044	Yes	
+row_28	EDAR	EDAR	ectodysplasin A receptor	9675	-0.4182863235473633	-0.32087004	Yes	
+row_29	ZBTB10	ZBTB10	zinc finger and BTB domain containing 10	9836	-0.4459882974624634	-0.30178636	Yes	
+row_30	TOP1	TOP1	topoisomerase (DNA) I	10541	-0.6150469183921814	-0.3200294	Yes	
+row_31	FAM60A	FAM60A	family with sequence similarity 60, member A	10669	-0.6701781153678894	-0.2808956	Yes	
+row_32	ZNF711	ZNF711	zinc finger protein 711	10708	-0.698743462562561	-0.23138966	Yes	
+row_33	MYEF2	MYEF2	myelin expression factor 2	10711	-0.7032253742218018	-0.17822482	Yes	
+row_34	NAV2	NAV2	neuron navigator 2	10747	-0.7367877960205078	-0.12555613	Yes	
+row_35	SOX5	SOX5	SRY (sex determining region Y)-box 5	10831	-0.8535656929016113	-0.06845343	Yes	
+row_36	EML4	EML4	echinoderm microtubule associated protein like 4	10866	-0.9642980098724365	0.0015671956	Yes	

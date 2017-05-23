@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PKN1	PKN1	protein kinase N1	147	0.8053354620933533	0.1421021	Yes	
+row_1	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.23993368	Yes	
+row_2	GNA12	GNA12	guanine nucleotide binding protein (G protein) alpha 12	548	0.609991192817688	0.34778285	Yes	
+row_3	ARHGEF3	ARHGEF3	Rho guanine nucleotide exchange factor (GEF) 3	1321	0.42566433548927307	0.3589714	Yes	
+row_4	ARHGEF11	ARHGEF11	Rho guanine nucleotide exchange factor (GEF) 11	2159	0.3070622384548187	0.34125522	Yes	
+row_5	ARHGEF6	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6	2300	0.29143112897872925	0.38468692	Yes	
+row_6	ARHGEF4	ARHGEF4	Rho guanine nucleotide exchange factor (GEF) 4	2674	0.2484729140996933	0.39836577	Yes	
+row_7	GNA13	GNA13	guanine nucleotide binding protein (G protein), alpha 13	2852	0.22743289172649384	0.4260231	Yes	
+row_8	ARHGAP5	ARHGAP5	Rho GTPase activating protein 5	3440	0.1690741777420044	0.404656	Yes	
+row_9	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	3501	0.1632448434829712	0.43068013	Yes	
+row_10	MYL2	MYL2	myosin, light chain 2, regulatory, cardiac, slow	4053	0.11521833389997482	0.40221938	Yes	
+row_11	PPP1R12B	PPP1R12B	protein phosphatase 1, regulatory (inhibitor) subunit 12B	4108	0.11008480191230774	0.41852245	Yes	
+row_12	ARHGEF2	ARHGEF2	rho/rac guanine nucleotide exchange factor (GEF) 2	4153	0.10668116807937622	0.43508834	Yes	
+row_13	MYLK	MYLK	myosin, light chain kinase	4231	0.09968674182891846	0.4472644	Yes	
+row_14	ARHGEF7	ARHGEF7	Rho guanine nucleotide exchange factor (GEF) 7	4750	0.05587879940867424	0.4103741	No	
+row_15	ARHGEF10	ARHGEF10	Rho guanine nucleotide exchange factor (GEF) 10	5532	-0.0036471134517341852	0.3391769	No	
+row_16	ARHGEF16	ARHGEF16	Rho guanine exchange factor (GEF) 16	6073	-0.048834625631570816	0.29889986	No	
+row_17	ARHGEF9	ARHGEF9	Cdc42 guanine nucleotide exchange factor (GEF) 9	6325	-0.06941990554332733	0.28920755	No	
+row_18	MYL7	MYL7	myosin, light chain 7, regulatory	6693	-0.09987682104110718	0.27472177	No	
+row_19	ARHGEF1	ARHGEF1	Rho guanine nucleotide exchange factor (GEF) 1	6817	-0.11148327589035034	0.28494266	No	
+row_20	ARHGEF12	ARHGEF12	Rho guanine nucleotide exchange factor (GEF) 12	7863	-0.20295357704162598	0.2279576	No	
+row_21	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	8402	-0.2586412727832794	0.22841097	No	

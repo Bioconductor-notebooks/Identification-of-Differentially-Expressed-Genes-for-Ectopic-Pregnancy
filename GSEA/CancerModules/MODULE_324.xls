@@ -1,0 +1,70 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RET	RET	ret proto-oncogene (multiple endocrine neoplasia and medullary thyroid carcinoma 1, Hirschsprung disease)	8	1.1422606706619263	0.053430554	Yes	
+row_1	ALOX15B	ALOX15B	arachidonate 15-lipoxygenase, type B	313	0.6992100477218628	0.058480594	Yes	
+row_2	LTBP1	LTBP1	latent transforming growth factor beta binding protein 1	320	0.6961708068847656	0.090940826	Yes	
+row_3	F13A1	F13A1	coagulation factor XIII, A1 polypeptide	346	0.6806878447532654	0.12090998	Yes	
+row_4	MMP14	MMP14	matrix metallopeptidase 14 (membrane-inserted)	444	0.6425198316574097	0.14241165	Yes	
+row_5	RCVRN	RCVRN	recoverin	521	0.619428277015686	0.16475996	Yes	
+row_6	ARG1	ARG1	arginase, liver	526	0.6181024312973022	0.19370283	Yes	
+row_7	SPOCK2	SPOCK2	sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 2	528	0.6165255904197693	0.22284831	Yes	
+row_8	MST1	MST1	macrophage stimulating 1 (hepatocyte growth factor-like)	651	0.5733332633972168	0.2387573	Yes	
+row_9	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	671	0.5660825967788696	0.26384622	Yes	
+row_10	EFEMP1	EFEMP1	EGF-containing fibulin-like extracellular matrix protein 1	717	0.5521997213363647	0.2858727	Yes	
+row_11	S100A4	S100A4	S100 calcium binding protein A4	871	0.5162599682807922	0.29620865	Yes	
+row_12	ADPRH	ADPRH	ADP-ribosylarginine hydrolase	1219	0.44611239433288574	0.2852799	Yes	
+row_13	ANPEP	ANPEP	alanyl (membrane) aminopeptidase (aminopeptidase N, aminopeptidase M, microsomal aminopeptidase, CD13, p150)	1225	0.444934219121933	0.30591804	Yes	
+row_14	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	1313	0.42639338970184326	0.31809482	Yes	
+row_15	C1S	C1S	complement component 1, s subcomponent	1363	0.41875579953193665	0.33342302	Yes	
+row_16	ANXA2	ANXA2	annexin A2	1376	0.41656655073165894	0.3520686	Yes	
+row_17	AIF1	AIF1	allograft inflammatory factor 1	1618	0.37762677669525146	0.3476932	Yes	
+row_18	BMP1	BMP1	bone morphogenetic protein 1	1837	0.3426437973976135	0.34378546	Yes	
+row_19	EFEMP2	EFEMP2	EGF-containing fibulin-like extracellular matrix protein 2	1969	0.3265434801578522	0.34715858	Yes	
+row_20	CAPN2	CAPN2	calpain 2, (m/II) large subunit	2030	0.31977424025535583	0.3567756	Yes	
+row_21	FBN1	FBN1	fibrillin 1	2035	0.3194338381290436	0.3715545	Yes	
+row_22	PLCG2	PLCG2	phospholipase C, gamma 2 (phosphatidylinositol-specific)	2258	0.2969112694263458	0.3651081	Yes	
+row_23	ANXA1	ANXA1	annexin A1	2270	0.29581737518310547	0.37811974	Yes	
+row_24	ADH1A	ADH1A	alcohol dehydrogenase 1A (class I), alpha polypeptide	2284	0.2940541207790375	0.39086285	Yes	
+row_25	EMR1	EMR1	egf-like module containing, mucin-like, hormone receptor-like 1	2298	0.2919573485851288	0.40350652	Yes	
+row_26	ITGAX	ITGAX	integrin, alpha X (complement component 3 receptor 4 subunit)	2406	0.2796320617198944	0.40687406	Yes	
+row_27	RYR3	RYR3	ryanodine receptor 3	2518	0.2664988338947296	0.40924892	Yes	
+row_28	FBN2	FBN2	fibrillin 2 (congenital contractural arachnodactyly)	2825	0.2301412671804428	0.39186904	No	
+row_29	TP53I3	TP53I3	tumor protein p53 inducible protein 3	2938	0.21795421838760376	0.39184925	No	
+row_30	ADAM9	ADAM9	ADAM metallopeptidase domain 9 (meltrin gamma)	3034	0.2078825831413269	0.3929237	No	
+row_31	LRP1	LRP1	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)	3469	0.1665736883878708	0.3606938	No	
+row_32	S100A11	S100A11	S100 calcium binding protein A11	3820	0.1343289464712143	0.33470175	No	
+row_33	S100A13	S100A13	S100 calcium binding protein A13	3947	0.12360573559999466	0.3289131	No	
+row_34	MMP12	MMP12	matrix metallopeptidase 12 (macrophage elastase)	3983	0.12056189775466919	0.33139434	No	
+row_35	THBD	THBD	thrombomodulin	4236	0.09924302250146866	0.31279984	No	
+row_36	FBLN1	FBLN1	fibulin 1	4371	0.08800198137760162	0.304583	No	
+row_37	CDH17	CDH17	cadherin 17, LI cadherin (liver-intestine)	4457	0.07968844473361969	0.3005027	No	
+row_38	MT1H	MT1H	metallothionein 1H	4797	0.05213416367769241	0.27162975	No	
+row_39	RGN	RGN	regucalcin (senescence marker protein-30)	5057	0.03307772055268288	0.24925019	No	
+row_40	ALPI	ALPI	alkaline phosphatase, intestinal	5186	0.022925952449440956	0.23850201	No	
+row_41	MMP1	MMP1	matrix metallopeptidase 1 (interstitial collagenase)	5337	0.011274192482233047	0.22516705	No	
+row_42	DSG1	DSG1	desmoglein 1	5597	-0.008168789558112621	0.20160621	No	
+row_43	UMOD	UMOD	uromodulin (uromucoid, Tamm-Horsfall glycoprotein)	5804	-0.02592810057103634	0.18378821	No	
+row_44	FSTL1	FSTL1	follistatin-like 1	5861	-0.030682025477290154	0.18006527	No	
+row_45	CA2	CA2	carbonic anhydrase II	5984	-0.041115280240774155	0.17073448	No	
+row_46	TNFAIP3	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	6078	-0.049101073294878006	0.16446386	No	
+row_47	PLA2G10	PLA2G10	phospholipase A2, group X	6316	-0.06901059299707413	0.1458226	No	
+row_48	PLS3	PLS3	plastin 3 (T isoform)	6565	-0.08963336050510406	0.12714224	No	
+row_49	CALML3	CALML3	calmodulin-like 3	6933	-0.12104843556880951	0.09894845	No	
+row_50	MT1G	MT1G	metallothionein 1G	7036	-0.12883129715919495	0.09562677	No	
+row_51	NELL1	NELL1	NEL-like 1 (chicken)	7190	-0.1410209834575653	0.08816749	No	
+row_52	TNNC1	TNNC1	troponin C type 1 (slow)	7200	-0.14180809259414673	0.094060384	No	
+row_53	CA4	CA4	carbonic anhydrase IV	7278	-0.1499512940645218	0.09405189	No	
+row_54	CA12	CA12	carbonic anhydrase XII	7315	-0.15307144820690155	0.0979824	No	
+row_55	ADH7	ADH7	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide	7326	-0.15423624217510223	0.10437222	No	
+row_56	GAS6	GAS6	growth arrest-specific 6	7856	-0.20249150693416595	0.06506158	No	
+row_57	CDH3	CDH3	cadherin 3, type 1, P-cadherin (placental)	7927	-0.20928941667079926	0.06851437	No	
+row_58	PROC	PROC	protein C (inactivator of coagulation factors Va and VIIIa)	8302	-0.24537436664104462	0.045569334	No	
+row_59	ABP1	ABP1	amiloride binding protein 1 (amine oxidase (copper-containing))	8459	-0.26483261585235596	0.043704275	No	
+row_60	SLIT3	SLIT3	slit homolog 3 (Drosophila)	8523	-0.27048778533935547	0.050706573	No	
+row_61	MGP	MGP	matrix Gla protein	8725	-0.29563644528388977	0.04614146	No	
+row_62	ANXA3	ANXA3	annexin A3	8878	-0.31311535835266113	0.046936005	No	
+row_63	CDH6	CDH6	cadherin 6, type 2, K-cadherin (fetal kidney)	9144	-0.344865620136261	0.038787812	No	
+row_64	SLIT2	SLIT2	slit homolog 2 (Drosophila)	9510	-0.39274996519088745	0.02366406	No	
+row_65	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	10024	-0.47733598947525024	-0.0011330061	No	
+row_66	CA11	CA11	carbonic anhydrase XI	10070	-0.4867417514324188	0.017789217	No	
+row_67	THBS2	THBS2	thrombospondin 2	10395	-0.5676506161689758	0.014750938	No	
+row_68	ANXA4	ANXA4	annexin A4	10593	-0.6384804248809814	0.026814621	No	

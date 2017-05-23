@@ -1,0 +1,229 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.017418327	No	
+row_1	CITED2	CITED2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	10	1.128342628479004	0.0329041	No	
+row_2	ARRB1	ARRB1	arrestin, beta 1	80	0.8759592175483704	0.038960822	No	
+row_3	GATA3	GATA3	GATA binding protein 3	174	0.7816216945648193	0.04141565	No	
+row_4	ALKBH1	ALKBH1	alkB, alkylation repair homolog 1 (E. coli)	246	0.7335550785064697	0.045247372	No	
+row_5	MEF2A	MEF2A	MADS box transcription enhancer factor 2, polypeptide A (myocyte enhancer factor 2A)	274	0.7183312177658081	0.052990425	No	
+row_6	TCF7L2	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	278	0.7168463468551636	0.062964484	No	
+row_7	HIST1H1C	HIST1H1C	histone cluster 1, H1c	581	0.5971025824546814	0.043166116	No	
+row_8	POLR3GL	POLR3GL	polymerase (RNA) III (DNA directed) polypeptide G (32kD) like	629	0.5829037427902222	0.047094792	No	
+row_9	HIST1H2AB	HIST1H2AB	histone cluster 1, H2ab	819	0.5271357893943787	0.036899794	No	
+row_10	SOX18	SOX18	SRY (sex determining region Y)-box 18	964	0.49743521213531494	0.03050286	No	
+row_11	SIRT6	SIRT6	sirtuin (silent mating type information regulation 2 homolog) 6 (S. cerevisiae)	1037	0.4820777177810669	0.030642968	No	
+row_12	APTX	APTX	aprataxin	1128	0.46630072593688965	0.028868172	No	
+row_13	HTRA2	HTRA2	HtrA serine peptidase 2	1286	0.43189185857772827	0.020313567	No	
+row_14	POU4F1	POU4F1	POU domain, class 4, transcription factor 1	1384	0.41563475131988525	0.017157009	No	
+row_15	HIST1H1E	HIST1H1E	histone cluster 1, H1e	1389	0.41485005617141724	0.022716705	No	
+row_16	BUD31	BUD31	BUD31 homolog (yeast)	1448	0.4042898416519165	0.023057751	No	
+row_17	FOXH1	FOXH1	forkhead box H1	1472	0.400838166475296	0.02663395	No	
+row_18	SIRT7	SIRT7	sirtuin (silent mating type information regulation 2 homolog) 7 (S. cerevisiae)	1510	0.3938451111316681	0.02879629	No	
+row_19	E2F4	E2F4	E2F transcription factor 4, p107/p130-binding	1786	0.35037288069725037	0.0080018565	No	
+row_20	ACTB	ACTB	actin, beta	1930	0.33078357577323914	-6.854449E-4	No	
+row_21	SMAD2	SMAD2	SMAD, mothers against DPP homolog 2 (Drosophila)	1946	0.32896578311920166	0.0026132602	No	
+row_22	EXOSC5	EXOSC5	exosome component 5	1977	0.3257485032081604	0.0044582793	No	
+row_23	SMARCB1	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	1996	0.32387420535087585	0.0074026096	No	
+row_24	MBD1	MBD1	methyl-CpG binding domain protein 1	2002	0.3233422338962555	0.011559299	No	
+row_25	CAPN2	CAPN2	calpain 2, (m/II) large subunit	2030	0.31977424025535583	0.013600379	No	
+row_26	SIN3B	SIN3B	SIN3 homolog B, transcription regulator (yeast)	2047	0.31806159019470215	0.016649239	No	
+row_27	STAT6	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	2098	0.3144935965538025	0.016456364	No	
+row_28	HIST1H2BK	HIST1H2BK	histone cluster 1, H2bk	2168	0.3064403831958771	0.01436524	No	
+row_29	TAL1	TAL1	T-cell acute lymphocytic leukemia 1	2263	0.29650840163230896	0.009785928	No	
+row_30	HAT1	HAT1	histone acetyltransferase 1	2267	0.2961837649345398	0.013741762	No	
+row_31	H2AFJ	H2AFJ	H2A histone family, member J	2438	0.27592459321022034	0.0017358349	No	
+row_32	HIST1H3G	HIST1H3G	histone cluster 1, H3g	2461	0.2735072672367096	0.0035842133	No	
+row_33	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	2588	0.2581649124622345	-0.004546664	No	
+row_34	HIST2H2BE	HIST2H2BE	histone cluster 2, H2be	2678	0.24825632572174072	-0.009347077	No	
+row_35	ACTR8	ACTR8	ARP8 actin-related protein 8 homolog (yeast)	2743	0.23954039812088013	-0.0119260885	No	
+row_36	CTR9	CTR9	Ctr9, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)	2750	0.23887115716934204	-0.009071732	No	
+row_37	TNKS1BP1	TNKS1BP1	tankyrase 1 binding protein 1, 182kDa	2801	0.23296697437763214	-0.010430972	No	
+row_38	HMGN3	HMGN3	high mobility group nucleosomal binding domain 3	2865	0.22631026804447174	-0.013105417	No	
+row_39	RNF40	RNF40	ring finger protein 40	2872	0.22478236258029938	-0.010452622	No	
+row_40	HIST1H4G	HIST1H4G	histone cluster 1, H4g	2964	0.21486784517765045	-0.015918396	No	
+row_41	HIST1H2BG	HIST1H2BG	histone cluster 1, H2bg	2994	0.21242846548557281	-0.015600751	No	
+row_42	T	T	T, brachyury homolog (mouse)	2996	0.21230244636535645	-0.012657281	No	
+row_43	HIST1H2BF	HIST1H2BF	histone cluster 1, H2bf	3029	0.20829276740550995	-0.012680335	No	
+row_44	HMGB2	HMGB2	high-mobility group box 2	3036	0.2077266126871109	-0.010271549	No	
+row_45	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	-0.012253834	No	
+row_46	HIST1H2BE	HIST1H2BE	histone cluster 1, H2be	3295	0.1831841766834259	-0.028871091	No	
+row_47	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	3380	0.17508181929588318	-0.034249157	No	
+row_48	MYCN	MYCN	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)	3437	0.16936437785625458	-0.037081394	No	
+row_49	TNP2	TNP2	transition protein 2 (during histone to protamine replacement)	3562	0.15742459893226624	-0.04646583	No	
+row_50	HIST1H3B	HIST1H3B	histone cluster 1, H3b	3577	0.15622057020664215	-0.04554467	No	
+row_51	TNP1	TNP1	transition protein 1 (during histone to protamine replacement)	3588	0.15482275187969208	-0.044268128	No	
+row_52	UCHL5	UCHL5	ubiquitin carboxyl-terminal hydrolase L5	3799	0.13648098707199097	-0.062022764	No	
+row_53	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	3827	0.13370884954929352	-0.06264364	No	
+row_54	UBR2	UBR2	ubiquitin protein ligase E3 component n-recognin 2	3832	0.13336798548698425	-0.061110977	No	
+row_55	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	-0.06548744	No	
+row_56	AHCTF1	AHCTF1	AT hook containing transcription factor 1	3937	0.12428884953260422	-0.06718151	No	
+row_57	BRD8	BRD8	bromodomain containing 8	3946	0.12362964451313019	-0.06616355	No	
+row_58	ANP32E	ANP32E	acidic (leucine-rich) nuclear phosphoprotein 32 family, member E	3996	0.11982753127813339	-0.069047585	No	
+row_59	HIST1H4E	HIST1H4E	histone cluster 1, H4e	4022	0.11800932884216309	-0.069705375	No	
+row_60	HIST1H4H	HIST1H4H	histone cluster 1, H4h	4106	0.11026639491319656	-0.07591688	No	
+row_61	HIST1H2BM	HIST1H2BM	histone cluster 1, H2bm	4144	0.1074753999710083	-0.077851504	No	
+row_62	UBE2B	UBE2B	ubiquitin-conjugating enzyme E2B (RAD6 homolog)	4164	0.1057344377040863	-0.07812184	No	
+row_63	EXOSC3	EXOSC3	exosome component 3	4168	0.1052803248167038	-0.076897174	No	
+row_64	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	4190	0.10301537811756134	-0.077394105	No	
+row_65	AKAP8L	AKAP8L	A kinase (PRKA) anchor protein 8-like	4253	0.0980658084154129	-0.08180944	No	
+row_66	HIST1H2BD	HIST1H2BD	histone cluster 1, H2bd	4364	0.08869758993387222	-0.0908633	No	
+row_67	MXD1	MXD1	MAX dimerization protein 1	4471	0.07776278257369995	-0.09969824	No	
+row_68	KIF22	KIF22	kinesin family member 22	4483	0.07698389887809753	-0.09962915	No	
+row_69	MCRS1	MCRS1	microspherule protein 1	4541	0.07347091287374496	-0.10392713	No	
+row_70	PRM1	PRM1	protamine 1	4563	0.07198932766914368	-0.104867935	No	
+row_71	HMGN4	HMGN4	high mobility group nucleosomal binding domain 4	4615	0.06712505221366882	-0.108693644	No	
+row_72	MBD3	MBD3	methyl-CpG binding domain protein 3	4658	0.06366045773029327	-0.111724325	No	
+row_73	HLCS	HLCS	holocarboxylase synthetase (biotin-(proprionyl-Coenzyme A-carboxylase (ATP-hydrolysing)) ligase)	4662	0.06342464685440063	-0.11109847	No	
+row_74	CBX8	CBX8	chromobox homolog 8 (Pc class homolog, Drosophila)	4774	0.0539071299135685	-0.12074391	No	
+row_75	HIST1H3C	HIST1H3C	histone cluster 1, H3c	4893	0.043869227170944214	-0.13118987	No	
+row_76	THRB	THRB	thyroid hormone receptor, beta (erythroblastic leukemia viral (v-erb-a) oncogene homolog 2, avian)	4933	0.04098781943321228	-0.13426338	No	
+row_77	HIST1H2BN	HIST1H2BN	histone cluster 1, H2bn	4962	0.039086971431970596	-0.13633181	No	
+row_78	POLR3D	POLR3D	polymerase (RNA) III (DNA directed) polypeptide D, 44kDa	4986	0.037343528121709824	-0.13795596	No	
+row_79	LDB1	LDB1	LIM domain binding 1	5004	0.03650785610079765	-0.13902901	No	
+row_80	CBX2	CBX2	chromobox homolog 2 (Pc class homolog, Drosophila)	5080	0.030981311574578285	-0.14562406	No	
+row_81	PLK2	PLK2	polo-like kinase 2 (Drosophila)	5145	0.026558849960565567	-0.1512501	No	
+row_82	FER	FER	fer (fps/fes related) tyrosine kinase (phosphoprotein NCP94)	5347	0.010697826743125916	-0.16995966	No	
+row_83	PRM2	PRM2	protamine 2	5409	0.005982313305139542	-0.17559855	No	
+row_84	H1FNT	H1FNT	H1 histone family, member N, testis-specific	5415	0.005436412990093231	-0.17599	No	
+row_85	EXOSC4	EXOSC4	exosome component 4	5492	-5.037116352468729E-4	-0.18311492	No	
+row_86	SUMO1	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	5504	-0.0014547808095812798	-0.18412639	No	
+row_87	CENPA	CENPA	centromere protein A	5514	-0.002135344548150897	-0.18494044	No	
+row_88	HIST1H2BI	HIST1H2BI	histone cluster 1, H2bi	5525	-0.003305697115138173	-0.18583158	No	
+row_89	FOXD3	FOXD3	forkhead box D3	5640	-0.010953349992632866	-0.19637308	No	
+row_90	PPARD	PPARD	peroxisome proliferative activated receptor, delta	5644	-0.011759327724575996	-0.19648637	No	
+row_91	HIST1H2AG	HIST1H2AG	histone cluster 1, H2ag	5707	-0.01590513065457344	-0.20207714	No	
+row_92	HIC1	HIC1	hypermethylated in cancer 1	5819	-0.027145421132445335	-0.21210545	No	
+row_93	HIST3H3	HIST3H3	histone cluster 3, H3	5824	-0.027613896876573563	-0.21208577	No	
+row_94	HIST1H2BH	HIST1H2BH	histone cluster 1, H2bh	5863	-0.030751312151551247	-0.21521188	No	
+row_95	HIST2H2AA3	HIST2H2AA3	histone cluster 2, H2aa3	5889	-0.032729826867580414	-0.21708973	No	
+row_96	ELL	ELL	elongation factor RNA polymerase II	5901	-0.03350825607776642	-0.21764264	No	
+row_97	MAF	MAF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)	5940	-0.037206415086984634	-0.2206764	No	
+row_98	HIST1H2BL	HIST1H2BL	histone cluster 1, H2bl	6085	-0.04961857199668884	-0.23348005	No	
+row_99	MYOD1	MYOD1	myogenic differentiation 1	6150	-0.055831488221883774	-0.23868729	No	
+row_100	RNF20	RNF20	ring finger protein 20	6188	-0.05903568118810654	-0.24131492	No	
+row_101	ACTL6A	ACTL6A	actin-like 6A	6210	-0.06066611781716347	-0.24241772	No	
+row_102	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	6219	-0.06098038703203201	-0.24229605	No	
+row_103	NCOA3	NCOA3	nuclear receptor coactivator 3	6305	-0.06805751472711563	-0.24929911	No	
+row_104	NCOR2	NCOR2	nuclear receptor co-repressor 2	6345	-0.07070150971412659	-0.25194752	No	
+row_105	IRF1	IRF1	interferon regulatory factor 1	6401	-0.0753432959318161	-0.25603104	No	
+row_106	TP73	TP73	tumor protein p73	6434	-0.07772886008024216	-0.257922	No	
+row_107	CBX6	CBX6	chromobox homolog 6	6461	-0.07963603734970093	-0.25922263	No	
+row_108	INCENP	INCENP	inner centromere protein antigens 135/155kDa	6584	-0.09114602953195572	-0.2693676	No	
+row_109	HIST1H2BB	HIST1H2BB	histone cluster 1, H2bb	6608	-0.09271377325057983	-0.2701996	No	
+row_110	PADI2	PADI2	peptidyl arginine deiminase, type II	6622	-0.0938839316368103	-0.2700764	No	
+row_111	SMC3	SMC3	structural maintenance of chromosomes 3	6654	-0.09657962620258331	-0.27160385	No	
+row_112	UBE2A	UBE2A	ubiquitin-conjugating enzyme E2A (RAD6 homolog)	6663	-0.09744591265916824	-0.27096048	No	
+row_113	KIAA0947	KIAA0947	-	6684	-0.0993732288479805	-0.27141568	No	
+row_114	NCOA1	NCOA1	nuclear receptor coactivator 1	6712	-0.1016525998711586	-0.27249515	No	
+row_115	IRF4	IRF4	interferon regulatory factor 4	6715	-0.10203070938587189	-0.27122313	No	
+row_116	EHMT2	EHMT2	euchromatic histone-lysine N-methyltransferase 2	6755	-0.10582619160413742	-0.27336904	No	
+row_117	NR1H4	NR1H4	nuclear receptor subfamily 1, group H, member 4	6816	-0.1113157719373703	-0.27740714	No	
+row_118	EXOSC10	EXOSC10	exosome component 10	6872	-0.1158018559217453	-0.2809118	No	
+row_119	HIST1H3F	HIST1H3F	histone cluster 1, H3f	6902	-0.11856595426797867	-0.28193703	No	
+row_120	RARA	RARA	retinoic acid receptor, alpha	6930	-0.12100757658481598	-0.2827396	No	
+row_121	PHC2	PHC2	polyhomeotic homolog 2 (Drosophila)	6997	-0.1263159215450287	-0.28712615	No	
+row_122	ASF1B	ASF1B	ASF1 anti-silencing function 1 homolog B (S. cerevisiae)	7264	-0.14914384484291077	-0.30995488	No	
+row_123	H2AFX	H2AFX	H2A histone family, member X	7435	-0.16274268925189972	-0.32358006	No	
+row_124	KLHDC3	KLHDC3	kelch domain containing 3	7487	-0.16814938187599182	-0.32596046	No	
+row_125	MEN1	MEN1	multiple endocrine neoplasia I	7502	-0.16987982392311096	-0.32484388	No	
+row_126	SIRT1	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	7530	-0.17174309492111206	-0.3249206	No	
+row_127	DNMT1	DNMT1	DNA (cytosine-5-)-methyltransferase 1	7560	-0.1738724261522293	-0.32515457	No	
+row_128	HIST1H4D	HIST1H4D	histone cluster 1, H4d	7574	-0.1753627061843872	-0.3238657	No	
+row_129	ESCO2	ESCO2	establishment of cohesion 1 homolog 2 (S. cerevisiae)	7576	-0.17542056739330292	-0.32144988	No	
+row_130	EME1	EME1	essential meiotic endonuclease 1 homolog 1 (S. pombe)	7585	-0.17673195898532867	-0.31967223	No	
+row_131	HIST1H4F	HIST1H4F	histone cluster 1, H4f	7637	-0.1814919263124466	-0.3218617	No	
+row_132	TCP1	TCP1	t-complex 1	7649	-0.1830902397632599	-0.32027462	No	
+row_133	SIN3A	SIN3A	SIN3 homolog A, transcription regulator (yeast)	7700	-0.18813608586788177	-0.32227525	No	
+row_134	HIST1H4A	HIST1H4A	histone cluster 1, H4a	7736	-0.19154013693332672	-0.3228195	No	
+row_135	NFRKB	NFRKB	nuclear factor related to kappaB binding protein	7762	-0.19402243196964264	-0.3223898	No	
+row_136	EED	EED	embryonic ectoderm development	7792	-0.19675356149673462	-0.3222964	No	
+row_137	NFE2L2	NFE2L2	nuclear factor (erythroid-derived 2)-like 2	7797	-0.19736400246620178	-0.31984818	No	
+row_138	CBX5	CBX5	chromobox homolog 5 (HP1 alpha homolog, Drosophila)	7967	-0.21176637709140778	-0.33267817	No	
+row_139	RING1	RING1	ring finger protein 1	7986	-0.21350595355033875	-0.3313128	No	
+row_140	HP1BP3	HP1BP3	heterochromatin protein 1, binding protein 3	8059	-0.221736341714859	-0.33489728	No	
+row_141	PHOX2B	PHOX2B	paired-like homeobox 2b	8071	-0.22300966084003448	-0.33273908	No	
+row_142	CDCA5	CDCA5	cell division cycle associated 5	8140	-0.22916638851165771	-0.33584186	No	
+row_143	RUNX2	RUNX2	runt-related transcription factor 2	8161	-0.23084542155265808	-0.33441615	No	
+row_144	SMARCC2	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	8256	-0.24132594466209412	-0.33978495	No	
+row_145	WAPAL	WAPAL	wings apart-like homolog (Drosophila)	8262	-0.2417334020137787	-0.33679578	No	
+row_146	MSH6	MSH6	mutS homolog 6 (E. coli)	8295	-0.244646817445755	-0.33629873	No	
+row_147	DBF4B	DBF4B	DBF4 homolog B (S. cerevisiae)	8305	-0.2457820177078247	-0.33362705	No	
+row_148	TTC21B	TTC21B	tetratricopeptide repeat domain 21B	8313	-0.24702666699886322	-0.33074984	No	
+row_149	HIST1H1T	HIST1H1T	histone cluster 1, H1t	8375	-0.254197895526886	-0.33283764	No	
+row_150	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	8463	-0.26516327261924744	-0.33720848	No	
+row_151	HIST1H3A	HIST1H3A	histone cluster 1, H3a	8476	-0.2666528522968292	-0.3345197	No	
+row_152	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	-0.34252244	No	
+row_153	HMGN2	HMGN2	high-mobility group nucleosomal binding domain 2	8708	-0.294057697057724	-0.34788755	No	
+row_154	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	8712	-0.29435455799102783	-0.3439579	No	
+row_155	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	8737	-0.29685360193252563	-0.3419632	No	
+row_156	ACTR5	ACTR5	ARP5 actin-related protein 5 homolog (yeast)	8785	-0.3025990426540375	-0.3420447	No	
+row_157	MORF4L1	MORF4L1	mortality factor 4 like 1	8862	-0.31103456020355225	-0.344727	No	
+row_158	WDR61	WDR61	WD repeat domain 61	8893	-0.31446221470832825	-0.34304348	No	
+row_159	SUV420H2	SUV420H2	suppressor of variegation 4-20 homolog 2 (Drosophila)	9007	-0.3292907178401947	-0.3489368	Yes	
+row_160	NCOR1	NCOR1	nuclear receptor co-repressor 1	9014	-0.3300059735774994	-0.34477863	Yes	
+row_161	PSIP1	PSIP1	PC4 and SFRS1 interacting protein 1	9056	-0.33462661504745483	-0.34383887	Yes	
+row_162	H1F0	H1F0	H1 histone family, member 0	9070	-0.33670878410339355	-0.3402417	Yes	
+row_163	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	9130	-0.3436282277107239	-0.34086236	Yes	
+row_164	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.33862442	Yes	
+row_165	ARID1A	ARID1A	AT rich interactive domain 1A (SWI- like)	9176	-0.34851863980293274	-0.335046	Yes	
+row_166	SMARCA2	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	9208	-0.3525012135505676	-0.33291206	Yes	
+row_167	SUZ12	SUZ12	suppressor of zeste 12 homolog (Drosophila)	9231	-0.3554827868938446	-0.3298909	Yes	
+row_168	H2AFY2	H2AFY2	H2A histone family, member Y2	9245	-0.35674309730529785	-0.32600713	Yes	
+row_169	ASH2L	ASH2L	ash2 (absent, small, or homeotic)-like (Drosophila)	9356	-0.3682847023010254	-0.33106107	Yes	
+row_170	MTBP	MTBP	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse) binding protein, 104kDa	9367	-0.3695453405380249	-0.32671258	Yes	
+row_171	RCC1	RCC1	regulator of chromosome condensation 1	9457	-0.38301581144332886	-0.32958505	Yes	
+row_172	MUC1	MUC1	mucin 1, cell surface associated	9635	-0.4123084843158722	-0.34029672	Yes	
+row_173	HMGA1	HMGA1	high mobility group AT-hook 1	9646	-0.4132329225540161	-0.3353232	Yes	
+row_174	KLF1	KLF1	Kruppel-like factor 1 (erythroid)	9709	-0.4226880669593811	-0.33509433	Yes	
+row_175	TMPO	TMPO	thymopoietin	9718	-0.42455562949180603	-0.32977116	Yes	
+row_176	NIPBL	NIPBL	Nipped-B homolog (Drosophila)	9728	-0.4256017804145813	-0.32452685	Yes	
+row_177	STAG2	STAG2	stromal antigen 2	9767	-0.43336570262908936	-0.32189295	Yes	
+row_178	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9772	-0.43414849042892456	-0.31605718	Yes	
+row_179	MBD4	MBD4	methyl-CpG binding domain protein 4	9773	-0.43437761068344116	-0.30984274	Yes	
+row_180	POLR3G	POLR3G	polymerase (RNA) III (DNA directed) polypeptide G (32kD)	9781	-0.4357626438140869	-0.30426538	Yes	
+row_181	NARG2	NARG2	NMDA receptor regulated 2	9810	-0.4405704140663147	-0.30058998	Yes	
+row_182	H3F3A	H3F3A	H3 histone, family 3A	9820	-0.4422759711742401	-0.29510713	Yes	
+row_183	AR	AR	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)	9899	-0.45631444454193115	-0.29589865	Yes	
+row_184	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.29176396	Yes	
+row_185	SALL1	SALL1	sal-like 1 (Drosophila)	10025	-0.4774225056171417	-0.29413038	Yes	
+row_186	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10079	-0.4891257584095001	-0.29210642	Yes	
+row_187	NRIP1	NRIP1	nuclear receptor interacting protein 1	10086	-0.4913164973258972	-0.28564045	Yes	
+row_188	STAG1	STAG1	stromal antigen 1	10101	-0.49348101019859314	-0.27989426	Yes	
+row_189	ENC1	ENC1	ectodermal-neural cortex (with BTB-like domain)	10125	-0.4996429681777954	-0.2749045	Yes	
+row_190	DFFB	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	10126	-0.49965423345565796	-0.26775616	Yes	
+row_191	AFF4	AFF4	AF4/FMR2 family, member 4	10132	-0.5018198490142822	-0.26104608	Yes	
+row_192	DNMT3A	DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	10161	-0.5086221694946289	-0.2563971	Yes	
+row_193	RFX3	RFX3	regulatory factor X, 3 (influences HLA class II expression)	10174	-0.513336181640625	-0.25017914	Yes	
+row_194	DPF2	DPF2	D4, zinc and double PHD fingers family 2	10192	-0.5161388516426086	-0.24439034	Yes	
+row_195	ESR1	ESR1	estrogen receptor 1	10205	-0.5193678140640259	-0.2380861	Yes	
+row_196	NASP	NASP	nuclear autoantigenic sperm protein (histone-binding)	10217	-0.5220777988433838	-0.23164925	Yes	
+row_197	DVL3	DVL3	dishevelled, dsh homolog 3 (Drosophila)	10225	-0.5246871113777161	-0.22479971	Yes	
+row_198	SMAD4	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	10237	-0.5262101888656616	-0.21830374	Yes	
+row_199	HIRA	HIRA	HIR histone cell cycle regulation defective homolog A (S. cerevisiae)	10257	-0.53136146068573	-0.21248482	Yes	
+row_200	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.2055064	Yes	
+row_201	REST	REST	RE1-silencing transcription factor	10323	-0.5498949885368347	-0.2029884	Yes	
+row_202	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	10414	-0.57424396276474	-0.20321889	Yes	
+row_203	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.19923316	Yes	
+row_204	TIMELESS	TIMELESS	timeless homolog (Drosophila)	10478	-0.5914134979248047	-0.19217974	Yes	
+row_205	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	10518	-0.6038016676902771	-0.18720134	Yes	
+row_206	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.17891608	Yes	
+row_207	BAHD1	BAHD1	bromo adjacent homology domain containing 1	10525	-0.6054478883743286	-0.17034806	Yes	
+row_208	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.16392751	Yes	
+row_209	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10557	-0.6210469007492065	-0.15541784	Yes	
+row_210	TRRAP	TRRAP	transformation/transcription domain-associated protein	10567	-0.6244063377380371	-0.14732935	Yes	
+row_211	HEY2	HEY2	hairy/enhancer-of-split related with YRPW motif 2	10574	-0.6307806968688965	-0.13886812	Yes	
+row_212	TBP	TBP	TATA box binding protein	10588	-0.6363654136657715	-0.1309839	Yes	
+row_213	IPO4	IPO4	importin 4	10607	-0.6447045207023621	-0.1234496	Yes	
+row_214	BAZ1B	BAZ1B	bromodomain adjacent to zinc finger domain, 1B	10636	-0.6569410562515259	-0.11667867	Yes	
+row_215	TCF3	TCF3	transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47)	10647	-0.6627170443534851	-0.108135924	Yes	
+row_216	FAM111A	FAM111A	family with sequence similarity 111, member A	10654	-0.6668580770492554	-0.099158555	Yes	
+row_217	SUV39H2	SUV39H2	suppressor of variegation 3-9 homolog 2 (Drosophila)	10658	-0.6670581102371216	-0.08989679	Yes	
+row_218	FAM60A	FAM60A	family with sequence similarity 60, member A	10669	-0.6701781153678894	-0.08124729	Yes	
+row_219	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	10699	-0.6934834122657776	-0.07404742	Yes	
+row_220	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	-0.067842945	Yes	
+row_221	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	10773	-0.7623668313026428	-0.05937605	Yes	
+row_222	SP1	SP1	Sp1 transcription factor	10783	-0.7691423296928406	-0.049216878	Yes	
+row_223	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	10794	-0.7836148142814636	-0.038944498	Yes	
+row_224	H2AFY	H2AFY	H2A histone family, member Y	10799	-0.7901180982589722	-0.028016016	Yes	
+row_225	SUDS3	SUDS3	suppressor of defective silencing 3 homolog (S. cerevisiae)	10811	-0.8076736927032471	-0.01749328	Yes	
+row_226	FBXO18	FBXO18	F-box protein, helicase, 18	10825	-0.8299521207809448	-0.0068395063	Yes	
+row_227	HELLS	HELLS	helicase, lymphoid-specific	10829	-0.8519662618637085	0.005067653	Yes	

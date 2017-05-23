@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	1311	0.4271478056907654	-0.06425783	No	
+row_1	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	-0.20106561	No	
+row_2	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	-0.2587517	No	
+row_3	CDKN2B	CDKN2B	cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	6372	-0.07320792227983475	-0.47660416	No	
+row_4	TGFB2	TGFB2	transforming growth factor, beta 2	7908	-0.20721526443958282	-0.59052074	Yes	
+row_5	ABL1	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	8005	-0.2148187756538391	-0.57098967	Yes	
+row_6	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	8351	-0.2515755891799927	-0.56952244	Yes	
+row_7	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	8712	-0.29435455799102783	-0.56378686	Yes	
+row_8	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	8794	-0.3033764660358429	-0.5311811	Yes	
+row_9	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.51344544	Yes	
+row_10	CCNE1	CCNE1	cyclin E1	9288	-0.3596876561641693	-0.48417234	Yes	
+row_11	ATR	ATR	ataxia telangiectasia and Rad3 related	9291	-0.35997045040130615	-0.43682235	Yes	
+row_12	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9772	-0.43414849042892456	-0.4236716	Yes	
+row_13	SMAD4	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	10237	-0.5262101888656616	-0.3968915	Yes	
+row_14	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.34318462	Yes	
+row_15	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.26348794	Yes	
+row_16	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.1837703	Yes	
+row_17	TGFB3	TGFB3	transforming growth factor, beta 3	10752	-0.7448577880859375	-0.10142658	Yes	
+row_18	CDK6	CDK6	cyclin-dependent kinase 6	10832	-0.8587019443511963	0.0046939254	Yes	

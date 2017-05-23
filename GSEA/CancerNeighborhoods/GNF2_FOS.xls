@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FAM105A	FAM105A	family with sequence similarity 105, member A	101	0.8510416150093079	0.11147657	Yes	
+row_1	MAFB	MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)	393	0.6609540581703186	0.17848481	Yes	
+row_2	STX11	STX11	syntaxin 11	394	0.6607995629310608	0.27226177	Yes	
+row_3	MFSD1	MFSD1	major facilitator superfamily domain containing 1	554	0.6070277690887451	0.34376958	Yes	
+row_4	SCPEP1	SCPEP1	serine carboxypeptidase 1	746	0.5470680594444275	0.40382215	Yes	
+row_5	CD33	CD33	CD33 molecule	814	0.5277246832847595	0.4725456	Yes	
+row_6	LILRA6	LILRA6	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 6	1008	0.4901025593280792	0.52432984	Yes	
+row_7	CTSS	CTSS	cathepsin S	1506	0.3941039443016052	0.534503	Yes	
+row_8	CPVL	CPVL	carboxypeptidase, vitellogenic-like	1598	0.38126274943351746	0.58023185	Yes	
+row_9	CD163	CD163	CD163 molecule	1631	0.3750576674938202	0.6305119	Yes	
+row_10	MS4A6A	MS4A6A	membrane-spanning 4-domains, subfamily A, member 6A	2749	0.2390880286693573	0.5616063	No	
+row_11	LILRB2	LILRB2	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 2	2762	0.23737624287605286	0.59418863	No	
+row_12	DUSP6	DUSP6	dual specificity phosphatase 6	2828	0.23005008697509766	0.6208519	No	
+row_13	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	4619	0.066714346408844	0.46552494	No	
+row_14	LILRA1	LILRA1	leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 1	4932	0.041040629148483276	0.4426252	No	
+row_15	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	0.34345144	No	
+row_16	CFP	CFP	complement factor properdin	6440	-0.07789922505617142	0.32209992	No	
+row_17	RNF130	RNF130	ring finger protein 130	6490	-0.08215498179197311	0.32924774	No	
+row_18	IER2	IER2	immediate early response 2	6556	-0.08844484388828278	0.3358152	No	
+row_19	CECR1	CECR1	cat eye syndrome chromosome region, candidate 1	6845	-0.1136077344417572	0.3254233	No	
+row_20	AP1S2	AP1S2	adaptor-related protein complex 1, sigma 2 subunit	6996	-0.12589934468269348	0.32948062	No	
+row_21	LGALS2	LGALS2	lectin, galactoside-binding, soluble, 2 (galectin 2)	7824	-0.19927790760993958	0.28162402	No	

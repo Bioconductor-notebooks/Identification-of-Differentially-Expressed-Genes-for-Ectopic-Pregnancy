@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	1311	0.4271478056907654	-0.042335432	No	
+row_1	SFRP2	SFRP2	secreted frizzled-related protein 2	3353	0.17777056992053986	-0.19756272	No	
+row_2	HOXD13	HOXD13	homeobox D13	3558	0.15821349620819092	-0.18733135	No	
+row_3	BMP4	BMP4	bone morphogenetic protein 4	3830	0.13352465629577637	-0.18779139	No	
+row_4	SHH	SHH	sonic hedgehog homolog (Drosophila)	4240	0.09903708845376968	-0.20727272	No	
+row_5	FGFR2	FGFR2	ffer syndrome, Jackson-Weiss syndrome)	5273	0.01620296575129032	-0.29926878	No	
+row_6	MAGI2	MAGI2	membrane associated guanylate kinase, WW and PDZ domain containing 2	6884	-0.11684754490852356	-0.4260032	No	
+row_7	SOX9	SOX9	SRY (sex determining region Y)-box 9 (campomelic dysplasia, autosomal sex-reversal)	7178	-0.13957490026950836	-0.42737857	No	
+row_8	YAP1	YAP1	Yes-associated protein 1, 65kDa	8808	-0.30507752299308777	-0.5213549	Yes	
+row_9	WNT11	WNT11	wingless-type MMTV integration site family, member 11	8865	-0.31117579340934753	-0.46946317	Yes	
+row_10	LRP6	LRP6	low density lipoprotein receptor-related protein 6	9226	-0.3547409474849701	-0.43755963	Yes	
+row_11	TNC	TNC	tenascin C (hexabrachion)	9823	-0.44307437539100647	-0.41117987	Yes	
+row_12	SFRP1	SFRP1	secreted frizzled-related protein 1	9957	-0.46403640508651733	-0.33835128	Yes	
+row_13	ESR1	ESR1	estrogen receptor 1	10205	-0.5193678140640259	-0.26586977	Yes	
+row_14	MED12	MED12	mediator of RNA polymerase II transcription, subunit 12 homolog (S. cerevisiae)	10327	-0.5503443479537964	-0.17611487	Yes	
+row_15	PTK7	PTK7	PTK7 protein tyrosine kinase 7	10418	-0.5751218795776367	-0.078965075	Yes	
+row_16	FGF1	FGF1	fibroblast growth factor 1 (acidic)	10648	-0.6636630892753601	0.021625133	Yes	

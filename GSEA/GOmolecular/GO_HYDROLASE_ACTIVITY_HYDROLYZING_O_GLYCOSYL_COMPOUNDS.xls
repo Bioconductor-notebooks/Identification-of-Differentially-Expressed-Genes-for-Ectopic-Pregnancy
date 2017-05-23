@@ -1,0 +1,46 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GLB1L	GLB1L	galactosidase, beta 1-like	149	0.803321361541748	0.043545328	Yes	
+row_1	MAN1A1	MAN1A1	mannosidase, alpha, class 1A, member 1	252	0.7308487296104431	0.08625819	Yes	
+row_2	HPSE	HPSE	heparanase	268	0.7203890681266785	0.13625164	Yes	
+row_3	MAN1C1	MAN1C1	mannosidase, alpha, class 1C, member 1	307	0.7017564177513123	0.18279427	Yes	
+row_4	GM2A	GM2A	GM2 ganglioside activator	544	0.6106191277503967	0.20456973	Yes	
+row_5	CTBS	CTBS	chitobiase, di-N-acetyl-	583	0.5965626239776611	0.24361004	Yes	
+row_6	HEXB	HEXB	hexosaminidase B (beta polypeptide)	588	0.5952228307723999	0.28569165	Yes	
+row_7	ADPRHL2	ADPRHL2	ADP-ribosylhydrolase like 2	591	0.5944890975952148	0.32790542	Yes	
+row_8	FUCA2	FUCA2	fucosidase, alpha-L- 2, plasma	666	0.567932665348053	0.36158255	Yes	
+row_9	GAA	GAA	glucosidase, alpha; acid (Pompe disease, glycogen storage disease type II)	874	0.5160138010978699	0.37928638	Yes	
+row_10	LYZL6	LYZL6	lysozyme-like 6	900	0.5106855034828186	0.41340142	Yes	
+row_11	CHIT1	CHIT1	chitinase 1 (chitotriosidase)	1052	0.4789383113384247	0.43362758	Yes	
+row_12	TREH	TREH	trehalase (brush-border membrane glycoprotein)	1172	0.4563627541065216	0.455196	Yes	
+row_13	MANEA	MANEA	mannosidase, endo-alpha	1435	0.40701332688331604	0.46005177	Yes	
+row_14	GBE1	GBE1	glucan (1,4-alpha-), branching enzyme 1 (glycogen branching enzyme, Andersen disease, glycogen storage disease type IV)	1561	0.3851246237754822	0.475986	Yes	
+row_15	CHI3L1	CHI3L1	chitinase 3-like 1 (cartilage glycoprotein-39)	1628	0.3753003478050232	0.49666288	Yes	
+row_16	MAN2B1	MAN2B1	mannosidase, alpha, class 2B, member 1	1780	0.35126712918281555	0.50778365	Yes	
+row_17	HYAL1	HYAL1	hyaluronoglucosaminidase 1	1917	0.33226802945137024	0.51893336	Yes	
+row_18	LYG2	LYG2	-	1960	0.32744622230529785	0.5384116	Yes	
+row_19	GALC	GALC	galactosylceramidase	2476	0.2709352970123291	0.51022077	No	
+row_20	EDEM2	EDEM2	ER degradation enhancer, mannosidase alpha-like 2	2851	0.2274516373872757	0.49193734	No	
+row_21	NAGA	NAGA	N-acetylgalactosaminidase, alpha-	3540	0.1594860553741455	0.43983722	No	
+row_22	LYZ	LYZ	lysozyme (renal amyloidosis)	3626	0.15211838483810425	0.4428441	No	
+row_23	FUCA1	FUCA1	fucosidase, alpha-L- 1, tissue	3876	0.12915121018886566	0.42908242	No	
+row_24	KIAA1161	KIAA1161	KIAA1161	4070	0.11373534053564072	0.41938782	No	
+row_25	MAN2C1	MAN2C1	mannosidase, alpha, class 2C, member 1	4286	0.09589960426092148	0.4063915	No	
+row_26	LCT	LCT	lactase	4304	0.09383074939250946	0.411515	No	
+row_27	EDEM1	EDEM1	ER degradation enhancer, mannosidase alpha-like 1	4338	0.09043677151203156	0.41492027	No	
+row_28	CHID1	CHID1	chitinase domain containing 1	4500	0.07620630413293839	0.40550146	No	
+row_29	LCTL	LCTL	lactase-like	4665	0.06324855238199234	0.39488173	No	
+row_30	SPAM1	SPAM1	sperm adhesion molecule 1 (PH-20 hyaluronidase, zona pellucida binding)	5572	-0.005692509934306145	0.31170067	No	
+row_31	GUSB	GUSB	glucuronidase, beta	5744	-0.020071133971214294	0.29735574	No	
+row_32	HEXDC	HEXDC	hexosaminidase (glycosyl hydrolase family 20, catalytic domain) containing	5771	-0.022211428731679916	0.2965411	No	
+row_33	NEU4	NEU4	sialidase 4	5944	-0.03766212612390518	0.2833585	No	
+row_34	HYAL2	HYAL2	hyaluronoglucosaminidase 2	5962	-0.03923065587878227	0.28458798	No	
+row_35	HYAL3	HYAL3	hyaluronoglucosaminidase 3	6264	-0.06491050124168396	0.26144722	No	
+row_36	NEU3	NEU3	sialidase 3 (membrane sialidase)	7074	-0.13196930289268494	0.19622125	No	
+row_37	SI	SI	sucrase-isomaltase (alpha-glucosidase)	7836	-0.2005743831396103	0.14031656	No	
+row_38	GBA3	GBA3	glucosidase, beta, acid 3 (cytosolic)	7859	-0.2026491016149521	0.15273957	No	
+row_39	MAN2A2	MAN2A2	mannosidase, alpha, class 2A, member 2	7956	-0.21111316978931427	0.15893902	No	
+row_40	AMY2B	AMY2B	amylase, alpha 2B (pancreatic)	8155	-0.2304145097732544	0.15710457	No	
+row_41	GBA2	GBA2	glucosidase, beta (bile acid) 2	8647	-0.28523778915405273	0.13214801	No	
+row_42	ABHD10	ABHD10	abhydrolase domain containing 10	8652	-0.2857203185558319	0.15215623	No	
+row_43	NAGLU	NAGLU	N-acetylglucosaminidase, alpha- (Sanfilippo disease IIIB)	8663	-0.28812772035598755	0.1717826	No	
+row_44	CD44	CD44	CD44 molecule (Indian blood group)	9946	-0.4618864953517914	0.08644723	No	

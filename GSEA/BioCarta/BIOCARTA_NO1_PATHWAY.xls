@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.1281829	No	
+row_1	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	946	0.5011234879493713	0.1643275	No	
+row_2	PRKACG	PRKACG	protein kinase, cAMP-dependent, catalytic, gamma	2654	0.25039905309677124	0.057896063	No	
+row_3	FLT4	FLT4	fms-related tyrosine kinase 4	2974	0.21390782296657562	0.07181912	No	
+row_4	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	3014	0.21034978330135345	0.11079072	No	
+row_5	CHRNA1	CHRNA1	cholinergic receptor, nicotinic, alpha 1 (muscle)	3657	0.14952808618545532	0.08196186	No	
+row_6	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	3722	0.14318659901618958	0.10504335	No	
+row_7	PDE3A	PDE3A	phosphodiesterase 3A, cGMP-inhibited	3831	0.1333918273448944	0.12209371	No	
+row_8	NOS3	NOS3	nitric oxide synthase 3 (endothelial cell)	4725	0.057748209685087204	0.051595144	No	
+row_9	PRKG2	PRKG2	protein kinase, cGMP-dependent, type II	5159	0.024936694651842117	0.016791599	No	
+row_10	PRKG1	PRKG1	protein kinase, cGMP-dependent, type I	5191	0.02273969165980816	0.018539662	No	
+row_11	PDE3B	PDE3B	phosphodiesterase 3B, cGMP-inhibited	6153	-0.055984605103731155	-0.05857379	No	
+row_12	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	-0.113364674	No	
+row_13	FLT1	FLT1	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)	8491	-0.26765182614326477	-0.19338979	Yes	
+row_14	RYR2	RYR2	ryanodine receptor 2 (cardiac)	8816	-0.305740624666214	-0.16134605	Yes	
+row_15	SLC7A1	SLC7A1	solute carrier family 7 (cationic amino acid transporter, y+ system), member 1	8882	-0.31363287568092346	-0.10386962	Yes	
+row_16	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	10645	-0.6610552668571472	-0.13227327	Yes	
+row_17	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	10771	-0.7615377902984619	0.010307442	Yes	

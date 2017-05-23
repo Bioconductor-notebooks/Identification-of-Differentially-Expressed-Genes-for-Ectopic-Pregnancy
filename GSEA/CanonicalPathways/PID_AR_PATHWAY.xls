@@ -1,0 +1,34 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTK2B	PTK2B	PTK2B protein tyrosine kinase 2 beta	20	1.0311212539672852	0.0963656	No	
+row_1	CTDSP2	CTDSP2	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 2	1320	0.42566490173339844	0.017195422	No	
+row_2	NCOA6	NCOA6	nuclear receptor coactivator 6	2070	0.316356360912323	-0.021699231	No	
+row_3	TGFB1I1	TGFB1I1	transforming growth factor beta 1 induced transcript 1	3238	0.18852904438972473	-0.111290544	No	
+row_4	FHL2	FHL2	four and a half LIM domains 2	3576	0.15622439980506897	-0.12746805	No	
+row_5	NCOA4	NCOA4	nuclear receptor coactivator 4	3907	0.126479834318161	-0.14583348	No	
+row_6	KLK3	KLK3	kallikrein 3, (prostate specific antigen)	4322	0.09191638976335526	-0.1752321	No	
+row_7	PA2G4	PA2G4	proliferation-associated 2G4, 38kDa	4972	0.038445692509412766	-0.2313805	No	
+row_8	VAV3	VAV3	vav 3 oncogene	5433	0.004117110278457403	-0.2733808	No	
+row_9	HIP1	HIP1	huntingtin interacting protein 1	5464	0.0012425753520801663	-0.27602714	No	
+row_10	UBE3A	UBE3A	ubiquitin protein ligase E3A (human papilloma virus E6-associated protein, Angelman syndrome)	6144	-0.05541784688830376	-0.33332378	No	
+row_11	TMPRSS2	TMPRSS2	transmembrane protease, serine 2	6422	-0.07725103199481964	-0.35149363	No	
+row_12	TMF1	TMF1	TATA element modulatory factor 1	6464	-0.07996892184019089	-0.34765548	No	
+row_13	BRCA1	BRCA1	breast cancer 1, early onset	6554	-0.08838730305433273	-0.34743908	No	
+row_14	UBE2I	UBE2I	ubiquitin-conjugating enzyme E2I (UBC9 homolog, yeast)	6877	-0.11621702462434769	-0.3660447	No	
+row_15	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	-0.36799246	No	
+row_16	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	-0.3670455	No	
+row_17	CCND3	CCND3	cyclin D3	7417	-0.16141565144062042	-0.37471086	No	
+row_18	RANBP9	RANBP9	RAN binding protein 9	7842	-0.20111201703548431	-0.39463076	No	
+row_19	KLK2	KLK2	kallikrein 2, prostatic	8588	-0.2788938581943512	-0.43672487	No	
+row_20	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.45049393	Yes	
+row_21	NKX3-1	NKX3-1	NK3 transcription factor related, locus 1 (Drosophila)	9257	-0.35763412714004517	-0.4318215	Yes	
+row_22	PATZ1	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	9424	-0.3778258264064789	-0.41113377	Yes	
+row_23	PRDX1	PRDX1	peroxiredoxin 1	9752	-0.42870858311653137	-0.40043706	Yes	
+row_24	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9772	-0.43414849042892456	-0.36083773	Yes	
+row_25	AR	AR	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)	9899	-0.45631444454193115	-0.32898808	Yes	
+row_26	PRKDC	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	9989	-0.4702838063240051	-0.29239807	Yes	
+row_27	SVIL	SVIL	supervillin	10035	-0.4798585772514343	-0.2508412	Yes	
+row_28	NRIP1	NRIP1	nuclear receptor interacting protein 1	10086	-0.4913164973258972	-0.20865382	Yes	
+row_29	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.18731456	Yes	
+row_30	PIAS3	PIAS3	protein inhibitor of activated STAT, 3	10765	-0.7554087042808533	-0.14319748	Yes	
+row_31	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	-0.07137288	Yes	
+row_32	CDK6	CDK6	cyclin-dependent kinase 6	10832	-0.8587019443511963	0.004700095	Yes	

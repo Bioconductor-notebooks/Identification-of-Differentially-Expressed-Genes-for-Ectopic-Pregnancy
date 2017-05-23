@@ -1,0 +1,30 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC4A2	SLC4A2	solute carrier family 4, anion exchanger, member 2 (erythrocyte membrane protein band 3-like 1)	1485	0.39905816316604614	-0.09188663	No	
+row_1	GTF2B	GTF2B	general transcription factor IIB	3008	0.2105851024389267	-0.20839575	No	
+row_2	GMFB	GMFB	glia maturation factor, beta	3252	0.18749406933784485	-0.20967802	No	
+row_3	EMG1	EMG1	EMG1 nucleolar protein homolog (S. cerevisiae)	3429	0.16978490352630615	-0.20678133	No	
+row_4	ELF2	ELF2	E74-like factor 2 (ets domain transcription factor)	4519	0.07497723400592804	-0.29866457	No	
+row_5	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	5045	0.033715587109327316	-0.34323445	No	
+row_6	PSMD4	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6428	-0.07735124230384827	-0.46184266	No	
+row_7	PNN	PNN	pinin, desmosome associated protein	6483	-0.08155263960361481	-0.45763803	No	
+row_8	LAMB1	LAMB1	laminin, beta 1	7181	-0.1397501677274704	-0.50611824	Yes	
+row_9	GOLGA1	GOLGA1	golgi autoantigen, golgin subfamily a, 1	7293	-0.1511877477169037	-0.49932674	Yes	
+row_10	BIRC3	BIRC3	baculoviral IAP repeat-containing 3	7493	-0.1687932312488556	-0.4986605	Yes	
+row_11	ACAA2	ACAA2	acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase)	7582	-0.17625704407691956	-0.48692843	Yes	
+row_12	HOXB7	HOXB7	homeobox B7	7754	-0.19350579380989075	-0.48090118	Yes	
+row_13	GALE	GALE	UDP-galactose-4-epimerase	8073	-0.2232494354248047	-0.4850682	Yes	
+row_14	CSE1L	CSE1L	CSE1 chromosome segregation 1-like (yeast)	8326	-0.24850380420684814	-0.48031253	Yes	
+row_15	SRP72	SRP72	signal recognition particle 72kDa	8803	-0.3044942319393158	-0.48989043	Yes	
+row_16	ANXA3	ANXA3	annexin A3	8878	-0.31311535835266113	-0.46146432	Yes	
+row_17	LMO4	LMO4	LIM domain only 4	9022	-0.3307003378868103	-0.43741542	Yes	
+row_18	RBM39	RBM39	RNA binding motif protein 39	9071	-0.33671748638153076	-0.40393752	Yes	
+row_19	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	9132	-0.34381791949272156	-0.37076592	Yes	
+row_20	CAPZA2	CAPZA2	capping protein (actin filament) muscle Z-line, alpha 2	9136	-0.3440586030483246	-0.33231616	Yes	
+row_21	CCNE1	CCNE1	cyclin E1	9288	-0.3596876561641693	-0.30574155	Yes	
+row_22	SPEG	SPEG	SPEG complex locus	9734	-0.42623788118362427	-0.29876053	Yes	
+row_23	NDUFB7	NDUFB7	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 7, 18kDa	9829	-0.4436003267765045	-0.25748995	Yes	
+row_24	MARK3	MARK3	MAP/microtubule affinity-regulating kinase 3	10037	-0.48027798533439636	-0.22250098	Yes	
+row_25	NDUFS8	NDUFS8	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)	10269	-0.5345879793167114	-0.18361002	Yes	
+row_26	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.13987884	Yes	
+row_27	SET	SET	SET translocation (myeloid leukemia-associated)	10597	-0.6403020024299622	-0.071861975	Yes	
+row_28	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	10839	-0.8717123866081238	0.0040533636	Yes	

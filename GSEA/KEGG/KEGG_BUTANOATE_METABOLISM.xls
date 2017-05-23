@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OXCT2	OXCT2	3-oxoacid CoA transferase 2	1390	0.4148043394088745	-0.04897969	No	
+row_1	HMGCL	HMGCL	3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase (hydroxymethylglutaricaciduria)	1688	0.36641567945480347	-0.0065635615	No	
+row_2	GAD2	GAD2	glutamate decarboxylase 2 (pancreatic islets and brain, 65kDa)	1984	0.3248499631881714	0.028123844	No	
+row_3	OXCT1	OXCT1	3-oxoacid CoA transferase 1	2179	0.30514904856681824	0.06835757	No	
+row_4	ABAT	ABAT	4-aminobutyrate aminotransferase	4247	0.0984756201505661	-0.103157155	No	
+row_5	ALDH1B1	ALDH1B1	aldehyde dehydrogenase 1 family, member B1	4372	0.08796904236078262	-0.09782443	No	
+row_6	BDH2	BDH2	3-hydroxybutyrate dehydrogenase, type 2	4852	0.047628846019506454	-0.13284796	No	
+row_7	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	5243	0.018273575231432915	-0.16526762	No	
+row_8	BDH1	BDH1	3-hydroxybutyrate dehydrogenase, type 1	6053	-0.04721396416425705	-0.23074569	No	
+row_9	HMGCS2	HMGCS2	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial)	6421	-0.07724013179540634	-0.24982287	No	
+row_10	ACAT2	ACAT2	acetyl-Coenzyme A acetyltransferase 2 (acetoacetyl Coenzyme A thiolase)	7262	-0.14896300435066223	-0.29878452	Yes	
+row_11	AACS	AACS	acetoacetyl-CoA synthetase	7549	-0.17308300733566284	-0.2921604	Yes	
+row_12	AKR1B10	AKR1B10	aldo-keto reductase family 1, member B10 (aldose reductase)	7630	-0.1809341013431549	-0.26507998	Yes	
+row_13	PDHB	PDHB	pyruvate dehydrogenase (lipoamide) beta	7729	-0.19108809530735016	-0.23772337	Yes	
+row_14	GAD1	GAD1	glutamate decarboxylase 1 (brain, 67kDa)	8983	-0.32616856694221497	-0.2909661	Yes	
+row_15	ACSM1	ACSM1	acyl-CoA synthetase medium-chain family member 1	9020	-0.3305363953113556	-0.23135595	Yes	
+row_16	ALDH3A2	ALDH3A2	aldehyde dehydrogenase 3 family, member A2	9186	-0.3500959873199463	-0.17989637	Yes	
+row_17	ACSM3	ACSM3	acyl-CoA synthetase medium-chain family member 3	9916	-0.4584762156009674	-0.15971914	Yes	
+row_18	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	10623	-0.6521291136741638	-0.100559354	Yes	
+row_19	HADH	HADH	hydroxyacyl-Coenzyme A dehydrogenase	10628	-0.653465747833252	0.023471972	Yes	

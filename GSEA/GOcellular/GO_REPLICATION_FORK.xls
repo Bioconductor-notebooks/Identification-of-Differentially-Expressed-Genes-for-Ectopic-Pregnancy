@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLD4	POLD4	polymerase (DNA-directed), delta 4	611	0.5896422266960144	0.008587039	No	
+row_1	NBN	NBN	nibrin	1276	0.4336807131767273	-0.0048697055	No	
+row_2	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	1640	0.3740386664867401	0.0028427108	No	
+row_3	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	2766	0.23700666427612305	-0.07472734	No	
+row_4	TOP1MT	TOP1MT	topoisomerase (DNA) I, mitochondrial	3763	0.13944107294082642	-0.15114772	No	
+row_5	UBE2B	UBE2B	ubiquitin-conjugating enzyme E2B (RAD6 homolog)	4164	0.1057344377040863	-0.1763663	No	
+row_6	SMARCAL1	SMARCAL1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a-like 1	4497	0.07628480345010757	-0.19856031	No	
+row_7	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	4525	0.07441273331642151	-0.19286008	No	
+row_8	XRCC3	XRCC3	X-ray repair complementing defective repair in Chinese hamster cells 3	4974	0.03825006261467934	-0.22992645	No	
+row_9	RAD51C	RAD51C	RAD51 homolog C (S. cerevisiae)	5070	0.0317765511572361	-0.23518254	No	
+row_10	RPA3	RPA3	replication protein A3, 14kDa	5331	0.011692625470459461	-0.25785026	No	
+row_11	RFC1	RFC1	replication factor C (activator 1) 1, 145kDa	5779	-0.023348888382315636	-0.29646412	No	
+row_12	MCM10	MCM10	MCM10 minichromosome maintenance deficient 10 (S. cerevisiae)	6721	-0.1024155244231224	-0.37189126	No	
+row_13	PURB	PURB	purine-rich element binding protein B	6968	-0.12399683892726898	-0.38091207	No	
+row_14	H2AFX	H2AFX	H2A histone family, member X	7435	-0.16274268925189972	-0.4059386	No	
+row_15	POLE	POLE	polymerase (DNA directed), epsilon	7558	-0.17363658547401428	-0.39807308	No	
+row_16	DNMT1	DNMT1	DNA (cytosine-5-)-methyltransferase 1	7560	-0.1738724261522293	-0.37903363	No	
+row_17	XPA	XPA	xeroderma pigmentosum, complementation group A	8581	-0.2781285047531128	-0.4424051	No	
+row_18	HELB	HELB	helicase (DNA) B	9006	-0.3291548192501068	-0.4452514	Yes	
+row_19	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	9130	-0.3436282277107239	-0.41877344	Yes	
+row_20	XRCC2	XRCC2	X-ray repair complementing defective repair in Chinese hamster cells 2	9187	-0.3503323793411255	-0.38538498	Yes	
+row_21	PRPF19	PRPF19	PRP19/PSO4 pre-mRNA processing factor 19 homolog (S. cerevisiae)	9318	-0.36349210143089294	-0.3573663	Yes	
+row_22	POLE4	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	9643	-0.41303151845932007	-0.34177026	Yes	
+row_23	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.30029425	Yes	
+row_24	BCAS2	BCAS2	breast carcinoma amplified sequence 2	10260	-0.5317643284797668	-0.2935612	Yes	
+row_25	GINS4	GINS4	GINS complex subunit 4 (Sld5 homolog)	10368	-0.5607828497886658	-0.24171512	Yes	
+row_26	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	10473	-0.5902814269065857	-0.18634686	Yes	
+row_27	TOP1	TOP1	topoisomerase (DNA) I	10541	-0.6150469183921814	-0.12484472	Yes	
+row_28	BAZ1B	BAZ1B	bromodomain adjacent to zinc finger domain, 1B	10636	-0.6569410562515259	-0.06122043	Yes	
+row_29	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	10773	-0.7623668313026428	0.010134551	Yes	

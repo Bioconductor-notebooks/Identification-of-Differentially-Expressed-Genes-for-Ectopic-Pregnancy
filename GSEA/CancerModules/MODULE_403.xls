@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SNX11	SNX11	sorting nexin 11	917	0.5061836242675781	-0.021168344	No	
+row_1	EREG	EREG	epiregulin	2231	0.299487829208374	-0.10463653	No	
+row_2	DPP7	DPP7	dipeptidyl-peptidase 7	3280	0.18452465534210205	-0.17807296	No	
+row_3	FTCD	FTCD	formiminotransferase cyclodeaminase	3498	0.1635078489780426	-0.17761703	No	
+row_4	E2F1	E2F1	E2F transcription factor 1	3899	0.12702147662639618	-0.1985725	No	
+row_5	PLK4	PLK4	polo-like kinase 4 (Drosophila)	4936	0.040739960968494415	-0.2888762	No	
+row_6	XRCC3	XRCC3	X-ray repair complementing defective repair in Chinese hamster cells 3	4974	0.03825006261467934	-0.28750217	No	
+row_7	CCDC132	CCDC132	coiled-coil domain containing 132	5279	0.01569696143269539	-0.31353277	No	
+row_8	CENPA	CENPA	centromere protein A	5514	-0.002135344548150897	-0.33481282	No	
+row_9	CCNE2	CCNE2	cyclin E2	8596	-0.27950018644332886	-0.58357865	Yes	
+row_10	CHD3	CHD3	chromodomain helicase DNA binding protein 3	8728	-0.29590532183647156	-0.55865484	Yes	
+row_11	DTYMK	DTYMK	deoxythymidylate kinase (thymidylate kinase)	8837	-0.3082672655582428	-0.530068	Yes	
+row_12	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8937	-0.3201466202735901	-0.49916756	Yes	
+row_13	ATR	ATR	ataxia telangiectasia and Rad3 related	9291	-0.35997045040130615	-0.486678	Yes	
+row_14	CDC20	CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	9632	-0.4117514193058014	-0.46651906	Yes	
+row_15	PCNA	PCNA	proliferating cell nuclear antigen	9697	-0.4213218688964844	-0.41974947	Yes	
+row_16	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	9756	-0.4295186996459961	-0.3714029	Yes	
+row_17	CCNB1	CCNB1	cyclin B1	9777	-0.4353015720844269	-0.31883436	Yes	
+row_18	TOPBP1	TOPBP1	topoisomerase (DNA) II binding protein 1	9824	-0.4431001842021942	-0.26768517	Yes	
+row_19	MSH2	MSH2	mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)	10133	-0.5018706917762756	-0.23331527	Yes	
+row_20	NEK2	NEK2	NIMA (never in mitosis gene a)-related kinase 2	10140	-0.5047721266746521	-0.17077422	Yes	
+row_21	TK1	TK1	thymidine kinase 1, soluble	10299	-0.5431939363479614	-0.117426984	Yes	
+row_22	CDK2	CDK2	cyclin-dependent kinase 2	10535	-0.611201286315918	-0.06266947	Yes	
+row_23	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	10769	-0.7570093870162964	0.010497349	Yes	

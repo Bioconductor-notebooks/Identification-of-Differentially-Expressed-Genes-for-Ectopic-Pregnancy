@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.12505847	Yes	
+row_1	CYB5R3	CYB5R3	cytochrome b5 reductase 3	71	0.8955236673355103	0.22364186	Yes	
+row_2	ADD1	ADD1	adducin 1 (alpha)	520	0.6201579570770264	0.25415617	Yes	
+row_3	TIMP3	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	542	0.6111975908279419	0.32296285	Yes	
+row_4	FBXO33	FBXO33	F-box protein 33	1840	0.34257933497428894	0.24315138	No	
+row_5	CD164	CD164	CD164 molecule, sialomucin	1873	0.3378320038318634	0.27930516	No	
+row_6	NDST1	NDST1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1	2600	0.25706568360328674	0.24218902	No	
+row_7	PDLIM2	PDLIM2	PDZ and LIM domain 2 (mystique)	2904	0.2217690646648407	0.23994863	No	
+row_8	ARRDC3	ARRDC3	arrestin domain containing 3	3093	0.20175711810588837	0.24598429	No	
+row_9	CNNM4	CNNM4	cyclin M4	3644	0.15086263418197632	0.2127868	No	
+row_10	SP4	SP4	Sp4 transcription factor	4285	0.09590087085962296	0.16493836	No	
+row_11	PPME1	PPME1	protein phosphatase methylesterase 1	4309	0.09289555251598358	0.17357178	No	
+row_12	KCNMA1	KCNMA1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	4734	0.057430244982242584	0.14116569	No	
+row_13	RABEPK	RABEPK	Rab9 effector protein with kelch motifs	5893	-0.0329306535422802	0.03831783	No	
+row_14	TMEM35	TMEM35	transmembrane protein 35	5939	-0.037154991179704666	0.038473412	No	
+row_15	TRPM3	TRPM3	transient receptor potential cation channel, subfamily M, member 3	5941	-0.03728161007165909	0.042696334	No	
+row_16	MUC4	MUC4	mucin 4, cell surface associated	6319	-0.06914152950048447	0.015974738	No	
+row_17	UBE2H	UBE2H	ubiquitin-conjugating enzyme E2H (UBC8 homolog, yeast)	6400	-0.07526697218418121	0.017317731	No	
+row_18	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	6764	-0.10628780722618103	-0.0038150123	No	
+row_19	PDZD11	PDZD11	PDZ domain containing 11	7105	-0.13385309278964996	-0.019638859	No	
+row_20	RUNX1T1	RUNX1T1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related)	9033	-0.3319931924343109	-0.15870266	No	
+row_21	BTBD11	BTBD11	BTB (POZ) domain containing 11	9040	-0.33286982774734497	-0.12072845	No	
+row_22	PARP6	PARP6	poly (ADP-ribose) polymerase family, member 6	9284	-0.35940757393836975	-0.101511955	No	
+row_23	EPHA7	EPHA7	EPH receptor A7	9973	-0.4674133062362671	-0.110782094	No	
+row_24	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	10011	-0.4743756353855133	-0.059285097	No	
+row_25	ZNF207	ZNF207	zinc finger protein 207	10471	-0.5895144939422607	-0.033330686	No	
+row_26	TOP1	TOP1	topoisomerase (DNA) I	10541	-0.6150469183921814	0.031500414	No	

@@ -1,0 +1,115 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CFL2	CFL2	cofilin 2 (muscle)	18	1.0420563220977783	0.032238528	Yes	
+row_1	MRAS	MRAS	muscle RAS oncogene homolog	181	0.7767457962036133	0.042473044	Yes	
+row_2	NCKAP1L	NCKAP1L	NCK-associated protein 1-like	340	0.6833178997039795	0.050038695	Yes	
+row_3	F2R	F2R	coagulation factor II (thrombin) receptor	377	0.6705260872840881	0.068515845	Yes	
+row_4	ROCK2	ROCK2	Rho-associated, coiled-coil containing protein kinase 2	451	0.6409268379211426	0.082594335	Yes	
+row_5	GNA12	GNA12	guanine nucleotide binding protein (G protein) alpha 12	548	0.609991192817688	0.09353057	Yes	
+row_6	ARPC3	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	632	0.5814533233642578	0.10474521	Yes	
+row_7	ARPC2	ARPC2	actin related protein 2/3 complex, subunit 2, 34kDa	643	0.576845109462738	0.12258798	Yes	
+row_8	TIAM2	TIAM2	T-cell lymphoma invasion and metastasis 2	764	0.541652262210846	0.12907197	Yes	
+row_9	ITGA5	ITGA5	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	783	0.5351638793945312	0.14481558	Yes	
+row_10	VAV1	VAV1	vav 1 oncogene	859	0.5181168913841248	0.15471196	Yes	
+row_11	WAS	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	860	0.5181088447570801	0.17157188	Yes	
+row_12	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	863	0.5175926685333252	0.18822931	Yes	
+row_13	PTK2	PTK2	PTK2 protein tyrosine kinase 2	938	0.5018228888511658	0.19768833	Yes	
+row_14	NCKAP1	NCKAP1	NCK-associated protein 1	972	0.49626705050468445	0.21077342	Yes	
+row_15	LIMK2	LIMK2	LIM domain kinase 2	1006	0.4905107915401459	0.2236712	Yes	
+row_16	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1077	0.47552821040153503	0.23264596	Yes	
+row_17	FGD3	FGD3	FYVE, RhoGEF and PH domain containing 3	1173	0.45598605275154114	0.23866352	Yes	
+row_18	FGF8	FGF8	fibroblast growth factor 8 (androgen-induced)	1177	0.4545688033103943	0.25317723	Yes	
+row_19	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1183	0.4526088535785675	0.26744142	Yes	
+row_20	CYFIP2	CYFIP2	cytoplasmic FMR1 interacting protein 2	1218	0.44626322388648987	0.27880648	Yes	
+row_21	RRAS2	RRAS2	related RAS viral (r-ras) oncogene homolog 2	1258	0.4371556043624878	0.28941092	Yes	
+row_22	PDGFD	PDGFD	platelet derived growth factor D	1405	0.4118036925792694	0.28925535	Yes	
+row_23	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1539	0.3899523913860321	0.28959578	Yes	
+row_24	ITGAD	ITGAD	integrin, alpha D	1693	0.3651305139064789	0.28727147	Yes	
+row_25	PIK3R5	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5, p101	1699	0.3640553057193756	0.29865405	Yes	
+row_26	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	1767	0.3528478443622589	0.30391517	Yes	
+row_27	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	0.31413636	Yes	
+row_28	CHRM3	CHRM3	cholinergic receptor, muscarinic 3	1831	0.3432362675666809	0.32075605	Yes	
+row_29	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1869	0.3382832407951355	0.32832873	Yes	
+row_30	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	1902	0.33409827947616577	0.3362295	Yes	
+row_31	ACTB	ACTB	actin, beta	1930	0.33078357577323914	0.34448665	Yes	
+row_32	WASL	WASL	Wiskott-Aldrich syndrome-like	2033	0.31958624720573425	0.34541565	Yes	
+row_33	FGF22	FGF22	fibroblast growth factor 22	2046	0.3180850148200989	0.35465235	Yes	
+row_34	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	2261	0.2967488169670105	0.3444389	No	
+row_35	ARHGEF6	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6	2300	0.29143112897872925	0.35039413	No	
+row_36	ITGAX	ITGAX	integrin, alpha X (complement component 3 receptor 4 subunit)	2406	0.2796320617198944	0.3497444	No	
+row_37	PDGFRA	PDGFRA	platelet-derived growth factor receptor, alpha polypeptide	2574	0.2603074610233307	0.3427091	No	
+row_38	ITGA10	ITGA10	integrin, alpha 10	2628	0.25291261076927185	0.34601814	No	
+row_39	ARHGEF4	ARHGEF4	Rho guanine nucleotide exchange factor (GEF) 4	2674	0.2484729140996933	0.3499255	No	
+row_40	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	2831	0.22965100407600403	0.34291393	No	
+row_41	GNA13	GNA13	guanine nucleotide binding protein (G protein), alpha 13	2852	0.22743289172649384	0.34845787	No	
+row_42	INSRR	INSRR	insulin receptor-related receptor	3125	0.19901850819587708	0.32967886	No	
+row_43	SLC9A1	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	3383	0.17461244761943817	0.31149837	No	
+row_44	ACTN1	ACTN1	actinin, alpha 1	3452	0.1678929477930069	0.310648	No	
+row_45	TIAM1	TIAM1	T-cell lymphoma invasion and metastasis 1	3456	0.16749253869056702	0.31581986	No	
+row_46	TMSB4Y	TMSB4Y	thymosin, beta 4, Y-linked	3520	0.1612115204334259	0.3152163	No	
+row_47	ITGA11	ITGA11	integrin, alpha 11	3725	0.1427454799413681	0.30091992	No	
+row_48	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.27574745	No	
+row_49	MYL2	MYL2	myosin, light chain 2, regulatory, cardiac, slow	4053	0.11521833389997482	0.2781969	No	
+row_50	ARAF	ARAF	v-raf murine sarcoma 3611 viral oncogene homolog	4221	0.10072316229343414	0.26596853	No	
+row_51	MYLK	MYLK	myosin, light chain kinase	4231	0.09968674182891846	0.2683768	No	
+row_52	WASF2	WASF2	WAS protein family, member 2	4431	0.08188512921333313	0.2525642	No	
+row_53	ITGA7	ITGA7	integrin, alpha 7	4594	0.06901773065328598	0.23976834	No	
+row_54	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	4625	0.0662061870098114	0.23913725	No	
+row_55	IQGAP1	IQGAP1	IQ motif containing GTPase activating protein 1	4726	0.057692281901836395	0.23172958	No	
+row_56	PDGFA	PDGFA	platelet-derived growth factor alpha polypeptide	4744	0.056447844952344894	0.23198801	No	
+row_57	RAC3	RAC3	ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3)	4747	0.05628691241145134	0.23363395	No	
+row_58	ARHGEF7	ARHGEF7	Rho guanine nucleotide exchange factor (GEF) 7	4750	0.05587879940867424	0.23526663	No	
+row_59	ARPC5	ARPC5	actin related protein 2/3 complex, subunit 5, 16kDa	4803	0.05179620906710625	0.23212391	No	
+row_60	LIMK1	LIMK1	LIM domain kinase 1	4921	0.041744306683540344	0.22261882	No	
+row_61	BDKRB1	BDKRB1	bradykinin receptor B1	4934	0.040816228836774826	0.22283281	No	
+row_62	CHRM2	CHRM2	cholinergic receptor, muscarinic 2	5006	0.03645860031247139	0.21742684	No	
+row_63	PXN	PXN	paxillin	5058	0.03304290026426315	0.21376672	No	
+row_64	FN1	FN1	fibronectin 1	5175	0.023436052724719048	0.2037587	No	
+row_65	FGF6	FGF6	fibroblast growth factor 6	5177	0.023353226482868195	0.2044258	No	
+row_66	FGFR2	FGFR2	ffer syndrome, Jackson-Weiss syndrome)	5273	0.01620296575129032	0.19613226	No	
+row_67	ACTG1	ACTG1	actin, gamma 1	5391	0.0070533971302211285	0.18549828	No	
+row_68	VAV3	VAV3	vav 3 oncogene	5433	0.004117110278457403	0.18182538	No	
+row_69	ITGA4	ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	5469	0.0010385802015662193	0.17860942	No	
+row_70	ACTN3	ACTN3	actinin, alpha 3	5507	-0.0016223107231780887	0.17522673	No	
+row_71	PIP5K1A	PIP5K1A	phosphatidylinositol-4-phosphate 5-kinase, type I, alpha	5677	-0.013918601907789707	0.15998793	No	
+row_72	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	5952	-0.038165971636772156	0.13578886	No	
+row_73	FGF18	FGF18	fibroblast growth factor 18	6108	-0.05187899246811867	0.12308524	No	
+row_74	FGF5	FGF5	fibroblast growth factor 5	6161	-0.05705774202942848	0.120113745	No	
+row_75	PAK4	PAK4	p21(CDKN1A)-activated kinase 4	6181	-0.058625541627407074	0.12025733	No	
+row_76	ARPC5L	ARPC5L	actin related protein 2/3 complex, subunit 5-like	6193	-0.05939040333032608	0.12116861	No	
+row_77	DIAPH3	DIAPH3	diaphanous homolog 3 (Drosophila)	6275	-0.0656973123550415	0.1157856	No	
+row_78	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	6469	-0.08030635863542557	0.10047872	No	
+row_79	FGF12	FGF12	fibroblast growth factor 12	6542	-0.08656252175569534	0.09661034	No	
+row_80	MYL7	MYL7	myosin, light chain 7, regulatory	6693	-0.09987682104110718	0.08593288	No	
+row_81	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	6764	-0.10628780722618103	0.08289208	No	
+row_82	ARHGEF1	ARHGEF1	Rho guanine nucleotide exchange factor (GEF) 1	6817	-0.11148327589035034	0.08169167	No	
+row_83	ITGA2B	ITGA2B	integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	6827	-0.11218418180942535	0.08450662	No	
+row_84	EGF	EGF	epidermal growth factor (beta-urogastrone)	6844	-0.11356203258037567	0.08671647	No	
+row_85	IQGAP3	IQGAP3	IQ motif containing GTPase activating protein 3	6940	-0.12189891189336777	0.08186242	No	
+row_86	INS	INS	insulin	7109	-0.13417471945285797	0.070629746	No	
+row_87	SSH3	SSH3	slingshot homolog 3 (Drosophila)	7188	-0.14056742191314697	0.06796165	No	
+row_88	ITGB8	ITGB8	integrin, beta 8	7215	-0.1430290937423706	0.07020189	No	
+row_89	BAIAP2	BAIAP2	BAI1-associated protein 2	7553	-0.17330923676490784	0.044550966	No	
+row_90	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	7554	-0.17332342267036438	0.05019113	No	
+row_91	MYH14	MYH14	myosin, heavy chain 14	7657	-0.18381857872009277	0.04670207	No	
+row_92	PDGFB	PDGFB	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)	7780	-0.1958526074886322	0.0417476	No	
+row_93	ARHGEF12	ARHGEF12	Rho guanine nucleotide exchange factor (GEF) 12	7863	-0.20295357704162598	0.040738225	No	
+row_94	FGFR1	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	7909	-0.2072267383337021	0.043303374	No	
+row_95	FGFR4	FGFR4	fibroblast growth factor receptor 4	7929	-0.20948854088783264	0.04835624	No	
+row_96	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	7943	-0.21029451489448547	0.05399243	No	
+row_97	PAK6	PAK6	p21(CDKN1A)-activated kinase 6	7961	-0.21136300265789032	0.059291992	No	
+row_98	DIAPH1	DIAPH1	diaphanous homolog 1 (Drosophila)	7963	-0.21160492300987244	0.06608503	No	
+row_99	FGF4	FGF4	fibroblast growth factor 4 (heparin secretory transforming protein 1, Kaposi sarcoma oncogene)	8052	-0.22089754045009613	0.06510248	No	
+row_100	ARPC4	ARPC4	actin related protein 2/3 complex, subunit 4, 20kDa	8152	-0.23007287085056305	0.06339714	No	
+row_101	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	8526	-0.2708396017551422	0.037577365	No	
+row_102	ABI2	ABI2	abl interactor 2	9092	-0.33965158462524414	-0.0038304785	No	
+row_103	PIK3R2	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (p85 beta)	9119	-0.34236544370651245	0.004896415	No	
+row_104	SOS2	SOS2	son of sevenless homolog 2 (Drosophila)	9345	-0.3671788275241852	-0.0040464844	No	
+row_105	ITGA8	ITGA8	integrin, alpha 8	9444	-0.381560742855072	-7.293629E-4	No	
+row_106	PDGFC	PDGFC	platelet derived growth factor C	9462	-0.3834275007247925	0.010169396	No	
+row_107	ITGB6	ITGB6	integrin, beta 6	9612	-0.4078923761844635	0.009608006	No	
+row_108	ENAH	ENAH	enabled homolog (Drosophila)	9699	-0.42143362760543823	0.015336848	No	
+row_109	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	0.02394995	No	
+row_110	PAK7	PAK7	p21(CDKN1A)-activated kinase 7	9877	-0.4533396065235138	0.027745835	No	
+row_111	FGF9	FGF9	fibroblast growth factor 9 (glia-activating factor)	10644	-0.6608180403709412	-0.021873798	No	
+row_112	FGF1	FGF1	fibroblast growth factor 1 (acidic)	10648	-0.6636630892753601	-5.559082E-4	No	
+row_113	DOCK1	DOCK1	dedicator of cytokinesis 1	10685	-0.6847662925720215	0.018384637	No	

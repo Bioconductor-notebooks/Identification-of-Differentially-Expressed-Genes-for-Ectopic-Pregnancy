@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SEMA3A	SEMA3A	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	5	1.1696295738220215	0.1809541	Yes	
+row_1	RET	RET	ret proto-oncogene (multiple endocrine neoplasia and medullary thyroid carcinoma 1, Hirschsprung disease)	8	1.1422606706619263	0.3579392	Yes	
+row_2	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	22	1.0169299840927124	0.5144729	Yes	
+row_3	GABRB2	GABRB2	gamma-aminobutyric acid (GABA) A receptor, beta 2	131	0.8178132176399231	0.6313816	Yes	
+row_4	POU4F1	POU4F1	POU domain, class 4, transcription factor 1	1384	0.41563475131988525	0.5806475	No	
+row_5	NTRK1	NTRK1	neurotrophic tyrosine kinase, receptor, type 1	1799	0.34804853796958923	0.59653777	No	
+row_6	SULF2	SULF2	sulfatase 2	3662	0.149198979139328	0.44835043	No	
+row_7	RNF165	RNF165	ring finger protein 165	5040	0.03416600450873375	0.32694748	No	
+row_8	SERPINE2	SERPINE2	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 2	5402	0.006422759033739567	0.29472688	No	
+row_9	GABRB3	GABRB3	gamma-aminobutyric acid (GABA) A receptor, beta 3	5681	-0.01408394705504179	0.27133167	No	
+row_10	UNC13B	UNC13B	unc-13 homolog B (C. elegans)	6347	-0.07077600806951523	0.2211205	No	
+row_11	GABRA5	GABRA5	gamma-aminobutyric acid (GABA) A receptor, alpha 5	6575	-0.0904398262500763	0.21426107	No	
+row_12	PRKCG	PRKCG	protein kinase C, gamma	7513	-0.17072516679763794	0.1545248	No	
+row_13	LRIG1	LRIG1	leucine-rich repeats and immunoglobulin-like domains 1	7621	-0.180350199341774	0.17265241	No	
+row_14	SLITRK6	SLITRK6	SLIT and NTRK-like family, member 6	9194	-0.3515394926071167	0.08253275	No	
+row_15	NRP1	NRP1	neuropilin 1	9984	-0.46927016973495483	0.08271995	No	

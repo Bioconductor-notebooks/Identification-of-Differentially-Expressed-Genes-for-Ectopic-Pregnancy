@@ -1,0 +1,71 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	22	1.0169299840927124	0.04797061	Yes	
+row_1	ACACB	ACACB	acetyl-Coenzyme A carboxylase beta	34	0.9713865518569946	0.09471894	Yes	
+row_2	KCNB1	KCNB1	potassium voltage-gated channel, Shab-related subfamily, member 1	37	0.9611028432846069	0.14179385	Yes	
+row_3	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.15991452	Yes	
+row_4	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	303	0.702338695526123	0.18834709	Yes	
+row_5	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.20764159	Yes	
+row_6	GCG	GCG	glucagon	449	0.6410951018333435	0.23824112	Yes	
+row_7	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	477	0.6339552998542786	0.26691753	Yes	
+row_8	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	508	0.6233882308006287	0.2947969	Yes	
+row_9	ADCY9	ADCY9	adenylate cyclase 9	560	0.6048184633255005	0.31982127	Yes	
+row_10	MLX	MLX	MAX-like protein X	701	0.5571226477622986	0.3342702	Yes	
+row_11	SPCS3	SPCS3	signal peptidase complex subunit 3 homolog (S. cerevisiae)	721	0.5512332320213318	0.35961875	Yes	
+row_12	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	1231	0.4436311423778534	0.3343646	No	
+row_13	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1269	0.4350684881210327	0.35233653	No	
+row_14	GATA4	GATA4	GATA binding protein 4	1525	0.3920111060142517	0.34803215	No	
+row_15	CHRM3	CHRM3	cholinergic receptor, muscarinic 3	1831	0.3432362675666809	0.33670577	No	
+row_16	GNA11	GNA11	guanine nucleotide binding protein (G protein), alpha 11 (Gq class)	1929	0.3307911157608032	0.34400174	No	
+row_17	ADCY3	ADCY3	adenylate cyclase 3	2576	0.2600231170654297	0.29705036	No	
+row_18	PPP2R1B	PPP2R1B	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), beta isoform	2598	0.25718411803245544	0.30775484	No	
+row_19	PRKACG	PRKACG	protein kinase, cAMP-dependent, catalytic, gamma	2654	0.25039905309677124	0.31498158	No	
+row_20	CACNA1A	CACNA1A	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	2724	0.2425052970647812	0.32052556	No	
+row_21	PRKAG2	PRKAG2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	2747	0.23919405043125153	0.33025295	No	
+row_22	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	2831	0.22965100407600403	0.33387023	No	
+row_23	CACNB2	CACNB2	calcium channel, voltage-dependent, beta 2 subunit	2875	0.22464129328727722	0.3409401	No	
+row_24	PKLR	PKLR	pyruvate kinase, liver and RBC	2945	0.217259019613266	0.34524262	No	
+row_25	GCGR	GCGR	glucagon receptor	3074	0.20408344268798828	0.34344143	No	
+row_26	AGPAT1	AGPAT1	1-acylglycerol-3-phosphate O-acyltransferase 1 (lysophosphatidic acid acyltransferase, alpha)	3270	0.18557263910770416	0.33453432	No	
+row_27	PLCB2	PLCB2	phospholipase C, beta 2	3336	0.17916175723075867	0.3373334	No	
+row_28	PPP2CA	PPP2CA	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	3461	0.16720418632030487	0.33408865	No	
+row_29	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	3501	0.1632448434829712	0.33850938	No	
+row_30	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	3660	0.1493718922138214	0.3312437	No	
+row_31	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	3722	0.14318659901618958	0.3326437	No	
+row_32	KCNG2	KCNG2	potassium voltage-gated channel, subfamily G, member 2	3908	0.12645167112350464	0.3217542	No	
+row_33	ADCY5	ADCY5	adenylate cyclase 5	3980	0.1206485852599144	0.32112122	No	
+row_34	STK11	STK11	serine/threonine kinase 11	4101	0.11084139347076416	0.31547484	No	
+row_35	IQGAP1	IQGAP1	IQ motif containing GTPase activating protein 1	4726	0.057692281901836395	0.26060873	No	
+row_36	PFKFB1	PFKFB1	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1	4802	0.05184254050254822	0.25622252	No	
+row_37	ITPR2	ITPR2	inositol 1,4,5-triphosphate receptor, type 2	4839	0.04853596165776253	0.25528014	No	
+row_38	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	4887	0.04421635717153549	0.25310814	No	
+row_39	PPP2CB	PPP2CB	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	4918	0.041936349123716354	0.25239608	No	
+row_40	GNAO1	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	5348	0.01069079153239727	0.21325098	No	
+row_41	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	5547	-0.004416901618242264	0.19515857	No	
+row_42	FFAR1	FFAR1	free fatty acid receptor 1	5925	-0.03609898313879967	0.16207144	No	
+row_43	PPP2R5D	PPP2R5D	protein phosphatase 2, regulatory subunit B (B56), delta isoform	6029	-0.04577754810452461	0.15479773	No	
+row_44	ADRA2A	ADRA2A	adrenergic, alpha-2A-, receptor	6045	-0.04667619988322258	0.15570584	No	
+row_45	LEP	LEP	leptin (obesity homolog, mouse)	6097	-0.0506816990673542	0.15348187	No	
+row_46	GIP	GIP	gastric inhibitory polypeptide	6109	-0.052069880068302155	0.15502508	No	
+row_47	ADCY8	ADCY8	adenylate cyclase 8 (brain)	6295	-0.0668850764632225	0.14120653	No	
+row_48	ITPR3	ITPR3	inositol 1,4,5-triphosphate receptor, type 3	6302	-0.06749168038368225	0.14397043	No	
+row_49	SLC2A2	SLC2A2	solute carrier family 2 (facilitated glucose transporter), member 2	6452	-0.07883649319410324	0.1340686	No	
+row_50	SLC25A4	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	6644	-0.09614712744951248	0.121134095	No	
+row_51	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6675	-0.09823323041200638	0.12319029	No	
+row_52	GNB5	GNB5	guanine nucleotide binding protein (G protein), beta 5	6818	-0.11158939450979233	0.11554629	No	
+row_53	INS	INS	insulin	7109	-0.13417471945285797	0.095326915	No	
+row_54	ADCY6	ADCY6	adenylate cyclase 6	7329	-0.15498970448970795	0.082696624	No	
+row_55	GLP1R	GLP1R	glucagon-like peptide 1 receptor	7611	-0.17926396429538727	0.06552665	No	
+row_56	AKAP5	AKAP5	A kinase (PRKA) anchor protein 5	7614	-0.17942102253437042	0.074164286	No	
+row_57	ACLY	ACLY	ATP citrate lyase	7629	-0.18085364997386932	0.0817627	No	
+row_58	TKT	TKT	transketolase (Wernicke-Korsakoff syndrome)	7763	-0.1940307468175888	0.07900481	No	
+row_59	CACNB3	CACNB3	calcium channel, voltage-dependent, beta 3 subunit	8237	-0.23955953121185303	0.04704496	No	
+row_60	GRP	GRP	gastrin-releasing peptide	8284	-0.24345743656158447	0.05476263	No	
+row_61	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	8402	-0.2586412727832794	0.056661364	No	
+row_62	SYT5	SYT5	synaptotagmin V	8510	-0.26969632506370544	0.060028434	No	
+row_63	GNAS	GNAS	GNAS complex locus	8768	-0.2999297082424164	0.051011246	No	
+row_64	ABCC8	ABCC8	ATP-binding cassette, sub-family C (CFTR/MRP), member 8	8928	-0.3197418451309204	0.052030593	No	
+row_65	SPCS2	SPCS2	signal peptidase complex subunit 2 homolog (S. cerevisiae)	9803	-0.43890273571014404	-0.0072086086	No	
+row_66	CDX2	CDX2	caudal type homeobox transcription factor 2	9969	-0.4662252366542816	4.5886263E-4	No	
+row_67	PLCB3	PLCB3	phospholipase C, beta 3 (phosphatidylinositol-specific)	10226	-0.5248273015022278	0.0025929287	No	
+row_68	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	0.009720797	No	
+row_69	PRKAA2	PRKAA2	protein kinase, AMP-activated, alpha 2 catalytic subunit	10480	-0.5921550393104553	0.03726652	No	

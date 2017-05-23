@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RNF113A	RNF113A	ring finger protein 113A	901	0.5104147791862488	0.006007791	No	
+row_1	SF3A2	SF3A2	splicing factor 3a, subunit 2, 66kDa	2630	0.25262540578842163	-0.10900672	No	
+row_2	SNRPC	SNRPC	small nuclear ribonucleoprotein polypeptide C	3792	0.13729222118854523	-0.19193403	No	
+row_3	U2AF2	U2AF2	U2 small nuclear RNA auxiliary factor 2	4580	0.07034709304571152	-0.25210556	No	
+row_4	HTATSF1	HTATSF1	HIV-1 Tat specific factor 1	4622	0.0664747878909111	-0.24429724	No	
+row_5	SNRPB	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	4711	0.05949946492910385	-0.24202959	No	
+row_6	PRPF18	PRPF18	PRP18 pre-mRNA processing factor 18 homolog (S. cerevisiae)	5486	-2.465371217112988E-4	-0.313218	No	
+row_7	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	-0.3347985	No	
+row_8	RBM22	RBM22	RNA binding motif protein 22	6402	-0.0753946602344513	-0.38047016	No	
+row_9	TFIP11	TFIP11	tuftelin interacting protein 11	6446	-0.07840563356876373	-0.37076724	No	
+row_10	SNRPD1	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide 16kDa	8724	-0.29552337527275085	-0.52883244	Yes	
+row_11	SNRPN	SNRPN	small nuclear ribonucleoprotein polypeptide N	9383	-0.37221992015838623	-0.5245383	Yes	
+row_12	SF3B14	SF3B14	-	9649	-0.4134156405925751	-0.47689897	Yes	
+row_13	LUC7L	LUC7L	LUC7-like (S. cerevisiae)	10362	-0.5591142177581787	-0.4450128	Yes	
+row_14	PRPF40A	PRPF40A	PRP40 pre-mRNA processing factor 40 homolog A (yeast)	10446	-0.583737313747406	-0.3509497	Yes	
+row_15	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.25301307	Yes	
+row_16	DHX15	DHX15	DEAH (Asp-Glu-Ala-His) box polypeptide 15	10779	-0.7672808170318604	-0.12467135	Yes	
+row_17	LSM7	LSM7	LSM7 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10784	-0.7699839472770691	0.009110944	Yes	

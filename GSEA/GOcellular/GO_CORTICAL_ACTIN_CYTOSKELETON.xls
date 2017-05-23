@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FLOT1	FLOT1	flotillin 1	43	0.9407327771186829	0.09626158	Yes	
+row_1	CLDN5	CLDN5	claudin 5 (transmembrane protein deleted in velocardiofacial syndrome)	151	0.8024207353591919	0.17189251	Yes	
+row_2	HFE	HFE	hemochromatosis	234	0.7415509223937988	0.24334145	Yes	
+row_3	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	303	0.702338695526123	0.31190243	Yes	
+row_4	SPTAN1	SPTAN1	spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	344	0.6816807985305786	0.38084185	Yes	
+row_5	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	477	0.6339552998542786	0.43622214	Yes	
+row_6	SPTBN1	SPTBN1	spectrin, beta, non-erythrocytic 1	593	0.5940446257591248	0.48891646	Yes	
+row_7	CAPN2	CAPN2	calpain 2, (m/II) large subunit	2030	0.31977424025535583	0.39070705	No	
+row_8	WASL	WASL	Wiskott-Aldrich syndrome-like	2033	0.31958624720573425	0.42457047	No	
+row_9	PDLIM2	PDLIM2	PDZ and LIM domain 2 (mystique)	2904	0.2217690646648407	0.36805698	No	
+row_10	NF2	NF2	neurofibromin 2 (bilateral acoustic neuroma)	3952	0.12319538742303848	0.28473747	No	
+row_11	SPTB	SPTB	spectrin, beta, erythrocytic (includes spherocytosis, clinical type I)	3962	0.12263613939285278	0.29697368	No	
+row_12	LLGL1	LLGL1	lethal giant larvae homolog 1 (Drosophila)	3979	0.12070821225643158	0.30835968	No	
+row_13	SPTBN5	SPTBN5	spectrin, beta, non-erythrocytic 5	4077	0.11307943612337112	0.31147164	No	
+row_14	SPTA1	SPTA1	spectrin, alpha, erythrocytic 1 (elliptocytosis 2)	4434	0.08147954940795898	0.28735927	No	
+row_15	SPTBN4	SPTBN4	spectrin, beta, non-erythrocytic 4	5396	0.006702336482703686	0.19955082	No	
+row_16	LANCL2	LANCL2	LanC lantibiotic synthetase component C-like 2 (bacterial)	5536	-0.0038882961962372065	0.18716109	No	
+row_17	FLOT2	FLOT2	flotillin 2	5802	-0.02550160326063633	0.16546749	No	
+row_18	EEF1A1	EEF1A1	eukaryotic translation elongation factor 1 alpha 1	5898	-0.03342108428478241	0.16027713	No	
+row_19	MYADM	MYADM	myeloid-associated differentiation marker	5931	-0.03650934249162674	0.16121905	No	
+row_20	AKAP13	AKAP13	A kinase (PRKA) anchor protein 13	7296	-0.15143407881259918	0.05170751	No	
+row_21	MAEA	MAEA	macrophage erythroblast attacher	7631	-0.18119171261787415	0.040244672	No	
+row_22	MED28	MED28	mediator of RNA polymerase II transcription, subunit 28 homolog (S. cerevisiae)	7834	-0.200099915266037	0.04295543	No	
+row_23	TRPV4	TRPV4	transient receptor potential cation channel, subfamily V, member 4	8447	-0.26349279284477234	0.014652714	No	
+row_24	DLC1	DLC1	deleted in liver cancer 1	9064	-0.33608320355415344	-0.006284922	No	
+row_25	EPB41	EPB41	erythrocyte membrane protein band 4.1 (elliptocytosis 1, RH-linked)	9667	-0.4170827269554138	-0.01730353	No	
+row_26	PPP1R9A	PPP1R9A	protein phosphatase 1, regulatory (inhibitor) subunit 9A	10064	-0.48553991317749023	-0.002053253	No	
+row_27	ACTR2	ACTR2	ARP2 actin-related protein 2 homolog (yeast)	10737	-0.7265403270721436	0.013448672	No	

@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDLIM1	PDLIM1	PDZ and LIM domain 1 (elfin)	327	0.6935895085334778	0.012447863	No	
+row_1	HIST1H1C	HIST1H1C	histone cluster 1, H1c	581	0.5971025824546814	0.02579514	No	
+row_2	PKIG	PKIG	protein kinase (cAMP-dependent, catalytic) inhibitor gamma	835	0.5230674743652344	0.03459253	No	
+row_3	TPSAB1	TPSAB1	tryptase alpha/beta 1	968	0.4968130588531494	0.052942924	No	
+row_4	TUBB6	TUBB6	tubulin, beta 6	1019	0.4874095916748047	0.07828279	No	
+row_5	MICAL2	MICAL2	microtubule associated monoxygenase, calponin and LIM domain containing 2	1291	0.4297747015953064	0.07968568	No	
+row_6	MINPP1	MINPP1	multiple inositol polyphosphate histidine phosphatase, 1	1451	0.403950035572052	0.08983741	No	
+row_7	HDC	HDC	histidine decarboxylase	3363	0.17676378786563873	-0.07565604	No	
+row_8	AMMECR1	AMMECR1	Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region, gene 1	3374	0.17544405162334442	-0.065796845	No	
+row_9	SPTA1	SPTA1	spectrin, alpha, erythrocytic 1 (elliptocytosis 2)	4434	0.08147954940795898	-0.15851925	No	
+row_10	ELOVL6	ELOVL6	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	4847	0.04799878969788551	-0.19359086	No	
+row_11	AQP3	AQP3	aquaporin 3 (Gill blood group)	5206	0.021398717537522316	-0.22531381	No	
+row_12	SERPINE2	SERPINE2	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 2	5402	0.006422759033739567	-0.24291466	No	
+row_13	CD36	CD36	CD36 molecule (thrombospondin receptor)	5848	-0.029118184000253677	-0.282192	No	
+row_14	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	-0.28345576	No	
+row_15	CA2	CA2	carbonic anhydrase II	5984	-0.041115280240774155	-0.2900652	No	
+row_16	LEPR	LEPR	leptin receptor	6321	-0.06920856982469559	-0.3168197	No	
+row_17	ITGA2B	ITGA2B	integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	6827	-0.11218418180942535	-0.35652927	No	
+row_18	IL1RN	IL1RN	interleukin 1 receptor antagonist	6887	-0.11691686511039734	-0.35478884	No	
+row_19	PF4	PF4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	6987	-0.12532223761081696	-0.3562233	No	
+row_20	H2AFX	H2AFX	H2A histone family, member X	7435	-0.16274268925189972	-0.38747323	No	
+row_21	TST	TST	thiosulfate sulfurtransferase (rhodanese)	7511	-0.1703507900238037	-0.38392556	No	
+row_22	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	7765	-0.19411583244800568	-0.3953441	No	
+row_23	RHAG	RHAG	Rh-associated glycoprotein	7864	-0.203147292137146	-0.3919035	No	
+row_24	APOBEC3B	APOBEC3B	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3B	8384	-0.25560811161994934	-0.4240908	No	
+row_25	RRM2	RRM2	ribonucleotide reductase M2 polypeptide	8925	-0.3188234865665436	-0.45433116	Yes	
+row_26	CDKN3	CDKN3	cyclin-dependent kinase inhibitor 3 (CDK2-associated dual specificity phosphatase)	8948	-0.32175129652023315	-0.43658796	Yes	
+row_27	TPM1	TPM1	tropomyosin 1 (alpha)	8952	-0.3222149908542633	-0.41706288	Yes	
+row_28	NUSAP1	NUSAP1	nucleolar and spindle associated protein 1	8953	-0.3228336274623871	-0.3972229	Yes	
+row_29	DLC1	DLC1	deleted in liver cancer 1	9064	-0.33608320355415344	-0.38672	Yes	
+row_30	MLF1IP	MLF1IP	MLF1 interacting protein	9098	-0.34012869000434875	-0.36886254	Yes	
+row_31	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	9130	-0.3436282277107239	-0.35060546	Yes	
+row_32	GINS1	GINS1	GINS complex subunit 1 (Psf1 homolog)	9287	-0.35962337255477905	-0.342901	Yes	
+row_33	HBD	HBD	hemoglobin, delta	9319	-0.36360421776771545	-0.32341626	Yes	
+row_34	CDC20	CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	9632	-0.4117514193058014	-0.32690468	Yes	
+row_35	KLF1	KLF1	Kruppel-like factor 1 (erythroid)	9709	-0.4226880669593811	-0.30794176	Yes	
+row_36	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	9756	-0.4295186996459961	-0.28579047	Yes	
+row_37	KIAA0101	KIAA0101	KIAA0101	9894	-0.45578232407569885	-0.27042308	Yes	
+row_38	PRDX2	PRDX2	peroxiredoxin 2	10058	-0.48414385318756104	-0.25571212	Yes	
+row_39	CLEC11A	CLEC11A	C-type lectin domain family 11, member A	10146	-0.5055184364318848	-0.23267391	Yes	
+row_40	TK1	TK1	thymidine kinase 1, soluble	10299	-0.5431939363479614	-0.21331884	Yes	
+row_41	XIST	XIST	X (inactive)-specific transcript	10329	-0.5509815216064453	-0.18213414	Yes	
+row_42	ICAM4	ICAM4	intercellular adhesion molecule 4 (Landsteiner-Wiener blood group)	10441	-0.5816370844841003	-0.15663283	Yes	
+row_43	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	10518	-0.6038016676902771	-0.12653942	Yes	
+row_44	HBB	HBB	hemoglobin, beta	10555	-0.6202366948127747	-0.09174458	Yes	
+row_45	TFR2	TFR2	transferrin receptor 2	10570	-0.627164900302887	-0.054493688	Yes	
+row_46	XK	XK	X-linked Kx blood group (McLeod syndrome)	10617	-0.6488521099090576	-0.018863117	Yes	
+row_47	CCNB2	CCNB2	cyclin B2	10716	-0.7048726081848145	0.015411417	Yes	

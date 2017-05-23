@@ -1,0 +1,43 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STIM1	STIM1	stromal interaction molecule 1	29	0.9937036633491516	0.067774884	Yes	
+row_1	RASGRP2	RASGRP2	RAS guanyl releasing protein 2 (calcium and DAG-regulated)	182	0.7762497663497925	0.10878837	Yes	
+row_2	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	402	0.6561956405639648	0.13511083	Yes	
+row_3	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.1775667	Yes	
+row_4	NCK1	NCK1	NCK adaptor protein 1	678	0.5638196468353271	0.19549538	Yes	
+row_5	FYB	FYB	FYN binding protein (FYB-120/130)	728	0.5495132207870483	0.22993425	Yes	
+row_6	CD247	CD247	CD247 molecule	792	0.5319358706474304	0.26183566	Yes	
+row_7	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.29547086	Yes	
+row_8	VAV1	VAV1	vav 1 oncogene	859	0.5181168913841248	0.329713	Yes	
+row_9	WAS	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	860	0.5181088447570801	0.36644486	Yes	
+row_10	LAT	LAT	linker for activation of T cells	893	0.5127918124198914	0.39984828	Yes	
+row_11	SLA2	SLA2	Src-like-adaptor 2	941	0.5015689134597778	0.43107253	Yes	
+row_12	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1165	0.4581811726093292	0.44298762	Yes	
+row_13	CD86	CD86	CD86 molecule	1191	0.45085471868515015	0.47264558	Yes	
+row_14	FYN	FYN	FYN oncogene related to SRC, FGR, YES	1346	0.4208412170410156	0.48827755	Yes	
+row_15	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.5148289	Yes	
+row_16	CD28	CD28	CD28 molecule	1420	0.4092986583709717	0.5401572	Yes	
+row_17	CD80	CD80	CD80 molecule	1918	0.33194929361343384	0.5178509	Yes	
+row_18	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	2026	0.3202206492424011	0.53068423	Yes	
+row_19	GRB2	GRB2	growth factor receptor-bound protein 2	2042	0.31843701004981995	0.5518766	Yes	
+row_20	MAP4K1	MAP4K1	mitogen-activated protein kinase kinase kinase kinase 1	2189	0.3044279217720032	0.5599932	Yes	
+row_21	IKBKB	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	2715	0.24346618354320526	0.5288312	No	
+row_22	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	3071	0.20460627973079681	0.51059395	No	
+row_23	STK39	STK39	serine threonine kinase 39 (STE20/SPS1 homolog, yeast)	3119	0.1994742900133133	0.5204009	No	
+row_24	PRKCE	PRKCE	protein kinase C, epsilon	4527	0.07424821704626083	0.3958917	No	
+row_25	SH3BP2	SH3BP2	SH3-domain binding protein 2	4821	0.05017927289009094	0.3724247	No	
+row_26	CD4	CD4	CD4 molecule	4931	0.04107549786567688	0.36528328	No	
+row_27	PTPN11	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	5407	0.006076879799365997	0.321903	No	
+row_28	INPP5D	INPP5D	inositol polyphosphate-5-phosphatase, 145kDa	5434	0.004028508439660072	0.3197905	No	
+row_29	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	6008	-0.043398335576057434	0.27001727	No	
+row_30	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	6080	-0.04925861209630966	0.2669609	No	
+row_31	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	6160	-0.05696864798665047	0.26371327	No	
+row_32	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	6469	-0.08030635863542557	0.24099864	No	
+row_33	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	6764	-0.10628780722618103	0.22141725	No	
+row_34	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	0.20590508	No	
+row_35	GRAP2	GRAP2	GRB2-related adaptor protein 2	7421	-0.16153469681739807	0.18157049	No	
+row_36	MALT1	MALT1	mucosa associated lymphoid tissue lymphoma translocation gene 1	7515	-0.1707853227853775	0.18510075	No	
+row_37	TRPV6	TRPV6	transient receptor potential cation channel, subfamily V, member 6	7725	-0.19040212035179138	0.17932262	No	
+row_38	PLCG1	PLCG1	phospholipase C, gamma 1	8440	-0.2628726661205292	0.13210425	No	
+row_39	CARD11	CARD11	caspase recruitment domain family, member 11	8991	-0.327087938785553	0.10456484	No	
+row_40	PRKCQ	PRKCQ	protein kinase C, theta	9157	-0.3463859558105469	0.11390364	No	
+row_41	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	10592	-0.6375507116317749	0.026840053	No	

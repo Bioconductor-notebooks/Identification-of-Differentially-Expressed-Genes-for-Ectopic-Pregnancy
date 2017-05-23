@@ -1,0 +1,70 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GATA3	GATA3	GATA binding protein 3	174	0.7816216945648193	0.016293187	No	
+row_1	HDAC4	HDAC4	histone deacetylase 4	631	0.5815766453742981	-0.00177623	No	
+row_2	ARID1B	ARID1B	AT rich interactive domain 1B (SWI1-like)	912	0.5074692964553833	-0.006642159	No	
+row_3	CECR2	CECR2	cat eye syndrome chromosome region, candidate 2	1845	0.34184738993644714	-0.07865631	No	
+row_4	ACTB	ACTB	actin, beta	1930	0.33078357577323914	-0.0727192	No	
+row_5	SMARCB1	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	1996	0.32387420535087585	-0.06531153	No	
+row_6	ACTR6	ACTR6	ARP6 actin-related protein 6 homolog (yeast)	2442	0.2756713628768921	-0.095037244	No	
+row_7	ACTR8	ACTR8	ARP8 actin-related protein 8 homolog (yeast)	2743	0.23954039812088013	-0.112852536	No	
+row_8	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	3089	0.20253635942935944	-0.13636176	No	
+row_9	DAXX	DAXX	death-associated protein 6	3152	0.19639824330806732	-0.13395792	No	
+row_10	PAX7	PAX7	paired box gene 7	3538	0.15971769392490387	-0.16293965	No	
+row_11	TNP1	TNP1	transition protein 1 (during histone to protamine replacement)	3588	0.15482275187969208	-0.16105622	No	
+row_12	TOP1MT	TOP1MT	topoisomerase (DNA) I, mitochondrial	3763	0.13944107294082642	-0.17136805	No	
+row_13	ANP32E	ANP32E	acidic (leucine-rich) nuclear phosphoprotein 32 family, member E	3996	0.11982753127813339	-0.18785538	No	
+row_14	CENPT	CENPT	centromere protein T	4010	0.1188303679227829	-0.18413436	No	
+row_15	HIST1H4E	HIST1H4E	histone cluster 1, H4e	4022	0.11800932884216309	-0.18026245	No	
+row_16	HIST1H4H	HIST1H4H	histone cluster 1, H4h	4106	0.11026639491319656	-0.18336873	No	
+row_17	SUPT6H	SUPT6H	suppressor of Ty 6 homolog (S. cerevisiae)	4344	0.09022810310125351	-0.20154466	No	
+row_18	SMYD1	SMYD1	SET and MYND domain containing 1	4568	0.07123399525880814	-0.219213	No	
+row_19	MBD3	MBD3	methyl-CpG binding domain protein 3	4658	0.06366045773029327	-0.22480491	No	
+row_20	CENPA	CENPA	centromere protein A	5514	-0.002135344548150897	-0.3037733	No	
+row_21	MORF4L2	MORF4L2	mortality factor 4 like 2	5712	-0.01693124882876873	-0.3212873	No	
+row_22	ACTL6A	ACTL6A	actin-like 6A	6210	-0.06066611781716347	-0.36472866	No	
+row_23	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	6219	-0.06098038703203201	-0.362942	No	
+row_24	PADI2	PADI2	peptidyl arginine deiminase, type II	6622	-0.0938839316368103	-0.39622307	No	
+row_25	CENPI	CENPI	centromere protein I	6834	-0.11270870268344879	-0.41106358	No	
+row_26	SOX9	SOX9	SRY (sex determining region Y)-box 9 (campomelic dysplasia, autosomal sex-reversal)	7178	-0.13957490026950836	-0.4369963	No	
+row_27	HIST1H4D	HIST1H4D	histone cluster 1, H4d	7574	-0.1753627061843872	-0.46625453	No	
+row_28	HIST1H4F	HIST1H4F	histone cluster 1, H4f	7637	-0.1814919263124466	-0.46446824	No	
+row_29	CENPK	CENPK	centromere protein K	7726	-0.19050371646881104	-0.46471268	No	
+row_30	HIST1H4A	HIST1H4A	histone cluster 1, H4a	7736	-0.19154013693332672	-0.4576095	No	
+row_31	RSF1	RSF1	remodeling and spacing factor 1	7853	-0.20220625400543213	-0.4599581	No	
+row_32	CENPL	CENPL	centromere protein L	7871	-0.20355838537216187	-0.45309672	No	
+row_33	BRD4	BRD4	bromodomain containing 4	8089	-0.22451478242874146	-0.46386	No	
+row_34	CENPO	CENPO	centromere protein O	8105	-0.2262304276227951	-0.4558744	No	
+row_35	SMARCD1	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	8204	-0.23567958176136017	-0.45517188	No	
+row_36	SMARCC2	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	8256	-0.24132594466209412	-0.44988963	No	
+row_37	CENPN	CENPN	centromere protein N	8709	-0.294111967086792	-0.4794986	Yes	
+row_38	PADI4	PADI4	peptidyl arginine deiminase, type IV	8762	-0.29945018887519836	-0.47190076	Yes	
+row_39	MORF4L1	MORF4L1	mortality factor 4 like 1	8862	-0.31103456020355225	-0.46816882	Yes	
+row_40	SYCP3	SYCP3	synaptonemal complex protein 3	8985	-0.3262788951396942	-0.46593198	Yes	
+row_41	MLF1IP	MLF1IP	MLF1 interacting protein	9098	-0.34012869000434875	-0.4621967	Yes	
+row_42	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	9130	-0.3436282277107239	-0.45082685	Yes	
+row_43	ARID1A	ARID1A	AT rich interactive domain 1A (SWI- like)	9176	-0.34851863980293274	-0.4405489	Yes	
+row_44	SMARCA2	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	9208	-0.3525012135505676	-0.42881146	Yes	
+row_45	HMGA1	HMGA1	high mobility group AT-hook 1	9646	-0.4132329225540161	-0.4520984	Yes	
+row_46	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	9772	-0.43414849042892456	-0.44567	Yes	
+row_47	CASC5	CASC5	cancer susceptibility candidate 5	9804	-0.43901893496513367	-0.4303482	Yes	
+row_48	CHD4	CHD4	chromodomain helicase DNA binding protein 4	9926	-0.45955464243888855	-0.4224974	Yes	
+row_49	RNF8	RNF8	ring finger protein 8	9975	-0.4678509533405304	-0.407553	Yes	
+row_50	BRDT	BRDT	bromodomain, testis-specific	10068	-0.4861588478088379	-0.39591852	Yes	
+row_51	ESR1	ESR1	estrogen receptor 1	10205	-0.5193678140640259	-0.38697666	Yes	
+row_52	NASP	NASP	nuclear autoantigenic sperm protein (histone-binding)	10217	-0.5220777988433838	-0.3663645	Yes	
+row_53	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.34859973	Yes	
+row_54	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	10414	-0.57424396276474	-0.33849397	Yes	
+row_55	PSME4	PSME4	proteasome (prosome, macropain) activator subunit 4	10428	-0.577925980091095	-0.315753	Yes	
+row_56	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.29448986	Yes	
+row_57	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.2749581	Yes	
+row_58	BAHD1	BAHD1	bromo adjacent homology domain containing 1	10525	-0.6054478883743286	-0.24996735	Yes	
+row_59	TOP1	TOP1	topoisomerase (DNA) I	10541	-0.6150469183921814	-0.22587343	Yes	
+row_60	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.20113964	Yes	
+row_61	ZBTB1	ZBTB1	zinc finger and BTB domain containing 1	10578	-0.632575273513794	-0.17724417	Yes	
+row_62	MYSM1	MYSM1	myb-like, SWIRM and MPN domains 1	10631	-0.6545880436897278	-0.15493326	Yes	
+row_63	CHD1L	CHD1L	chromodomain helicase DNA binding protein 1-like	10635	-0.6569351553916931	-0.12799436	Yes	
+row_64	BAZ1B	BAZ1B	bromodomain adjacent to zinc finger domain, 1B	10636	-0.6569410562515259	-0.10077783	Yes	
+row_65	SUV39H2	SUV39H2	suppressor of variegation 3-9 homolog 2 (Drosophila)	10658	-0.6670581102371216	-0.075083904	Yes	
+row_66	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	10699	-0.6934834122657776	-0.050052017	Yes	
+row_67	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	10773	-0.7623668313026428	-0.025217665	Yes	
+row_68	HELLS	HELLS	helicase, lymphoid-specific	10829	-0.8519662618637085	0.0049930746	Yes	

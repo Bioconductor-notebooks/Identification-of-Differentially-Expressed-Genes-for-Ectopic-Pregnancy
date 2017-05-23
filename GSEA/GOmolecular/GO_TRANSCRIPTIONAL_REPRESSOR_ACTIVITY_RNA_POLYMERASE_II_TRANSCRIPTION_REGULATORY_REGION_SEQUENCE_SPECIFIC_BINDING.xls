@@ -1,0 +1,89 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GATA3	GATA3	GATA binding protein 3	174	0.7816216945648193	0.012244056	No	
+row_1	HHEX	HHEX	homeobox, hematopoietically expressed	254	0.7295070886611938	0.03139669	No	
+row_2	MLX	MLX	MAX-like protein X	701	0.5571226477622986	0.010300283	No	
+row_3	ZNF219	ZNF219	zinc finger protein 219	1632	0.37482336163520813	-0.06224227	No	
+row_4	ISX	ISX	intestine-specific homeobox	1745	0.35660016536712646	-0.05967725	No	
+row_5	IFI16	IFI16	interferon, gamma-inducible protein 16	1783	0.35081058740615845	-0.050375286	No	
+row_6	NR2E1	NR2E1	nuclear receptor subfamily 2, group E, member 1	1832	0.3431558907032013	-0.04236997	No	
+row_7	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	-0.0339131	No	
+row_8	SNAI3	SNAI3	snail homolog 3 (Drosophila)	1963	0.32705509662628174	-0.030197075	No	
+row_9	OVOL1	OVOL1	ovo-like 1(Drosophila)	2167	0.3064810037612915	-0.037879676	No	
+row_10	ZNF746	ZNF746	zinc finger protein 746	2281	0.2945796847343445	-0.037657693	No	
+row_11	PRDM5	PRDM5	PR domain containing 5	2467	0.27299243211746216	-0.04488814	No	
+row_12	GFI1	GFI1	growth factor independent 1	2514	0.26684731245040894	-0.039466426	No	
+row_13	ZGPAT	ZGPAT	zinc finger, CCCH-type with G patch domain	2582	0.2590768337249756	-0.03627183	No	
+row_14	NFATC2	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	2714	0.24373674392700195	-0.039561965	No	
+row_15	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	2766	0.23700666427612305	-0.035686154	No	
+row_16	FEZF2	FEZF2	FEZ family zinc finger 2	3176	0.193638414144516	-0.066544384	No	
+row_17	BCL6B	BCL6B	B-cell CLL/lymphoma 6, member B (zinc finger protein)	3332	0.17947931587696075	-0.07438915	No	
+row_18	BTG2	BTG2	BTG family, member 2	3932	0.12462121993303299	-0.12535079	No	
+row_19	CSDA	CSDA	cold shock domain protein A	4281	0.09607602655887604	-0.15409882	No	
+row_20	PROX1	PROX1	prospero-related homeobox 1	4373	0.08794086426496506	-0.15933694	No	
+row_21	MXD1	MXD1	MAX dimerization protein 1	4471	0.07776278257369995	-0.16550013	No	
+row_22	ZFPM2	ZFPM2	zinc finger protein, multitype 2	4710	0.05960775911808014	-0.18538246	No	
+row_23	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	5184	0.023122919723391533	-0.22835597	No	
+row_24	PAX4	PAX4	paired box gene 4	5375	0.007894047535955906	-0.24566865	No	
+row_25	PRDM1	PRDM1	PR domain containing 1, with ZNF domain	5588	-0.0074040950275957584	-0.26503688	No	
+row_26	FOXD3	FOXD3	forkhead box D3	5640	-0.010953349992632866	-0.26936343	No	
+row_27	PPARD	PPARD	peroxisome proliferative activated receptor, delta	5644	-0.011759327724575996	-0.2692146	No	
+row_28	MNT	MNT	MAX binding protein	5734	-0.018566180020570755	-0.27678475	No	
+row_29	INSM1	INSM1	insulinoma-associated 1	5818	-0.02710164710879326	-0.28348938	No	
+row_30	ATF7	ATF7	activating transcription factor 7	6263	-0.06490299105644226	-0.3222607	No	
+row_31	MSC	MSC	musculin (activated B-cell factor-1)	6344	-0.07052654027938843	-0.3271118	No	
+row_32	ASCL2	ASCL2	achaete-scute complex-like 2 (Drosophila)	6397	-0.07517119497060776	-0.32920083	No	
+row_33	NEUROG3	NEUROG3	neurogenin 3	6424	-0.0773082822561264	-0.328804	No	
+row_34	TBX3	TBX3	T-box 3 (ulnar mammary syndrome)	6468	-0.08022352308034897	-0.32987604	No	
+row_35	FOXP2	FOXP2	forkhead box P2	6539	-0.08627521246671677	-0.33322942	No	
+row_36	ZNF281	ZNF281	zinc finger protein 281	6809	-0.11074050515890121	-0.35412785	No	
+row_37	HMX1	HMX1	homeobox (H6 family) 1	6842	-0.11336392164230347	-0.3529785	No	
+row_38	PURB	PURB	purine-rich element binding protein B	6968	-0.12399683892726898	-0.36005765	No	
+row_39	GATA1	GATA1	GATA binding protein 1 (globin transcription factor 1)	7041	-0.129303440451622	-0.362035	No	
+row_40	HIVEP1	HIVEP1	human immunodeficiency virus type I enhancer binding protein 1	7350	-0.1571589708328247	-0.3848616	No	
+row_41	KCNIP3	KCNIP3	Kv channel interacting protein 3, calsenilin	7356	-0.15756702423095703	-0.3796074	No	
+row_42	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	7617	-0.17962267994880676	-0.39717278	No	
+row_43	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	7737	-0.19172750413417816	-0.40123856	No	
+row_44	POU4F2	POU4F2	POU domain, class 4, transcription factor 2	7917	-0.20806896686553955	-0.410269	Yes	
+row_45	E2F8	E2F8	E2F transcription factor 8	7969	-0.2119826078414917	-0.40730116	Yes	
+row_46	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	8053	-0.22101743519306183	-0.40696958	Yes	
+row_47	TBX2	TBX2	T-box 2	8118	-0.22710493206977844	-0.4046572	Yes	
+row_48	SKIL	SKIL	SKI-like	8123	-0.22764843702316284	-0.3967675	Yes	
+row_49	BACH1	BACH1	BTB and CNC homology 1, basic leucine zipper transcription factor 1	8253	-0.2409329116344452	-0.3999741	Yes	
+row_50	GZF1	GZF1	GDNF-inducible zinc finger protein 1	8345	-0.2510577142238617	-0.39929354	Yes	
+row_51	PITX2	PITX2	paired-like homeodomain transcription factor 2	8400	-0.258428692817688	-0.3949183	Yes	
+row_52	JARID2	JARID2	jumonji, AT rich interactive domain 2	8406	-0.2592778503894806	-0.38597354	Yes	
+row_53	NR2C1	NR2C1	nuclear receptor subfamily 2, group C, member 1	8550	-0.27456456422805786	-0.38925663	Yes	
+row_54	ZNF350	ZNF350	zinc finger protein 350	8700	-0.29337701201438904	-0.39241284	Yes	
+row_55	DLX4	DLX4	distal-less homeobox 4	8775	-0.30084553360939026	-0.38835105	Yes	
+row_56	SNAI1	SNAI1	snail homolog 1 (Drosophila)	9100	-0.34017476439476013	-0.40601894	Yes	
+row_57	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.3989056	Yes	
+row_58	IRF3	IRF3	interferon regulatory factor 3	9263	-0.35825881361961365	-0.39535412	Yes	
+row_59	ZNF536	ZNF536	zinc finger protein 536	9286	-0.35961949825286865	-0.38434315	Yes	
+row_60	ESRRA	ESRRA	estrogen-related receptor alpha	9341	-0.3668981194496155	-0.37603208	Yes	
+row_61	E2F7	E2F7	E2F transcription factor 7	9404	-0.37449371814727783	-0.36818647	Yes	
+row_62	ASCL1	ASCL1	achaete-scute complex-like 1 (Drosophila)	9434	-0.37924638390541077	-0.3571117	Yes	
+row_63	DACH1	DACH1	dachshund homolog 1 (Drosophila)	9589	-0.40503573417663574	-0.3566795	Yes	
+row_64	MZF1	MZF1	myeloid zinc finger 1	9639	-0.4127705991268158	-0.34624085	Yes	
+row_65	NR2F6	NR2F6	nuclear receptor subfamily 2, group F, member 6	9737	-0.42640364170074463	-0.3397536	Yes	
+row_66	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	9753	-0.4288616478443146	-0.32558176	Yes	
+row_67	NFX1	NFX1	nuclear transcription factor, X-box binding 1	9783	-0.4360537528991699	-0.31244576	Yes	
+row_68	RCOR1	RCOR1	REST corepressor 1	9815	-0.44140368700027466	-0.29930085	Yes	
+row_69	MITF	MITF	microphthalmia-associated transcription factor	9889	-0.455241858959198	-0.28954417	Yes	
+row_70	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	9967	-0.4657366871833801	-0.2797772	Yes	
+row_71	CDX2	CDX2	caudal type homeobox transcription factor 2	9969	-0.4662252366542816	-0.26295283	Yes	
+row_72	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	10011	-0.4743756353855133	-0.24953783	Yes	
+row_73	SALL1	SALL1	sal-like 1 (Drosophila)	10025	-0.4774225056171417	-0.2334187	Yes	
+row_74	SP3	SP3	Sp3 transcription factor	10106	-0.49418163299560547	-0.22289748	Yes	
+row_75	CC2D1A	CC2D1A	coiled-coil and C2 domain containing 1A	10149	-0.5060329437255859	-0.2084264	Yes	
+row_76	NFATC3	NFATC3	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3	10173	-0.5132340788841248	-0.19193414	Yes	
+row_77	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.18099804	Yes	
+row_78	MSX1	MSX1	msh homeobox homolog 1 (Drosophila)	10285	-0.5383762717247009	-0.16322297	Yes	
+row_79	REST	REST	RE1-silencing transcription factor	10323	-0.5498949885368347	-0.14669724	Yes	
+row_80	ATF3	ATF3	activating transcription factor 3	10444	-0.5828785300254822	-0.13666272	Yes	
+row_81	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	-0.118349105	Yes	
+row_82	MSX2	MSX2	msh homeobox homolog 2 (Drosophila)	10548	-0.617556095123291	-0.10223972	Yes	
+row_83	TCF3	TCF3	transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47)	10647	-0.6627170443534851	-0.087270476	Yes	
+row_84	ZNF148	ZNF148	zinc finger protein 148	10707	-0.698285698890686	-0.06739817	Yes	
+row_85	KLF12	KLF12	Kruppel-like factor 12	10725	-0.7112607955932617	-0.043164734	Yes	
+row_86	YY1	YY1	YY1 transcription factor	10746	-0.7354182600975037	-0.018332627	Yes	
+row_87	CGGBP1	CGGBP1	CGG triplet repeat binding protein 1	10830	-0.8524208664894104	0.0049094236	Yes	

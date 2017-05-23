@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2RA	IL2RA	interleukin 2 receptor, alpha	9	1.1380228996276855	0.12557621	Yes	
+row_1	IL18R1	IL18R1	interleukin 18 receptor 1	158	0.7955359220504761	0.2003093	Yes	
+row_2	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	245	0.7341944575309753	0.273939	Yes	
+row_3	CD247	CD247	CD247 molecule	792	0.5319358706474304	0.2827379	Yes	
+row_4	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.3374263	Yes	
+row_5	STAT4	STAT4	signal transducer and activator of transcription 4	1095	0.47118377685546875	0.36554092	Yes	
+row_6	CD86	CD86	CD86 molecule	1191	0.45085471868515015	0.40686998	Yes	
+row_7	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	1311	0.4271478056907654	0.44335547	Yes	
+row_8	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	1318	0.4259844720363617	0.4901188	Yes	
+row_9	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.53081566	Yes	
+row_10	CD28	CD28	CD28 molecule	1420	0.4092986583709717	0.5725943	Yes	
+row_11	CD80	CD80	CD80 molecule	1918	0.33194929361343384	0.5636926	No	
+row_12	IFNG	IFNG	interferon, gamma	3788	0.13774867355823517	0.40686178	No	
+row_13	CD4	CD4	CD4 molecule	4931	0.04107549786567688	0.3062483	No	
+row_14	IL18RAP	IL18RAP	interleukin 18 receptor accessory protein	4994	0.03698050603270531	0.30464584	No	
+row_15	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	6080	-0.04925861209630966	0.21019086	No	
+row_16	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	0.21517046	No	
+row_17	MAPK9	MAPK9	mitogen-activated protein kinase 9	6119	-0.05323229730129242	0.21822816	No	
+row_18	IRF1	IRF1	interferon regulatory factor 1	6401	-0.0753432959318161	0.20071732	No	
+row_19	IL13	IL13	interleukin 13	6979	-0.12469364702701569	0.16142704	No	
+row_20	PIAS2	PIAS2	protein inhibitor of activated STAT, 2	7225	-0.14452645182609558	0.1549162	No	
+row_21	PPP3R1	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, 19kDa, alpha isoform (calcineurin B, type I)	8488	-0.26755788922309875	0.068407334	No	
+row_22	IL2	IL2	interleukin 2	8635	-0.2841058373451233	0.086517885	No	
+row_23	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	0.07676282	No	
+row_24	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	0.111218475	No	
+row_25	ETV5	ETV5	ets variant gene 5 (ets-related molecule)	9456	-0.38256385922431946	0.13142377	No	

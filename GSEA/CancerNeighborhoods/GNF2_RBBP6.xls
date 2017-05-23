@@ -1,0 +1,37 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RBBP6	RBBP6	retinoblastoma binding protein 6	1661	0.37122148275375366	-0.120533556	No	
+row_1	USP16	USP16	ubiquitin specific peptidase 16	2009	0.3225656747817993	-0.12420932	No	
+row_2	CCDC59	CCDC59	coiled-coil domain containing 59	2114	0.3126712441444397	-0.10635309	No	
+row_3	RPS23	RPS23	ribosomal protein S23	2554	0.2623004913330078	-0.12379918	No	
+row_4	GTF3A	GTF3A	general transcription factor IIIA	2606	0.25614893436431885	-0.10601824	No	
+row_5	HSPA14	HSPA14	heat shock 70kDa protein 14	3190	0.19300530850887299	-0.14282073	No	
+row_6	FIP1L1	FIP1L1	FIP1 like 1 (S. cerevisiae)	3217	0.1906873881816864	-0.12848079	No	
+row_7	RPL35A	RPL35A	ribosomal protein L35a	3790	0.1375693380832672	-0.1691349	No	
+row_8	RBM15	RBM15	RNA binding motif protein 15	3843	0.13217291235923767	-0.16232754	No	
+row_9	PAPOLA	PAPOLA	poly(A) polymerase alpha	4083	0.11244435608386993	-0.17448999	No	
+row_10	UBP1	UBP1	upstream binding protein 1 (LBP-1a)	5542	-0.004043276887387037	-0.30853775	No	
+row_11	NOL8	NOL8	nucleolar protein 8	5831	-0.027876898646354675	-0.33263966	No	
+row_12	CDV3	CDV3	CDV3 homolog (mouse)	6363	-0.07264707237482071	-0.37521252	No	
+row_13	PNN	PNN	pinin, desmosome associated protein	6483	-0.08155263960361481	-0.3790244	No	
+row_14	NACA	NACA	nascent-polypeptide-associated complex alpha polypeptide	6699	-0.10015479475259781	-0.3900531	No	
+row_15	RPL22	RPL22	ribosomal protein L22	6939	-0.12176656723022461	-0.40139732	No	
+row_16	NGLY1	NGLY1	N-glycanase 1	7117	-0.1345972865819931	-0.40590003	No	
+row_17	CDK5RAP1	CDK5RAP1	CDK5 regulatory subunit associated protein 1	7235	-0.14576347172260284	-0.40389174	No	
+row_18	WAPAL	WAPAL	wings apart-like homolog (Drosophila)	8262	-0.2417334020137787	-0.47725436	No	
+row_19	SRP72	SRP72	signal recognition particle 72kDa	8803	-0.3044942319393158	-0.50030756	Yes	
+row_20	RBM39	RBM39	RNA binding motif protein 39	9071	-0.33671748638153076	-0.4953666	Yes	
+row_21	SUZ12	SUZ12	suppressor of zeste 12 homolog (Drosophila)	9231	-0.3554827868938446	-0.47882283	Yes	
+row_22	FBL	FBL	fibrillarin	9343	-0.3670318126678467	-0.45684063	Yes	
+row_23	PMPCB	PMPCB	peptidase (mitochondrial processing) beta	9541	-0.3984838128089905	-0.44002563	Yes	
+row_24	MRPS31	MRPS31	mitochondrial ribosomal protein S31	9657	-0.4151866137981415	-0.41418558	Yes	
+row_25	ZNF146	ZNF146	zinc finger protein 146	9732	-0.42620620131492615	-0.38359886	Yes	
+row_26	DDX50	DDX50	DEAD (Asp-Glu-Ala-Asp) box polypeptide 50	9842	-0.44688835740089417	-0.35442325	Yes	
+row_27	HNRPDL	HNRPDL	heterogeneous nuclear ribonucleoprotein D-like	10016	-0.4748769700527191	-0.3286908	Yes	
+row_28	DCLRE1C	DCLRE1C	DNA cross-link repair 1C (PSO2 homolog, S. cerevisiae)	10018	-0.4755915701389313	-0.28704017	Yes	
+row_29	FUS	FUS	fusion (involved in t(12;16) in malignant liposarcoma)	10281	-0.5379582643508911	-0.26397532	Yes	
+row_30	THUMPD1	THUMPD1	THUMP domain containing 1	10365	-0.5594815611839294	-0.22252062	Yes	
+row_31	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	10384	-0.5649369359016418	-0.17459522	Yes	
+row_32	BTAF1	BTAF1	BTAF1 RNA polymerase II, B-TFIID transcription factor-associated, 170kDa (Mot1 homolog, S. cerevisiae)	10521	-0.6047114133834839	-0.13405639	Yes	
+row_33	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.081015825	Yes	
+row_34	DDX18	DDX18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	10613	-0.6471725106239319	-0.03241756	Yes	
+row_35	INTS8	INTS8	integrator complex subunit 8	10621	-0.6518702507019043	0.024152016	Yes	

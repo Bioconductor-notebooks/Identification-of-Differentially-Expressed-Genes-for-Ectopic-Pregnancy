@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SPIRE1	SPIRE1	spire homolog 1 (Drosophila)	1030	0.4839854836463928	-0.013031315	No	
+row_1	WASL	WASL	Wiskott-Aldrich syndrome-like	2033	0.31958624720573425	-0.051257785	No	
+row_2	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	2847	0.227557972073555	-0.08763691	No	
+row_3	ESPL1	ESPL1	extra spindle poles like 1 (S. cerevisiae)	3634	0.1515258103609085	-0.13437535	No	
+row_4	NDEL1	NDEL1	nudE nuclear distribution gene E homolog like 1 (A. nidulans)	3918	0.12563124299049377	-0.13919698	No	
+row_5	LLGL1	LLGL1	lethal giant larvae homolog 1 (Drosophila)	3979	0.12070821225643158	-0.124327525	No	
+row_6	ARHGEF2	ARHGEF2	rho/rac guanine nucleotide exchange factor (GEF) 2	4153	0.10668116807937622	-0.12222707	No	
+row_7	CENPA	CENPA	centromere protein A	5514	-0.002135344548150897	-0.2470274	No	
+row_8	DYNC1H1	DYNC1H1	dynein, cytoplasmic 1, heavy chain 1	6172	-0.05798368155956268	-0.29769602	No	
+row_9	NDE1	NDE1	nudE nuclear distribution gene E homolog 1 (A. nidulans)	7896	-0.20608992874622345	-0.4214492	No	
+row_10	ASPM	ASPM	asp (abnormal spindle) homolog, microcephaly associated (Drosophila)	8858	-0.31045928597450256	-0.45744428	Yes	
+row_11	NUSAP1	NUSAP1	nucleolar and spindle associated protein 1	8953	-0.3228336274623871	-0.41155875	Yes	
+row_12	SPAG5	SPAG5	sperm associated antigen 5	9715	-0.4243207275867462	-0.40991312	Yes	
+row_13	CDK5RAP2	CDK5RAP2	CDK5 regulatory subunit associated protein 2	9860	-0.4508604109287262	-0.34700152	Yes	
+row_14	SPIRE2	SPIRE2	spire homolog 2 (Drosophila)	10107	-0.49439314007759094	-0.286123	Yes	
+row_15	MAP4	MAP4	microtubule-associated protein 4	10296	-0.5427369475364685	-0.21174003	Yes	
+row_16	ACTR2	ACTR2	ARP2 actin-related protein 2 homolog (yeast)	10737	-0.7265403270721436	-0.12949869	Yes	
+row_17	DYNLT1	DYNLT1	dynein, light chain, Tctex-type 1	10827	-0.8455749154090881	0.0051537636	Yes	

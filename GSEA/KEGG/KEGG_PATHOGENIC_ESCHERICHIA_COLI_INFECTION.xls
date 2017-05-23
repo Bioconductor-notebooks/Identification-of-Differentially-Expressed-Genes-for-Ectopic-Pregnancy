@@ -1,0 +1,30 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LY96	LY96	lymphocyte antigen 96	264	0.7224982976913452	0.048816476	Yes	
+row_1	PRKCA	PRKCA	protein kinase C, alpha	438	0.6443809270858765	0.09810852	Yes	
+row_2	ROCK2	ROCK2	Rho-associated, coiled-coil containing protein kinase 2	451	0.6409268379211426	0.16188279	Yes	
+row_3	ARPC3	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	632	0.5814533233642578	0.20415993	Yes	
+row_4	ARPC2	ARPC2	actin related protein 2/3 complex, subunit 2, 34kDa	643	0.576845109462738	0.26163158	Yes	
+row_5	NCK1	NCK1	NCK adaptor protein 1	678	0.5638196468353271	0.31557372	Yes	
+row_6	WAS	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	860	0.5181088447570801	0.3513465	Yes	
+row_7	HCLS1	HCLS1	hematopoietic cell-specific Lyn substrate 1	928	0.5045213103294373	0.39624593	Yes	
+row_8	TUBB6	TUBB6	tubulin, beta 6	1019	0.4874095916748047	0.4372943	Yes	
+row_9	FYN	FYN	FYN oncogene related to SRC, FGR, YES	1346	0.4208412170410156	0.449863	Yes	
+row_10	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	0.44543195	Yes	
+row_11	ACTB	ACTB	actin, beta	1930	0.33078357577323914	0.46528223	Yes	
+row_12	WASL	WASL	Wiskott-Aldrich syndrome-like	2033	0.31958624720573425	0.48823673	Yes	
+row_13	TUBA8	TUBA8	tubulin, alpha 8	2303	0.2911490797996521	0.49292797	Yes	
+row_14	ARHGEF2	ARHGEF2	rho/rac guanine nucleotide exchange factor (GEF) 2	4153	0.10668116807937622	0.33339083	No	
+row_15	TUBB1	TUBB1	tubulin, beta 1	4502	0.07610981166362762	0.3090363	No	
+row_16	ARPC5	ARPC5	actin related protein 2/3 complex, subunit 5, 16kDa	4803	0.05179620906710625	0.28664252	No	
+row_17	CLDN1	CLDN1	claudin 1	4978	0.03783503174781799	0.274443	No	
+row_18	TLR5	TLR5	toll-like receptor 5	4985	0.0373438335955143	0.2776705	No	
+row_19	ACTG1	ACTG1	actin, gamma 1	5391	0.0070533971302211285	0.24107452	No	
+row_20	ARPC5L	ARPC5L	actin related protein 2/3 complex, subunit 5-like	6193	-0.05939040333032608	0.1732956	No	
+row_21	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	6764	-0.10628780722618103	0.13154455	No	
+row_22	ABL1	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	8005	-0.2148187756538391	0.039057147	No	
+row_23	ARPC4	ARPC4	actin related protein 2/3 complex, subunit 4, 20kDa	8152	-0.23007287085056305	0.048896942	No	
+row_24	CTTN	CTTN	cortactin	8545	-0.2741435766220093	0.040535558	No	
+row_25	NCK2	NCK2	NCK adaptor protein 2	8626	-0.28263628482818604	0.06177639	No	
+row_26	TUBB	TUBB	tubulin, beta	9578	-0.4032236635684967	0.014984522	No	
+row_27	TUBB3	TUBB3	tubulin, beta 3	9861	-0.45088711380958557	0.034648117	No	
+row_28	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	0.038783953	No	

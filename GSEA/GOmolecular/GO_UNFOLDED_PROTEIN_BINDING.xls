@@ -1,0 +1,50 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSPA1L	HSPA1L	heat shock 70kDa protein 1-like	46	0.9356867074966431	0.052939907	No	
+row_1	CRYAB	CRYAB	crystallin, alpha B	300	0.703855574131012	0.072606474	No	
+row_2	SIL1	SIL1	SIL1 homolog, endoplasmic reticulum chaperone (S. cerevisiae)	778	0.5364846587181091	0.061370265	No	
+row_3	APCS	APCS	amyloid P component, serum	1210	0.4480482041835785	0.048974674	No	
+row_4	HTRA2	HTRA2	HtrA serine peptidase 2	1286	0.43189185857772827	0.068448156	No	
+row_5	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	1577	0.38362520933151245	0.06512868	No	
+row_6	CCT6B	CCT6B	chaperonin containing TCP1, subunit 6B (zeta 2)	1681	0.3678849935531616	0.07810609	No	
+row_7	ERO1LB	ERO1LB	ERO1-like beta (S. cerevisiae)	1768	0.3523648679256439	0.09170397	No	
+row_8	CCT5	CCT5	chaperonin containing TCP1, subunit 5 (epsilon)	2297	0.29237592220306396	0.060841855	No	
+row_9	HSP90B1	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1	2694	0.2458568811416626	0.039319415	No	
+row_10	HSPA6	HSPA6	heat shock 70kDa protein 6 (HSP70B')	2963	0.21487750113010406	0.027717207	No	
+row_11	ST13	ST13	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein)	3604	0.15381447970867157	-0.021950107	No	
+row_12	HSPA2	HSPA2	heat shock 70kDa protein 2	3902	0.12668485939502716	-0.041618805	No	
+row_13	PFDN5	PFDN5	prefoldin subunit 5	4354	0.08927330374717712	-0.077787146	No	
+row_14	DNAJB5	DNAJB5	DnaJ (Hsp40) homolog, subfamily B, member 5	4387	0.08604452759027481	-0.07548184	No	
+row_15	DNAJB6	DNAJB6	DnaJ (Hsp40) homolog, subfamily B, member 6	4799	0.05199863389134407	-0.11023652	No	
+row_16	HSP90AB1	HSP90AB1	heat shock protein 90kDa alpha (cytosolic), class B member 1	4942	0.04015278443694115	-0.12088822	No	
+row_17	CRYAA	CRYAA	crystallin, alpha A	5099	0.0295249130576849	-0.13348156	No	
+row_18	DNAJC4	DNAJC4	DnaJ (Hsp40) homolog, subfamily C, member 4	5269	0.01636822149157524	-0.1480788	No	
+row_19	PPIA	PPIA	peptidylprolyl isomerase A (cyclophilin A)	5708	-0.016138024628162384	-0.18751706	No	
+row_20	CLN3	CLN3	ceroid-lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	6540	-0.08642321825027466	-0.2589311	No	
+row_21	RP2	RP2	retinitis pigmentosa 2 (X-linked recessive)	6613	-0.09303411096334457	-0.25989038	No	
+row_22	TAPBP	TAPBP	TAP binding protein (tapasin)	6739	-0.10429192334413528	-0.26505315	No	
+row_23	MKKS	MKKS	McKusick-Kaufman syndrome	6785	-0.10844538360834122	-0.2625786	No	
+row_24	PFDN6	PFDN6	prefoldin subunit 6	6840	-0.11334102600812912	-0.26063552	No	
+row_25	AIPL1	AIPL1	aryl hydrocarbon receptor interacting protein-like 1	7370	-0.15828299522399902	-0.29978517	No	
+row_26	TCP1	TCP1	t-complex 1	7649	-0.1830902397632599	-0.314253	No	
+row_27	LMAN1	LMAN1	lectin, mannose-binding, 1	7941	-0.21010802686214447	-0.32826945	No	
+row_28	CDC37	CDC37	CDC37 cell division cycle 37 homolog (S. cerevisiae)	7983	-0.21304170787334442	-0.31903324	No	
+row_29	TMEM67	TMEM67	transmembrane protein 67	8001	-0.2142392098903656	-0.3075088	No	
+row_30	CANX	CANX	calnexin	8156	-0.23046649992465973	-0.3076368	No	
+row_31	CCT8	CCT8	chaperonin containing TCP1, subunit 8 (theta)	8300	-0.24517850577831268	-0.30585045	No	
+row_32	SPG7	SPG7	spastic paraplegia 7, paraplegin (pure and complicated autosomal recessive)	8850	-0.30989038944244385	-0.33758032	No	
+row_33	DNAJA2	DNAJA2	DnaJ (Hsp40) homolog, subfamily A, member 2	9785	-0.4364408850669861	-0.39710894	Yes	
+row_34	DNAJB8	DNAJB8	DnaJ (Hsp40) homolog, subfamily B, member 8	9839	-0.4465750455856323	-0.3747076	Yes	
+row_35	HSPA1B	HSPA1B	heat shock 70kDa protein 1B	9911	-0.4573933184146881	-0.3533064	Yes	
+row_36	GRPEL2	GRPEL2	GrpE-like 2, mitochondrial (E. coli)	9996	-0.4717875123023987	-0.33222532	Yes	
+row_37	AFG3L2	AFG3L2	AFG3 ATPase family gene 3-like 2 (yeast)	9999	-0.4725126028060913	-0.30353183	Yes	
+row_38	DNAJB11	DNAJB11	DnaJ (Hsp40) homolog, subfamily B, member 11	10007	-0.4734363555908203	-0.27524334	Yes	
+row_39	CCT6A	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1)	10013	-0.47466206550598145	-0.24669538	Yes	
+row_40	CDC37L1	CDC37L1	CDC37 cell division cycle 37 homolog (S. cerevisiae)-like 1	10076	-0.48870933055877686	-0.22254963	Yes	
+row_41	PFDN2	PFDN2	prefoldin subunit 2	10115	-0.49676603078842163	-0.19569644	Yes	
+row_42	TRAP1	TRAP1	TNF receptor-associated protein 1	10135	-0.5031793117523193	-0.16669773	Yes	
+row_43	HSPA8	HSPA8	heat shock 70kDa protein 8	10216	-0.5218904614448547	-0.14218536	Yes	
+row_44	NAP1L4	NAP1L4	nucleosome assembly protein 1-like 4	10282	-0.5380938649177551	-0.1152983	Yes	
+row_45	MDN1	MDN1	MDN1, midasin homolog (yeast)	10377	-0.5629091858863831	-0.08957115	Yes	
+row_46	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	10645	-0.6610552668571472	-0.07381247	Yes	
+row_47	CCT2	CCT2	chaperonin containing TCP1, subunit 2 (beta)	10698	-0.6929426789283752	-0.03626186	Yes	
+row_48	SERPINH1	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)	10838	-0.8711947202682495	0.0041532605	Yes	

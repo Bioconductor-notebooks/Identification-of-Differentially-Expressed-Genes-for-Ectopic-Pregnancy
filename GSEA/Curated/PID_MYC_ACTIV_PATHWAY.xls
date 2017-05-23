@@ -1,0 +1,42 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SUPT3H	SUPT3H	suppressor of Ty 3 homolog (S. cerevisiae)	240	0.7388659119606018	0.0296302	No	
+row_1	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	477	0.6339552998542786	0.052279353	No	
+row_2	TFRC	TFRC	transferrin receptor (p90, CD71)	1129	0.46627381443977356	0.024907352	No	
+row_3	NBN	NBN	nibrin	1276	0.4336807131767273	0.041825734	No	
+row_4	PIM1	PIM1	pim-1 oncogene	1300	0.42919424176216125	0.06977352	No	
+row_5	TAF9	TAF9	TAF9 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 32kDa	2818	0.2307073175907135	-0.053969257	No	
+row_6	SHMT1	SHMT1	serine hydroxymethyltransferase 1 (soluble)	3069	0.20464128255844116	-0.06268862	No	
+row_7	KIR3DL1	KIR3DL1	killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 1	3296	0.18316338956356049	-0.07069929	No	
+row_8	MAX	MAX	MYC associated factor X	3942	0.12387663871049881	-0.12150598	No	
+row_9	PDCD10	PDCD10	programmed cell death 10	4238	0.09912676364183426	-0.14176774	No	
+row_10	PRDX3	PRDX3	peroxiredoxin 3	4720	0.0582832470536232	-0.1820449	No	
+row_11	POLR3D	POLR3D	polymerase (RNA) III (DNA directed) polypeptide D, 44kDa	4986	0.037343528121709824	-0.20386836	No	
+row_12	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	5730	-0.018188919872045517	-0.27111754	No	
+row_13	PFKM	PFKM	phosphofructokinase, muscle	5812	-0.026380600407719612	-0.2767396	No	
+row_14	ACTL6A	ACTL6A	actin-like 6A	6210	-0.06066611781716347	-0.30910286	No	
+row_15	TERT	TERT	telomerase reverse transcriptase	6491	-0.08228009194135666	-0.3291615	No	
+row_16	TAF4B	TAF4B	TAF4b RNA polymerase II, TATA box binding protein (TBP)-associated factor, 105kDa	8074	-0.22331109642982483	-0.4594171	No	
+row_17	HSPA4	HSPA4	heat shock 70kDa protein 4	8136	-0.2286710888147354	-0.44902235	No	
+row_18	GAPDH	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	8301	-0.24528124928474426	-0.44696313	No	
+row_19	CAD	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	8684	-0.2917642891407013	-0.46175247	Yes	
+row_20	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	8712	-0.29435455799102783	-0.44362035	Yes	
+row_21	BAX	BAX	BCL2-associated X protein	8851	-0.3098953068256378	-0.43463644	Yes	
+row_22	MTA1	MTA1	metastasis associated 1	9003	-0.3289088010787964	-0.42551944	Yes	
+row_23	EIF4G1	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	9008	-0.3293784260749817	-0.40281236	Yes	
+row_24	SNAI1	SNAI1	snail homolog 1 (Drosophila)	9100	-0.34017476439476013	-0.38737252	Yes	
+row_25	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	9108	-0.34104713797569275	-0.36412466	Yes	
+row_26	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.3445419	Yes	
+row_27	ENO1	ENO1	enolase 1, (alpha)	9360	-0.3689485192298889	-0.33704656	Yes	
+row_28	RCC1	RCC1	regulator of chromosome condensation 1	9457	-0.38301581144332886	-0.31906646	Yes	
+row_29	TAF12	TAF12	TAF12 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 20kDa	9486	-0.3884342610836029	-0.2944354	Yes	
+row_30	HMGA1	HMGA1	high mobility group AT-hook 1	9646	-0.4132329225540161	-0.2801485	Yes	
+row_31	EIF2S1	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	9662	-0.4157504141330719	-0.25240478	Yes	
+row_32	CCNB1	CCNB1	cyclin B1	9777	-0.4353015720844269	-0.23242164	Yes	
+row_33	HUWE1	HUWE1	HECT, UBA and WWE domain containing 1	9867	-0.451631635427475	-0.20898879	Yes	
+row_34	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	10129	-0.5016360878944397	-0.19791543	Yes	
+row_35	SMAD4	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	10237	-0.5262101888656616	-0.17091772	Yes	
+row_36	TK1	TK1	thymidine kinase 1, soluble	10299	-0.5431939363479614	-0.13848779	Yes	
+row_37	TRRAP	TRRAP	transformation/transcription domain-associated protein	10567	-0.6244063377380371	-0.11936661	Yes	
+row_38	DDX18	DDX18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	10613	-0.6471725106239319	-0.07817642	Yes	
+row_39	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	10645	-0.6610552668571472	-0.034722455	Yes	
+row_40	UBTF	UBTF	upstream binding transcription factor, RNA polymerase I	10810	-0.8076016306877136	0.0067324364	Yes	

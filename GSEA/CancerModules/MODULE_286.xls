@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AKR1B1	AKR1B1	aldo-keto reductase family 1, member B1 (aldose reductase)	221	0.750921368598938	0.096734025	No	
+row_1	HPGD	HPGD	hydroxyprostaglandin dehydrogenase 15-(NAD)	1968	0.32661113142967224	-0.013086158	No	
+row_2	ADH1A	ADH1A	alcohol dehydrogenase 1A (class I), alpha polypeptide	2284	0.2940541207790375	0.003761216	No	
+row_3	TP53I3	TP53I3	tumor protein p53 inducible protein 3	2938	0.21795421838760376	-0.022374213	No	
+row_4	CBR1	CBR1	carbonyl reductase 1	3412	0.17158976197242737	-0.03916704	No	
+row_5	HSD17B7	HSD17B7	hydroxysteroid (17-beta) dehydrogenase 7	4230	0.09991839528083801	-0.09880457	No	
+row_6	MDH2	MDH2	malate dehydrogenase 2, NAD (mitochondrial)	4611	0.06749684363603592	-0.123265125	No	
+row_7	CRYZL1	CRYZL1	crystallin, zeta (quinone reductase)-like 1	5032	0.034458424896001816	-0.15655944	No	
+row_8	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	5243	0.018273575231432915	-0.17304376	No	
+row_9	IDH3A	IDH3A	isocitrate dehydrogenase 3 (NAD+) alpha	5246	0.018220623955130577	-0.17038701	No	
+row_10	LDHC	LDHC	lactate dehydrogenase C	6453	-0.07891957461833954	-0.2691115	No	
+row_11	AKR7A2	AKR7A2	aldo-keto reductase family 7, member A2 (aflatoxin aldehyde reductase)	7944	-0.2103029042482376	-0.37349755	No	
+row_12	XDH	XDH	xanthine dehydrogenase	8403	-0.25864696502685547	-0.37533584	Yes	
+row_13	NSDHL	NSDHL	NAD(P) dependent steroid dehydrogenase-like	8451	-0.2641080319881439	-0.33848435	Yes	
+row_14	IDH2	IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial	8554	-0.2747096121311188	-0.30504343	Yes	
+row_15	HSD17B3	HSD17B3	hydroxysteroid (17-beta) dehydrogenase 3	8781	-0.301859974861145	-0.27878532	Yes	
+row_16	CRYZ	CRYZ	crystallin, zeta (quinone reductase)	9109	-0.3410674035549164	-0.2557126	Yes	
+row_17	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	9132	-0.34381791949272156	-0.20413151	Yes	
+row_18	GPD1	GPD1	glycerol-3-phosphate dehydrogenase 1 (soluble)	9998	-0.47237837314605713	-0.2101159	Yes	
+row_19	IDH1	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	10229	-0.5250468254089355	-0.14942777	Yes	
+row_20	IMPDH2	IMPDH2	IMP (inosine monophosphate) dehydrogenase 2	10382	-0.5645829439163208	-0.07539435	Yes	
+row_21	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	10790	-0.7787976861000061	0.008562104	Yes	

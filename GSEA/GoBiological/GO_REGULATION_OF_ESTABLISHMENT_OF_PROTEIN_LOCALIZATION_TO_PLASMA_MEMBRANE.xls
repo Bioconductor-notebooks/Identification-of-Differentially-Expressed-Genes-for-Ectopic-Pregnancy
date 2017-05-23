@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SORBS1	SORBS1	sorbin and SH3 domain containing 1	507	0.623578667640686	0.015123101	No	
+row_1	PPFIA1	PPFIA1	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 1	573	0.5986835360527039	0.06848203	No	
+row_2	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	603	0.5916893482208252	0.12446287	No	
+row_3	NKD2	NKD2	naked cuticle homolog 2 (Drosophila)	1366	0.41809239983558655	0.09573424	No	
+row_4	RHOG	RHOG	ras homolog gene family, member G (rho G)	1417	0.4097974896430969	0.1317511	No	
+row_5	BCL2L1	BCL2L1	BCL2-like 1	1733	0.3584105968475342	0.1382705	No	
+row_6	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	1781	0.3511927127838135	0.1687544	No	
+row_7	PPP2R5A	PPP2R5A	protein phosphatase 2, regulatory subunit B (B56), alpha isoform	2536	0.2642098069190979	0.12550882	No	
+row_8	IFNG	IFNG	interferon, gamma	3788	0.13774867355823517	0.023959229	No	
+row_9	ANXA13	ANXA13	annexin A13	4767	0.05474131926894188	-0.060678057	No	
+row_10	ARHGEF16	ARHGEF16	Rho guanine exchange factor (GEF) 16	6073	-0.048834625631570816	-0.17601413	No	
+row_11	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	6160	-0.05696864798665047	-0.17828678	No	
+row_12	CIB1	CIB1	calcium and integrin binding 1 (calmyrin)	6698	-0.100128673017025	-0.21781355	No	
+row_13	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	7032	-0.1285582184791565	-0.23573597	No	
+row_14	ARF6	ARF6	ADP-ribosylation factor 6	8366	-0.2530387043952942	-0.3334087	No	
+row_15	AGR2	AGR2	anterior gradient 2 homolog (Xenopus laevis)	9452	-0.3817349970340729	-0.3954862	Yes	
+row_16	WNK3	WNK3	WNK lysine deficient protein kinase 3	9564	-0.401300311088562	-0.3659291	Yes	
+row_17	KIF5B	KIF5B	kinesin family member 5B	9835	-0.4459228515625	-0.346591	Yes	
+row_18	AR	AR	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)	9899	-0.45631444454193115	-0.3071603	Yes	
+row_19	NRXN1	NRXN1	neurexin 1	9970	-0.4662874639034271	-0.2673856	Yes	
+row_20	DLG1	DLG1	discs, large homolog 1 (Drosophila)	10385	-0.5656057000160217	-0.24944478	Yes	
+row_21	GOPC	GOPC	golgi associated PDZ and coiled-coil motif containing	10591	-0.6371524333953857	-0.20516513	Yes	
+row_22	DPP10	DPP10	dipeptidyl-peptidase 10	10701	-0.6943973898887634	-0.14637047	Yes	
+row_23	LYPLA1	LYPLA1	lysophospholipase I	10778	-0.7670669555664062	-0.077333465	Yes	
+row_24	PRKCI	PRKCI	protein kinase C, iota	10842	-0.8767752647399902	0.0037755917	Yes	

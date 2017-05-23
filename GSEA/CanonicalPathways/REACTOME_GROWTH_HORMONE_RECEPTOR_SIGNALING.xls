@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.15210703	Yes	
+row_1	CSH1	CSH1	chorionic somatomammotropin hormone 1 (placental lactogen)	136	0.8141359090805054	0.24061924	Yes	
+row_2	IRS2	IRS2	insulin receptor substrate 2	154	0.7992238402366638	0.33795962	Yes	
+row_3	GH2	GH2	growth hormone 2	162	0.7897409796714783	0.4350466	Yes	
+row_4	GH1	GH1	growth hormone 1	487	0.6311387419700623	0.48333824	Yes	
+row_5	STAT5A	STAT5A	signal transducer and activator of transcription 5A	565	0.6028797626495361	0.5508601	Yes	
+row_6	PRLR	PRLR	prolactin receptor	804	0.5291977524757385	0.5944496	Yes	
+row_7	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.6546837	Yes	
+row_8	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.71289593	Yes	
+row_9	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	1720	0.3604777157306671	0.68251455	No	
+row_10	SOCS3	SOCS3	suppressor of cytokine signaling 3	1985	0.3247014284133911	0.69840515	No	
+row_11	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	3071	0.20460627973079681	0.62389094	No	
+row_12	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	0.5494453	No	
+row_13	ADAM17	ADAM17	ADAM metallopeptidase domain 17 (tumor necrosis factor, alpha, converting enzyme)	5181	0.023289674893021584	0.44724822	No	
+row_14	SH2B1	SH2B1	SH2B adaptor protein 1	8031	-0.2177485078573227	0.21204904	No	
+row_15	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.11823695	No	

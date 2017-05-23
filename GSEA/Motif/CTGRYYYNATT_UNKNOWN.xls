@@ -1,0 +1,38 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFSF4	TNFSF4	tumor necrosis factor (ligand) superfamily, member 4 (tax-transcriptionally activated glycoprotein 1, 34kDa)	61	0.9117786288261414	0.07695838	Yes	
+row_1	DKK1	DKK1	dickkopf homolog 1 (Xenopus laevis)	146	0.806253969669342	0.14223874	Yes	
+row_2	SMOX	SMOX	spermine oxidase	204	0.7624666690826416	0.20604232	Yes	
+row_3	CHMP2B	CHMP2B	chromatin modifying protein 2B	267	0.7208751440048218	0.2656179	Yes	
+row_4	CRYAB	CRYAB	crystallin, alpha B	300	0.703855574131012	0.32641774	Yes	
+row_5	TMEM109	TMEM109	transmembrane protein 109	305	0.7020425796508789	0.38963473	Yes	
+row_6	ERG	ERG	v-ets erythroblastosis virus E26 oncogene homolog (avian)	589	0.5951211452484131	0.41744617	Yes	
+row_7	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.4405919	Yes	
+row_8	SOX10	SOX10	SRY (sex determining region Y)-box 10	1230	0.44364991784095764	0.44583383	Yes	
+row_9	SOX4	SOX4	SRY (sex determining region Y)-box 4	1436	0.406953901052475	0.46379343	Yes	
+row_10	SP8	SP8	Sp8 transcription factor	2225	0.30045074224472046	0.4183592	No	
+row_11	ERRFI1	ERRFI1	ERBB receptor feedback inhibitor 1	2700	0.2451469749212265	0.39686403	No	
+row_12	CACNB2	CACNB2	calcium channel, voltage-dependent, beta 2 subunit	2875	0.22464129328727722	0.40116906	No	
+row_13	RREB1	RREB1	ras responsive element binding protein 1	3574	0.1563718169927597	0.35098246	No	
+row_14	NTRK2	NTRK2	neurotrophic tyrosine kinase, receptor, type 2	4254	0.09804289042949677	0.2972645	No	
+row_15	PCNT	PCNT	pericentrin (kendrin)	4257	0.0976104810833931	0.30592093	No	
+row_16	PAX9	PAX9	paired box gene 9	4597	0.06839164346456528	0.28086245	No	
+row_17	CNKSR2	CNKSR2	connector enhancer of kinase suppressor of Ras 2	4850	0.04778209701180458	0.26195797	No	
+row_18	CSPG5	CSPG5	chondroitin sulfate proteoglycan 5 (neuroglycan C)	5059	0.032686103135347366	0.2457426	No	
+row_19	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	5184	0.023122919723391533	0.23640518	No	
+row_20	CDKL5	CDKL5	cyclin-dependent kinase-like 5	5605	-0.008587979711592197	0.19846264	No	
+row_21	NRP2	NRP2	neuropilin 2	5732	-0.01843959651887417	0.18851663	No	
+row_22	LONRF3	LONRF3	LON peptidase N-terminal domain and ring finger 3	5801	-0.02549976110458374	0.1845572	No	
+row_23	NCDN	NCDN	neurochondrin	5899	-0.033442724496126175	0.17864363	No	
+row_24	RHOBTB2	RHOBTB2	Rho-related BTB domain containing 2	5900	-0.03346190229058266	0.18167435	No	
+row_25	IL1RAPL1	IL1RAPL1	interleukin 1 receptor accessory protein-like 1	6568	-0.08987528085708618	0.12832293	No	
+row_26	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	6640	-0.09585864841938019	0.13045949	No	
+row_27	HOXC4	HOXC4	homeobox C4	7499	-0.16933570802211761	0.066696435	No	
+row_28	GTF2IRD1	GTF2IRD1	GTF2I repeat domain containing 1	7820	-0.19899626076221466	0.05521878	No	
+row_29	CABP1	CABP1	calcium binding protein 1 (calbrain)	7821	-0.1990668624639511	0.07324876	No	
+row_30	RANBP9	RANBP9	RAN binding protein 9	7842	-0.20111201703548431	0.08962014	No	
+row_31	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	7943	-0.21029451489448547	0.099447906	No	
+row_32	PHOX2B	PHOX2B	paired-like homeobox 2b	8071	-0.22300966084003448	0.10793814	No	
+row_33	GRIA1	GRIA1	glutamate receptor, ionotropic, AMPA 1	8986	-0.3266521692276001	0.05326091	No	
+row_34	ACCN1	ACCN1	amiloride-sensitive cation channel 1, neuronal (degenerin)	9042	-0.3329703211784363	0.07834834	No	
+row_35	SSX2IP	SSX2IP	synovial sarcoma, X breakpoint 2 interacting protein	10074	-0.48819980025291443	0.027516484	No	
+row_36	DRG1	DRG1	developmentally regulated GTP binding protein 1	10202	-0.5186378955841064	0.0627825	No	

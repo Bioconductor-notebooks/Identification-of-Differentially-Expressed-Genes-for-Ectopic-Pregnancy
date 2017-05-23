@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.21834527	Yes	
+row_1	SDPR	SDPR	serum deprivation response (phosphatidylserine binding protein)	494	0.6286381483078003	0.28476852	Yes	
+row_2	NCKAP1	NCKAP1	NCK-associated protein 1	972	0.49626705050468445	0.32897487	Yes	
+row_3	STAT4	STAT4	signal transducer and activator of transcription 4	1095	0.47118377685546875	0.4014128	Yes	
+row_4	PCGEM1	PCGEM1	-	1717	0.36120107769966125	0.4083763	Yes	
+row_5	OBFC2A	OBFC2A	oligonucleotide/oligosaccharide-binding fold containing 2A	1923	0.3313332796096802	0.44833815	Yes	
+row_6	KLF7	KLF7	Kruppel-like factor 7 (ubiquitous)	2212	0.3023868203163147	0.4755178	Yes	
+row_7	OSBPL6	OSBPL6	oxysterol binding protein-like 6	4189	0.10316833108663559	0.31190264	No	
+row_8	SLC40A1	SLC40A1	solute carrier family 40 (iron-regulated transporter), member 1	4396	0.08445235341787338	0.30793238	No	
+row_9	NEUROD1	NEUROD1	neurogenic differentiation 1	4736	0.05735516548156738	0.28690466	No	
+row_10	RPE	RPE	ribulose-5-phosphate-3-epimerase	5115	0.028218891471624374	0.25711223	No	
+row_11	PDE1A	PDE1A	phosphodiesterase 1A, calmodulin-dependent	5540	-0.003974020481109619	0.21877918	No	
+row_12	UBE2E3	UBE2E3	ubiquitin-conjugating enzyme E2E 3 (UBC4/5 homolog, yeast)	5753	-0.02090197242796421	0.20297147	No	
+row_13	GULP1	GULP1	GULP, engulfment adaptor PTB domain containing 1	5776	-0.022968223318457603	0.20502448	No	
+row_14	HIBCH	HIBCH	3-hydroxyisobutyryl-Coenzyme A hydrolase	5959	-0.038832858204841614	0.19516304	No	
+row_15	DLX1	DLX1	distal-less homeobox 1	6093	-0.05021084472537041	0.19183362	No	
+row_16	TMEFF2	TMEFF2	transmembrane protein with EGF-like and two follistatin-like domains 2	6409	-0.07618942111730576	0.17636016	No	
+row_17	GLS	GLS	glutaminase	6552	-0.08795429766178131	0.1789044	No	
+row_18	DLX2	DLX2	distal-less homeobox 2	6774	-0.10730090737342834	0.1776104	No	
+row_19	ORMDL1	ORMDL1	ORM1-like 1 (S. cerevisiae)	7683	-0.18634560704231262	0.12709898	No	
+row_20	WDR75	WDR75	WD repeat domain 75	8744	-0.2983197569847107	0.082476415	No	
+row_21	NAB1	NAB1	NGFI-A binding protein 1 (EGR1 binding protein 1)	8849	-0.3097269833087921	0.12790085	No	
+row_22	INPP1	INPP1	inositol polyphosphate-1-phosphatase	9050	-0.333844393491745	0.168769	No	

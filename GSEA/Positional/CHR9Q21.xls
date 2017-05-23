@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAMDC2	MAMDC2	MAM domain containing 2	924	0.5047570466995239	-0.013690971	No	
+row_1	KLF9	KLF9	Kruppel-like factor 9	1212	0.4474485516548157	0.023145527	No	
+row_2	ANXA1	ANXA1	annexin A1	2270	0.29581737518310547	-0.03232242	No	
+row_3	VPS13A	VPS13A	vacuolar protein sorting 13 homolog A (S. cerevisiae)	3694	0.14629921317100525	-0.14261249	No	
+row_4	RFK	RFK	riboflavin kinase	4731	0.057555291801691055	-0.22982849	No	
+row_5	IPPK	IPPK	inositol 1,3,4,5,6-pentakisphosphate 2-kinase	5137	0.0270208939909935	-0.26328444	No	
+row_6	TRPM3	TRPM3	transient receptor potential cation channel, subfamily M, member 3	5941	-0.03728161007165909	-0.33192134	No	
+row_7	FLJ20444	FLJ20444	-	6030	-0.0457879900932312	-0.33354813	No	
+row_8	KIF27	KIF27	kinesin family member 27	6703	-0.10019099712371826	-0.38123506	No	
+row_9	AGTPBP1	AGTPBP1	ATP/GTP binding protein 1	7194	-0.14155267179012299	-0.40632403	No	
+row_10	ZCCHC6	ZCCHC6	zinc finger, CCHC domain containing 6	7592	-0.1774139702320099	-0.41778404	No	
+row_11	PCA3	PCA3	prostate cancer antigen 3	7901	-0.20636677742004395	-0.41695982	No	
+row_12	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	8402	-0.2586412727832794	-0.42641747	No	
+row_13	TLE1	TLE1	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	9338	-0.366392582654953	-0.46068013	No	
+row_14	TLE4	TLE4	transducin-like enhancer of split 4 (E(sp1) homolog, Drosophila)	10098	-0.49332568049430847	-0.46080068	Yes	
+row_15	SMC5	SMC5	structural maintenance of chromosomes 5	10796	-0.787132203578949	-0.41368216	Yes	
+row_16	CEP78	CEP78	centrosomal protein 78kDa	10807	-0.802132248878479	-0.30121264	Yes	
+row_17	GDA	GDA	guanine deaminase	10840	-0.8739134073257446	-0.18062097	Yes	
+row_18	PSAT1	PSAT1	phosphoserine aminotransferase 1	10882	-1.3050785064697266	9.209884E-5	Yes	

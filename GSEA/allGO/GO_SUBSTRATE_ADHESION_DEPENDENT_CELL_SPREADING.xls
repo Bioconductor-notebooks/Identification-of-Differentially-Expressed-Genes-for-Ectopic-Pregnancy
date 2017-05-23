@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANTXR1	ANTXR1	anthrax toxin receptor 1	62	0.910504162311554	0.0959474	Yes	
+row_1	TEK	TEK	TEK tyrosine kinase, endothelial (venous malformations, multiple cutaneous and mucosal)	304	0.7021304965019226	0.15214606	Yes	
+row_2	EPHA1	EPHA1	EPH receptor A1	380	0.669392466545105	0.2199764	Yes	
+row_3	AXL	AXL	AXL receptor tyrosine kinase	436	0.6446796655654907	0.28688934	Yes	
+row_4	VAMP3	VAMP3	vesicle-associated membrane protein 3 (cellubrevin)	441	0.6436527371406555	0.35838422	Yes	
+row_5	ILK	ILK	integrin-linked kinase	446	0.6421979665756226	0.42971668	Yes	
+row_6	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1077	0.47552821040153503	0.4247926	Yes	
+row_7	SRGAP2	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	1187	0.45156872272491455	0.46517205	Yes	
+row_8	RAB1A	RAB1A	RAB1A, member RAS oncogene family	1723	0.35992899537086487	0.4560899	Yes	
+row_9	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	1902	0.33409827947616577	0.47699973	Yes	
+row_10	EFNA1	EFNA1	ephrin-A1	2178	0.30526262521743774	0.4857574	Yes	
+row_11	BVES	BVES	blood vessel epicardial substance	2334	0.28777527809143066	0.5036134	Yes	
+row_12	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2725	0.2422666698694229	0.49474734	No	
+row_13	PARVA	PARVA	parvin, alpha	3712	0.14433297514915466	0.4200617	No	
+row_14	FN1	FN1	fibronectin 1	5175	0.023436052724719048	0.28804347	No	
+row_15	MERTK	MERTK	c-mer proto-oncogene tyrosine kinase	5334	0.01154262013733387	0.27478203	No	
+row_16	FER	FER	fer (fps/fes related) tyrosine kinase (phosphoprotein NCP94)	5347	0.010697826743125916	0.27487138	No	
+row_17	ITGA4	ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	5469	0.0010385802015662193	0.2638445	No	
+row_18	LAMB1	LAMB1	laminin, beta 1	7181	-0.1397501677274704	0.12188233	No	
+row_19	KIF14	KIF14	kinesin family member 14	7394	-0.15953382849693298	0.12017115	No	
+row_20	ABL1	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	8005	-0.2148187756538391	0.08798087	No	
+row_21	LAMA5	LAMA5	laminin, alpha 5	9141	-0.34463492035865784	0.021937447	No	
+row_22	ITGA8	ITGA8	integrin, alpha 8	9444	-0.381560742855072	0.036727324	No	
+row_23	TYRO3	TYRO3	TYRO3 protein tyrosine kinase	9459	-0.3832162916660309	0.07822382	No	
+row_24	EPHB3	EPHB3	EPH receptor B3	10003	-0.4730863571166992	0.08103887	No	

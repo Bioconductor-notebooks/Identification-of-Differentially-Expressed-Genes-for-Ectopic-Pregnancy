@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PCBP1	PCBP1	poly(rC) binding protein 1	1394	0.413624107837677	-0.092382155	No	
+row_1	ESD	ESD	esterase D/formylglutathione hydrolase	2260	0.2967883050441742	-0.14620714	No	
+row_2	CAPZA1	CAPZA1	capping protein (actin filament) muscle Z-line, alpha 1	3587	0.1548652946949005	-0.25489032	No	
+row_3	PSMA1	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	3852	0.13128387928009033	-0.26776797	No	
+row_4	BRD8	BRD8	bromodomain containing 8	3946	0.12362964451313019	-0.26555568	No	
+row_5	HPRT1	HPRT1	hypoxanthine phosphoribosyltransferase 1 (Lesch-Nyhan syndrome)	4159	0.10609064996242523	-0.27583876	No	
+row_6	ACTG1	ACTG1	actin, gamma 1	5391	0.0070533971302211285	-0.3886589	No	
+row_7	PPIA	PPIA	peptidylprolyl isomerase A (cyclophilin A)	5708	-0.016138024628162384	-0.41637054	No	
+row_8	TCEA1	TCEA1	transcription elongation factor A (SII), 1	6788	-0.10891035199165344	-0.5063008	No	
+row_9	UBE2I	UBE2I	ubiquitin-conjugating enzyme E2I (UBC9 homolog, yeast)	6877	-0.11621702462434769	-0.50427425	No	
+row_10	PSMA5	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	6955	-0.12313851714134216	-0.50063044	No	
+row_11	PSMA6	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	7060	-0.13095445930957794	-0.49879298	No	
+row_12	NDUFA12	NDUFA12	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 12	7291	-0.1511313021183014	-0.5068066	No	
+row_13	ATXN10	ATXN10	ataxin 10	7573	-0.17504556477069855	-0.5174342	No	
+row_14	ATP5F1	ATP5F1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit B1	8029	-0.2173806130886078	-0.5404035	No	
+row_15	ATP5B	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	8859	-0.31066930294036865	-0.5897005	No	
+row_16	NAP1L1	NAP1L1	nucleosome assembly protein 1-like 1	9271	-0.35899606347084045	-0.5962646	No	
+row_17	DUT	DUT	dUTP pyrophosphatase	9701	-0.42160773277282715	-0.59902674	Yes	
+row_18	NONO	NONO	non-POU domain containing, octamer-binding	10005	-0.47320127487182617	-0.5856785	Yes	
+row_19	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	10116	-0.49692562222480774	-0.5524765	Yes	
+row_20	CBFB	CBFB	core-binding factor, beta subunit	10189	-0.5156906843185425	-0.51413625	Yes	
+row_21	BLMH	BLMH	bleomycin hydrolase	10190	-0.5157372355461121	-0.46915722	Yes	
+row_22	NASP	NASP	nuclear autoantigenic sperm protein (histone-binding)	10217	-0.5220777988433838	-0.4260211	Yes	
+row_23	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.38642508	Yes	
+row_24	SUMO2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10347	-0.5550322532653809	-0.34188926	Yes	
+row_25	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	10479	-0.5915097594261169	-0.30237338	Yes	
+row_26	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.2535404	Yes	
+row_27	RBBP4	RBBP4	retinoblastoma binding protein 4	10552	-0.6193320155143738	-0.2021067	Yes	
+row_28	SET	SET	SET translocation (myeloid leukemia-associated)	10597	-0.6403020024299622	-0.15031855	Yes	
+row_29	DDX18	DDX18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	10613	-0.6471725106239319	-0.09525887	Yes	
+row_30	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	10666	-0.6690897345542908	-0.041697238	Yes	
+row_31	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	0.015020367	Yes	

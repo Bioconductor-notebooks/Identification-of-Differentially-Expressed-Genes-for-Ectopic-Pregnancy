@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HFE	HFE	hemochromatosis	234	0.7415509223937988	0.10812793	Yes	
+row_1	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.17125143	Yes	
+row_2	HLA-DRB4	HLA-DRB4	major histocompatibility complex, class II, DR beta 4	716	0.5524282455444336	0.2613097	Yes	
+row_3	HLA-DRA	HLA-DRA	major histocompatibility complex, class II, DR alpha	831	0.5238667130470276	0.34241748	Yes	
+row_4	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.41987935	Yes	
+row_5	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.47617757	Yes	
+row_6	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.53164095	Yes	
+row_7	HLA-DOA	HLA-DOA	major histocompatibility complex, class II, DO alpha	1484	0.399245947599411	0.59187907	Yes	
+row_8	MR1	MR1	major histocompatibility complex, class I-related	2174	0.3058599531650543	0.5819611	Yes	
+row_9	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	2199	0.30352675914764404	0.63282394	Yes	
+row_10	HLA-DQB1	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1	2737	0.24034389853477478	0.6254366	No	
+row_11	HLA-DPB1	HLA-DPB1	major histocompatibility complex, class II, DP beta 1	3405	0.17204107344150543	0.5941449	No	
+row_12	AZGP1	AZGP1	alpha-2-glycoprotein 1, zinc	4462	0.07896877825260162	0.5107864	No	
+row_13	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.33722767	No	
+row_14	HLA-DQA1	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	7098	-0.13357144594192505	0.30638662	No	
+row_15	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.24383508	No	

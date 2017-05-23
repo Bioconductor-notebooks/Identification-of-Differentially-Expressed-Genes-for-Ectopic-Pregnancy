@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TXNDC12	TXNDC12	thioredoxin domain containing 12 (endoplasmic reticulum)	262	0.7235513925552368	0.10192307	Yes	
+row_1	BFAR	BFAR	bifunctional apoptosis regulator	518	0.6203703284263611	0.1865173	Yes	
+row_2	NCK1	NCK1	NCK adaptor protein 1	678	0.5638196468353271	0.27009588	Yes	
+row_3	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.33819193	Yes	
+row_4	PARK2	PARK2	Parkinson disease (autosomal recessive, juvenile) 2, parkin	977	0.49561065435409546	0.41789588	Yes	
+row_5	DERL2	DERL2	Der1-like domain family, member 2	1297	0.429466187953949	0.4633467	Yes	
+row_6	WFS1	WFS1	Wolfram syndrome 1 (wolframin)	1705	0.36337578296661377	0.4891866	Yes	
+row_7	PPP1R15A	PPP1R15A	protein phosphatase 1, regulatory (inhibitor) subunit 15A	1765	0.3529026508331299	0.5452287	Yes	
+row_8	SELS	SELS	-	2134	0.3096542954444885	0.5653001	Yes	
+row_9	USP25	USP25	ubiquitin specific peptidase 25	2432	0.2771711051464081	0.5862474	Yes	
+row_10	UBE2J1	UBE2J1	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)	3261	0.18653073906898499	0.5425381	No	
+row_11	UBE2G2	UBE2G2	ubiquitin-conjugating enzyme E2G 2 (UBC7 homolog, yeast)	5646	-0.012056935578584671	0.32523832	No	
+row_12	MAGEA3	MAGEA3	melanoma antigen family A, 3	5759	-0.02120891772210598	0.3186253	No	
+row_13	CREB3	CREB3	cAMP responsive element binding protein 3	6850	-0.11387698352336884	0.23814857	No	
+row_14	PPP1R15B	PPP1R15B	protein phosphatase 1, regulatory (inhibitor) subunit 15B	7012	-0.12721939384937286	0.24549197	No	
+row_15	DERL3	DERL3	Der1-like domain family, member 3	7017	-0.1274336725473404	0.26732144	No	
+row_16	DNAJC3	DNAJC3	DnaJ (Hsp40) homolog, subfamily C, member 3	8085	-0.22418685257434845	0.20817621	No	
+row_17	NCK2	NCK2	NCK adaptor protein 2	8626	-0.28263628482818604	0.20771216	No	

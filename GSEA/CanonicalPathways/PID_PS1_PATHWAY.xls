@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DKK1	DKK1	dickkopf homolog 1 (Xenopus laevis)	146	0.806253969669342	0.07085779	No	
+row_1	NCSTN	NCSTN	nicastrin	935	0.5030595064163208	0.05086219	No	
+row_2	WNT1	WNT1	wingless-type MMTV integration site family, member 1	2856	0.2271018773317337	-0.102283336	No	
+row_3	DVL1	DVL1	dishevelled, dsh homolog 1 (Drosophila)	3025	0.20884709060192108	-0.0959226	No	
+row_4	DLL1	DLL1	delta-like 1 (Drosophila)	3242	0.1882266402244568	-0.09614045	No	
+row_5	SSPO	SSPO	SCO-spondin homolog (Bos taurus)	3432	0.1695987433195114	-0.09581864	No	
+row_6	ADAM10	ADAM10	ADAM metallopeptidase domain 10	3563	0.15739504992961884	-0.09133717	No	
+row_7	KREMEN2	KREMEN2	kringle containing transmembrane protein 2	3883	0.12855792045593262	-0.1072841	No	
+row_8	MAPK1	MAPK1	mitogen-activated protein kinase 1	4038	0.11667897552251816	-0.10927143	No	
+row_9	FBXW11	FBXW11	F-box and WD-40 domain protein 11	4907	0.04271485656499863	-0.18477531	No	
+row_10	PPARD	PPARD	peroxisome proliferative activated receptor, delta	5644	-0.011759327724575996	-0.25135475	No	
+row_11	PPP2R5D	PPP2R5D	protein phosphatase 2, regulatory subunit B (B56), delta isoform	6029	-0.04577754810452461	-0.2819465	No	
+row_12	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	6087	-0.049806077033281326	-0.28198984	No	
+row_13	APH1A	APH1A	anterior pharynx defective 1 homolog A (C. elegans)	6773	-0.10721548646688461	-0.33388883	No	
+row_14	DKK2	DKK2	dickkopf homolog 2 (Xenopus laevis)	6882	-0.116607666015625	-0.33164555	No	
+row_15	NLK	NLK	nemo-like kinase	7033	-0.12856772541999817	-0.33202115	No	
+row_16	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	8605	-0.28024256229400635	-0.44745576	No	
+row_17	CCND1	CCND1	cyclin D1	9089	-0.33922797441482544	-0.4564828	Yes	
+row_18	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	9160	-0.34665340185165405	-0.4266829	Yes	
+row_19	LRP6	LRP6	low density lipoprotein receptor-related protein 6	9226	-0.3547409474849701	-0.39557663	Yes	
+row_20	TLE1	TLE1	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	9338	-0.366392582654953	-0.36749002	Yes	
+row_21	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	9431	-0.378663033246994	-0.33636978	Yes	
+row_22	APC	APC	adenomatosis polyposis coli	9758	-0.43017467856407166	-0.32142192	Yes	
+row_23	FRAT1	FRAT1	frequently rearranged in advanced T-cell lymphomas	9797	-0.4383038580417633	-0.27909002	Yes	
+row_24	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	10155	-0.5075100064277649	-0.25891137	Yes	
+row_25	PSEN1	PSEN1	presenilin 1 (Alzheimer disease 3)	10207	-0.51967453956604	-0.20926832	Yes	
+row_26	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	10462	-0.5868919491767883	-0.17129922	Yes	
+row_27	HDAC1	HDAC1	histone deacetylase 1	10523	-0.6053611636161804	-0.11352521	Yes	
+row_28	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	-0.05229246	Yes	
+row_29	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.009397598	Yes	

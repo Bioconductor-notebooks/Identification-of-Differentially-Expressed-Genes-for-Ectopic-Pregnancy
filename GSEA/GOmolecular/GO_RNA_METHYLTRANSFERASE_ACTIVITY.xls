@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TFB1M	TFB1M	transcription factor B1, mitochondrial	2541	0.26402148604393005	-0.17756715	No	
+row_1	TRMT1	TRMT1	TRM1 tRNA methyltransferase 1 homolog (S. cerevisiae)	2691	0.24620985984802246	-0.1388326	No	
+row_2	FTSJ2	FTSJ2	FtsJ homolog 2 (E. coli)	2897	0.2227303385734558	-0.11025212	No	
+row_3	EMG1	EMG1	EMG1 nucleolar protein homolog (S. cerevisiae)	3429	0.16978490352630615	-0.12294572	No	
+row_4	WDR4	WDR4	WD repeat domain 4	3707	0.14536504447460175	-0.11746956	No	
+row_5	RNMT	RNMT	RNA (guanine-7-) methyltransferase	4510	0.07558292150497437	-0.17516446	No	
+row_6	TFB2M	TFB2M	transcription factor B2, mitochondrial	6056	-0.047420255839824677	-0.30722407	No	
+row_7	TARBP1	TARBP1	Tar (HIV-1) RNA binding protein 1	8247	-0.24015463888645172	-0.4575784	Yes	
+row_8	NSUN2	NSUN2	NOL1/NOP2/Sun domain family, member 2	8271	-0.2425748109817505	-0.40802446	Yes	
+row_9	MRM1	MRM1	mitochondrial rRNA methyltransferase 1 homolog (S. cerevisiae)	8370	-0.253679096698761	-0.36300623	Yes	
+row_10	FBL	FBL	fibrillarin	9343	-0.3670318126678467	-0.37426263	Yes	
+row_11	CCDC76	CCDC76	coiled-coil domain containing 76	9610	-0.4074859321117401	-0.31194067	Yes	
+row_12	FTSJ3	FTSJ3	FtsJ homolog 3 (E. coli)	9719	-0.4246663749217987	-0.23142101	Yes	
+row_13	RG9MTD1	RG9MTD1	RNA (guanine-9-) methyltransferase domain containing 1	10083	-0.4897966682910919	-0.16049153	Yes	
+row_14	METTL3	METTL3	methyltransferase like 3	10264	-0.5332705974578857	-0.06346334	Yes	
+row_15	TRMT5	TRMT5	TRM5 tRNA methyltransferase 5 homolog (S. cerevisiae)	10383	-0.5648982524871826	0.04600659	Yes	

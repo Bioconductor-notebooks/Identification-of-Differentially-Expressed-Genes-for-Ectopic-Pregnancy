@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRPF6	PRPF6	PRP6 pre-mRNA processing factor 6 homolog (S. cerevisiae)	1594	0.3820187449455261	-0.10180957	No	
+row_1	SF3A2	SF3A2	splicing factor 3a, subunit 2, 66kDa	2630	0.25262540578842163	-0.16737631	No	
+row_2	LSM5	LSM5	LSM5 homolog, U6 small nuclear RNA associated (S. cerevisiae)	2667	0.24913638830184937	-0.14133973	No	
+row_3	DDX23	DDX23	DEAD (Asp-Glu-Ala-Asp) box polypeptide 23	2917	0.2205674946308136	-0.13828774	No	
+row_4	TXNL4B	TXNL4B	thioredoxin-like 4B	3080	0.2030385285615921	-0.12928768	No	
+row_5	SNRPC	SNRPC	small nuclear ribonucleoprotein polypeptide C	3792	0.13729222118854523	-0.17860007	No	
+row_6	LSM11	LSM11	LSM11, U7 small nuclear RNA associated	3813	0.13528895378112793	-0.16450292	No	
+row_7	LSM4	LSM4	LSM4 homolog, U6 small nuclear RNA associated (S. cerevisiae)	4569	0.07103394716978073	-0.22567433	No	
+row_8	HTATSF1	HTATSF1	HIV-1 Tat specific factor 1	4622	0.0664747878909111	-0.22263202	No	
+row_9	SNRPB	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	4711	0.05949946492910385	-0.22372738	No	
+row_10	PRPF18	PRPF18	PRP18 pre-mRNA processing factor 18 homolog (S. cerevisiae)	5486	-2.465371217112988E-4	-0.29498875	No	
+row_11	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	5762	-0.021396515890955925	-0.31779715	No	
+row_12	PRPF4	PRPF4	PRP4 pre-mRNA processing factor 4 homolog (yeast)	6141	-0.05535599961876869	-0.34609154	No	
+row_13	ZMAT2	ZMAT2	zinc finger, matrin type 2	6257	-0.06442096829414368	-0.34909394	No	
+row_14	TXNL4A	TXNL4A	thioredoxin-like 4A	8357	-0.2522036135196686	-0.51271164	No	
+row_15	SNRPD1	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide 16kDa	8724	-0.29552337527275085	-0.5116051	No	
+row_16	SNRPN	SNRPN	small nuclear ribonucleoprotein polypeptide N	9383	-0.37221992015838623	-0.52835745	Yes	
+row_17	SF3B14	SF3B14	-	9649	-0.4134156405925751	-0.5040584	Yes	
+row_18	SNRPB2	SNRPB2	small nuclear ribonucleoprotein polypeptide B''	9736	-0.42636385560035706	-0.46174684	Yes	
+row_19	ARFGEF1	ARFGEF1	ADP-ribosylation factor guanine nucleotide-exchange factor 1(brefeldin A-inhibited)	9986	-0.46970823407173157	-0.4293419	Yes	
+row_20	SNRPE	SNRPE	small nuclear ribonucleoprotein polypeptide E	10304	-0.5448817014694214	-0.39434355	Yes	
+row_21	LUC7L	LUC7L	LUC7-like (S. cerevisiae)	10362	-0.5591142177581787	-0.33372065	Yes	
+row_22	LSM2	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10420	-0.5757595300674438	-0.2711367	Yes	
+row_23	PRPF40A	PRPF40A	PRP40 pre-mRNA processing factor 40 homolog A (yeast)	10446	-0.583737313747406	-0.20466541	Yes	
+row_24	SNRPA1	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	10504	-0.6001255512237549	-0.13921072	Yes	
+row_25	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	-0.075795814	Yes	
+row_26	LSM7	LSM7	LSM7 homolog, U6 small nuclear RNA associated (S. cerevisiae)	10784	-0.7699839472770691	0.009118376	Yes	

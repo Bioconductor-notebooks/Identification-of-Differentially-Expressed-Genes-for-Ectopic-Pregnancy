@@ -1,0 +1,32 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TIMP2	TIMP2	TIMP metallopeptidase inhibitor 2	47	0.9335247874259949	0.076099746	Yes	
+row_1	CSH1	CSH1	chorionic somatomammotropin hormone 1 (placental lactogen)	136	0.8141359090805054	0.13813546	Yes	
+row_2	GH2	GH2	growth hormone 2	162	0.7897409796714783	0.20387422	Yes	
+row_3	MAN1C1	MAN1C1	mannosidase, alpha, class 1C, member 1	307	0.7017564177513123	0.2510677	Yes	
+row_4	CRIM1	CRIM1	cysteine rich transmembrane BMP regulator 1 (chordin-like)	310	0.7013097405433655	0.31130666	Yes	
+row_5	SEMA3B	SEMA3B	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B	626	0.5833942890167236	0.33254632	Yes	
+row_6	PSG3	PSG3	pregnancy specific beta-1-glycoprotein 3	727	0.5499428510665894	0.3707141	Yes	
+row_7	PAPPA2	PAPPA2	pappalysin 2	962	0.49760985374450684	0.39202616	Yes	
+row_8	PSG2	PSG2	pregnancy specific beta-1-glycoprotein 2	1238	0.44143831729888916	0.40472084	Yes	
+row_9	PLAC1	PLAC1	placenta-specific 1	1395	0.41302603483200073	0.42593232	Yes	
+row_10	PAPPA	PAPPA	pregnancy-associated plasma protein A, pappalysin 1	1652	0.3722878098487854	0.4344198	Yes	
+row_11	PSG6	PSG6	pregnancy specific beta-1-glycoprotein 6	1779	0.3512762188911438	0.45307526	Yes	
+row_12	CYP19A1	CYP19A1	cytochrome P450, family 19, subfamily A, polypeptide 1	1809	0.346314013004303	0.48024082	Yes	
+row_13	EBI3	EBI3	Epstein-Barr virus induced gene 3	1939	0.3296132981777191	0.49675342	Yes	
+row_14	GCM1	GCM1	glial cells missing homolog 1 (Drosophila)	2060	0.3172687888145447	0.5130317	Yes	
+row_15	MAFF	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	2175	0.3055438697338104	0.52885264	Yes	
+row_16	PSG4	PSG4	pregnancy specific beta-1-glycoprotein 4	2413	0.2784850597381592	0.531009	Yes	
+row_17	PSG1	PSG1	pregnancy specific beta-1-glycoprotein 1	3060	0.20545513927936554	0.48918784	No	
+row_18	IGFBP1	IGFBP1	insulin-like growth factor binding protein 1	3968	0.12170426547527313	0.41610223	No	
+row_19	HSD3B1	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	4362	0.08871772140264511	0.38753477	No	
+row_20	INSL4	INSL4	insulin-like 4 (placenta)	4680	0.062104854732751846	0.36367705	No	
+row_21	PSG9	PSG9	pregnancy specific beta-1-glycoprotein 9	5062	0.032520778477191925	0.33137348	No	
+row_22	VGLL1	VGLL1	vestigial like 1 (Drosophila)	5345	0.01070486381649971	0.3063122	No	
+row_23	LEP	LEP	leptin (obesity homolog, mouse)	6097	-0.0506816990673542	0.24148135	No	
+row_24	HSD17B1	HSD17B1	hydroxysteroid (17-beta) dehydrogenase 1	6838	-0.11321225017309189	0.18305156	No	
+row_25	CAPN6	CAPN6	calpain 6	7991	-0.21366527676582336	0.09531469	No	
+row_26	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	8137	-0.228673055768013	0.10165627	No	
+row_27	ABP1	ABP1	amiloride binding protein 1 (amine oxidase (copper-containing))	8459	-0.26483261585235596	0.09489657	No	
+row_28	SVEP1	SVEP1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	9197	-0.351603239774704	0.0572824	No	
+row_29	TFAP2A	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	9753	-0.4288616478443146	0.0430942	No	
+row_30	EGFL6	EGFL6	EGF-like-domain, multiple 6	10721	-0.7072186470031738	0.014926737	No	

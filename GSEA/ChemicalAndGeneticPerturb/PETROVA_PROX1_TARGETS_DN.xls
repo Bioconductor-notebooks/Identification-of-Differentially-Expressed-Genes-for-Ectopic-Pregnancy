@@ -1,0 +1,39 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FAM107A	FAM107A	family with sequence similarity 107, member A	48	0.9332751631736755	0.058082663	Yes	
+row_1	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	50	0.9310548901557922	0.12035001	Yes	
+row_2	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	156	0.7956458926200867	0.16395923	Yes	
+row_3	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	236	0.7408666610717773	0.2062967	Yes	
+row_4	CD59	CD59	CD59 molecule, complement regulatory protein	360	0.6758444905281067	0.24022236	Yes	
+row_5	LYL1	LYL1	lymphoblastic leukemia derived sequence 1	411	0.6522806882858276	0.27930036	Yes	
+row_6	AXL	AXL	AXL receptor tyrosine kinase	436	0.6446796655654907	0.3202665	Yes	
+row_7	MMP14	MMP14	matrix metallopeptidase 14 (membrane-inserted)	444	0.6425198316574097	0.36265534	Yes	
+row_8	MAPKAPK3	MAPKAPK3	mitogen-activated protein kinase-activated protein kinase 3	689	0.5619922280311584	0.37779927	Yes	
+row_9	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	0.4059203	Yes	
+row_10	ITGA5	ITGA5	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	783	0.5351638793945312	0.44111875	Yes	
+row_11	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	863	0.5175926685333252	0.46850193	Yes	
+row_12	TFEC	TFEC	transcription factor EC	913	0.5070270299911499	0.49794343	Yes	
+row_13	APBB2	APBB2	amyloid beta (A4) precursor protein-binding, family B, member 2 (Fe65-like)	1285	0.43223628401756287	0.49268728	Yes	
+row_14	ARHGDIB	ARHGDIB	Rho GDP dissociation inhibitor (GDI) beta	1385	0.41537198424339294	0.51138	Yes	
+row_15	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	1629	0.3751145899295807	0.5140996	Yes	
+row_16	TANK	TANK	TRAF family member-associated NFKB activator	1883	0.33626940846443176	0.5132954	Yes	
+row_17	NUAK1	NUAK1	NUAK family, SNF1-like kinase, 1	1884	0.33625227212905884	0.5358167	Yes	
+row_18	LPXN	LPXN	leupaxin	2071	0.31626689434051514	0.53985023	Yes	
+row_19	STAT6	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	2098	0.3144935965538025	0.558517	Yes	
+row_20	IGF2BP3	IGF2BP3	insulin-like growth factor 2 mRNA binding protein 3	2141	0.3091023564338684	0.5753474	Yes	
+row_21	PLAU	PLAU	plasminogen activator, urokinase	2595	0.2572542726993561	0.55081105	No	
+row_22	MLLT11	MLLT11	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 11	4186	0.10395777225494385	0.41117606	No	
+row_23	BMP6	BMP6	bone morphogenetic protein 6	4473	0.07767318934202194	0.39000922	No	
+row_24	ZNF238	ZNF238	zinc finger protein 238	4871	0.04574993625283241	0.35647008	No	
+row_25	GPR126	GPR126	G protein-coupled receptor 126	5046	0.03353055939078331	0.3426731	No	
+row_26	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	0.32525146	No	
+row_27	PDLIM4	PDLIM4	PDZ and LIM domain 4	5692	-0.014404859393835068	0.2854639	No	
+row_28	PFKM	PFKM	phosphofructokinase, muscle	5812	-0.026380600407719612	0.27625903	No	
+row_29	ARHGAP22	ARHGAP22	Rho GTPase activating protein 22	6031	-0.04589281976222992	0.25923324	No	
+row_30	TRAM2	TRAM2	translocation associated membrane protein 2	6414	-0.07658776640892029	0.22914252	No	
+row_31	NRCAM	NRCAM	neuronal cell adhesion molecule	7536	-0.17221462726593018	0.1373209	No	
+row_32	TPM1	TPM1	tropomyosin 1 (alpha)	8952	-0.3222149908542633	0.028439162	No	
+row_33	GBP2	GBP2	guanylate binding protein 2, interferon-inducible	8974	-0.32536792755126953	0.04829523	No	
+row_34	SMURF2	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	9487	-0.38947978615760803	0.027175196	No	
+row_35	CD44	CD44	CD44 molecule (Indian blood group)	9946	-0.4618864953517914	0.015883561	No	
+row_36	NRP1	NRP1	neuropilin 1	9984	-0.46927016973495483	0.043902617	No	
+row_37	PLA2G4A	PLA2G4A	phospholipase A2, group IVA (cytosolic, calcium-dependent)	10438	-0.5806888341903687	0.041029043	No	

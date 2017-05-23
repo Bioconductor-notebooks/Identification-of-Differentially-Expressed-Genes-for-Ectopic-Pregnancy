@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRIM1	CRIM1	cysteine rich transmembrane BMP regulator 1 (chordin-like)	310	0.7013097405433655	0.06548015	No	
+row_1	HIST1H1E	HIST1H1E	histone cluster 1, H1e	1389	0.41485005617141724	0.02188163	No	
+row_2	KIF1B	KIF1B	kinesin family member 1B	2873	0.2247096598148346	-0.08447714	No	
+row_3	SCLT1	SCLT1	sodium channel and clathrin linker 1	6312	-0.06877873092889786	-0.39165723	No	
+row_4	CYR61	CYR61	cysteine-rich, angiogenic inducer, 61	7399	-0.16017873585224152	-0.4701303	No	
+row_5	DDX46	DDX46	DEAD (Asp-Glu-Ala-Asp) box polypeptide 46	7593	-0.1774376779794693	-0.46410686	No	
+row_6	KIFC1	KIFC1	kinesin family member C1	8754	-0.29907527565956116	-0.5307713	Yes	
+row_7	GON4L	GON4L	gon-4-like (C.elegans)	8930	-0.3198276460170746	-0.5040042	Yes	
+row_8	GLG1	GLG1	golgi apparatus protein 1	8999	-0.32837551832199097	-0.46624398	Yes	
+row_9	FAM98B	FAM98B	family with sequence similarity 98, member B	9278	-0.3592160940170288	-0.443676	Yes	
+row_10	COL1A2	COL1A2	collagen, type I, alpha 2	9299	-0.3605695366859436	-0.3971828	Yes	
+row_11	SPAG5	SPAG5	sperm associated antigen 5	9715	-0.4243207275867462	-0.37849578	Yes	
+row_12	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	10096	-0.4928477704524994	-0.34740174	Yes	
+row_13	DICER1	DICER1	Dicer1, Dcr-1 homolog (Drosophila)	10349	-0.5557109713554382	-0.29610115	Yes	
+row_14	THBS2	THBS2	thrombospondin 2	10395	-0.5676506161689758	-0.2241498	Yes	
+row_15	TBC1D16	TBC1D16	TBC1 domain family, member 16	10522	-0.6053121089935303	-0.15460443	Yes	
+row_16	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	10699	-0.6934834122657776	-0.07784136	Yes	
+row_17	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	10720	-0.7063332796096802	0.015000944	Yes	

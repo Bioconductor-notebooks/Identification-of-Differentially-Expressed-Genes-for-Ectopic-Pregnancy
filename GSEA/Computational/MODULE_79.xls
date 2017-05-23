@@ -1,0 +1,54 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TIMP2	TIMP2	TIMP metallopeptidase inhibitor 2	47	0.9335247874259949	0.050350726	Yes	
+row_1	PPAP2B	PPAP2B	phosphatidic acid phosphatase type 2B	70	0.8979034423828125	0.10092278	Yes	
+row_2	LGMN	LGMN	legumain	265	0.7221225500106812	0.12531646	Yes	
+row_3	IL1R1	IL1R1	interleukin 1 receptor, type I	284	0.7123434543609619	0.16538687	Yes	
+row_4	MGLL	MGLL	monoglyceride lipase	367	0.6736915111541748	0.19728391	Yes	
+row_5	BBS2	BBS2	Bardet-Biedl syndrome 2	495	0.6285158395767212	0.22237962	Yes	
+row_6	TIMP3	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	542	0.6111975908279419	0.2539393	Yes	
+row_7	CSF1R	CSF1R	colony stimulating factor 1 receptor, formerly McDonough feline sarcoma viral (v-fms) oncogene homolog	601	0.5923332571983337	0.28328586	Yes	
+row_8	CCL18	CCL18	chemokine (C-C motif) ligand 18 (pulmonary and activation-regulated)	715	0.55266934633255	0.3052307	Yes	
+row_9	FAP	FAP	fibroblast activation protein, alpha	775	0.536868691444397	0.3312356	Yes	
+row_10	CCL21	CCL21	chemokine (C-C motif) ligand 21	787	0.5334680080413818	0.36147296	Yes	
+row_11	S100A4	S100A4	S100 calcium binding protein A4	871	0.5162599682807922	0.38405463	Yes	
+row_12	CTSB	CTSB	cathepsin B	931	0.5039360523223877	0.40813017	Yes	
+row_13	C3AR1	C3AR1	complement component 3a receptor 1	1031	0.4837310016155243	0.4273289	Yes	
+row_14	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1183	0.4526088535785675	0.43990332	Yes	
+row_15	HLA-DOA	HLA-DOA	major histocompatibility complex, class II, DO alpha	1484	0.399245947599411	0.43559468	Yes	
+row_16	AIF1	AIF1	allograft inflammatory factor 1	1618	0.37762677669525146	0.4454382	Yes	
+row_17	GATA6	GATA6	GATA binding protein 6	1621	0.37699824571609497	0.4673398	Yes	
+row_18	FCGR1A	FCGR1A	Fc fragment of IgG, high affinity Ia, receptor (CD64)	1789	0.3497459292411804	0.47241083	Yes	
+row_19	SLC1A1	SLC1A1	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1	2143	0.3087078332901001	0.4579047	Yes	
+row_20	VWF	VWF	von Willebrand factor	2250	0.2976096272468567	0.46555328	Yes	
+row_21	DAPK1	DAPK1	death-associated protein kinase 1	2366	0.283490389585495	0.4715438	Yes	
+row_22	LAG3	LAG3	lymphocyte-activation gene 3	2392	0.28076326847076416	0.48568398	Yes	
+row_23	NXPH3	NXPH3	neurexophilin 3	2524	0.26564809679985046	0.48915192	Yes	
+row_24	PDGFRA	PDGFRA	platelet-derived growth factor receptor, alpha polypeptide	2574	0.2603074610233307	0.49987787	Yes	
+row_25	GNLY	GNLY	granulysin	2982	0.2133336067199707	0.47479862	No	
+row_26	CCL11	CCL11	chemokine (C-C motif) ligand 11	3410	0.1717332899570465	0.44543564	No	
+row_27	LYZ	LYZ	lysozyme (renal amyloidosis)	3626	0.15211838483810425	0.434497	No	
+row_28	CCR2	CCR2	chemokine (C-C motif) receptor 2	4207	0.10180412977933884	0.38691115	No	
+row_29	MYLK	MYLK	myosin, light chain kinase	4231	0.09968674182891846	0.3906277	No	
+row_30	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	4619	0.066714346408844	0.3588054	No	
+row_31	DAB2	DAB2	disabled homolog 2, mitogen-responsive phosphoprotein (Drosophila)	4690	0.061447981745004654	0.35594234	No	
+row_32	IFITM2	IFITM2	interferon induced transmembrane protein 2 (1-8D)	4840	0.04848024249076843	0.34502572	No	
+row_33	ZNF347	ZNF347	zinc finger protein 347	5071	0.03172687068581581	0.32564908	No	
+row_34	FN1	FN1	fibronectin 1	5175	0.023436052724719048	0.31751233	No	
+row_35	PCDH9	PCDH9	protocadherin 9	5225	0.019681449979543686	0.31414133	No	
+row_36	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	0.31306982	No	
+row_37	MMP1	MMP1	matrix metallopeptidase 1 (interstitial collagenase)	5337	0.011274192482233047	0.30569783	No	
+row_38	DES	DES	desmin	5468	0.001082407427020371	0.29375863	No	
+row_39	GZMK	GZMK	granzyme K (granzyme 3; tryptase II)	5829	-0.027849659323692322	0.26215228	No	
+row_40	FCGR2A	FCGR2A	Fc fragment of IgG, low affinity IIa, receptor (CD32)	6081	-0.04930669814348221	0.24186666	No	
+row_41	EARS2	EARS2	glutamyl-tRNA synthetase 2 (mitochondrial)(putative)	6637	-0.09534136205911636	0.19621038	No	
+row_42	CYR61	CYR61	cysteine-rich, angiogenic inducer, 61	7399	-0.16017873585224152	0.13533309	No	
+row_43	GAS6	GAS6	growth arrest-specific 6	7856	-0.20249150693416595	0.10509459	No	
+row_44	SRRM2	SRRM2	serine/arginine repetitive matrix 2	8149	-0.22992129623889923	0.09160477	No	
+row_45	CPM	CPM	carboxypeptidase M	8292	-0.24454441666603088	0.09282078	No	
+row_46	MAPK12	MAPK12	mitogen-activated protein kinase 12	8466	-0.2654472887516022	0.09239921	No	
+row_47	THBS1	THBS1	thrombospondin 1	8752	-0.29891130328178406	0.08359744	No	
+row_48	GBP2	GBP2	guanylate binding protein 2, interferon-inducible	8974	-0.32536792755126953	0.082254566	No	
+row_49	DLC1	DLC1	deleted in liver cancer 1	9064	-0.33608320355415344	0.093726695	No	
+row_50	CXCR6	CXCR6	chemokine (C-X-C motif) receptor 6	9219	-0.35400116443634033	0.10024724	No	
+row_51	CXCL12	CXCL12	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	9760	-0.43077120184898376	0.07562689	No	
+row_52	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	10024	-0.47733598947525024	0.07930924	No	

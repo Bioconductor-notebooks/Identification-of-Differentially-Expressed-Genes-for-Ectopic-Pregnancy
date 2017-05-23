@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.11207728	Yes	
+row_1	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.21062714	Yes	
+row_2	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.30422312	Yes	
+row_3	IRF7	IRF7	interferon regulatory factor 7	30	0.9863246083259583	0.39346173	Yes	
+row_4	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	164	0.7893309593200684	0.4532156	Yes	
+row_5	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	481	0.6324004530906677	0.48179677	Yes	
+row_6	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.52825725	Yes	
+row_7	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.5501032	Yes	
+row_8	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.5873712	Yes	
+row_9	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	1640	0.3740386664867401	0.5573801	No	
+row_10	NTRK1	NTRK1	neurotrophic tyrosine kinase, receptor, type 1	1799	0.34804853796958923	0.57457596	No	
+row_11	CYB561D2	CYB561D2	cytochrome b-561 domain containing 2	2495	0.26854246854782104	0.5350533	No	
+row_12	IL12RB2	IL12RB2	interleukin 12 receptor, beta 2	4161	0.1060311496257782	0.39135438	No	
+row_13	KLK3	KLK3	kallikrein 3, (prostate specific antigen)	4322	0.09191638976335526	0.38500088	No	
+row_14	IFITM2	IFITM2	interferon induced transmembrane protein 2 (1-8D)	4840	0.04848024249076843	0.34179994	No	
+row_15	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.3440324	No	
+row_16	CXCL11	CXCL11	chemokine (C-X-C motif) ligand 11	5136	0.027039935812354088	0.3214438	No	
+row_17	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	0.2555525	No	
+row_18	IRF1	IRF1	interferon regulatory factor 1	6401	-0.0753432959318161	0.21489424	No	
+row_19	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.2127516	No	
+row_20	BRCA1	BRCA1	breast cancer 1, early onset	6554	-0.08838730305433273	0.21666938	No	
+row_21	BCL2	BCL2	B-cell CLL/lymphoma 2	7141	-0.13663285970687866	0.17515408	No	
+row_22	E2F2	E2F2	E2F transcription factor 2	7282	-0.1501101404428482	0.17595148	No	
+row_23	CASP7	CASP7	caspase 7, apoptosis-related cysteine peptidase	8503	-0.26879531145095825	0.08809155	No	
+row_24	BAX	BAX	BCL2-associated X protein	8851	-0.3098953068256378	0.08439725	No	
+row_25	PRKCQ	PRKCQ	protein kinase C, theta	9157	-0.3463859558105469	0.087900564	No	
+row_26	MXD4	MXD4	MAX dimerization protein 4	9395	-0.37405386567115784	0.100191645	No	
+row_27	TUBB	TUBB	tubulin, beta	9578	-0.4032236635684967	0.12021001	No	

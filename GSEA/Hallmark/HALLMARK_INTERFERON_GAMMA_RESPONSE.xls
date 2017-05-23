@@ -1,0 +1,103 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2	1.2306268215179443	0.03180269	Yes	
+row_1	LY6E	LY6E	lymphocyte antigen 6 complex, locus E	4	1.1825754642486572	0.062449113	Yes	
+row_2	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	15	1.0924351215362549	0.08991775	Yes	
+row_3	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	21	1.0310615301132202	0.11625482	Yes	
+row_4	IRF7	IRF7	interferon regulatory factor 7	30	0.9863246083259583	0.14115079	Yes	
+row_5	OAS3	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	92	0.8597618341445923	0.15784134	Yes	
+row_6	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	94	0.8560484647750854	0.18000022	Yes	
+row_7	P2RY14	P2RY14	purinergic receptor P2Y, G-protein coupled, 14	109	0.8425033688545227	0.2006013	Yes	
+row_8	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	164	0.7893309593200684	0.21611035	Yes	
+row_9	IL15RA	IL15RA	interleukin 15 receptor, alpha	167	0.7880962491035461	0.23641016	Yes	
+row_10	PRIC285	PRIC285	-	196	0.7681480050086975	0.25378004	Yes	
+row_11	CMKLR1	CMKLR1	chemokine-like receptor 1	281	0.7141485810279846	0.2645524	Yes	
+row_12	TRAFD1	TRAFD1	TRAF-type zinc finger domain containing 1	361	0.6747831702232361	0.2747653	Yes	
+row_13	XCL1	XCL1	chemokine (C motif) ligand 1	390	0.662642776966095	0.28939274	Yes	
+row_14	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	514	0.6212735772132874	0.29413384	Yes	
+row_15	OASL	OASL	2'-5'-oligoadenylate synthetase-like	539	0.6115098595619202	0.30780315	Yes	
+row_16	MARCH1	MARCH1	membrane-associated ring finger (C3HC4) 1	541	0.6112520098686218	0.32359892	Yes	
+row_17	IFI35	IFI35	interferon-induced protein 35	571	0.5991769433021545	0.3364839	Yes	
+row_18	TRIM14	TRIM14	tripartite motif-containing 14	586	0.5956341028213501	0.350668	Yes	
+row_19	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.3603602	Yes	
+row_20	EPSTI1	EPSTI1	epithelial stromal interaction 1 (breast)	745	0.5470795631408691	0.36530593	Yes	
+row_21	SP110	SP110	SP110 nuclear body protein	752	0.545771598815918	0.37893593	Yes	
+row_22	GPR18	GPR18	G protein-coupled receptor 18	768	0.5400197505950928	0.39158165	Yes	
+row_23	IL18BP	IL18BP	interleukin 18 binding protein	774	0.5369377732276917	0.40507478	Yes	
+row_24	SOCS1	SOCS1	suppressor of cytokine signaling 1	850	0.5201964378356934	0.4116404	Yes	
+row_25	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	904	0.509806215763092	0.4199764	Yes	
+row_26	ST3GAL5	ST3GAL5	ST3 beta-galactoside alpha-2,3-sialyltransferase 5	952	0.4994044601917267	0.42859852	Yes	
+row_27	TDRD7	TDRD7	tudor domain containing 7	1014	0.488777220249176	0.43564594	Yes	
+row_28	STAT4	STAT4	signal transducer and activator of transcription 4	1095	0.47118377685546875	0.44047382	Yes	
+row_29	BATF2	BATF2	basic leucine zipper transcription factor, ATF-like 2	1132	0.4647875130176544	0.44921634	Yes	
+row_30	APOL6	APOL6	apolipoprotein L, 6	1184	0.4522603154182434	0.45624202	Yes	
+row_31	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.46751276	Yes	
+row_32	CD86	CD86	CD86 molecule	1191	0.45085471868515015	0.47923198	Yes	
+row_33	FAS	FAS	Fas (TNF receptor superfamily, member 6)	1213	0.4470568597316742	0.48890483	Yes	
+row_34	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	1260	0.43701204657554626	0.4959979	Yes	
+row_35	PIM1	PIM1	pim-1 oncogene	1300	0.42919424176216125	0.503537	Yes	
+row_36	SAMHD1	SAMHD1	SAM domain and HD domain 1	1312	0.42701342701911926	0.5136163	Yes	
+row_37	IL4R	IL4R	interleukin 4 receptor	1322	0.4254031479358673	0.52383924	Yes	
+row_38	C1S	C1S	complement component 1, s subcomponent	1363	0.41875579953193665	0.53101426	Yes	
+row_39	HLA-DRB1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1	1379	0.4161422550678253	0.54044	Yes	
+row_40	CASP4	CASP4	caspase 4, apoptosis-related cysteine peptidase	1455	0.4032290279865265	0.5439653	Yes	
+row_41	TOR1B	TOR1B	torsin family 1, member B (torsin B)	1511	0.3936811089515686	0.5490973	Yes	
+row_42	ZBP1	ZBP1	Z-DNA binding protein 1	1614	0.3786381781101227	0.5494792	Yes	
+row_43	SOD2	SOD2	superoxide dismutase 2, mitochondrial	1754	0.3548535704612732	0.5458112	Yes	
+row_44	FCGR1A	FCGR1A	Fc fragment of IgG, high affinity Ia, receptor (CD64)	1789	0.3497459292411804	0.5517489	Yes	
+row_45	OGFR	OGFR	opioid growth factor receptor	1815	0.3454160690307617	0.55840874	Yes	
+row_46	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	1874	0.3377312123775482	0.56180817	Yes	
+row_47	CD69	CD69	CD69 molecule	1955	0.32797932624816895	0.5629137	Yes	
+row_48	SOCS3	SOCS3	suppressor of cytokine signaling 3	1985	0.3247014284133911	0.56866413	Yes	
+row_49	IL7	IL7	interleukin 7	2188	0.30445414781570435	0.55784297	Yes	
+row_50	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	2199	0.30352675914764404	0.5648052	Yes	
+row_51	BPGM	BPGM	2,3-bisphosphoglycerate mutase	2290	0.29339489340782166	0.5640843	Yes	
+row_52	UPP1	UPP1	uridine phosphorylase 1	2433	0.2769109904766083	0.5581121	Yes	
+row_53	PSMA2	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	2447	0.2754203677177429	0.56406546	Yes	
+row_54	DDX58	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	2471	0.271854966878891	0.5689987	Yes	
+row_55	PML	PML	promyelocytic leukemia	2604	0.2567673325538635	0.56343037	No	
+row_56	RIPK1	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	2648	0.2506020963191986	0.56595623	No	
+row_57	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	3071	0.20460627973079681	0.5321353	No	
+row_58	ICAM1	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	3264	0.1862606257200241	0.51916945	No	
+row_59	RTP4	RTP4	receptor transporter protein 4	3781	0.13808293640613556	0.47490114	No	
+row_60	ST8SIA4	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	3809	0.13561365008354187	0.47592202	No	
+row_61	SSPN	SSPN	sarcospan (Kras oncogene-associated gene)	3869	0.1296795904636383	0.47382075	No	
+row_62	SLAMF7	SLAMF7	SLAM family member 7	4184	0.10404933243989944	0.44740275	No	
+row_63	RBCK1	RBCK1	RanBP-type and C3HC4-type zinc finger containing 1	4258	0.09758798032999039	0.44316885	No	
+row_64	MVP	MVP	major vault protein	4292	0.09531255066394806	0.44258568	No	
+row_65	HERC6	HERC6	hect domain and RLD 6	4553	0.0723920539021492	0.42035314	No	
+row_66	IFITM2	IFITM2	interferon induced transmembrane protein 2 (1-8D)	4840	0.04848024249076843	0.3950876	No	
+row_67	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	4863	0.04668742045760155	0.39426073	No	
+row_68	IFIH1	IFIH1	interferon induced with helicase C domain 1	4876	0.04537920653820038	0.39432734	No	
+row_69	BANK1	BANK1	B-cell scaffold protein with ankyrin repeats 1	4884	0.044396594166755676	0.3948321	No	
+row_70	SLC25A28	SLC25A28	solute carrier family 25, member 28	4895	0.0437307246029377	0.39504135	No	
+row_71	TRIM26	TRIM26	tripartite motif-containing 26	4970	0.038621220737695694	0.38918197	No	
+row_72	CXCL11	CXCL11	chemokine (C-X-C motif) ligand 11	5136	0.027039935812354088	0.37458155	No	
+row_73	CCL2	CCL2	chemokine (C-C motif) ligand 2	5249	0.017957603558897972	0.36466065	No	
+row_74	IRF2	IRF2	interferon regulatory factor 2	5417	0.00508889090269804	0.34930414	No	
+row_75	PSMB2	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	5873	-0.031209440901875496	0.30791542	No	
+row_76	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5884	-0.031994014978408813	0.30781958	No	
+row_77	EIF4E3	EIF4E3	eukaryotic translation initiation factor 4E member 3	6048	-0.046850573271512985	0.2939196	No	
+row_78	TNFAIP3	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	6078	-0.049101073294878006	0.29250622	No	
+row_79	NCOA3	NCOA3	nuclear receptor coactivator 3	6305	-0.06805751472711563	0.27331442	No	
+row_80	IRF1	IRF1	interferon regulatory factor 1	6401	-0.0753432959318161	0.26646188	No	
+row_81	IRF4	IRF4	interferon regulatory factor 4	6715	-0.10203070938587189	0.24008413	No	
+row_82	TAPBP	TAPBP	TAP binding protein (tapasin)	6739	-0.10429192334413528	0.24066184	No	
+row_83	VAMP8	VAMP8	vesicle-associated membrane protein 8 (endobrevin)	6800	-0.11007102578878403	0.23795813	No	
+row_84	PSMB10	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	6876	-0.11617854982614517	0.23402198	No	
+row_85	CCL7	CCL7	chemokine (C-C motif) ligand 7	6951	-0.12289208173751831	0.23035307	No	
+row_86	RIPK2	RIPK2	receptor-interacting serine-threonine kinase 2	7009	-0.12681223452091217	0.22836277	No	
+row_87	HLA-DQA1	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1	7098	-0.13357144594192505	0.22367299	No	
+row_88	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	7166	-0.13863174617290497	0.22106244	No	
+row_89	CIITA	CIITA	class II, major histocompatibility complex, transactivator	7300	-0.15188607573509216	0.21267511	No	
+row_90	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	7609	-0.17886771261692047	0.18875836	No	
+row_91	PARP14	PARP14	poly (ADP-ribose) polymerase family, member 14	8229	-0.23860803246498108	0.1375501	No	
+row_92	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.14348468	No	
+row_93	TRIM25	TRIM25	tripartite motif-containing 25	8306	-0.24588707089424133	0.14319833	No	
+row_94	CASP7	CASP7	caspase 7, apoptosis-related cysteine peptidase	8503	-0.26879531145095825	0.1320068	No	
+row_95	PTPN2	PTPN2	protein tyrosine phosphatase, non-receptor type 2	9429	-0.3785429894924164	0.056055278	No	
+row_96	ISOC1	ISOC1	isochorismatase domain containing 1	9582	-0.4036470651626587	0.05244987	No	
+row_97	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	0.061619937	No	
+row_98	PELI1	PELI1	pellino homolog 1 (Drosophila)	9788	-0.43679848313331604	0.055444606	No	
+row_99	PSMA3	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	9791	-0.43724092841148376	0.06662449	No	
+row_100	PLA2G4A	PLA2G4A	phospholipase A2, group IVA (cytosolic, calcium-dependent)	10438	-0.5806888341903687	0.021803902	No	
+row_101	NUP93	NUP93	nucleoporin 93kDa	10753	-0.7454150319099426	0.012057169	No	

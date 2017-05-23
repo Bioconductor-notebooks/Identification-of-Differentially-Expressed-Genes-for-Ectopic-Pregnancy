@@ -1,0 +1,32 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATP6V0C	ATP6V0C	ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c	396	0.6593964695930481	0.031732943	Yes	
+row_1	RAB11FIP1	RAB11FIP1	RAB11 family interacting protein 1 (class I)	424	0.6480554938316345	0.09629237	Yes	
+row_2	HLA-G	HLA-G	HLA-G histocompatibility antigen, class I, G	644	0.5762529373168945	0.1357322	Yes	
+row_3	TLR1	TLR1	toll-like receptor 1	670	0.5662912130355835	0.19201666	Yes	
+row_4	LAMP2	LAMP2	lysosomal-associated membrane protein 2	750	0.5465723872184753	0.24128544	Yes	
+row_5	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	863	0.5175926685333252	0.28451538	Yes	
+row_6	HLA-C	HLA-C	major histocompatibility complex, class I, C	943	0.5014361143112183	0.32911438	Yes	
+row_7	HLA-B	HLA-B	major histocompatibility complex, class I, B	1190	0.4514395594596863	0.35315338	Yes	
+row_8	OCRL	OCRL	oculocerebrorenal syndrome of Lowe	1557	0.385370135307312	0.35930002	Yes	
+row_9	IRGM	IRGM	immunity-related GTPase family, M	1804	0.3469507396221161	0.37252867	Yes	
+row_10	ATG5	ATG5	ATG5 autophagy related 5 homolog (S. cerevisiae)	1879	0.3368379473686218	0.40055922	Yes	
+row_11	RAB38	RAB38	RAB38, member RAS oncogene family	2056	0.31751763820648193	0.41719258	Yes	
+row_12	INPP5B	INPP5B	inositol polyphosphate-5-phosphatase, 75kDa	2128	0.31007683277130127	0.44273087	Yes	
+row_13	RAB8B	RAB8B	RAB8B, member RAS oncogene family	2275	0.29522958397865295	0.45982254	Yes	
+row_14	RAB32	RAB32	RAB32, member RAS oncogene family	2401	0.2800276577472687	0.47727638	Yes	
+row_15	TLR6	TLR6	toll-like receptor 6	3076	0.20372769236564636	0.43625122	No	
+row_16	SLC11A1	SLC11A1	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1	3195	0.19259488582611084	0.44530436	No	
+row_17	RAB22A	RAB22A	RAB22A, member RAS oncogene family	3605	0.15373875200748444	0.4235246	No	
+row_18	RAB20	RAB20	RAB20, member RAS oncogene family	3885	0.1279294490814209	0.41105288	No	
+row_19	PIK3C3	PIK3C3	phosphoinositide-3-kinase, class 3	4090	0.11159882694482803	0.40380213	No	
+row_20	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	4619	0.066714346408844	0.3620542	No	
+row_21	RAB11B	RAB11B	RAB11B, member RAS oncogene family	4999	0.036751072853803635	0.3309352	No	
+row_22	RAB10	RAB10	RAB10, member RAS oncogene family	5566	-0.0054242294281721115	0.27934492	No	
+row_23	PIK3R4	PIK3R4	phosphoinositide-3-kinase, regulatory subunit 4, p150	6309	-0.06821633130311966	0.21803433	No	
+row_24	RAB34	RAB34	RAB34, member RAS oncogene family	6499	-0.08273229748010635	0.2091792	No	
+row_25	HLA-E	HLA-E	major histocompatibility complex, class I, E	6508	-0.08354855328798294	0.21708593	No	
+row_26	RAB9B	RAB9B	RAB9B, member RAS oncogene family	7202	-0.1418408304452896	0.16790733	No	
+row_27	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	0.09773102	No	
+row_28	ANXA3	ANXA3	annexin A3	8878	-0.31311535835266113	0.070787214	No	
+row_29	CYBA	CYBA	cytochrome b-245, alpha polypeptide	9371	-0.37022748589515686	0.06375752	No	
+row_30	RAB8A	RAB8A	RAB8A, member RAS oncogene family	10740	-0.7294350266456604	0.013176092	No	

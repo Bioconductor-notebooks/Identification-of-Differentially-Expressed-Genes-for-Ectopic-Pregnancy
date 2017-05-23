@@ -1,0 +1,75 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	22	1.0169299840927124	0.035518575	Yes	
+row_1	FLOT1	FLOT1	flotillin 1	43	0.9407327771186829	0.06840831	Yes	
+row_2	ARRB1	ARRB1	arrestin, beta 1	80	0.8759592175483704	0.097425945	Yes	
+row_3	VTN	VTN	vitronectin	152	0.801798403263092	0.120467186	Yes	
+row_4	GATA3	GATA3	GATA binding protein 3	174	0.7816216945648193	0.14738868	Yes	
+row_5	HFE	HFE	hemochromatosis	234	0.7415509223937988	0.16931516	Yes	
+row_6	TCF7L2	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	278	0.7168463468551636	0.19180943	Yes	
+row_7	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	303	0.702338695526123	0.2155256	Yes	
+row_8	CLIC2	CLIC2	chloride intracellular channel 2	316	0.6978951096534729	0.24018776	Yes	
+row_9	PLXND1	PLXND1	plexin D1	374	0.671117901802063	0.25969824	Yes	
+row_10	GCG	GCG	glucagon	449	0.6410951018333435	0.27652743	Yes	
+row_11	ADD1	ADD1	adducin 1 (alpha)	520	0.6201579570770264	0.29295346	Yes	
+row_12	DERL1	DERL1	Der1-like domain family, member 1	576	0.5979816913604736	0.30994818	Yes	
+row_13	PKD1	PKD1	polycystic kidney disease 1 (autosomal dominant)	634	0.5801225304603577	0.32609835	Yes	
+row_14	PLCL2	PLCL2	phospholipase C-like 2	896	0.5124466419219971	0.32087794	Yes	
+row_15	MYOCD	MYOCD	myocardin	933	0.5037243366241455	0.33614948	Yes	
+row_16	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	946	0.5011234879493713	0.35354516	Yes	
+row_17	PARK2	PARK2	Parkinson disease (autosomal recessive, juvenile) 2, parkin	977	0.49561065435409546	0.3690721	Yes	
+row_18	BAMBI	BAMBI	BMP and activin membrane-bound inhibitor homolog (Xenopus laevis)	1035	0.4831154942512512	0.38163996	Yes	
+row_19	FKBP1A	FKBP1A	FK506 binding protein 1A, 12kDa	1303	0.42850154638290405	0.37276456	Yes	
+row_20	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	1311	0.4271478056907654	0.38789093	Yes	
+row_21	KRIT1	KRIT1	KRIT1, ankyrin repeat containing	1359	0.41904765367507935	0.39901793	Yes	
+row_22	ANXA2	ANXA2	annexin A2	1376	0.41656655073165894	0.412921	Yes	
+row_23	PACS1	PACS1	phosphofurin acidic cluster sorting protein 1	2237	0.2989482879638672	0.34440476	No	
+row_24	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2538	0.2641907334327698	0.32640883	No	
+row_25	ADD2	ADD2	adducin 2 (beta)	2753	0.2385120987892151	0.31542027	No	
+row_26	ZNF268	ZNF268	zinc finger protein 268	3004	0.21106883883476257	0.300088	No	
+row_27	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	3014	0.21034978330135345	0.30702332	No	
+row_28	HMGB2	HMGB2	high-mobility group box 2	3036	0.2077266126871109	0.3127517	No	
+row_29	LFNG	LFNG	lunatic fringe homolog (Drosophila)	3077	0.2032138556241989	0.31655583	No	
+row_30	PLAUR	PLAUR	plasminogen activator, urokinase receptor	3159	0.1959921419620514	0.31630048	No	
+row_31	TIAM1	TIAM1	T-cell lymphoma invasion and metastasis 1	3456	0.16749253869056702	0.29510367	No	
+row_32	BMP4	BMP4	bone morphogenetic protein 4	3830	0.13352465629577637	0.26552945	No	
+row_33	CSF3	CSF3	colony stimulating factor 3 (granulocyte)	3913	0.12588322162628174	0.26259255	No	
+row_34	TXN	TXN	thioredoxin	3978	0.12093561887741089	0.26113808	No	
+row_35	MED25	MED25	mediator of RNA polymerase II transcription, subunit 25 homolog (S. cerevisiae)	4057	0.11470866203308105	0.25815856	No	
+row_36	SPTA1	SPTA1	spectrin, alpha, erythrocytic 1 (elliptocytosis 2)	4434	0.08147954940795898	0.2263849	No	
+row_37	RALB	RALB	v-ral simian leukemia viral oncogene homolog B (ras related; GTP binding protein)	4696	0.061024345457553864	0.20449412	No	
+row_38	NEUROD1	NEUROD1	neurogenic differentiation 1	4736	0.05735516548156738	0.20300439	No	
+row_39	ARHGEF7	ARHGEF7	Rho guanine nucleotide exchange factor (GEF) 7	4750	0.05587879940867424	0.20386532	No	
+row_40	HSP90AB1	HSP90AB1	heat shock protein 90kDa alpha (cytosolic), class B member 1	4942	0.04015278443694115	0.18767928	No	
+row_41	PLK2	PLK2	polo-like kinase 2 (Drosophila)	5145	0.026558849960565567	0.16997366	No	
+row_42	TRIB3	TRIB3	tribbles homolog 3 (Drosophila)	6049	-0.04689016938209534	0.08817147	No	
+row_43	TERT	TERT	telomerase reverse transcriptase	6491	-0.08228009194135666	0.05041439	No	
+row_44	IRF4	IRF4	interferon regulatory factor 4	6715	-0.10203070938587189	0.033553187	No	
+row_45	EGF	EGF	epidermal growth factor (beta-urogastrone)	6844	-0.11356203258037567	0.025905978	No	
+row_46	RARA	RARA	retinoic acid receptor, alpha	6930	-0.12100757658481598	0.02251152	No	
+row_47	PON1	PON1	paraoxonase 1	7193	-0.14122600853443146	0.0034899705	No	
+row_48	STK4	STK4	serine/threonine kinase 4	7246	-0.14667490124702454	0.004096098	No	
+row_49	STK3	STK3	serine/threonine kinase 3 (STE20 homolog, yeast)	7452	-0.16472011804580688	-0.0087849535	No	
+row_50	MEN1	MEN1	multiple endocrine neoplasia I	7502	-0.16987982392311096	-0.007044382	No	
+row_51	TGFB2	TGFB2	transforming growth factor, beta 2	7908	-0.20721526443958282	-0.036857538	No	
+row_52	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	7984	-0.21340517699718475	-0.03591482	No	
+row_53	ABL1	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	8005	-0.2148187756538391	-0.029832017	No	
+row_54	B2M	B2M	beta-2-microglobulin	8233	-0.23901547491550446	-0.042004604	No	
+row_55	PITX2	PITX2	paired-like homeodomain transcription factor 2	8400	-0.258428692817688	-0.047817364	No	
+row_56	CDK9	CDK9	cyclin-dependent kinase 9 (CDC2-related kinase)	8415	-0.26036643981933594	-0.039497513	No	
+row_57	CRBN	CRBN	cereblon	8571	-0.2767148017883301	-0.043617416	No	
+row_58	HMGB1	HMGB1	high-mobility group box 1	8685	-0.2919655740261078	-0.04328884	No	
+row_59	GNL3L	GNL3L	guanine nucleotide binding protein-like 3 (nucleolar)-like	8817	-0.30576610565185547	-0.04411576	No	
+row_60	CTBP2	CTBP2	C-terminal binding protein 2	8826	-0.30660831928253174	-0.033533223	No	
+row_61	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	8912	-0.3167245090007782	-0.029700141	No	
+row_62	SPAG8	SPAG8	sperm associated antigen 8	8918	-0.31776896119117737	-0.018427936	No	
+row_63	ENO1	ENO1	enolase 1, (alpha)	9360	-0.3689485192298889	-0.04559877	No	
+row_64	EBF2	EBF2	early B-cell factor 2	9364	-0.3692072629928589	-0.03224201	No	
+row_65	TRAF4	TRAF4	TNF receptor-associated factor 4	9572	-0.4022616446018219	-0.03653602	No	
+row_66	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	9598	-0.40630578994750977	-0.023844417	No	
+row_67	EPB41	EPB41	erythrocyte membrane protein band 4.1 (elliptocytosis 1, RH-linked)	9667	-0.4170827269554138	-0.014732638	No	
+row_68	EPB41L5	EPB41L5	erythrocyte membrane protein band 4.1 like 5	9775	-0.434802383184433	-0.008574269	No	
+row_69	NRP1	NRP1	neuropilin 1	9984	-0.46927016973495483	-0.010486256	No	
+row_70	HMGA2	HMGA2	high mobility group AT-hook 2	10265	-0.533695638179779	-0.016679605	No	
+row_71	RAPGEF2	RAPGEF2	Rap guanine nucleotide exchange factor (GEF) 2	10499	-0.5984556078910828	-0.016133638	No	
+row_72	GSK3B	GSK3B	glycogen synthase kinase 3 beta	10577	-0.6322699189186096	9.212456E-5	No	
+row_73	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	10771	-0.7615377902984619	0.010360755	No	

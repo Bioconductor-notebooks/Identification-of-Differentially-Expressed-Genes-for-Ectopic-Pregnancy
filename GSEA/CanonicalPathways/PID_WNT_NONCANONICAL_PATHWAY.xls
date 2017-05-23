@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	1902	0.33409827947616577	-0.11928204	No	
+row_1	NFATC2	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	2714	0.24373674392700195	-0.15323028	No	
+row_2	DVL1	DVL1	dishevelled, dsh homolog 1 (Drosophila)	3025	0.20884709060192108	-0.14688918	No	
+row_3	CAMK2A	CAMK2A	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha	4571	0.0708693191409111	-0.2772674	No	
+row_4	PPARG	PPARG	peroxisome proliferative activated receptor, gamma	5124	0.02783171646296978	-0.32342976	No	
+row_5	FZD5	FZD5	frizzled homolog 5 (Drosophila)	5251	0.01794244349002838	-0.33203146	No	
+row_6	DAAM1	DAAM1	dishevelled associated activator of morphogenesis 1	5916	-0.03526424244046211	-0.38726193	No	
+row_7	MAPK9	MAPK9	mitogen-activated protein kinase 9	6119	-0.05323229730129242	-0.3969661	No	
+row_8	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	6764	-0.10628780722618103	-0.43849528	No	
+row_9	NLK	NLK	nemo-like kinase	7033	-0.12856772541999817	-0.44169417	No	
+row_10	DVL2	DVL2	dishevelled, dsh homolog 2 (Drosophila)	7796	-0.19719325006008148	-0.4789045	No	
+row_11	FZD2	FZD2	frizzled homolog 2 (Drosophila)	9059	-0.3349096179008484	-0.5391409	Yes	
+row_12	MAPK8	MAPK8	mitogen-activated protein kinase 8	9213	-0.35331979393959045	-0.49422264	Yes	
+row_13	SETDB1	SETDB1	SET domain, bifurcated 1	9786	-0.43663543462753296	-0.47395915	Yes	
+row_14	PRKCZ	PRKCZ	protein kinase C, zeta	9962	-0.4648299813270569	-0.4124447	Yes	
+row_15	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	10155	-0.5075100064277649	-0.34536785	Yes	
+row_16	DVL3	DVL3	dishevelled, dsh homolog 3 (Drosophila)	10225	-0.5246871113777161	-0.26410076	Yes	
+row_17	YES1	YES1	v-yes-1 Yamaguchi sarcoma viral oncogene homolog 1	10251	-0.5302547812461853	-0.17785387	Yes	
+row_18	CHD7	CHD7	chromodomain helicase DNA binding protein 7	10602	-0.6435055136680603	-0.10261035	Yes	
+row_19	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10781	-0.7688028812408447	0.009388869	Yes	
